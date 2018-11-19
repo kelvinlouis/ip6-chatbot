@@ -1,28 +1,10 @@
 %YAML 1.1
 ---
 intents:
-  - affirm
   - ask_for_alternative_room
-  - ask_for_directions
-  - ask_for_rooms
-  - ask_for_room_atmosphere
-  - ask_for_room_equipment
-  - ask_for_room_highlight
   - ask_for_room_price
-  - ask_for_room_seating
-  - ask_for_room_size
-  - deny
-  - disagree
-  - farewell
   - greet
-  - provide_booking_date
-  - provide_budget
   - provide_name
-  - provide_nr_of_people
-  - provide_preference
-  - provide_room
-  - reserve_room
-  - thanks
 
 config:
   store_entities_as_slots: true
@@ -31,14 +13,8 @@ entities:
   - name
   - company
   - room
-  - date
-  - time
   - nr_of_people
-  - property
-  - start_location
-  - equipment
-  - budget
-  - time_space
+  - current_room
 
 slots:
   name:
@@ -47,21 +23,9 @@ slots:
     type: text
   room:
     type: text
-  date:
-    type: text
-  time:
+  current_room:
     type: text
   nr_of_people:
-    type: text
-  property:
-    type: text
-  start_location:
-    type: text
-  equipment:
-    type: text
-  budget:
-    type: text
-  time_space:
     type: text
 
 templates:
@@ -100,112 +64,112 @@ templates:
     - "Yes, we have three rooms for {nr_of_people} people"
     - "Ok. We have three rooms for {nr_of_people} guests"
     - "So, we have three rooms that are suitable for 150 guests"
-  utter_room_a_price:
-    - "Room A would cost you CHF 1'400"
-    - "Room A is the most expensive. It costs CHF 1'400"
-    - "Room A costs CHF 1'400"
-    - "Room A is CHF 1400"
-    - "Room A will cost you CHF 1400"
-  utter_room_b_price:
-    - "Room B comes at a cost of CHF 900"
-    - "Room B is the cheapest option at CHF 900"
-    - "It's CHF 900 for room B"
-    - "Room B is CHF 1200"
-  utter_room_c_price:
-    - "Room C will cost you CHF 1'100"
-    - "It's CHF 1100 CHF for room C"
-    - "Room C costs CHF 1'100"
-  utter_room_c_price+ask_for_confirmation:
+  utter_room_alpha_price:
+    - "Room Alpha would cost you CHF 1'400"
+    - "Room Alpha is the most expensive. It costs CHF 1'400"
+    - "Alpha costs CHF 1'400"
+    - "Alpha is CHF 1400"
+    - "Room Alpha will cost you CHF 1400"
+  utter_room_beta_price:
+    - "Room Beta comes at a cost of CHF 900"
+    - "Beta is the cheapest option at CHF 900"
+    - "It's CHF 900 for Beta"
+    - "Room Beta is CHF 1200"
+  utter_room_gamma_price:
+    - "Room Gamma will cost you CHF 1'100"
+    - "It's CHF 1100 CHF for room Gamma"
+    - "Room Gamma costs CHF 1'100"
+  utter_room_gamma_price+ask_for_confirmation:
     - "The price would be 1'100 CHF, is this ok?"
-  utter_room_a_equipment:
-    - "Room A has state-of-the-art equipment: a big screen, projector and dolby sound system."
-    - "Room A has a big screen, sound and light system as well as a stage."
-    - "Room A has a big screen and a state-of-the-art projector and audio system"
-    - "Room A has a state-of-the-art multimedia set including a big screen, multiple beamers and all-around doulby sound system"
-    - "Room A has the latest multimedia set including a big screen, projector, sound and light system. It is perfect for presentations"
-  utter_room_b_equipment:
-    - "Room B has portable screens, a projector and loudspeakers."
-    - "Room B has a moving screen and projector combo"
-    - "Room B has a portable screen, a beamer and some loudspeakers."
-    - "Room B offers a projector and movable screen as well as loudspeakers."
-    - "Room B has a portable screen, projector and loudspeakers. It is quite good if you have to do a presentation for a short period."
-  utter_room_c_equipment:
-    - "Room C has two large screen that can be moved and loudspeakers."
-    - "Room C has two big portable screens and loudspeakers"
-    - "Room C has two mobile TVs"
-    - "Room C has two big portable tv screens and loudspeakers"
-    - "Room C has two tv screens and loudspeakers. The screens can be moved around. It is enough for shorter presentations"
-  utter_room_a_seating:
-    - "Room A has fixed seating and no tables, it is like a cinema"
-    - "Room A is like a cinema, with fixed seating and a stage"
-    - "Room A is like a cinema or theater. The seating is fixed. You can't move them. It is ideal for a series of presentations or demonstrations. It isn't suited for a lot of movement"
-    - "Room A is a theater. The seats are fixed. It is difficult to hold conversations."
-    - "The chairs in room A cannot be moved and there are no tables."
-    - "Room A is a theater and thus has fixed seats. It is not suited for moving around or to do workshops. It has no tables."
-  utter_room_b_seating:
-    - "Room B has tables for 4 inside, on the terrasse there is low lounge furniture and bar tables with chairs"
-    - "Room B has two sections, the indoor area has tables for 4 people and a bar, the outdoor area has low lounge furniture and high bar tables with chairs"
-    - "Room B offers tables for up to four people. The terrace also has seating capabilities. There is enough room to walk around or form groups"
-    - "In room B there are tables for up to 4 people and a bar where you can sit. The terrace has lounges and bar tables to sit and talk."
-    - "Room B has an inside area with a bar as well as tables that seat 4 people each. The outside terrace has a lounge atmosphere with several intimate corners, each equipped with low tables and comfortable chairs."
-    - "Room B has a bar, tables for up to 4 people each and on the terrace there are bar tables and lounge seats. There is enough space to move around."
-  utter_room_c_seating:
-    - "Room C is equiped with tables for 6 to 8 people"
-    - "Room C is equiped with tables and chairs for 6-8 persons each, you can move these around"
-    - "Room C has tables for up to 8 people. You can rearrange the entire room. It is ideal for workshops"
-    - "Room C is an open room. It has tables for up to eight people. All the furniture can be moved."
-    - "Room C allows you to move the furniture around. It has round tables for up to 8 people."
-    - "There are moveable tables for 6-8 people in room C"
-  utter_room_a_people_limit:
-    - "Room A has space for up to 270 people"
-    - "Room A has a stage and space for 270 people"
-    - "Room A has space for up to 270 people. It has fixed seats and a huge stage"
-    - "There is space for 270 people in room A"
-  utter_room_b_people_limit:
-    - "Room B has space for 130 guests and a terrace for an additional 60 people"
-    - "Room B is split in 130 seats indoors and 60 steats outdoors"
-    - "Room B has space for a total of 190 people"
-    - "Room B is somewhat special. It has a terrace that can hold up to 60 people. The room itself covers 130 people. So in total you have room for 180 people"
-    - "Room B has space for 130 guests and a terrace for an additional 60 people"
+  utter_room_alpha_equipment:
+    - "Room Alpha has state-of-the-art equipment: a big screen, projector and dolby sound system."
+    - "Room Alpha has a big screen, sound and light system as well as a stage."
+    - "Room Alpha has a big screen and a state-of-the-art projector and audio system"
+    - "Alpha has a state-of-the-art multimedia set including a big screen, multiple beamers and all-around doulby sound system"
+    - "Room Alpha has the latest multimedia set including a big screen, projector, sound and light system. It is perfect for presentations"
+  utter_room_beta_equipment:
+    - "Room Beta has portable screens, a projector and loudspeakers."
+    - "Room Beta has a moving screen and projector combo"
+    - "Room Beta has a portable screen, a beamer and some loudspeakers."
+    - "Beta offers a projector and movable screen as well as loudspeakers."
+    - "Room Beta has a portable screen, projector and loudspeakers. It is quite good if you have to do a presentation for a short period."
+  utter_room_gamma_equipment:
+    - "Gamma has two large screen that can be moved and loudspeakers."
+    - "Room Gamma has two big portable screens and loudspeakers"
+    - "Room Gamma has two mobile TVs"
+    - "Gamma has two big portable tv screens and loudspeakers"
+    - "Room Gamma has two tv screens and loudspeakers. The screens can be moved around. It is enough for shorter presentations"
+  utter_room_alpha_seating:
+    - "Alpha has fixed seating and no tables, it is like a cinema"
+    - "Room Alpha is like a cinema, with fixed seating and a stage"
+    - "Room Alpha is like a cinema or theater. The seating is fixed. You can't move them. It is ideal for a series of presentations or demonstrations. It isn't suited for a lot of movement"
+    - "Room Alpha is a theater. The seats are fixed. It is difficult to hold conversations."
+    - "The chairs in the Alpha room cannot be moved and there are no tables."
+    - "Room Alpha is a theater and thus has fixed seats. It is not suited for moving around or to do workshops. It has no tables."
+  utter_room_beta_seating:
+    - "Room Beta has tables for 4 inside, on the terrasse there is low lounge furniture and bar tables with chairs"
+    - "Room Beta has two sections, the indoor area has tables for 4 people and a bar, the outdoor area has low lounge furniture and high bar tables with chairs"
+    - "Room Beta offers tables for up to four people. The terrace also has seating capabilities. There is enough room to walk around or form groups"
+    - "In room Beta there are tables for up to 4 people and a bar where you can sit. The terrace has lounges and bar tables to sit and talk."
+    - "Room Beta has an inside area with a bar as well as tables that seat 4 people each. The outside terrace has a lounge atmosphere with several intimate corners, each equipped with low tables and comfortable chairs."
+    - "Room Beta has a bar, tables for up to 4 people each and on the terrace there are bar tables and lounge seats. There is enough space to move around."
+  utter_room_gamma_seating:
+    - "Room Gamma is equiped with tables for 6 to 8 people"
+    - "Room Gamma is equiped with tables and chairs for 6-8 persons each, you can move these around"
+    - "Room Gamma has tables for up to 8 people. You can rearrange the entire room. It is ideal for workshops"
+    - "Room Gamma is an open room. It has tables for up to eight people. All the furniture can be moved."
+    - "Room Gamma allows you to move the furniture around. It has round tables for up to 8 people."
+    - "There are moveable tables for 6-8 people in room Gamma"
+  utter_room_alpha_people_limit:
+    - "Room Alpha has space for up to 270 people"
+    - "The Alpha room has a stage and space for 270 people"
+    - "Room Alpha has space for up to 270 people. It has fixed seats and a huge stage"
+    - "There is space for 270 people in the room Alpha"
+  utter_room_beta_people_limit:
+    - "Room Beta has space for 130 guests and a terrace for an additional 60 people"
+    - "Room Beta is split in 130 seats indoors and 60 steats outdoors"
+    - "The Beta room has space for a total of 190 people"
+    - "Room Beta is somewhat special. It has a terrace that can hold up to 60 people. The room itself covers 130 people. So in total you have room for 180 people"
+    - "Room Beta has space for 130 guests and a terrace for an additional 60 people"
     - "There is space for 130 people inside and 60 on the terrace"
-  utter_room_c_people_limit:
-    - "Room C can fit up to 200 people."
-    - "Room C will fit 200 people with ease"
-    - "Room C has room for 200 guests"
-    - "Room C can fit up to 200 people"
-    - "There is space for 200 people in room C"
-  utter_room_a_atmosphere:
-    - "Room A is perfect for presentation. It is like a cinema. You have seats and a huge stage where a presentation can be held. It is not ideal for workshops however."
-    - "Room A has a cinema atmosphere"
-    - "Room A is our biggest space. It's an auditorium, located at the basement floor of the hotel"
-  utter_room_b_atmosphere:
-    - "Room B on the 15th floor and oversees the entire city. It has a modern vibe. Also, it has a lovely terrace, so your guests can also be outside."
-    - "The outdoor section in room B has a nice view over the whole city and natural light indoors"
-    - "The room has a modern touch. It is on the 15th floor and offers incredible views. Natural light is provided by the glass roof. The terrace has a lounge and bar tables."
-  utter_room_c_atmosphere:
-    - "Room C is on the first floor and still has its original decoration from the 1920s."
-    - "Room C has an original 1920 decoration"
-    - "Room C has the original decoration from the 1920s"
-  utter_room_a_highlight:
-    - "Room A has a stage and fixed seating. It's like a theater"
-    - "Room A is a theater. It does not have natural light. But has the latest multimedia technology for presentations."
-  utter_room_b_highlight:
-    - "Room B is on the 15th floor, has a bar and has a terrace to lounge. The view is incredible!"
-    - "The room B has a very modern touch. It's on the 15th floor and has a nice view of the city. It has a bar and a terrace that."
-  utter_room_c_highlight:
-    - "Room C is on the first floor and the original decoration from 1920 is preserved. You can move the seating arrangement."
-    - "Room C still has the original decoration from the 1920s. It was well preserved."
-  utter_room_a_lighting:
-    - "Room A has no natural light as it is in downstairs. There are however enough lamps for the room. Lighting should not be a issue."
-  utter_room_b_lighting:
-    - "Room B has a lot of natural light, because of the glass ceiling."
-  utter_room_c_lighting:
-    - "Room C is well-lit. There are enough lamps that be used."
+  utter_room_gamma_people_limit:
+    - "Room Gamma can fit up to 200 people."
+    - "The Gamma room will fit 200 people with ease"
+    - "Room Gamma has room for 200 guests"
+    - "The Gamma room can fit up to 200 people"
+    - "There is space for 200 people in room Gamma"
+  utter_room_alpha_atmosphere:
+    - "Room Alpha is perfect for presentation. It is like a cinema. You have seats and a huge stage where a presentation can be held. It is not ideal for workshops however."
+    - "Room Alpha has a cinema atmosphere"
+    - "Room Alpha is our biggest space. It's an auditorium, located at the basement floor of the hotel"
+  utter_room_beta_atmosphere:
+    - "Room Beta on the 15th floor and oversees the entire city. It has a modern vibe. Also, it has a lovely terrace, so your guests can also be outside."
+    - "The outdoor section in room Beta has a nice view over the whole city and natural light indoors"
+    - "Beta has a modern touch. It is on the 15th floor and offers incredible views. Natural light is provided by the glass roof. The terrace has a lounge and bar tables."
+  utter_room_gamma_atmosphere:
+    - "Gamma is on the first floor and still has its original decoration from the 1920s."
+    - "Room Gamma has an original 1920 decoration"
+    - "Room Gamma has the original decoration from the 1920s"
+  utter_room_alpha_highlight:
+    - "Room Alpha has a stage and fixed seating. It's like a theater"
+    - "Room Alpha is a theater. It does not have natural light. But has the latest multimedia technology for presentations."
+  utter_room_beta_highlight:
+    - "Room Beta is on the 15th floor, has a bar and has a terrace to lounge. The view is incredible!"
+    - "The room Beta has a very modern touch. It's on the 15th floor and has a nice view of the city. It has a bar and a terrace that."
+  utter_room_gamma_highlight:
+    - "Room Gamma is on the first floor and the original decoration from 1920 is preserved. You can move the seating arrangement."
+    - "Room Gamma still has the original decoration from the 1920s. It was well preserved."
+  utter_room_alpha_lighting:
+    - "Room Alpha has no natural light as it is in downstairs. There are however enough lamps for the room. Lighting should not be a issue."
+  utter_room_beta_lighting:
+    - "Room Beta has a lot of natural light, because of the glass ceiling."
+  utter_room_gamma_lighting:
+    - "Room Gamma is well-lit. There are enough lamps that be used."
   utter_available_rooms_150_people:
     - "Excellent! We have three rooms for {nr_of_people} people"
     - "We have three rooms for {nr_of_people} people"
-  utter_room_c_people_limit+seating:
-    - "Room C has space for 200 people. It is a big room with round tables for about 6-8 guests each. You can also move them if you need to."
+  utter_room_gamma_people_limit+seating:
+    - "Room Gamma has space for 200 people. It is a big room with round tables for about 6-8 guests each. You can also move them if you need to."
   utter_ask_book_room:
     - "Very well! Do you want to book room {room}?"
     - "For what date do you want to reserve room {room}?"
@@ -265,6 +229,8 @@ templates:
     - "Is that ok?"
 
 actions:
+  - action_get_room_price
+  - action_get_room_size
   - utter_greet
   - utter_greet+ask_for_name
   - utter_greet_with_name+ask_for_service
@@ -277,30 +243,30 @@ actions:
   - utter_ask_for_nr_of_people_with_name
   - utter_ask_for_room
   - utter_confirm+available_rooms_150_people
-  - utter_room_a_price
-  - utter_room_b_price
-  - utter_room_c_price
-  - utter_room_c_price+ask_for_confirmation
-  - utter_room_a_equipment
-  - utter_room_b_equipment
-  - utter_room_c_equipment
-  - utter_room_a_seating
-  - utter_room_b_seating
-  - utter_room_c_seating
-  - utter_room_a_people_limit
-  - utter_room_b_people_limit
-  - utter_room_c_people_limit
-  - utter_room_a_atmosphere
-  - utter_room_b_atmosphere
-  - utter_room_c_atmosphere
-  - utter_room_a_highlight
-  - utter_room_b_highlight
-  - utter_room_c_highlight
-  - utter_room_a_lighting
-  - utter_room_b_lighting
-  - utter_room_c_lighting
+  - utter_room_alpha_price
+  - utter_room_beta_price
+  - utter_room_gamma_price
+  - utter_room_gamma_price+ask_for_confirmation
+  - utter_room_alpha_equipment
+  - utter_room_beta_equipment
+  - utter_room_gamma_equipment
+  - utter_room_alpha_seating
+  - utter_room_beta_seating
+  - utter_room_gamma_seating
+  - utter_room_alpha_people_limit
+  - utter_room_beta_people_limit
+  - utter_room_gamma_people_limit
+  - utter_room_alpha_atmosphere
+  - utter_room_beta_atmosphere
+  - utter_room_gamma_atmosphere
+  - utter_room_alpha_highlight
+  - utter_room_beta_highlight
+  - utter_room_gamma_highlight
+  - utter_room_alpha_lighting
+  - utter_room_beta_lighting
+  - utter_room_gamma_lighting
   - utter_available_rooms_150_people
-  - utter_room_c_people_limit+seating
+  - utter_room_gamma_people_limit+seating
   - utter_ask_book_room
   - utter_confirm+ask_for_booking_date
   - utter_ask_for_booking_date
@@ -317,4 +283,3 @@ actions:
   - utter_confirm_preference_positive
   - utter_confirm_preference_negative
   - utter_ask_for_confirmation
-  
