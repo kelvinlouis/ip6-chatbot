@@ -3,6 +3,7 @@
 intents:
   - ask_for_alternative_room
   - ask_for_room_price
+  - ask_for_room_size  
   - greet
   - provide_name
 

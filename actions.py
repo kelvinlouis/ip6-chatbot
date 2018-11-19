@@ -42,7 +42,7 @@ class ActionGetRoomPrice(Action):
 
       return []
 
-class ActionGetRoomSize(Action):
+class ActionGetRoompeople_limit(Action):
    def name(self):
       # type: () -> Text
       return "action_get_room_size"
@@ -56,29 +56,29 @@ class ActionGetRoomSize(Action):
       if room == 'others':
         if current_room.lower() == 'alpha':
           # utter b,c
-          dispatcher.utter_template('utter_room_beta_size', tracker)
-          dispatcher.utter_template('utter_room_gamma_size', tracker)
+          dispatcher.utter_template('utter_room_beta_people_limit', tracker)
+          dispatcher.utter_template('utter_room_gamma_people_limit', tracker)
         elif current_room.lower() == 'beta':
           # utter a, c
-          dispatcher.utter_template('utter_room_alpha_size', tracker)
-          dispatcher.utter_template('utter_room_gamma_size', tracker)
+          dispatcher.utter_template('utter_room_alpha_people_limit', tracker)
+          dispatcher.utter_template('utter_room_gamma_people_limit', tracker)
         elif current_roomw.lower() == 'gamma':
           # utter a, b
-          dispatcher.utter_template('utter_room_alpha_size', tracker)
-          dispatcher.utter_template('utter_room_beta_size', tracker)
+          dispatcher.utter_template('utter_room_alpha_people_limit', tracker)
+          dispatcher.utter_template('utter_room_beta_people_limit', tracker)
       elif room == None:
-        dispatcher.utter_template('utter_room_alpha_size', tracker)
-        dispatcher.utter_template('utter_room_beta_size', tracker)
-        dispatcher.utter_template('utter_room_gamma_size', tracker)
+        dispatcher.utter_template('utter_room_alpha_people_limit', tracker)
+        dispatcher.utter_template('utter_room_beta_people_limit', tracker)
+        dispatcher.utter_template('utter_room_gamma_people_limit', tracker)
       else:
         if room.lower() == 'alpha':
-          dispatcher.utter_template('utter_room_alpha_size', tracker)
+          dispatcher.utter_template('utter_room_alpha_people_limit', tracker)
           return [SlotSet('current_room', 'Alpha')]
         elif room.lower() == 'beta':
-          dispatcher.utter_template('utter_room_beta_size', tracker)
+          dispatcher.utter_template('utter_room_beta_people_limit', tracker)
           return [SlotSet('current_room', 'Beta')]          
         elif room.lower() == 'gamma':
-          dispatcher.utter_template('utter_room_gamma_size', tracker)
+          dispatcher.utter_template('utter_room_gamma_people_limit', tracker)
           return [SlotSet('current_room', 'Gamma')]
 
       return []
