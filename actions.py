@@ -62,7 +62,7 @@ class ActionGetRoompeople_limit(Action):
           # utter a, c
           dispatcher.utter_template('utter_room_alpha_people_limit', tracker)
           dispatcher.utter_template('utter_room_gamma_people_limit', tracker)
-        elif current_roomw.lower() == 'gamma':
+        elif current_room.lower() == 'gamma':
           # utter a, b
           dispatcher.utter_template('utter_room_alpha_people_limit', tracker)
           dispatcher.utter_template('utter_room_beta_people_limit', tracker)

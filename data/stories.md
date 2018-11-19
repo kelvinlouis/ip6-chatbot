@@ -82,3 +82,41 @@
     - slot{"current_room": "Beta"}
 * ask_for_alternative_room{"room": "others"}
     - action_get_room_size
+
+## Generated Story -1247501406053206060
+* greet{"name": "Nicola"}
+    - slot{"name": "Nicola"}
+    - utter_greet_with_name+ask_for_service
+* ask_for_room_price
+    - action_get_room_price
+* ask_for_room_size{"room": "Gamma"}
+    - slot{"room": "Gamma"}
+    - action_get_room_size
+    - slot{"current_room": "Gamma"}
+* ask_for_alternative_room{"room": "Alpha"}
+    - slot{"room": "Alpha"}
+    - action_get_room_size
+    - slot{"current_room": "Alpha"}
+
+## Generated Story -4014373213632055186
+* provide_name{"name": "Kelvin"}
+    - slot{"name": "Kelvin"}
+    - utter_greet_with_name+ask_for_service
+* ask_for_room_size{"room": "Alpha"}
+    - slot{"room": "Alpha"}
+    - action_get_room_size
+    - slot{"current_room": "Alpha"}
+* ask_for_room_price{"room": "Alpha"}
+    - slot{"room": "Alpha"}
+    - action_get_room_price
+    - slot{"current_room": "Alpha"}
+* ask_for_room_price{"room": "others"}
+    - slot{"room": "others"}
+    - action_get_room_price
+* ask_for_room_size{"room": "Gamma"}
+    - slot{"room": "Gamma"}
+    - action_get_room_size
+    - slot{"current_room": "Gamma"}
+* ask_for_room_size{"room": "others"}
+    - slot{"room": "others"}
+    - action_get_room_size
