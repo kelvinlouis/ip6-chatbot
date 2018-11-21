@@ -83,9 +83,9 @@ slots:
     auto_fill: true
     type: rasa_core.slots.CategoricalSlot
     values:
-    - alpha
-    - beta
-    - gamma
+    - Alpha
+    - Beta
+    - Gamma
   name:
     auto_fill: true
     type: rasa_core.slots.TextSlot
@@ -96,9 +96,9 @@ slots:
     auto_fill: true
     type: rasa_core.slots.CategoricalSlot
     values:
-    - alpha
-    - beta
-    - gamma
+    - Alpha
+    - Beta
+    - Gamma
     - first
     - second
     - third
