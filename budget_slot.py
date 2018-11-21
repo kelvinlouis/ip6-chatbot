@@ -14,6 +14,8 @@ class BudgetSlot(Slot):
         [1,1,0] - 1400 < x
         '''
         r = [0.0] * self.feature_dimensionality()
+        if self.value is not None:
+            self.value = int(float(self.value))
         if self.value:
             if self.value <= 900:
                 r[0] = 1.0
