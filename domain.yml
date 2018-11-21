@@ -1,4 +1,4 @@
-%YAML 1.1
+%YAML 1.2
 ---
 actions:
 - utter_ask_for_service_with_name
@@ -65,6 +65,7 @@ entities:
 - current_room
 - name
 - company
+- budget
 forms: []
 intents:
 - ask_for_room_size
@@ -73,6 +74,9 @@ intents:
 - ask_for_alternative_room
 - provide_name
 slots:
+  budget:
+    auto_fill: true
+    type: budget_slot.BudgetSlot
   company:
     auto_fill: true
     type: rasa_core.slots.TextSlot
@@ -88,7 +92,7 @@ slots:
     type: rasa_core.slots.TextSlot
   nr_of_people:
     auto_fill: true
-    type: rasa_core.slots.TextSlot
+    type: no_of_people_slot.NumberOfPeopleSlot
   room:
     auto_fill: true
     type: rasa_core.slots.CategoricalSlot
