@@ -6,7 +6,6 @@ actions:
 - utter_greet+ask_for_name
 - utter_ask_for_booking_date
 - utter_available_rooms_150_people
-- action_listen
 - utter_room_gamma_people_limit
 - utter_ask_for_service
 - utter_confirm+options
