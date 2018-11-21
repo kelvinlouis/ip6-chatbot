@@ -33,19 +33,23 @@
 * ask_for_room_price{"room": "this"}
     - slot{"room": "this"}
     - action_correct_room
+    - slot{"room": null}
     - utter_room_gamma_price
 * ask_for_room_equipment{"room": "this"}
     - slot{"room": "this"}
     - action_correct_room
+    - slot{"room": null}
     - utter_room_gamma_equipment
 * provide_budget{"budget": "1500", "room": "it"}
     - slot{"budget": "1500"}
     - slot{"room": "it"}
     - action_correct_room
+    - slot{"room": null}
     - utter_confirm+budget_limitation
 * reserve_room{"room": "the"}
     - slot{"room": "the"}
     - action_correct_room
+    - slot{"room": null}
     - utter_confirm+ask_for_booking_date
 * provide_booking_date{"date": "21st of August 2019"}
     - utter_ask_for_booking_confirmation
