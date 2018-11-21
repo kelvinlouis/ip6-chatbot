@@ -1,0 +1,649 @@
+## intent:ask_for_alternative_room
+- does the [third](room) meeting room have this?
+- can i have information about option [Beta](room)?
+- are [other](room) [smaller](property)?
+- do the [others](room) have it?
+- is the [second](room) one [more expensive](property)?
+- how about the [other](room) event room?
+- can i have facts about room [Gamma](room)?
+- can you provide facts about room [Gamma](room)?
+- do you have info about location [Beta](room)?
+- is room [Beta](room) [more expensive](property)?
+- and in event room [Beta](room)?
+- can we have facts about room [Alpha](room)?
+- can you provide information about event room [Alpha](room)?
+- is the [other](room) one [smaller](property)?
+- can i have info about location [Alpha](room)?
+- do you have facts about the [first](room) event room?
+- what about the [other](room) location?
+- does the [last](room) have it?
+- can you provide facts about location [Gamma](room)?
+- can i have info about the [first](room) one?
+- is the [last](room) event room [more expensive](property)?
+- do you have information about event room [Beta](room)?
+- can we have info about the [second](room) option?
+- can we have information about the [last](room) room?
+- do you have facts about the [other](room) event room?
+- what about meeting room [Beta](room)?
+- can we have info about [Gamma](room)?
+- does the [second](room) meeting room have this?
+- do you have information about the [first](room) one?
+- is the [first](room) one [bigger](property)?
+- do you have info about the [last](room) option?
+- can you provide facts about the [first](room) one?
+- what about room [Gamma](room)?
+- is [Beta](room) [cheaper](property)?
+- can we have information about the [first](room) one?
+- can you provide info about the [last](room) meeting room?
+- do you have information about the [second](room) location?
+- is meeting room [Beta](room) [more expensive](property)?
+- how about the [third](room) one?
+- do you have information about [Beta](room)?
+- does the [other](room) one have this?
+- do you have facts about the [first](room) meeting room?
+- can i have information about [Alpha](room)?
+- can i have info about the [first](room) room?
+- is the [last](room) event room [cheaper](property)?
+- what about the [last](room) event room?
+- can we have facts about the [second](room) event room?
+- do you have information about the [last](room) one?
+- is meeting room [Alpha](room) [more expensive](property)?
+- can i have information about the [third](room) one?
+- do you have information about the [third](room) one?
+- how about the [first](room) meeting room?
+- can you provide information about the [second](room) location?
+- does the [third](room) have this?
+- can you provide facts about [Beta](room)?
+- is location [Alpha](room) [more expensive](property)?
+- do you have information about [Gamma](room)?
+- do you have info about the [other](room) event room?
+- how about location [Gamma](room)?
+- do you have information about the [other](room) location?
+
+## intent:ask_for_room_price
+- How much does it cost?
+- How much is event room [Gamma](room)?
+- How much are the locations?
+- What is the price of the [first](room) location?
+- Are they cheap?
+- Is it cheap?
+- do you have book the [other](room) location for Fr. [800](budget)?
+- Are there any rooms for [1200](budget).-?
+- How much do the event rooms cost?
+- What is the price of the meeting rooms?
+- How expensive are they?
+- How much do they cost?
+- How much does meeting room [Alpha](room) cost?
+- Is the [last](room) event room the same price?
+- How expensive is it?
+- do you provide an option for [1400](budget).-?
+- could we rent a meeting room for $[900](budget)?
+- could we get the [other](room) location for [1,400](budget).-?
+- could we get a room for CHF [1,000](budget)?
+- can we get a event room for $[1500](budget)?
+- could we rent a location for $[1500](budget)?
+- could we rent the [last](room) room for [700](budget).-?
+- can we get a location for [1,000](budget).-?
+- is it possible to get the [other](room) meeting room for [1,500](budget).-?
+- do you have book a meeting room for [1'500](budget) pounds?
+- is it possible to book a room for [600](budget) pounds?
+- can we get a event room for £[1'400](budget)?
+- do you have rent the [second](room) location for [700](budget).-?
+- could we book a location for [1,000](budget).-?
+- is there a possibility to book a location for $[1200](budget)?
+- can we book a room for [1500](budget) euro?
+- do you have book event room [Gamma](room) for CHF [1,500](budget)?
+- do you have rent the [second](room) meeting room for $[1200](budget)?
+- is there a possibility to get location [Alpha](room) for [1'500](budget) euros?
+- could we book the [third](room) room for [1'000](budget) euro?
+- could we book the [third](room) meeting room for [500](budget) Swiss francs?
+- is it possible to rent the [third](room) location for [1,500](budget) dollars?
+- could we book event room [Beta](room) for £[1'500](budget)?
+- can we rent the [first](room) room for €[600](budget)?
+- is it possible to book a room for Fr. [1,000](budget)?
+- is it possible to get room [Beta](room) for Fr. [1'500](budget)?
+- is there a possibility to get the [last](room) room for [800](budget) dollars?
+- is it possible to get the [other](room) event room for €[600](budget)?
+- do you have book a location for €[900](budget)?
+- can we book a event room for [800](budget).-?
+- is it possible to get a meeting room for €[700](budget)?
+- is there a possibility to book a location for GBP [1'500](budget)?
+- could we book the [third](room) room for USD [500](budget)?
+- do you have get meeting room [Alpha](room) for [1'400](budget) Swiss francs?
+- is it possible to get the [third](room) location for [900](budget).-?
+- is it possible to book the [other](room) location for GBP [1,000](budget)?
+- can we rent event room [Alpha](room) for [1500](budget).-?
+- is there a possibility to get the [other](room) location for [500](budget) euros?
+- is it possible to book the [second](room) meeting room for [1200](budget).-?
+- can we rent the [other](room) room for [1,500](budget) pounds?
+- can we book the [first](room) location for [1200](budget) Swiss francs?
+- is it possible to get a event room for €[1'500](budget)?
+- is there a possibility to get a location for Fr. [1,200](budget)?
+- is it possible to book room [Alpha](room) for [1200](budget) dollars?
+- can we get a meeting room for [1'000](budget) francs?
+
+## intent:ask_for_room_size
+- Does it have enough space?
+- Is the [last](room) room large enough for [150](nr_of_people) people?
+- Are the [other](room) ones bigger?
+- And the [other](room) ones?
+- Will it have enough space for [150](nr_of_people) colleagues?
+- Is the space [Gamma](room) large enough for [150](nr_of_people)?
+- Is it large enough?
+- Is space larger?
+- And the [other](room) room?
+- How much space does it have?
+- How big is it?
+- Are the [others](room) large enough?
+- How many guests can be in there?
+- Is the room [Beta](room) big enough for [150](nr_of_people) guests?
+- Is the [third](room) one large enough for [250](nr_of_people) guests?
+- Is the [second](room) one large enough for [250](nr_of_people) colleagues?
+- Is room large enough for [150](nr_of_people) people?
+- Is the space large enough for [300](nr_of_people)?
+- Is it large enough for [200](nr_of_people) people?
+- Is the [first](room) one big enough for [300](nr_of_people) colleagues?
+- Is the room big enough for [200](nr_of_people) colleagues?
+- Is the [third](room) one large enough for [150](nr_of_people)?
+- Is the room [Alpha](room) large enough for [300](nr_of_people) persons?
+- Is the [second](room) room large enough for [150](nr_of_people) people?
+- Is the room large enough for [250](nr_of_people) colleagues?
+- Is the [second](room) space large enough for [250](nr_of_people) persons?
+- Is the [last](room) one big enough for [150](nr_of_people)?
+- Will it have enough room for [300](nr_of_people) persons?
+- Is room [Alpha](room) large enough for [200](nr_of_people) people?
+- Is the [first](room) room large enough for [250](nr_of_people) persons?
+- Is it large enough for [300](nr_of_people) people?
+- Is the [other](room) one big enough for [250](nr_of_people)?
+- Is the [second](room) room larger?
+- Is space large enough for [150](nr_of_people) colleagues?
+- Is it large enough for [150](nr_of_people) guests?
+- Is it large enough for [250](nr_of_people) people?
+- Is the room large enough for [200](nr_of_people) colleagues?
+- Is it big enough for [250](nr_of_people) people?
+- Is room [Gamma](room) big enough for [200](nr_of_people)?
+- How big is the [third](room) space?
+- Is the [third](room) one big enough for [200](nr_of_people) guests?
+- Is the [second](room) one large enough for [150](nr_of_people) people?
+- Is space [Gamma](room) big enough for [250](nr_of_people) persons?
+- Is space large enough for [300](nr_of_people)?
+- Is it large enough for [300](nr_of_people) guests?
+- Is space large enough for [150](nr_of_people) persons?
+- Does it have enough space for [150](nr_of_people) people?
+- Is it big enough for [300](nr_of_people) people?
+- Is the room large enough for [250](nr_of_people) persons?
+- Is it large enough for [150](nr_of_people)?
+- Is the room [Alpha](room) big enough for [200](nr_of_people) colleagues?
+- Is the [first](room) one big enough for [150](nr_of_people) persons?
+- Is the room [Alpha](room) large enough for [200](nr_of_people) guests?
+- Is room large enough?
+- Is the [first](room) room big enough for [200](nr_of_people)?
+- Is the space [Gamma](room) larger?
+- Is it big enough for [250](nr_of_people) guests?
+- Is the room big enough for [250](nr_of_people) people?
+- Is space [Alpha](room) big enough for [300](nr_of_people) people?
+- Is it big enough for [300](nr_of_people)?
+- Is the [last](room) room large enough for [250](nr_of_people) people?
+- Is the [first](room) room big enough for [150](nr_of_people) people?
+- Does it have enough space for [300](nr_of_people) colleagues?
+- Is room [Gamma](room) big enough for [150](nr_of_people) people?
+- How large is the room?
+- Is the space big enough for [150](nr_of_people) people?
+- Is room [Beta](room) large enough for [250](nr_of_people) people?
+- Is the [other](room) room large enough for [200](nr_of_people) persons?
+- Is the [other](room) one large enough for [250](nr_of_people)?
+- Is room [Alpha](room) big enough for [250](nr_of_people) persons?
+- Is it large enough for [300](nr_of_people) persons?
+- Is room big enough for [300](nr_of_people) people?
+- Is room [Alpha](room) big enough for [150](nr_of_people)?
+- Is room [Beta](room) big enough?
+- Is room big enough for [250](nr_of_people) persons?
+- Is the space [Gamma](room) bigger?
+- Is the space [Beta](room) large enough for [300](nr_of_people) guests?
+- Is room big enough for [300](nr_of_people) colleagues?
+- Is the room [Beta](room) big enough for [250](nr_of_people) persons?
+- Will it have enough room for [250](nr_of_people) people?
+- Is the room [Alpha](room) large enough for [250](nr_of_people)?
+- Is the [other](room) one big enough for [300](nr_of_people) colleagues?
+- Is the room [Alpha](room) big enough for [250](nr_of_people) colleagues?
+- Is the [first](room) room big enough for [200](nr_of_people) people?
+- Is room big enough for [250](nr_of_people) people?
+- Is the [third](room) space large enough for [300](nr_of_people) colleagues?
+- Is the [last](room) one large enough for [250](nr_of_people)?
+- Is space large enough for [300](nr_of_people) people?
+- Is it large enough for [250](nr_of_people) colleagues?
+- Is the [other](room) room big enough for [250](nr_of_people) guests?
+- Is space large enough for [200](nr_of_people)?
+- Is the room [Gamma](room) large enough for [300](nr_of_people) colleagues?
+- Is the [third](room) one large enough for [200](nr_of_people) people?
+- How large is it?
+- Is room [Beta](room) big enough for [200](nr_of_people) persons?
+- Is the space [Gamma](room) large enough for [150](nr_of_people) guests?
+- Is the [last](room) space larger?
+- Is the [other](room) one large enough?
+- Is it large enough for [300](nr_of_people)?
+- Does it have enough room for [200](nr_of_people) colleagues?
+- Is the [first](room) one large enough for [300](nr_of_people) persons?
+- Is the space [Beta](room) big enough for [150](nr_of_people) colleagues?
+- Is space large enough for [300](nr_of_people) colleagues?
+- Is the room big enough for [150](nr_of_people) people?
+- Is space [Beta](room) large enough for [150](nr_of_people)?
+- Is the [second](room) room large enough for [200](nr_of_people) persons?
+- Is space [Gamma](room) big enough for [250](nr_of_people) colleagues?
+- Is it big enough for [150](nr_of_people) guests?
+- Is space large enough for [200](nr_of_people) colleagues?
+- Is the room [Alpha](room) big enough for [250](nr_of_people)?
+- Is the [last](room) one large enough for [250](nr_of_people) guests?
+- Is the [second](room) space big enough for [200](nr_of_people) guests?
+- Is the [other](room) space big enough for [250](nr_of_people) guests?
+- Is the room [Alpha](room) big enough for [300](nr_of_people)?
+- Is room large enough for [300](nr_of_people) people?
+- Does it have enough space for [200](nr_of_people) ?
+- Is the room big enough for [300](nr_of_people) colleagues?
+- Is space [Gamma](room) large enough for [300](nr_of_people) people?
+- Is the space large enough for [250](nr_of_people) persons?
+- Is room big enough?
+- Is the room bigger?
+- Is it big enough for [200](nr_of_people) colleagues?
+- Is it big enough for [300](nr_of_people) guests?
+- Is space large enough for [150](nr_of_people) guests?
+- Is room big enough for [300](nr_of_people) persons?
+- Is space [Beta](room) big enough for [250](nr_of_people) persons?
+- Is the [last](room) one large enough for [250](nr_of_people) persons?
+- How many people does it fit?
+- Is the space large enough for [300](nr_of_people) people?
+- Is it big enough for [250](nr_of_people) persons?
+- Is the space big enough for [200](nr_of_people)?
+- Is the room [Beta](room) big enough for [300](nr_of_people) persons?
+- Will it have enough space for [300](nr_of_people) guests?
+- Is the room [Gamma](room) big enough for [200](nr_of_people) colleagues?
+- Is the [third](room) room big enough for [250](nr_of_people) persons?
+- Is it big enough for [250](nr_of_people)?
+- Is it large enough for [200](nr_of_people) guests?
+- Is the [first](room) one big enough for [150](nr_of_people) people?
+- Is room [Beta](room) big enough for [300](nr_of_people)?
+- Is space large enough?
+- Is it large enough for [150](nr_of_people) colleagues?
+- Is the room [Alpha](room) bigger?
+- Is it large enough for [200](nr_of_people) colleagues?
+- Is the space [Alpha](room) large enough for [150](nr_of_people) colleagues?
+- Is space [Gamma](room) large enough for [150](nr_of_people) colleagues?
+- Is the space [Beta](room) big enough for [300](nr_of_people) persons?
+- Is the space big enough for [200](nr_of_people) people?
+- Is the [second](room) space big enough for [300](nr_of_people) colleagues?
+- How big is the [second](room) room?
+- Are the [other rooms](room) large enough?
+- Will it have enough room for [150](nr_of_people) guests?
+- Are the [others](room) bigger?
+- Is it big enough for [150](nr_of_people) persons?
+- Is it large enough for [300](nr_of_people) colleagues?
+- Is room [Beta](room) big enough for [250](nr_of_people)?
+- Is the [third](room) one large enough for [150](nr_of_people) colleagues?
+- Is the [first](room) one large enough for [250](nr_of_people) persons?
+- Is room [Gamma](room) big enough for [150](nr_of_people) colleagues?
+- Is the room big enough for [200](nr_of_people)?
+- Is the [last](room) space big enough for [250](nr_of_people) guests?
+- Is room [Beta](room) large enough for [300](nr_of_people) persons?
+- Is it big enough for [200](nr_of_people) people?
+- Is the [other](room) space bigger?
+- Is the room [Alpha](room) big enough?
+- Is the [last](room) one large enough for [300](nr_of_people)?
+- Is the [third](room) room big enough for [250](nr_of_people) people?
+- Is space big enough for [150](nr_of_people) colleagues?
+- Is space [Beta](room) big enough for [150](nr_of_people) colleagues?
+- Will it have enough space for [150](nr_of_people) people?
+- Is space large enough for [300](nr_of_people) persons?
+- Is it large enough for [250](nr_of_people)?
+- Is the [second](room) one big enough for [200](nr_of_people) persons?
+- Is the [first](room) one big enough for [300](nr_of_people) guests?
+- Is it big enough for [150](nr_of_people) colleagues?
+- Is the space large enough for [300](nr_of_people) guests?
+- Is the [third](room) space big enough for [200](nr_of_people)?
+- Is the space [Beta](room) large enough for [250](nr_of_people) colleagues?
+- How big is the space?
+- Is room [Gamma](room) big enough for [150](nr_of_people) persons?
+- Is the space large enough for [150](nr_of_people) colleagues?
+- Is space big enough for [200](nr_of_people) guests?
+- Is the room large enough for [250](nr_of_people)?
+- Does it have enough room for [250](nr_of_people) persons?
+- Is it bigger?
+- Is the space [Beta](room) large enough for [250](nr_of_people) persons?
+- Is space large enough for [250](nr_of_people) colleagues?
+- Is space [Gamma](room) large enough for [200](nr_of_people) guests?
+- Is it big enough for [150](nr_of_people)?
+- Is the space [Gamma](room) large enough for [300](nr_of_people) people?
+- Is space [Alpha](room) big enough for [300](nr_of_people) persons?
+- Is room big enough for [150](nr_of_people) colleagues?
+- Is the space large enough for [250](nr_of_people)?
+- Is the room large enough for [200](nr_of_people) guests?
+- Is the [last](room) one big enough for [300](nr_of_people) people?
+- Is the [first](room) one large enough for [250](nr_of_people) guests?
+- Is the [third](room) room big enough for [200](nr_of_people) colleagues?
+- Is the [other](room) one large enough for [150](nr_of_people) people?
+- Is room [Beta](room) big enough for [150](nr_of_people) persons?
+- Is the space [Gamma](room) big enough for [200](nr_of_people) colleagues?
+- Is it larger?
+- Is room [Beta](room) large enough for [200](nr_of_people)?
+- Is it big enough for [200](nr_of_people) persons?
+- Is the space big enough for [200](nr_of_people) persons?
+- Is it large enough for [200](nr_of_people) persons?
+- Is the room big enough for [200](nr_of_people) guests?
+- Is the room [Alpha](room) big enough for [200](nr_of_people) people?
+- Is room [Gamma](room) large enough for [150](nr_of_people) people?
+- Will it have enough room for [300](nr_of_people) colleagues?
+- Is the space big enough for [150](nr_of_people) colleagues?
+- Is the [third](room) room big enough for [150](nr_of_people)?
+- Is the room [Beta](room) large enough for [300](nr_of_people) guests?
+- Is room large enough for [200](nr_of_people) guests?
+- Is the room [Beta](room) large enough?
+- Is the [last](room) one large enough for [250](nr_of_people) colleagues?
+- Is space [Gamma](room) large enough for [250](nr_of_people) colleagues?
+- How big is the room?
+- Is the [first](room) one big enough for [250](nr_of_people) colleagues?
+- Is the [second](room) space large enough for [150](nr_of_people) colleagues?
+- Is the [second](room) one big enough for [200](nr_of_people) people?
+- Does it have enough space for [250](nr_of_people) colleagues?
+- Is the space large enough for [250](nr_of_people) colleagues?
+- Is the space big enough for [250](nr_of_people)?
+- Is the [second](room) one big enough for [250](nr_of_people) people?
+- Is the space big enough for [200](nr_of_people) guests?
+- Is the space [Gamma](room) large enough for [300](nr_of_people) persons?
+- How many persons can be in there?
+- Is the space [Gamma](room) large enough for [200](nr_of_people) persons?
+- Is the room [Beta](room) big enough for [150](nr_of_people)?
+- Is the room big enough for [250](nr_of_people) colleagues?
+- Is room large enough for [250](nr_of_people) persons?
+- Is space big enough?
+- Is it large enough for [200](nr_of_people)?
+- Is the room large enough for [150](nr_of_people) people?
+- Is room bigger?
+- Does it have enough room for [300](nr_of_people) colleagues?
+- Is the room [Beta](room) large enough for [200](nr_of_people) guests?
+- Is the [last](room) room big enough for [200](nr_of_people) persons?
+- Is the [second](room) one large enough for [300](nr_of_people) colleagues?
+- Is the [second](room) space large enough for [300](nr_of_people) guests?
+- How big is the [second](room) space?
+- Is it big enough for [250](nr_of_people) colleagues?
+- Is the [third](room) space big enough for [150](nr_of_people) guests?
+- Is the room big enough for [150](nr_of_people)?
+- Is the [first](room) room large enough for [300](nr_of_people) people?
+- Is the room [Alpha](room) big enough for [300](nr_of_people) colleagues?
+- Is it big enough for [200](nr_of_people)?
+- Will it have enough space for [150](nr_of_people) persons?
+- Is the space bigger?
+- Is the room [Gamma](room) large enough for [150](nr_of_people) people?
+- Is the space big enough for [150](nr_of_people) persons?
+- Is the [other](room) one big enough for [300](nr_of_people) guests?
+- Is the room [Beta](room) large enough for [200](nr_of_people) persons?
+- Is it big enough for [300](nr_of_people) colleagues?
+- Is space [Alpha](room) big enough for [150](nr_of_people)?
+- Are the [other rooms](room) bigger?
+- Is it large enough for [150](nr_of_people) persons?
+- Is the room large enough for [150](nr_of_people) guests?
+- Is the [other](room) one big enough for [250](nr_of_people) colleagues?
+- Is the space [Alpha](room) big enough for [150](nr_of_people)?
+- Is the [third](room) one large enough?
+- Is room [Beta](room) larger?
+- Is the space [Gamma](room) big enough for [200](nr_of_people) people?
+- Is the space [Gamma](room) big enough for [250](nr_of_people)?
+- Is the room large enough for [300](nr_of_people) people?
+- Is the [third](room) space big enough for [150](nr_of_people) people?
+- Is room big enough for [200](nr_of_people) persons?
+- Is the space large enough for [150](nr_of_people)?
+- Is the [third](room) room big enough for [200](nr_of_people) people?
+- Does it have enough space for [150](nr_of_people) colleagues?
+- Is it big enough for [150](nr_of_people) people?
+- Is the [other](room) room large enough for [300](nr_of_people) persons?
+- Is space large enough for [150](nr_of_people)?
+- Is space [Gamma](room) big enough for [250](nr_of_people) guests?
+- Is the room [Gamma](room) large enough?
+- Is room large enough for [300](nr_of_people) guests?
+- Is the [last](room) space big enough for [200](nr_of_people) persons?
+- How big is the [last](room) space?
+- Is the room [Gamma](room) large enough for [150](nr_of_people) colleagues?
+- Is the [first](room) one large enough for [200](nr_of_people)?
+- Is the room [Alpha](room) big enough for [200](nr_of_people) guests?
+- Does it have enough room for [200](nr_of_people) persons?
+- Is it big enough for [200](nr_of_people) guests?
+- Is the room big enough for [250](nr_of_people) persons?
+- Is the [second](room) one big enough for [150](nr_of_people) people?
+- Is the [other](room) room large enough for [250](nr_of_people) guests?
+- Is the [first](room) room large enough for [150](nr_of_people)?
+- Is the space large enough for [200](nr_of_people) people?
+- Is the [third](room) one large enough for [300](nr_of_people) colleagues?
+- Is the [third](room) space large enough for [250](nr_of_people) guests?
+- Is room [Alpha](room) larger?
+- Is the room [Beta](room) big enough?
+- Is the [other](room) space large enough for [300](nr_of_people) guests?
+- Is room large enough for [300](nr_of_people) persons?
+- Is the space [Beta](room) large enough for [150](nr_of_people) people?
+- Does it have enough room for [150](nr_of_people) ?
+- Is the [last](room) room large enough for [300](nr_of_people)?
+- Is the room large enough for [300](nr_of_people) guests?
+- Is the room [Alpha](room) big enough for [200](nr_of_people)?
+- Is room big enough for [150](nr_of_people) persons?
+- Is space [Gamma](room) big enough for [200](nr_of_people) colleagues?
+
+## intent:greet
+- Hey, this is [Florina Sabath](name)
+- Hey, how is it going?
+- Hey
+- Hi, this is [Mrs Hutchinson](name). I'm doing an apprenticeship at [ACME](company)
+- Hi, how are you? My name is [Jennifer Hutchinson](name)
+- Good evening, my name is [Mark](name). i am an intern at [ABC Corp](company)
+- Good afternoon, you're speaking to [Mr Muller](name). I work as a commercial assistant at [ACME](company)
+- Good afternoon, this is [Mr. Mark Muller](name). i work for [ABC Corp](company)
+- Good morning, this is [Mergim](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Hi, you're speaking to [Umut](name). i work for [ABC Corp](company)
+- Good evening, this is [Mark](name). I work as an administrative assistant at [ABC Corp](company)
+- Good evening, this is [Laura](name). I work as a commercial assistant at [ACME](company)
+- Hello, you're speaking to [Christina](name). I work as a commercial assistant at [ACME](company)
+- Good afternoon, how is it going? This is [Mr Muller](name)
+- Hello, my name is [Mrs. Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
+- Hey, you're speaking to [Florina Sabath](name). I work as a clerk at [ABC Corp](company)
+- Hi, my name is [Florina Sabath](name). i am an intern at [ABC Corp](company)
+- Good evening, my name is [Florina Sabath](name). i am in an internship at [ACME](company)
+- Good afternoon, I am [Christina](name). I work as an administrative assistant at [ACME](company)
+- Good morning, you're speaking to [Umut](name). I work as a commercial assistant at [ACME](company)
+- Good afternoon, I am [Mrs Hutchinson](name). I'm an apprentice at [ACME](company)
+- Good morning, my name is [Florina Sabath](name). i work for [ACME](company)
+- Hey, this is [Mr Muller](name). I'm doing an apprenticeship at [ACME](company)
+- Good afternoon, how is it going? This is [Mark Muller](name)
+- Hello, this is [Mr. Mark Muller](name)
+- Good evening, my name is [Mr Muller](name). i am an intern at [ACME](company)
+- Good afternoon, this is [Mrs. Jennifer Hutchinson](name). i work for [ACME](company)
+- Good afternoon, my name is [Laura](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Hi, my name is [Christina](name). i am an intern at [ABC Corp](company)
+- Good morning, this is [Jennifer Hutchinson](name). I work as a clerk at [ACME](company)
+- Hello, my name is [Jennifer Hutchinson](name). i work for [ACME](company)
+- Good afternoon, you're speaking to [Mark Muller](name). I'm doing an apprenticeship at [ACME](company)
+- Good morning, you're speaking to [Mark Muller](name). I'm an apprentice at [ACME](company)
+- Good afternoon, I am [Mark Muller](name). I'm an apprentice at [ABC Corp](company)
+- Hello, how are you? You're speaking to [Mark](name)
+- Hi, this is [Umut](name). I work as a clerk at [ABC Corp](company)
+- Good afternoon, you're speaking to [Mr. Mark Muller](name). I'm doing an apprenticeship at [ACME](company)
+- Hello, my name is [Laura](name). i am in an internship at [ABC Corp](company)
+- Good evening, this is [Laura](name). I work as a commercial assistant at [ABC Corp](company)
+- Hey, you're speaking to [Mark](name). I am doing an internship at [ACME](company)
+- Good afternoon, this is [Laura](name). i work for [ABC Corp](company)
+- Hi, my name is [Laura](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Hi, I am [Christina](name). I work as an administrative assistant at [ABC Corp](company)
+- Hi, I am [Mr. Mark Muller](name). I am doing an internship at [ACME](company)
+- Hi, my name is [Christina](name)
+- Good evening, how are you? You're speaking to [Jennifer](name)
+- Good evening, my name is [Mark Muller](name). I work as a clerk at [ABC Corp](company)
+- Good afternoon, you're speaking to [Mrs Hutchinson](name). I work as a clerk at [ACME](company)
+- Good evening, this is [Mr Muller](name). I work as a commercial assistant at [ABC Corp](company)
+- Hey, you're speaking to [Jennifer Hutchinson](name). I work as a clerk at [ACME](company)
+- Hey, my name is [Mr. Mark Muller](name). i am in an internship at [ABC Corp](company)
+- Hey, my name is [Mr Muller](name). i work for [ABC Corp](company)
+- Good morning, my name is [Christina](name). i am an intern at [ACME](company)
+- Hey, you're speaking to [Mr. Mark Muller](name). i am in an internship at [ABC Corp](company)
+- Good morning, you're speaking to [Mrs. Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
+- Good morning, how is it going? My name is [Mr. Mark Muller](name)
+- Hi, you're speaking to [Mark Muller](name). I work as a clerk at [ACME](company)
+- Hi, this is [Mrs Hutchinson](name). i am an intern at [ABC Corp](company)
+- Good evening, you're speaking to [Mrs. Jennifer Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Hi, my name is [Mergim](name). i am in an internship at [ABC Corp](company)
+- Hi, this is [Mr Muller](name). I'm an apprentice at [ABC Corp](company)
+- Hello, this is [Mark Muller](name). I work as a commercial assistant at [ABC Corp](company)
+- Good morning, this is [Mr Muller](name). i am in an internship at [ACME](company)
+- Good afternoon, you're speaking to [Mrs. Jennifer Hutchinson](name). I work as an administrative assistant at [ABC Corp](company)
+- Hello, this is [Mr. Mark Muller](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Hi, how are you? You're speaking to [Florina Sabath](name)
+- Good afternoon, my name is [Jennifer](name). I am doing an internship at [ABC Corp](company)
+- Hi, I am [Florina Sabath](name)
+- Good afternoon, this is [Mark Muller](name). i am an intern at [ACME](company)
+- Good evening, I am [Mark](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good evening, I am [Jennifer](name). I work as a clerk at [ACME](company)
+- Hello, you're speaking to [Mr. Mark Muller](name). i am in an internship at [ABC Corp](company)
+- Good morning, my name is [Mr Muller](name). I work as a clerk at [ACME](company)
+- Hey, you're speaking to [Christina](name). I work as an administrative assistant at [ACME](company)
+- Good evening, I am [Mr Muller](name). I work as a clerk at [ACME](company)
+- Hello, you're speaking to [Florina Sabath](name). I'm doing an apprenticeship at [ACME](company)
+- Hi, I am [Christina](name). I'm an apprentice at [ABC Corp](company)
+- Hey, how are you? You're speaking to [Mrs Hutchinson](name)
+- Hey, I am [Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
+- Good afternoon, I am [Mark Muller](name). I am doing an internship at [ABC Corp](company)
+- Hello, this is [Mrs. Jennifer Hutchinson](name). I work as a commercial assistant at [ACME](company)
+- Hi, you're speaking to [Christina](name). I work as a clerk at [ABC Corp](company)
+- Good morning, you're speaking to [Mrs. Jennifer Hutchinson](name). I am doing an internship at [ACME](company)
+- Good morning, my name is [Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
+- Good evening, you're speaking to [Jennifer Hutchinson](name). I work as an administrative assistant at [ACME](company)
+- Good morning, I am [Mrs. Jennifer Hutchinson](name). I'm doing an apprenticeship at [ACME](company)
+- Good afternoon, how are you? This is [Mr. Mark Muller](name)
+- Good morning, I am [Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
+- Hey, I am [Mrs Hutchinson](name)
+- Hey, my name is [Mergim](name). I am doing an internship at [ABC Corp](company)
+- Hi, this is [Mergim](name). i am an intern at [ABC Corp](company)
+- Good morning, my name is [Christina](name). I'm an apprentice at [ACME](company)
+- Good morning, this is [Mark Muller](name). I work as an administrative assistant at [ACME](company)
+- Hello, this is [Umut](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good afternoon, I am [Mark](name). I work as a commercial assistant at [ACME](company)
+- Hey, this is [Umut](name). i am in an internship at [ACME](company)
+- Good afternoon, how are you? This is [Laura](name)
+- Good afternoon, this is [Umut](name). I work as a commercial assistant at [ABC Corp](company)
+- Hi, you're speaking to [Mergim](name). i am an intern at [ACME](company)
+- Good evening, you're speaking to [Christina](name). i work for [ABC Corp](company)
+- Good morning, you're speaking to [Mrs Hutchinson](name). i am an intern at [ABC Corp](company)
+- Hello, my name is [Mergim](name). I work as a clerk at [ACME](company)
+- Good evening, you're speaking to [Laura](name). I work as a clerk at [ABC Corp](company)
+- Hey, my name is [Mark Muller](name). I work as a commercial assistant at [ABC Corp](company)
+- Hi, I am [Mrs. Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
+- Hello, you're speaking to [Florina Sabath](name). I'm an apprentice at [ACME](company)
+- Good evening, this is [Christina](name). I am doing an internship at [ACME](company)
+- Good morning, how is it going? My name is [Mark Muller](name)
+- Hi, my name is [Florina Sabath](name)
+- Hi, my name is [Mr Muller](name). I am doing an internship at [ABC Corp](company)
+- Hey, you're speaking to [Jennifer Hutchinson](name). i work for [ABC Corp](company)
+- Hello, this is [Mark Muller](name). I work as a clerk at [ACME](company)
+- Good afternoon, I am [Mr Muller](name). I'm an apprentice at [ACME](company)
+- Good evening, my name is [Florina Sabath](name). I work as a commercial assistant at [ACME](company)
+- Hi, you're speaking to [Mrs. Jennifer Hutchinson](name). I am doing an internship at [ACME](company)
+- Good morning, you're speaking to [Jennifer](name). I work as an administrative assistant at [ACME](company)
+- Good afternoon, my name is [Mark Muller](name). I'm doing an apprenticeship at [ACME](company)
+- Hey, how are you? I am [Jennifer](name)
+- Good morning, I am [Mrs. Jennifer Hutchinson](name). I am doing an internship at [ACME](company)
+- Good morning, I am [Umut](name). i work for [ACME](company)
+- Hi, my name is [Mark](name). I work as a clerk at [ABC Corp](company)
+- Good afternoon, I am [Jennifer Hutchinson](name). i am in an internship at [ABC Corp](company)
+- Good afternoon, you're speaking to [Jennifer Hutchinson](name). I work as an administrative assistant at [ACME](company)
+- Hello, I am [Florina Sabath](name). i work for [ACME](company)
+- Good afternoon, you're speaking to [Mark](name). I work as a commercial assistant at [ABC Corp](company)
+- Hello, my name is [Mark Muller](name). i am in an internship at [ABC Corp](company)
+- Good morning, how are you? I am [Jennifer](name)
+- Good afternoon, my name is [Mark](name)
+- Good morning, I am [Jennifer](name). I am doing an internship at [ACME](company)
+- Good morning, I am [Mergim](name). I work as a commercial assistant at [ABC Corp](company)
+- Good afternoon, my name is [Mrs. Jennifer Hutchinson](name). I'm doing an apprenticeship at [ACME](company)
+- Good afternoon, you're speaking to [Laura](name). I work as a commercial assistant at [ABC Corp](company)
+- Hello, I am [Mrs Hutchinson](name). i work for [ACME](company)
+- Hey, you're speaking to [Jennifer Hutchinson](name). i work for [ACME](company)
+- Good afternoon, you're speaking to [Laura](name). i work for [ABC Corp](company)
+- Hey, this is [Christina](name). i work for [ABC Corp](company)
+- Hello, my name is [Mr Muller](name). I work as an administrative assistant at [ABC Corp](company)
+- Hi, my name is [Laura](name). i work for [ACME](company)
+- Hello, how are you? I am [Mr Muller](name)
+- Hey, I am [Mr Muller](name). I work as a commercial assistant at [ABC Corp](company)
+- Hey, I am [Mr. Mark Muller](name). i am in an internship at [ABC Corp](company)
+- Good evening, this is [Umut](name). i work for [ABC Corp](company)
+- Hello, you're speaking to [Jennifer Hutchinson](name). I work as an administrative assistant at [ACME](company)
+- Good morning, this is [Mergim](name). i am an intern at [ABC Corp](company)
+- Hi, you're speaking to [Mark](name). i am in an internship at [ABC Corp](company)
+- Good evening, this is [Mark Muller](name). I'm an apprentice at [ACME](company)
+- Good evening, my name is [Mrs Hutchinson](name). i work for [ABC Corp](company)
+- Hello, how is it going? I am [Umut](name)
+- Hello, this is [Mark Muller](name)
+- Good evening, my name is [Jennifer](name). I work as a commercial assistant at [ABC Corp](company)
+- Hey, my name is [Jennifer](name). i work for [ACME](company)
+- Hey, you're speaking to [Christina](name). I work as a commercial assistant at [ACME](company)
+- Hey, this is [Mrs. Jennifer Hutchinson](name). I work as a clerk at [ABC Corp](company)
+- Good evening, my name is [Mark](name). i work for [ABC Corp](company)
+- Good morning, my name is [Mergim](name). i am an intern at [ABC Corp](company)
+- Hey, this is [Mr Muller](name). i work for [ABC Corp](company)
+- Good evening, I am [Mr Muller](name). I am doing an internship at [ACME](company)
+- Good afternoon, how is it going? You're speaking to [Mark](name)
+- Good morning, you're speaking to [Mark Muller](name). i work for [ACME](company)
+- Good evening, you're speaking to [Jennifer Hutchinson](name). I work as an administrative assistant at [ABC Corp](company)
+
+## intent:provide_name
+- Yes, My name is [Mr muller](name)
+- My name is [Jennifer](name) i work for [ACME](company)
+- [Mr. Mark Muller](name) I work as a clerk at [ABC COMPANY](company)
+- My name is [Mark](name) I'm an apprentice at [ACME](company)
+- I am [Mr muller](name) i am an intern at [ABC COMPANY](company)
+- My name is [Jennifer](name) I work as a commercial assistant at [ABC COMPANY](company)
+- [Mr muller](name) I work as a clerk at [ACME](company)
+- I am [Mark](name) I work as an administrative assistant at [ABC COMPANY](company)
+- My name is [Ms. Jennifer Hutchinson](name) from [ABC COMPANY](company)
+- I am [Mr muller](name) i am in an internship at [ACME](company)
+- I am [Ms. Jennifer Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- [Mark](name) I work as a clerk at [ACME](company)
+- This is [Mr. Mark Muller](name)
+- [Miss Hutchinson](name) from [ABC COMPANY](company)
+- This is [Mark](name) I'm an apprentice at [ACME](company)
+- My name is [Mark](name) i am in an internship at [ACME](company)
+- I am [Jennifer](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- I am [Mr. Mark Muller](name) i am in an internship at [ABC COMPANY](company)
+- My name is [Mrs hutchinson](name) I work as a commercial assistant at [ACME](company)
+- [Mrs. Jennifer Hutchinson](name) i am an intern at [ACME](company)
+- My name is [Jennifer](name) from [ACME](company)
+- This is [Miss Hutchinson](name)
+- My name is [Miss Hutchinson](name) I work as a clerk at [ACME](company)
+- [Ms. Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- I am [Ms. Hutchinson](name) i am in an internship at [ACME](company)
+- I am [Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
+- This is [Mark Muller](name) i work for [ABC COMPANY](company)
+- I am [Mark Muller](name) I work as a clerk at [ACME](company)
+- I am [Mrs. Jennifer Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
+- This is [Mark](name) from [ABC COMPANY](company)
+- This is [Ms. Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- I am [Mrs. Jennifer Hutchinson](name) i am an intern at [ACME](company)
+- [Mrs hutchinson](name) from [ACME](company)
+- Yes, [Mark](name)
+- I am [Mr muller](name) from [ACME](company)
+- [Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
+- I am [Jennifer](name) I'm an apprentice at [ABC COMPANY](company)
+- I am [Jennifer](name) I'm doing an apprenticeship at [ACME](company)
+- My name is [Mark Muller](name) from [ACME](company)
+- [Ms. Hutchinson](name) from [ABC COMPANY](company)
+- My name is [Mrs hutchinson](name) from [ABC COMPANY](company)
+- This is [Jennifer Hutchinson](name) i am in an internship at [ACME](company)
+- [Jennifer Hutchinson](name)
+- My name is [Miss Hutchinson](name) from [ACME](company)
+- My name is [Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
+- My name is [Mark](name) from [ACME](company)
+- This is [Mr muller](name) i am an intern at [ACME](company)
+- [Mrs. Jennifer Hutchinson](name) from [ACME](company)
+- This is [Mrs hutchinson](name) I am doing an internship at [ACME](company)
+- My name is [Mark](name) I'm an apprentice at [ABC COMPANY](company)
+- [Jennifer](name) i work for [ABC COMPANY](company)
+- This is [Miss Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
+- My name is [Ms. Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- [Ms. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- My name is [Ms. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- I am [Mark](name) i am an intern at [ABC COMPANY](company)
+- [Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- This is [Ms. Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
+- This is [Mr muller](name) I work as a clerk at [ABC COMPANY](company)
+- This is [Miss Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
