@@ -1,5 +1,6 @@
 python -m rasa_nlu.train -c config_tensorflow.yml -d data/rasa_dataset_training.json -o models/nlu --fixed_model_name test --project default
-python -m rasa_core.train --online -o models/dialogue -d domain.yml -s data/stories.md -u models/nlu/default/test --epochs 300 --endpoints endpoints.yml
+python -m rasa_core.train interactive -o models/dialogue -d domain.yml -c config_core.yml -s data/stories.md -u models/nlu/default/test --endpoints endpoints.yml
 
+python -m rasa_core_sdk.endpoint --actions actions
 python -m rasa_nlu.server --path models/nlu
 python -m rasa_core.run -d models/dialogue -u models/nlu/default/test
