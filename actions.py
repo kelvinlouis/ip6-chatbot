@@ -10,11 +10,11 @@ class ActionCorrectRoom(Action):
       current_room = tracker.get_slot('current_room')
       room = tracker.get_slot('room')
 
-      if room == 'alpha' or room == 'first':
-        return [SlotSet('current_room', 'alpha')]
-      elif room == 'beta' or room == 'second':
-        return [SlotSet('current_room', 'beta')]
-      elif room == 'gamma' or room == 'third' or room == 'last':
-        return [SlotSet('current_room', 'gamma')]
+      if room == 'Alpha' or room == 'first':
+        return [SlotSet('current_room', 'Alpha')]
+      elif room == 'Beta' or room == 'second':
+        return [SlotSet('current_room', 'Beta')]
+      elif room == 'Gamma' or room == 'third' or room == 'last':
+        return [SlotSet('current_room', 'Gamma')]
       
       return []
