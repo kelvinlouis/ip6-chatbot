@@ -1,4 +1,4 @@
-%YAML 1.1
+%YAML 1.2
 ---
 actions:
 - utter_room_beta_highlight
@@ -47,7 +47,6 @@ actions:
 - utter_goodbye
 - utter_room_beta_atmosphere
 - utter_room_alpha_atmosphere
-- utter_room_gamma_price+ask_for_confirmation
 - utter_room_alpha_highlight
 - utter_room_alpha_lighting
 - utter_greet_with_name+ask_for_service
@@ -115,18 +114,20 @@ templates:
   - text: You are very welcome! Is there anything else?
   - text: I'm glad you like it. What other questions do you have?
   utter_ask_book_room:
-  - text: Very well! Do you want to book room {room}?
-  - text: For what date do you want to reserve room {room}?
+  - text: Very well! Do you want to book room {current_room}?
+  - text: For what date do you want to reserve room {current_room}?
   - text: Okay, do you want to book it?
   utter_ask_for_booking_confirmation:
-  - text: So, you want to book room {room} for the {date}?
-  - text: So, I will book room {room} on the {date}?
-  - text: Should I book the room {room} for the {date}?
-  - text: 'Just to verify: Should I book room {room} for the {date}?'
-  - text: Thank you. So I'm booking {room} for the {date}. Correct?
+  - text: So, you want to book room {current_room} for the {date}?
+  - text: So, I will book room {current_room} on the {date}?
+  - text: Should I book the room {current_room} for the {date}?
+  - text: 'Just to verify: Should I book room {current_room} for the {date}?'
+  - text: Thank you. So I'm booking {current_room} for the {date}. Correct?
   utter_ask_for_booking_date:
-  - text: For what date should I reserve room {room} for you?
+  - text: For what date should I reserve room {current_room} for you?
   - text: What would be the date for the booking?
+  utter_ask_what_info:
+  - text: What do you want to know?
   utter_ask_for_confirmation:
   - text: Is that ok?
   utter_ask_for_name:
@@ -138,7 +139,7 @@ templates:
   - text: Which room do you mean?
   - text: Which one are you interested in?
   utter_ask_for_service:
-  - text: Are you searching for a specific location?
+  - text: Are you searching for a specific room?
   utter_ask_for_service_with_name:
   - text: Hello {name}, how can I help you today?
   utter_available_rooms_150_people:
@@ -147,7 +148,7 @@ templates:
   utter_confirm+ask_for_booking_date:
   - text: Perfect, for what date do you want to book the room?
   - text: Ok, let's look if your room is available. On which date do you arrive?
-  - text: Ok, for what date do you want to reserve room {room}?
+  - text: Ok, for what date do you want to reserve room {current_room}?
   utter_confirm+available_rooms_150_people:
   - text: Sure, we have three event rooms for {nr_of_people}
   - text: Yes, we have three rooms for {nr_of_people} people
@@ -156,14 +157,14 @@ templates:
   utter_confirm+budget_limitation:
   - text: Okay. The prices of all rooms are below CHF {budget}
   - text: No worries, all rooms are below the price of {budget}
-  - text: This should not be a problem. All the rooms are in your price range.
+  - text: This should not be a problem. All the rooms are in your price range
   utter_confirm+options:
   - text: Ok, we have multiple offerings
   - text: Alright, we have multiple rooms available
   - text: Ok, we have three rooms available for you
   utter_confirm_booking:
   - text: Perfect! We just booked the room for you.
-  - text: Sure, I will reserve room {room} for you
+  - text: Sure, I will reserve room {current_room} for you
   - text: All set! Thank you for your reservation.
   utter_confirm_booking+ask_for_service:
   - text: Great! The room is booked for you. Is there anything else I can do for you?
@@ -332,8 +333,7 @@ templates:
   - text: Room Gamma will cost you CHF 1'100
   - text: It's CHF 1100 CHF for room Gamma
   - text: Room Gamma costs CHF 1'100
-  utter_room_gamma_price+ask_for_confirmation:
-  - text: The price would be 1'100 CHF, is this ok?
+  - text: The price of Gamma is 1'100 CHF
   utter_room_gamma_seating:
   - text: Room Gamma is equiped with tables for 6 to 8 people
   - text: Room Gamma is equiped with tables and chairs for 6-8 persons each, you can
