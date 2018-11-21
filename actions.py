@@ -18,4 +18,4 @@ class ActionCorrectRoom(Action):
       elif room == 'gamma' or room == 'third' or room == 'last':
         return [SlotSet('current_room', 'Gamma'), SlotSet('room', None)]
       
-      return []
+      return [SlotSet('room', None)]

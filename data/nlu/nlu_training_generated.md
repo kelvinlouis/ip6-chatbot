@@ -12,6 +12,32 @@
 - please do
 - absolutely
 - yes for sure
+- definitely
+- yup
+- yes
+- that would be great
+- yep
+- okay
+- that would be nice
+- yes, please
+- yes, that sounds good
+- sure
+- please do
+- absolutely
+- yes for sure
+- definitely
+- yup
+- yes
+- that would be great
+- yep
+- okay
+- that would be nice
+- yes, please
+- yes, that sounds good
+- sure
+- please do
+- absolutely
+- yes for sure
 
 ## intent:ask_for_directions
 - Can you give me directions to the venue?
@@ -4580,8 +4606,47 @@
 - No, I'm good
 - No, I don't think so
 - Not today
+- Maybe not
+- Absolutely not
+- No, I'm sorry
+- I'm sorry, but no
+- nope
+- No thank you
+- No man
+- no
+- No thanks
+- No, I'm good
+- No, I don't think so
+- Not today
+- Maybe not
+- Absolutely not
+- No, I'm sorry
+- I'm sorry, but no
+- nope
+- No thank you
+- No man
+- no
+- No thanks
+- No, I'm good
+- No, I don't think so
+- Not today
 
 ## intent:disagree
+- That doesn't sound good
+- Hm, doesn't seem good
+- Not great
+- I don't like it
+- That doesn't work
+- That doesn't sound good
+- Hm, doesn't seem good
+- Not great
+- I don't like it
+- That doesn't work
+- That doesn't sound good
+- Hm, doesn't seem good
+- Not great
+- I don't like it
+- That doesn't work
 - That doesn't sound good
 - Hm, doesn't seem good
 - Not great

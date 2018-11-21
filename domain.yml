@@ -60,6 +60,8 @@ config:
   store_entities_as_slots: true
 entities:
 - company
+- date
+- time
 - room
 - name
 - budget
@@ -97,6 +99,9 @@ slots:
   company:
     auto_fill: true
     type: rasa_core.slots.TextSlot
+  date:
+    auto_fill: true
+    type: rasa_core.slots.TextSlot
   current_room:
     auto_fill: true
     type: rasa_core.slots.CategoricalSlot
@@ -128,6 +133,9 @@ slots:
     - this
     - that
     - the
+  time:
+    auto_fill: true
+    type: rasa_core.slots.TextSlot
 templates:
   utter_appreciation+ask_for_service:
   - text: You are very welcome! Is there anything else?
@@ -201,7 +209,7 @@ templates:
   - text: It is possible to show presentations in all of the rooms
   utter_goodbye:
   - text: Take care and have a nice day!
-  - text: Good bye, {name}
+  - text: Goodbye, {name}.
   - text: We will see us then, goodbye
   - text: We will see us then, goodbye {name}
   - text: I wish you a very nice day
@@ -227,7 +235,7 @@ templates:
   utter_options+ask_for_purpose:
   - text: We have three rooms available that fit {nr_of_people}. What do you need?
   utter_room_alpha_atmosphere:
-  - text: Room Alpha is perfect for presentation. It is like a cinema. You have seats
+  - text: Room Alpha is perfect for presentations. It is like a cinema. You have seats
       and a huge stage where a presentation can be held. It is not ideal for workshops
       however.
   - text: Room Alpha has a cinema atmosphere
@@ -354,7 +362,7 @@ templates:
   - text: Room Gamma costs CHF 1'100
   - text: The price of Gamma is 1'100 CHF
   utter_room_gamma_seating:
-  - text: Room Gamma is equiped with tables for 6 to 8 people
+  - text: Room Gamma is equiped with tables for 6 to 8 people. You can move the tables around.
   - text: Room Gamma is equiped with tables and chairs for 6-8 persons each, you can
       move these around
   - text: Room Gamma has tables for up to 8 people. You can rearrange the entire room.
