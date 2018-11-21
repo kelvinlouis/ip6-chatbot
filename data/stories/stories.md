@@ -6,7 +6,7 @@
 * ask_for_room_equipment
     - utter_confirm+options
     - utter_ask_for_service
-* ask_for_room_size{"nr_of_people": "100"}
+* ask_for_room_size{"nr_of_people": 100}
     - utter_available_rooms_150_people
     - utter_room_alpha_people_limit
     - utter_room_beta_people_limit
@@ -47,9 +47,9 @@
     - utter_ask_for_name
 * provide_name{"name": "Luca Hauser"}
     - utter_greet_with_name+ask_for_service
-* ask_for_room_size{"nr_of_people": "150"}
+* ask_for_room_size{"nr_of_people": 150}
     - utter_confirm+available_rooms_150_people
-* ask_for_equipment
+* ask_for_room_equipment
     - utter_generic_equipment_options
     - utter_room_alpha_equipment
     - utter_room_beta_equipment
@@ -62,7 +62,7 @@
     - utter_room_alpha_atmosphere
     - utter_room_beta_atmosphere
     - utter_room_gamma_atmosphere
-* provide_budget{"budget": "1500"}
+* provide_budget{"budget": 1500}
     - utter_enough_budget
 * provide_preference{"room": "third"}
     - action_correct_room
@@ -83,12 +83,12 @@
     - utter_greet+ask_for_name
 * provide_name{"name": "Jennifer Meier"}
     - utter_ask_for_nr_of_people_with_name
-* provide_nr_of_people{"nr_of_people": "150"}
+* provide_nr_of_people{"nr_of_people": 150}
     - utter_available_rooms_150_people
     - utter_room_alpha_people_limit
     - utter_room_beta_people_limit
     - utter_room_gamma_people_limit
-* ask_for_equipment
+* ask_for_room_equipment
     - utter_ask_for_room
 * provide_room{"room": "Alpha"}
     - action_correct_room
@@ -100,7 +100,7 @@
     - slot{"current_room": "Alpha"}
     - slot{"room": null}
     - utter_room_alpha_price
-* provide_budget{"budget": "1500"}
+* provide_budget{"budget": 1500}
     - utter_confirm+budget_limitation
 * ask_for_room{"room": "others"}
     - action_correct_room
@@ -147,7 +147,7 @@
     - utter_greet+ask_for_name
 * provide_name{"name": "Mark"}
     - utter_ask_for_nr_of_people_with_name
-* ask_for_room_size{"nr_of_people": "150"}
+* ask_for_room_size{"nr_of_people": 150}
     - utter_confirm+available_rooms_150_people
     - utter_room_alpha_people_limit
     - utter_room_beta_people_limit
@@ -157,7 +157,7 @@
     - utter_room_alpha_equipment
     - utter_room_beta_equipment
     - utter_room_gamma_equipment
-* provide_budget{"budget": "1500"}
+* provide_budget{"budget": 1500}
     - utter_confirm+budget_limitation
     - utter_room_alpha_price
     - utter_room_beta_price
@@ -177,7 +177,7 @@
     - utter_room_gamma_seating
 * reserve_room
     - utter_ask_book_room
-* provide_booking_date{"date": "12.02.2018", time: "09:00"}
+* provide_booking_date{"date": "12.02.2018", "time": "09:00"}
     - utter_ask_for_booking_confirmation
 * deny OR provide_booking_date{"date": "13.02.2018"}
     - utter_ask_for_booking_confirmation
@@ -190,11 +190,11 @@
     - utter_thanks
 
 ## inspired by chat 13-14 (Kelvin)
-* greet{name: "Arjen Bershka"}
+* greet{"name": "Arjen Bershka"}
     - utter_greet_with_name+ask_for_service
 * ask_for_options
     - utter_options+ask_for_nr_of_people
-* ask_for_room_size{"nr_of_people": "150"}
+* ask_for_room_size{"nr_of_people": 150}
     - utter_confirm+options
     - utter_room_alpha_people_limit
     - utter_room_beta_people_limit
@@ -207,14 +207,14 @@
     - utter_room_alpha_seating
     - utter_room_beta_seating
     - utter_room_gamma_seating
-* provide_budget{"budget": "1500"}
+* provide_budget{"budget": 1500}
     - utter_confirm+budget_limitation
 * ask_for_room_highlight{"room": "Beta"}
     - action_correct_room
     - slot{"current_room": "Beta"}
     - slot{"room": null}
     - utter_room_beta_highlight
-* ask_for_rooms{"room": "other"}
+* ask_for_room{"room": "other"}
     - action_correct_room
     - slot{"current_room": "Beta"}
     - slot{"room": null}
@@ -230,7 +230,7 @@
     - slot{"current_room": "Alpha"}
     - slot{"room": null}
     - utter_ask_book_room
-* ask_for_price{"room": "Alpha"}
+* ask_for_room_price{"room": "Alpha"}
     - action_correct_room
     - slot{"current_room": "Alpha"}
     - slot{"room": null}
@@ -250,7 +250,7 @@
 ## inspired by chat 3-2 (Kelvin)
 * greet{"name": "Laura Steiner", "company": "Inselspital"}
     - utter_greet_with_name+ask_for_service
-* ask_for_room_size{"nr_of_people": "150"}
+* ask_for_room_size{"nr_of_people": 150}
     - utter_options+ask_for_purpose
 * ask_for_room_equipment
     - utter_generic_equipment_options
@@ -290,7 +290,7 @@
     - utter_greet+ask_for_name
 * provide_name{"name": "Mergime"}
     - utter_ask_for_nr_of_people_with_name
-* ask_for_room_size{"nr_of_people": "150"}
+* ask_for_room_size{"nr_of_people": 150}
     - utter_thanks_with_name
     - utter_confirm+available_rooms_150_people
     - utter_room_alpha_people_limit
@@ -316,7 +316,7 @@
     - utter_room_beta_price
 * affirm
     - utter_appreciation+ask_for_service
-* ask_for_rooms{"room": "other"}
+* ask_for_room{"room": "other"}
     - action_correct_room
     - slot{"current_room": "Beta"}
     - slot{"room": null}
@@ -332,7 +332,7 @@
     - slot{"current_room": "Alpha"}
     - slot{"room": null}
     - utter_room_alpha_seating
-* ask_for_room_alternative{"room": "others"}
+* ask_for_room{"room": "others"}
     - action_correct_room
     - slot{"current_room": "Alpha"}
     - slot{"room": null}

@@ -56,6 +56,7 @@ actions:
 - utter_room_alpha_seating
 - utter_ask_for_booking_confirmation
 - utter_room_beta_people_limit
+- utter_ask_what_info
 config:
   store_entities_as_slots: true
 entities:
@@ -67,11 +68,29 @@ entities:
 - current_room
 forms: []
 intents:
-- ask_for_room_size
-- ask_for_room_price
-- greet
-- ask_for_alternative_room
-- provide_name
+  - affirm
+  - ask_for_room
+  - ask_for_directions
+  - ask_for_options
+  - ask_for_room_atmosphere
+  - ask_for_room_lighting
+  - ask_for_room_equipment
+  - ask_for_room_highlight
+  - ask_for_room_price
+  - ask_for_room_seating
+  - ask_for_room_size
+  - deny
+  - disagree
+  - farewell
+  - greet
+  - provide_booking_date
+  - provide_budget
+  - provide_name
+  - provide_nr_of_people
+  - provide_preference
+  - provide_room
+  - reserve_room
+  - thanks
 slots:
   budget:
     auto_fill: true
@@ -109,6 +128,7 @@ slots:
     - it
     - this
     - that
+    - the
 templates:
   utter_appreciation+ask_for_service:
   - text: You are very welcome! Is there anything else?

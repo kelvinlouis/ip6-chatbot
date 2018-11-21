@@ -1,5 +1,5 @@
 python -m rasa_nlu.train -c config_tensorflow.yml -d data/nlu -o models/nlu --fixed_model_name test --project default
-python -m rasa_core.train interactive -o models/dialogue -d domain.yml -c config_core.yml -s data/stories -u models/nlu/default/test --endpoints endpoints.yml --nlu_threshold 0.7 --core_threshold 0.39
+python -m rasa_core.train interactive -o models/dialogue -d domain.yml -c config_core.yml -s data/stories -u models/nlu/default/test --endpoints endpoints.yml
 
 python -m rasa_core_sdk.endpoint --actions actions
 python -m rasa_nlu.server --path models/nlu
