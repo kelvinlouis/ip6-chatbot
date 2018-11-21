@@ -350,3 +350,9 @@ templates:
   - text: Thanks!
   utter_thanks_with_name:
   - text: Thanks {name}!
+  utter_default:
+  - text: Excuse me, can you rephrase this please?
+  - text: Excuse me, can you please rephrase your last message?
+  - text: Sorry, I don't understand. What do you mean?
+  - text: I'm sorry, I didn't get that. What do you mean?
+  - text: I don't understand. Can you say it again?
