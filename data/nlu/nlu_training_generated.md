@@ -1,8529 +1,8525 @@
 ## intent:affirm
+- please do
+- okay
+- yep
+- absolutely
 - definitely
+- that would be nice
+- that would be great
+- sure
+- yes, that sounds good
 - yup
 - yes
-- that would be great
-- yep
-- okay
-- that would be nice
 - yes, please
-- yes, that sounds good
-- sure
-- please do
-- absolutely
 - yes for sure
+- please do
+- okay
+- yep
+- absolutely
 - definitely
+- that would be nice
+- that would be great
+- sure
+- yes, that sounds good
 - yup
 - yes
-- that would be great
-- yep
-- okay
-- that would be nice
 - yes, please
-- yes, that sounds good
-- sure
-- please do
-- absolutely
 - yes for sure
+- please do
+- okay
+- yep
+- absolutely
 - definitely
+- that would be nice
+- that would be great
+- sure
+- yes, that sounds good
 - yup
 - yes
-- that would be great
-- yep
-- okay
-- that would be nice
 - yes, please
-- yes, that sounds good
-- sure
-- please do
-- absolutely
 - yes for sure
 
 ## intent:ask_for_directions
-- Can you give me directions to the venue?
-- What are the directions to your hotel?
-- What's the quickest way from the [rail station](start_location) ?
-- Is there an auto from the [border](start_location) ?
-- How do we get to your hotel?
-- How can we get to One King Hotel?
-- What's the best way from the [station](start_location) to One King Hotel ?
-- Is there a bike from the [rail station](start_location) to One King Hotel?
-- Is there an auto from the [train station](start_location) to the hotel?
-- What's the shortest way from the [rail station](start_location) by transport?
-- What's the best way from the [station](start_location) to the place ?
-- Is there a train from the [border](start_location) ?
-- What's the shortest way from the [train station](start_location) by transport?
-- Is there a car from the [station](start_location) to the venue?
-- What's the easiest way from the [airport](start_location) by transport?
-- What's the easiest way from the [train station](start_location) to One King Hotel by transport?
-- Is there a bike from the [border](start_location) to the venue?
-- What's the best way from the [border](start_location) by transport?
-- Is there an auto from the [station](start_location) to One King Hotel?
-- What's the shortest way from the [border](start_location) by transport?
-- What's the best way from the [airport](start_location) to the venue ?
-- Is there a shuttle from the [station](start_location) to the place?
-- What's the shortest way from the [station](start_location) to the hotel ?
-- Is there an auto from the [train station](start_location) to One King Hotel?
-- What's the shortest way from the [train station](start_location) to the place ?
-- Is there an auto from the [airport](start_location) ?
-- What's the fastest way from the [rail station](start_location) to the place by transport?
-- What's the fastest way from the [train station](start_location) to the place ?
-- Is there a bike from the [border](start_location) ?
-- What's the quickest way from the [rail station](start_location) to your hotel ?
-- Is there an auto from the [airport](start_location) to the place?
-- What's the easiest way from the [station](start_location) ?
-- What's the easiest way from the [border](start_location) to the place ?
-- What's the quickest way from the [train station](start_location) to the hotel by transport?
-- Is there a bike from the [rail station](start_location) to the venue?
-- What's the fastest way from the [border](start_location) to the hotel by transport?
-- Is there a train from the [airport](start_location) ?
-- What's the shortest way from the [station](start_location) to the venue by transport?
-- What's the quickest way from the [rail station](start_location) to the venue ?
-- Is there a train from the [train station](start_location) to the venue?
-- Is there an auto from the [station](start_location) ?
-- What's the shortest way from the [border](start_location) ?
-- What's the best way from the [rail station](start_location) to the place ?
-- Is there a bike from the [station](start_location) to One King Hotel?
-- What's the easiest way from the [station](start_location) to the place by transport?
-- What's the easiest way from the [train station](start_location) by transport?
-- What's the quickest way from the [rail station](start_location) to One King Hotel by transport?
-- Is there an auto from the [station](start_location) to the hotel?
-- What's the fastest way from the [train station](start_location) to your hotel ?
-- Can you give me the directions to your hotel?
-- How can we get to the venue?
-- Is there an auto from the [station](start_location) to the venue?
-- How do we get to the venue?
-- What's the easiest way from the [station](start_location) to your hotel by transport?
-- What's the best way from the [station](start_location) ?
-- Is there a bike from the [train station](start_location) ?
-- What's the easiest way from the [border](start_location) to your hotel ?
-- What's the easiest way from the [border](start_location) ?
-- What's the fastest way from the [border](start_location) by transport?
-- Is there an auto from the [rail station](start_location) to your hotel?
-- What's the fastest way from the [rail station](start_location) by transport?
-- What's the easiest way from the [train station](start_location) to the venue ?
-- Is there an auto from the [train station](start_location) to the place?
-- Is there an auto from the [rail station](start_location) ?
-- What's the best way from the [train station](start_location) to the hotel ?
-- What's the fastest way from the [airport](start_location) to the hotel ?
+- What's the easiest way from the [rail station](start_location) to the venue ?
 - Is there a car from the [airport](start_location) ?
-- Is there a shuttle from the [train station](start_location) to the place?
-- What's the quickest way from the [station](start_location) to One King Hotel ?
-- What's the quickest way from the [airport](start_location) to your hotel by transport?
-- What's the fastest way from the [rail station](start_location) to One King Hotel ?
-- Is there an auto from the [train station](start_location) to your hotel?
-- What's the easiest way from the [train station](start_location) to the hotel by transport?
-- What's the quickest way from the [rail station](start_location) to the place ?
-- Is there a shuttle from the [rail station](start_location) to One King Hotel?
-- What's the fastest way from the [train station](start_location) to the venue by transport?
-- What's the best way from the [train station](start_location) ?
-- Is there a shuttle from the [border](start_location) ?
-- What's the quickest way from the [border](start_location) ?
-- What's the shortest way from the [airport](start_location) to the hotel by transport?
-- What's the easiest way from the [border](start_location) by transport?
-- What's the best way from the [border](start_location) to One King Hotel by transport?
-- What's the easiest way from the [airport](start_location) to your hotel ?
-- What's the fastest way from the [station](start_location) to the place by transport?
-- What's the easiest way from the [rail station](start_location) to the hotel ?
-- What's the fastest way from the [train station](start_location) ?
-- Is there an auto from the [rail station](start_location) to the venue?
-- What's the easiest way from the [rail station](start_location) to the venue by transport?
-- What are the directions to the hotel?
-- Can you give me the directions to the place?
-- How can I get to the place?
-- What's the easiest way from the [border](start_location) to the venue ?
-- What's the best way from the [rail station](start_location) to the place by transport?
-- Is there a shuttle from the [rail station](start_location) ?
-- What's the shortest way from the [border](start_location) to your hotel by transport?
-- What's the easiest way from the [rail station](start_location) ?
-- Is there a car from the [rail station](start_location) ?
-- What's the fastest way from the [station](start_location) ?
-- What's the easiest way from the [border](start_location) to your hotel by transport?
-- Is there a car from the [station](start_location) ?
-- What's the shortest way from the [station](start_location) to your hotel by transport?
-- What's the quickest way from the [airport](start_location) ?
-- What's the best way from the [airport](start_location) ?
-- Is there an auto from the [rail station](start_location) to One King Hotel?
-- What's the quickest way from the [rail station](start_location) to the hotel ?
-- Is there a car from the [train station](start_location) to the place?
-- What's the shortest way from the [station](start_location) to the hotel by transport?
-- What's the shortest way from the [station](start_location) to your hotel ?
-- What's the fastest way from the [border](start_location) ?
-- Is there a taxi from the [airport](start_location) ?
-- What's the fastest way from the [border](start_location) to your hotel ?
-- Is there an auto from the [airport](start_location) to One King Hotel?
-- What's the shortest way from the [airport](start_location) to the place ?
-- What's the quickest way from the [station](start_location) to the hotel by transport?
-- Is there a shuttle from the [airport](start_location) ?
-- Is there an auto from the [train station](start_location) ?
-- What's the fastest way from the [airport](start_location) ?
-- What's the quickest way from the [train station](start_location) to One King Hotel ?
-- What's the quickest way from the [airport](start_location) to One King Hotel by transport?
-- What's the quickest way from the [border](start_location) to your hotel by transport?
-- Is there an auto from the [airport](start_location) to the venue?
-- What's the quickest way from the [train station](start_location) ?
-- Is there a taxi from the [rail station](start_location) to One King Hotel?
-- Is there an auto from the [train station](start_location) to the venue?
-- What's the quickest way from the [border](start_location) to the venue by transport?
-- What's the quickest way from the [rail station](start_location) to One King Hotel ?
-- How do we get to One King Hotel?
-- Can you give me the directions to the venue?
-- Is there a shuttle from the [station](start_location) ?
-- What's the best way from the [airport](start_location) to One King Hotel by transport?
-- Is there a car from the [train station](start_location) to your hotel?
-- What's the best way from the [station](start_location) to the place by transport?
-- What's the best way from the [station](start_location) to your hotel ?
-- Is there a shuttle from the [border](start_location) to the hotel?
-- What's the easiest way from the [airport](start_location) ?
-- Is there a bike from the [airport](start_location) ?
-- What's the fastest way from the [border](start_location) to the venue by transport?
-- What's the easiest way from the [airport](start_location) to the venue by transport?
-- Is there an auto from the [rail station](start_location) to the place?
-- What's the best way from the [train station](start_location) to the place ?
-- What's the best way from the [train station](start_location) to your hotel ?
-- What's the quickest way from the [rail station](start_location) to your hotel by transport?
-- Is there a train from the [train station](start_location) to your hotel?
-- What's the fastest way from the [airport](start_location) by transport?
-- Is there a car from the [border](start_location) ?
-- Is there a subway from the [train station](start_location) ?
-- Is there a bike from the [station](start_location) ?
-- What's the quickest way from the [airport](start_location) to the place by transport?
-- What's the easiest way from the [station](start_location) to One King Hotel ?
-- What's the quickest way from the [station](start_location) by transport?
-- Is there a subway from the [rail station](start_location) to One King Hotel?
-- What's the fastest way from the [rail station](start_location) to the venue by transport?
-- Is there a subway from the [station](start_location) ?
-- What's the quickest way from the [train station](start_location) by transport?
-- Is there a shuttle from the [border](start_location) to the venue?
-- Is there a shuttle from the [train station](start_location) ?
-- What's the easiest way from the [station](start_location) to the hotel ?
-- What's the fastest way from the [border](start_location) to your hotel by transport?
-- How can we get to your hotel?
-- How do I get to the hotel?
-- What's the quickest way from the [train station](start_location) to the place by transport?
-- What's the shortest way from the [rail station](start_location) to the place by transport?
-- What's the best way from the [airport](start_location) by transport?
-- What's the easiest way from the [station](start_location) to the venue ?
-- Is there an auto from the [rail station](start_location) to the hotel?
-- What's the best way from the [rail station](start_location) by transport?
-- Is there a train from the [train station](start_location) to One King Hotel?
-- What's the fastest way from the [rail station](start_location) to the venue ?
-- What's the best way from the [train station](start_location) to the venue by transport?
-- What's the best way from the [train station](start_location) to One King Hotel ?
-- What's the easiest way from the [train station](start_location) to the venue by transport?
-- What's the easiest way from the [station](start_location) by transport?
-- What's the easiest way from the [rail station](start_location) to One King Hotel ?
-- What's the quickest way from the [airport](start_location) by transport?
-- What's the quickest way from the [border](start_location) to the hotel ?
-- Is there a shuttle from the [rail station](start_location) to the hotel?
-- What's the fastest way from the [rail station](start_location) to your hotel ?
-- Is there a taxi from the [airport](start_location) to the place?
-- What's the quickest way from the [rail station](start_location) by transport?
-- Is there a taxi from the [border](start_location) ?
-- What's the quickest way from the [station](start_location) ?
-- What's the fastest way from the [station](start_location) by transport?
-- What's the shortest way from the [train station](start_location) to the place by transport?
-- What's the easiest way from the [rail station](start_location) by transport?
-- Is there a bike from the [train station](start_location) to the place?
-- Is there an auto from the [station](start_location) to the place?
-- What's the shortest way from the [train station](start_location) ?
-- Is there an auto from the [airport](start_location) to your hotel?
+- How do we get to the venue?
 - Can you give me the directions to the hotel?
-- What's the shortest way from the [border](start_location) to the hotel ?
-- How do I get to the place?
-- How can I get to the venue?
-- Is there a car from the [border](start_location) to your hotel?
-- What's the shortest way from the [airport](start_location) by transport?
-- Is there an auto from the [station](start_location) to your hotel?
-- What's the best way from the [train station](start_location) by transport?
-- What's the quickest way from the [border](start_location) by transport?
-- Is there a shuttle from the [train station](start_location) to the venue?
-- What's the shortest way from the [station](start_location) ?
-- What's the fastest way from the [train station](start_location) by transport?
-- Is there a train from the [station](start_location) ?
-- Is there a bike from the [rail station](start_location) ?
-- What's the shortest way from the [station](start_location) to the place ?
+- What are the directions to One King Hotel?
+- How can I get to the hotel?
+- What's the best way from the [station](start_location) to your hotel ?
+- Is there an auto from the [rail station](start_location) ?
+- What's the best way from the [airport](start_location) by transport?
+- Is there an auto from the [train station](start_location) ?
+- What's the fastest way from the [border](start_location) to the hotel by transport?
+- What's the easiest way from the [rail station](start_location) ?
+- Is there a car from the [train station](start_location) to One King Hotel?
 - What's the fastest way from the [rail station](start_location) to One King Hotel by transport?
+- Is there a taxi from the [border](start_location) to the venue?
+- What's the easiest way from the [station](start_location) ?
+- What's the quickest way from the [rail station](start_location) to the hotel ?
 - Is there a taxi from the [train station](start_location) ?
-- What's the shortest way from the [station](start_location) to the place by transport?
-- Is there a subway from the [station](start_location) to the place?
-- What's the shortest way from the [train station](start_location) to One King Hotel by transport?
-- Is there a bike from the [border](start_location) to the hotel?
-- How do I get to your hotel?
-- What's the shortest way from the [train station](start_location) to your hotel ?
-- Can you give me directions to the hotel?
-- How can we get to the hotel?
-- What's the easiest way from the [station](start_location) to One King Hotel by transport?
-- What's the best way from the [station](start_location) by transport?
-- What's the quickest way from the [rail station](start_location) to the venue by transport?
-- Is there an auto from the [border](start_location) to your hotel?
-- What's the shortest way from the [border](start_location) to One King Hotel ?
-- Is there a subway from the [rail station](start_location) to the hotel?
-- What's the shortest way from the [station](start_location) by transport?
-- What's the quickest way from the [border](start_location) to the place ?
-- Is there a shuttle from the [rail station](start_location) to the place?
-- What's the easiest way from the [station](start_location) to the place ?
-- What's the quickest way from the [airport](start_location) to One King Hotel ?
-- What's the fastest way from the [airport](start_location) to your hotel ?
-- What's the shortest way from the [rail station](start_location) to your hotel ?
-- Is there a subway from the [border](start_location) ?
-- What's the shortest way from the [rail station](start_location) ?
+- What's the easiest way from the [airport](start_location) to your hotel by transport?
+- Is there an auto from the [rail station](start_location) to the hotel?
+- What's the fastest way from the [train station](start_location) to the hotel by transport?
+- What's the best way from the [border](start_location) to the place ?
 - What's the fastest way from the [station](start_location) to the hotel ?
-- Is there a shuttle from the [airport](start_location) to the place?
-- What's the best way from the [airport](start_location) to the place by transport?
-- Is there a car from the [airport](start_location) to the place?
-- What's the shortest way from the [airport](start_location) to One King Hotel by transport?
-- Is there a shuttle from the [train station](start_location) to One King Hotel?
-- What's the best way from the [rail station](start_location) ?
-- What's the fastest way from the [rail station](start_location) ?
-- Is there a subway from the [airport](start_location) to your hotel?
-- What's the best way from the [rail station](start_location) to the hotel ?
-- What's the shortest way from the [airport](start_location) to the venue ?
-- Is there a car from the [border](start_location) to the venue?
-- What's the best way from the [train station](start_location) to your hotel by transport?
-- How can we get to the place?
-- What's the quickest way from the [station](start_location) to the place by transport?
-- What's the easiest way from the [train station](start_location) to your hotel ?
-- What's the easiest way from the [station](start_location) to the hotel by transport?
-- What's the shortest way from the [border](start_location) to the venue ?
-- Is there a train from the [rail station](start_location) to One King Hotel?
-- Is there a shuttle from the [airport](start_location) to the venue?
-- What's the shortest way from the [airport](start_location) to One King Hotel ?
-- What's the shortest way from the [rail station](start_location) to the place ?
-- Is there a subway from the [station](start_location) to One King Hotel?
-- What's the shortest way from the [airport](start_location) to the hotel ?
-- What's the fastest way from the [train station](start_location) to One King Hotel by transport?
-- What's the quickest way from the [train station](start_location) to One King Hotel by transport?
-- What's the best way from the [train station](start_location) to One King Hotel by transport?
-- What's the quickest way from the [border](start_location) to One King Hotel by transport?
-- What's the best way from the [airport](start_location) to your hotel ?
-- What's the quickest way from the [border](start_location) to the venue ?
-- Can you give me directions to One King Hotel?
-- What are the directions to the place?
-- Is there a subway from the [rail station](start_location) ?
-- Is there a taxi from the [station](start_location) to your hotel?
-- What's the easiest way from the [rail station](start_location) to the place by transport?
-- What's the shortest way from the [airport](start_location) ?
-- Is there a bike from the [rail station](start_location) to your hotel?
-- What's the fastest way from the [train station](start_location) to One King Hotel ?
-- Is there a shuttle from the [rail station](start_location) to your hotel?
-- What's the shortest way from the [border](start_location) to the place by transport?
-- Is there a subway from the [rail station](start_location) to the place?
-- What's the best way from the [border](start_location) to One King Hotel ?
-- What's the fastest way from the [border](start_location) to One King Hotel by transport?
-- What's the quickest way from the [border](start_location) to your hotel ?
-- Is there a taxi from the [border](start_location) to One King Hotel?
-- What's the fastest way from the [station](start_location) to your hotel by transport?
-- Is there a train from the [train station](start_location) ?
-- How can I get to One King Hotel?
-- What's the shortest way from the [airport](start_location) to your hotel by transport?
-- How do I get to One King Hotel?
+- Is there an auto from the [border](start_location) ?
+- What's the quickest way from the [border](start_location) ?
+- What's the shortest way from the [rail station](start_location) by transport?
+- Is there a train from the [airport](start_location) ?
 - What's the best way from the [airport](start_location) to the venue by transport?
-- Is there a taxi from the [train station](start_location) to the venue?
-- What's the easiest way from the [rail station](start_location) to One King Hotel by transport?
-- What's the fastest way from the [rail station](start_location) to the hotel by transport?
-- What's the shortest way from the [rail station](start_location) to the venue by transport?
-- What's the fastest way from the [rail station](start_location) to the hotel ?
-- Is there a taxi from the [train station](start_location) to the place?
-- What's the best way from the [station](start_location) to One King Hotel by transport?
-- What's the shortest way from the [train station](start_location) to the venue by transport?
-- What's the best way from the [border](start_location) ?
-- Is there a subway from the [rail station](start_location) to the venue?
-- What's the easiest way from the [train station](start_location) ?
-- Is there an auto from the [border](start_location) to the place?
-- What's the easiest way from the [train station](start_location) to the place ?
-- What's the fastest way from the [border](start_location) to the hotel ?
-- What are the directions to the venue?
-- Is there a train from the [station](start_location) to your hotel?
 - Is there a subway from the [train station](start_location) to the hotel?
+- What's the shortest way from the [airport](start_location) ?
+- What's the best way from the [train station](start_location) to the venue by transport?
+- Is there an auto from the [border](start_location) to One King Hotel?
+- What's the quickest way from the [train station](start_location) to the place by transport?
+- Is there an auto from the [train station](start_location) to your hotel?
+- What's the shortest way from the [airport](start_location) to One King Hotel by transport?
+- Is there a subway from the [airport](start_location) ?
+- What's the easiest way from the [airport](start_location) to One King Hotel ?
+- What's the best way from the [border](start_location) ?
+- Is there an auto from the [airport](start_location) ?
+- What's the shortest way from the [rail station](start_location) ?
+- What's the quickest way from the [rail station](start_location) to One King Hotel by transport?
+- What's the fastest way from the [station](start_location) by transport?
+- Is there an auto from the [rail station](start_location) to your hotel?
+- What's the quickest way from the [airport](start_location) to the hotel ?
+- What's the best way from the [train station](start_location) to your hotel ?
+- Is there an auto from the [station](start_location) to your hotel?
+- What's the best way from the [airport](start_location) to the place ?
+- Is there a train from the [airport](start_location) to the place?
+- What's the quickest way from the [train station](start_location) by transport?
+- Is there an auto from the [airport](start_location) to One King Hotel?
+- What's the easiest way from the [train station](start_location) by transport?
+- How do we get to One King Hotel?
+- How can I get to the place?
+- What's the best way from the [station](start_location) to your hotel by transport?
+- What's the shortest way from the [airport](start_location) to the place ?
+- What's the easiest way from the [rail station](start_location) by transport?
+- What's the shortest way from the [airport](start_location) to your hotel by transport?
+- What's the shortest way from the [train station](start_location) ?
+- What's the easiest way from the [border](start_location) ?
+- Is there an auto from the [train station](start_location) to the place?
+- What's the shortest way from the [border](start_location) to One King Hotel ?
+- Is there a shuttle from the [border](start_location) ?
+- What's the quickest way from the [station](start_location) to One King Hotel ?
+- Is there a shuttle from the [airport](start_location) to your hotel?
+- What's the quickest way from the [train station](start_location) to your hotel ?
+- Is there a car from the [border](start_location) ?
+- What's the quickest way from the [airport](start_location) to the venue ?
+- Is there a bike from the [train station](start_location) ?
+- What's the quickest way from the [airport](start_location) ?
+- What's the quickest way from the [airport](start_location) to the place by transport?
+- What's the fastest way from the [border](start_location) to the place ?
+- Is there an auto from the [station](start_location) ?
+- What's the fastest way from the [border](start_location) to your hotel by transport?
+- What's the fastest way from the [airport](start_location) to the hotel ?
+- Is there a subway from the [airport](start_location) to your hotel?
+- What's the shortest way from the [border](start_location) to your hotel by transport?
+- What's the quickest way from the [border](start_location) to the place by transport?
+- Is there an auto from the [station](start_location) to the hotel?
+- What's the shortest way from the [border](start_location) by transport?
+- What's the best way from the [station](start_location) by transport?
+- Is there a car from the [station](start_location) to your hotel?
+- What's the quickest way from the [airport](start_location) by transport?
+- Is there an auto from the [airport](start_location) to the place?
+- What's the easiest way from the [rail station](start_location) to the place ?
+- Is there a bike from the [rail station](start_location) ?
+- What's the best way from the [station](start_location) ?
+- Is there a bike from the [train station](start_location) to your hotel?
+- What's the quickest way from the [rail station](start_location) ?
+- What are the directions to the hotel?
+- How do I get to the venue?
+- What's the best way from the [border](start_location) by transport?
+- Can you give me the directions to your hotel?
+- Is there a shuttle from the [rail station](start_location) ?
+- Is there an auto from the [rail station](start_location) to the place?
+- What's the quickest way from the [border](start_location) to the hotel ?
+- What's the fastest way from the [border](start_location) ?
+- Is there an auto from the [border](start_location) to the venue?
+- What's the shortest way from the [station](start_location) ?
+- What's the easiest way from the [train station](start_location) to your hotel by transport?
+- What's the easiest way from the [rail station](start_location) to your hotel ?
+- What's the fastest way from the [station](start_location) to the hotel by transport?
+- What's the shortest way from the [airport](start_location) to your hotel ?
+- What's the best way from the [rail station](start_location) to the place ?
+- Is there a train from the [rail station](start_location) to your hotel?
+- What's the fastest way from the [border](start_location) by transport?
+- What's the shortest way from the [train station](start_location) to your hotel by transport?
+- What's the fastest way from the [rail station](start_location) to the place ?
+- What's the fastest way from the [station](start_location) ?
+- What's the shortest way from the [station](start_location) to the venue by transport?
+- Is there a shuttle from the [train station](start_location) to the venue?
+- What's the shortest way from the [train station](start_location) to the hotel by transport?
+- Is there an auto from the [airport](start_location) to the hotel?
+- Is there a taxi from the [station](start_location) to the venue?
+- What's the best way from the [rail station](start_location) to the venue ?
+- What's the easiest way from the [station](start_location) to the hotel ?
+- What's the fastest way from the [rail station](start_location) ?
+- Is there a train from the [station](start_location) to your hotel?
+- What's the best way from the [rail station](start_location) ?
+- Is there an auto from the [rail station](start_location) to the venue?
+- What's the easiest way from the [border](start_location) to the venue by transport?
+- What's the shortest way from the [train station](start_location) by transport?
+- Is there an auto from the [station](start_location) to the place?
+- What's the best way from the [train station](start_location) ?
+- Is there a car from the [airport](start_location) to the hotel?
+- How do we get to your hotel?
+- Can you give me the directions to One King Hotel?
+- How can we get to your hotel?
+- Is there a car from the [station](start_location) ?
+- Is there a taxi from the [border](start_location) to the hotel?
+- Is there a subway from the [border](start_location) to the venue?
+- What's the fastest way from the [train station](start_location) to the hotel ?
+- Is there a shuttle from the [airport](start_location) ?
+- What's the shortest way from the [border](start_location) to the venue ?
+- What's the quickest way from the [station](start_location) ?
+- What's the easiest way from the [airport](start_location) to One King Hotel by transport?
+- What's the shortest way from the [rail station](start_location) to your hotel ?
+- What's the shortest way from the [station](start_location) to your hotel ?
+- What's the quickest way from the [station](start_location) to the place by transport?
+- What's the shortest way from the [train station](start_location) to One King Hotel by transport?
+- Is there a taxi from the [rail station](start_location) to One King Hotel?
+- What's the easiest way from the [station](start_location) to the place by transport?
+- What's the fastest way from the [airport](start_location) to the venue ?
+- What's the best way from the [train station](start_location) to the place ?
+- What's the quickest way from the [rail station](start_location) to the hotel by transport?
+- Is there a car from the [train station](start_location) to the hotel?
+- What's the quickest way from the [station](start_location) to the venue by transport?
+- Is there a taxi from the [rail station](start_location) to the hotel?
+- What's the best way from the [airport](start_location) ?
+- Is there a taxi from the [airport](start_location) to the hotel?
+- What's the best way from the [border](start_location) to the venue ?
+- Is there a bike from the [rail station](start_location) to One King Hotel?
+- What's the shortest way from the [border](start_location) ?
+- What's the easiest way from the [station](start_location) to One King Hotel ?
+- How can we get to the venue?
+- How do I get to your hotel?
+- Can you give me directions to the hotel?
+- What's the fastest way from the [rail station](start_location) by transport?
+- What's the best way from the [station](start_location) to the venue ?
+- What's the quickest way from the [train station](start_location) to the hotel by transport?
+- Is there a train from the [rail station](start_location) ?
+- What's the quickest way from the [airport](start_location) to your hotel ?
+- What's the fastest way from the [airport](start_location) to your hotel ?
+- What's the easiest way from the [border](start_location) to the place ?
+- What's the shortest way from the [rail station](start_location) to the place ?
+- Is there a train from the [train station](start_location) ?
+- What's the quickest way from the [train station](start_location) to One King Hotel ?
+- What's the shortest way from the [border](start_location) to the place by transport?
+- Is there a taxi from the [airport](start_location) ?
+- Is there a subway from the [rail station](start_location) ?
+- What's the easiest way from the [train station](start_location) ?
+- What's the fastest way from the [border](start_location) to One King Hotel by transport?
+- What's the quickest way from the [train station](start_location) ?
+- What's the easiest way from the [station](start_location) by transport?
+- Is there a subway from the [station](start_location) to One King Hotel?
+- What's the shortest way from the [station](start_location) by transport?
+- Is there a train from the [border](start_location) ?
+- Is there an auto from the [border](start_location) to the hotel?
+- Is there a subway from the [border](start_location) ?
+- What's the shortest way from the [rail station](start_location) to the venue ?
+- Is there a subway from the [train station](start_location) ?
+- What's the easiest way from the [border](start_location) by transport?
+- Can you give me the directions to the place?
+- What's the fastest way from the [train station](start_location) to One King Hotel ?
+- What's the fastest way from the [station](start_location) to your hotel ?
+- What's the fastest way from the [train station](start_location) by transport?
+- What's the quickest way from the [station](start_location) by transport?
+- Is there an auto from the [station](start_location) to One King Hotel?
+- What's the shortest way from the [border](start_location) to your hotel ?
+- What's the shortest way from the [rail station](start_location) to the hotel by transport?
+- Is there a taxi from the [train station](start_location) to One King Hotel?
+- What's the fastest way from the [rail station](start_location) to the venue by transport?
+- What's the best way from the [station](start_location) to the hotel ?
+- Is there a train from the [station](start_location) to the venue?
+- Is there a bike from the [train station](start_location) to the place?
+- Is there an auto from the [airport](start_location) to your hotel?
+- What's the easiest way from the [airport](start_location) by transport?
+- Is there a car from the [border](start_location) to the venue?
+- What's the fastest way from the [rail station](start_location) to your hotel by transport?
+- Is there a bike from the [station](start_location) ?
+- What's the fastest way from the [train station](start_location) to the venue ?
+- What's the best way from the [border](start_location) to the hotel by transport?
+- What's the easiest way from the [rail station](start_location) to the hotel by transport?
+- Is there a bike from the [airport](start_location) ?
+- What's the quickest way from the [border](start_location) to the venue by transport?
+- Is there an auto from the [border](start_location) to the place?
+- Can you give me directions to the place?
+- How do we get to the hotel?
+- Is there an auto from the [rail station](start_location) to One King Hotel?
+- Is there a subway from the [station](start_location) to the venue?
+- What's the quickest way from the [rail station](start_location) by transport?
+- Is there a subway from the [station](start_location) ?
+- What's the fastest way from the [airport](start_location) by transport?
+- What's the shortest way from the [train station](start_location) to the place ?
+- What's the quickest way from the [train station](start_location) to the venue by transport?
+- Is there an auto from the [airport](start_location) to the venue?
+- What's the quickest way from the [airport](start_location) to One King Hotel ?
+- Is there a shuttle from the [airport](start_location) to One King Hotel?
+- What's the easiest way from the [rail station](start_location) to One King Hotel ?
+- What's the best way from the [airport](start_location) to the hotel ?
+- What's the best way from the [airport](start_location) to One King Hotel by transport?
+- Is there a shuttle from the [train station](start_location) to the hotel?
+- What's the easiest way from the [station](start_location) to the venue ?
+- What's the fastest way from the [station](start_location) to One King Hotel by transport?
+- What's the easiest way from the [rail station](start_location) to the hotel ?
+- What's the shortest way from the [airport](start_location) to One King Hotel ?
+- Is there a train from the [rail station](start_location) to One King Hotel?
+- What's the quickest way from the [rail station](start_location) to One King Hotel ?
+- What's the easiest way from the [train station](start_location) to One King Hotel by transport?
+- Is there a train from the [border](start_location) to One King Hotel?
+- What's the best way from the [station](start_location) to One King Hotel by transport?
+- Can you give me directions to your hotel?
+- How can I get to the venue?
+- What's the fastest way from the [rail station](start_location) to the venue ?
+- What's the quickest way from the [border](start_location) to the hotel by transport?
+- What's the quickest way from the [station](start_location) to the hotel ?
+- Is there an auto from the [train station](start_location) to the venue?
+- What's the quickest way from the [border](start_location) by transport?
+- Is there a car from the [train station](start_location) ?
+- What's the shortest way from the [station](start_location) to your hotel by transport?
+- What's the best way from the [airport](start_location) to the venue ?
+- Is there a car from the [station](start_location) to the venue?
+- Is there a car from the [airport](start_location) to your hotel?
+- What's the shortest way from the [rail station](start_location) to the venue by transport?
+- Is there a car from the [border](start_location) to One King Hotel?
+- What's the shortest way from the [station](start_location) to One King Hotel by transport?
+- What's the quickest way from the [station](start_location) to your hotel by transport?
+- Can you give me directions to the venue?
+- How can we get to the place?
+- What's the shortest way from the [station](start_location) to the hotel ?
+- Is there an auto from the [train station](start_location) to the hotel?
+- Is there a bike from the [rail station](start_location) to the hotel?
+- What's the easiest way from the [airport](start_location) ?
+- Is there a taxi from the [airport](start_location) to One King Hotel?
+- What's the quickest way from the [rail station](start_location) to the place ?
+- Is there a train from the [station](start_location) ?
+- What's the shortest way from the [station](start_location) to One King Hotel ?
+- What's the fastest way from the [rail station](start_location) to your hotel ?
+- Is there a bike from the [border](start_location) ?
+- Is there an auto from the [station](start_location) to the venue?
+- Is there a taxi from the [border](start_location) ?
+- What's the fastest way from the [train station](start_location) to the place ?
+- What's the quickest way from the [airport](start_location) to One King Hotel by transport?
+- What's the fastest way from the [train station](start_location) ?
+- What's the easiest way from the [airport](start_location) to the hotel by transport?
+- What's the best way from the [station](start_location) to the place ?
+- Is there a subway from the [airport](start_location) to the hotel?
+- What's the best way from the [train station](start_location) by transport?
+- How can we get to the hotel?
+- Is there a shuttle from the [station](start_location) to the place?
+- Is there a shuttle from the [rail station](start_location) to the hotel?
+- Is there a bike from the [border](start_location) to your hotel?
+- Is there a train from the [train station](start_location) to the place?
+- What's the quickest way from the [airport](start_location) to your hotel by transport?
+- Is there a shuttle from the [station](start_location) to the hotel?
+- What's the quickest way from the [rail station](start_location) to the place by transport?
+- Is there a subway from the [border](start_location) to the place?
+- Is there a train from the [train station](start_location) to One King Hotel?
+- What's the best way from the [rail station](start_location) to your hotel ?
+- What's the easiest way from the [station](start_location) to the hotel by transport?
+- What's the shortest way from the [airport](start_location) to the hotel ?
+- How do I get to the hotel?
+- What's the quickest way from the [station](start_location) to the place ?
+- What's the shortest way from the [rail station](start_location) to the place by transport?
+- Is there a taxi from the [airport](start_location) to the place?
+- What's the quickest way from the [airport](start_location) to the place ?
 - What's the best way from the [border](start_location) to your hotel by transport?
-- Is there a car from the [rail station](start_location) to the place?
-- What's the easiest way from the [border](start_location) to One King Hotel ?
-- What's the best way from the [airport](start_location) to the hotel by transport?
+- What's the easiest way from the [train station](start_location) to your hotel ?
+- What's the shortest way from the [train station](start_location) to your hotel ?
+- What's the fastest way from the [station](start_location) to the place by transport?
+- Is there a bike from the [airport](start_location) to One King Hotel?
+- Is there a taxi from the [airport](start_location) to the venue?
+- Is there a car from the [border](start_location) to the place?
+- What's the best way from the [rail station](start_location) to One King Hotel by transport?
+- How can I get to One King Hotel?
+- How do we get to the place?
+- What's the best way from the [station](start_location) to One King Hotel ?
+- Is there a taxi from the [rail station](start_location) ?
+- What's the easiest way from the [station](start_location) to One King Hotel by transport?
+- What's the easiest way from the [border](start_location) to your hotel by transport?
+- Is there a train from the [border](start_location) to the place?
 
-## intent:ask_for_room_lighting
-- is there enough lighting in the [other](room) ones?
-- Are there a lot of lights in the [third](room) room?
-- Is there enough light in room [Gamma](room)?
-- Does [this](room) have enough lighting?
-- Are there good lights?
-- we want a room with good lamps
-- How is the light in room [Beta](room)?
-- we want an event room with many lamps
-- is there good light in [Alpha](room)?
-- we would like a room with enough light
-- we would like an event room with a lot of light
-- do you have a lot of light in the [other](room) rooms?
-- Does the [other](room) room have many lamps?
-- is there a lot of lighting in the [other](room) ones?
-- Are there a lot of lights in [this](room) one?
-- is there good lamps in the [other](room) rooms?
-- we need an event room with many lamps
-- we searching for an event room with many lamps
-- Does [the](room) room have good lamps?
-- do you have enough lighting in the [others](room)?
-- I would like an event room with a lot of lighting
-- we look for a meeting room with a lot of lighting
-- is there many lamps in the [others](room)?
-- Are there good lamps in [this](room) room?
-- Does [this](room) one have a lot of lamps?
-- is there good lamps in the [first](room) room?
-- we need a room with good lighting
-- we searching for an event room with good lighting
-- is there good light in [this](room) one?
-- Does [beta](room) have many lamps?
-- is there a lot of lamps in the [other](room) ones?
-- is there a lot of lighting in the [others](room)?
-- I need a meeting room with a lot of lighting
-- Are there many lamps in the [last](room) room?
-- Is there enough light in [it](room)?
-- How is the lighting in room [Gamma](room)?
-- I look for an event room with many lamps
-- do you have good lighting in the [other](room) rooms?
-- Does the [second](room) one have good lighting?
-- we searching for a room with a lot of light
-- do you have many lamps in the [others](room)?
-- we want an event room with enough light
-- do you have a lot of lamps in the [others](room)?
-- Does room [gamma](room) have good lamps?
-- Are there many lamps in [the](room) room?
-- we want an event room with good lighting
-- I would like an event room with good light
-- is there good light in the [other](room) rooms?
-- do you have enough lighting in [the](room) room?
-- Does the [second](room) one have enough light?
-- I need an event room with a lot of lighting
-- we look for an event room with many lamps
-- do you have good lamps in the [other](room) ones?
-- Are there a lot of lamps in the [other](room) room?
-- do you have enough light in the [other](room) ones?
-- Does room [Gamma](room) have many lamps?
-- I searching for an event room with a lot of light
-- is there enough light in room [Gamma](room)?
-- is there good light in [the](room) room?
-- How is the lighting in [it](room)?
-- Are there a lot of lamps in the [last](room) room?
-- Is there enough light in room [beta](room)?
-- we would like a meeting room with a lot of light
-- we want an event room with good light
-- do you have good lamps in the [other](room) rooms?
-- Does [it](room) have many lamps?
-- do you have good lamps in [this](room) room?
-- do you have good light in [this](room)?
-- Does [the](room) room have many lamps?
-- is there a lot of lamps in the [others](room)?
-- Are there a lot of lights in [this](room)?
-- we want a room with good light
-- Does the [last](room) one have a lot of lighting?
-- do you have a lot of lighting in the [others](room)?
-- we would like a meeting room with a lot of lamps
-- I would like a meeting room with enough light
-- Does [the](room) room have a lot of light?
-- Are there many lamps in the [first](room) one?
-- do you have a lot of light in [this](room) room?
-- I want a room with a lot of lamps
-- I need an event room with a lot of light
-- Does [the](room) room have good lighting?
-- do you have many lamps in the [last](room) one?
-- do you have enough light in the [last](room) one?
-- How is the lighting in [the](room) room?
-- we would like an event room with good light
-- Are there many lights in the [third](room) one?
-- Is there enough light in [Gamma](room)?
-- I would like a room with enough light
-- Does [alpha](room) have a lot of lamps?
-- is there enough light in the [others](room)?
-- we need a room with a lot of lamps
-- Does the [last](room) room have good lamps?
-- Are there good lamps in [this](room)?
-- we searching for a room with many lamps
-- do you have a lot of light in the [other](room) ones?
-- is there good lighting in the [others](room)?
-- Does [this](room) have good lamps?
-- do you have a lot of light in the [others](room)?
-- we searching for an event room with a lot of light
-- Are there many lamps in the [second](room) room?
-- Does the [first](room) room have a lot of lighting?
-- do you have enough lighting in [this](room)?
-- Does the [third](room) one have a lot of lighting?
-- Are there good lights in room [Beta](room)?
-- I need an event room with good lighting
-- Is there enough lighting in [Alpha](room)?
-- How is the light in [it](room)?
-- is there many lamps in [it](room)?
-- do you have a lot of lighting in the [other](room) ones?
-- we look for an event room with enough lighting
-- I want a meeting room with good lighting
-- do you have enough light in room [Gamma](room)?
-- Are there a lot of lights in [it](room)?
-- I would like an event room with a lot of light
-- I searching for an event room with a lot of lamps
-- I want a room with a lot of light
-- we look for a meeting room with enough lighting
-- is there good lighting in the [other](room) rooms?
-- Does [the](room) room have good light?
-- Are there good lights in [the](room) room?
-- do you have good light in the [other](room) rooms?
-- we searching for a meeting room with a lot of lamps
-- is there many lamps in [the](room) room?
-- Does [Alpha](room) have enough lighting?
-- I want a meeting room with many lamps
-- Are there many lamps in [it](room)?
-- we need a meeting room with good lighting
-- How is the lighting in [alpha](room)?
-- is there good lamps in the [others](room)?
-- Does [alpha](room) have enough light?
-- I look for a meeting room with good light
-- do you have a lot of lighting in [the](room) room?
-- I would like an event room with many lamps
-- is there a lot of light in the [other](room) rooms?
-- Are there a lot of lights in [Alpha](room)?
-- Does the [first](room) room have a lot of lamps?
-- we need a room with a lot of light
-- I would like a room with enough lighting
-- Does [it](room) have a lot of light?
-- do you have good light in the [others](room)?
-- I searching for an event room with many lamps
-- we would like an event room with many lamps
-- Are there many lights in [the](room) room?
-- Does the [first](room) one have a lot of light?
-- do you have enough light in the [others](room)?
-- we need an event room with good light
-- do you have a lot of lighting in the [other](room) rooms?
-- Is there enough lighting in [the](room) room?
-- How is the lighting in [this](room) room?
-- we would like an event room with good lamps
-- do you have good lamps in the [last](room) one?
-- we want a room with a lot of lamps
-- we would like a meeting room with many lamps
-- Does room [Gamma](room) have good lighting?
-- Are there many lights in [it](room)?
-- is there enough lighting in the [others](room)?
-- we want an event room with a lot of lamps
-- Does room [gamma](room) have a lot of lamps?
-- do you have good lamps in the [first](room) one?
-- we want a meeting room with a lot of lighting
-- I would like a room with good light
-- do you have many lamps in the [first](room) one?
-- Are there good lamps in [the](room) room?
-- Does the [last](room) one have many lamps?
-- is there good lamps in [the](room) room?
-- I want a meeting room with enough light
-- Does [this](room) one have good light?
-- How is the lighting in room [Alpha](room)?
-- Is there enough lighting in room [Beta](room)?
-- we want a meeting room with enough lighting
-- Are there good lamps in the [other](room) room?
-- I look for an event room with good light
-- Does [this](room) room have a lot of lamps?
-- we look for a meeting room with good lighting
-- I searching for a meeting room with enough lighting
-- do you have a lot of light in room [Alpha](room)?
-- Does [the](room) room have a lot of lamps?
-- Are there many lamps in [this](room) room?
-- do you have many lamps in the [other](room) ones?
-- I want a meeting room with a lot of light
-- Does [this](room) one have many lamps?
-- I searching for an event room with enough lighting
-- I want an event room with a lot of lighting
-- Are there a lot of lights in [the](room) room?
-- do you have enough lighting in [it](room)?
-- Does room [Gamma](room) have a lot of lamps?
-- I need an event room with enough light
-- I want a room with good light
-- Is there enough lighting in [it](room)?
-- we want an event room with enough lighting
-- Are there good lamps in [it](room)?
-- How is the light in room [gamma](room)?
-- do you have enough lighting in the [first](room) one?
-- we look for a meeting room with a lot of lamps
-- I need a room with a lot of lamps
-- do you have a lot of lamps in [this](room) one?
-- I look for a room with a lot of lamps
-- is there many lamps in the [other](room) rooms?
-- Does the [third](room) one have good lighting?
-- do you have a lot of light in the [other](room) room?
-- I searching for a room with enough light
-- I would like a room with a lot of lamps
-- is there good lamps in [this](room)?
-- Are there many lamps in [alpha](room)?
-- Does [Alpha](room) have enough light?
-- I would like a meeting room with good lighting
-- I look for a meeting room with a lot of light
-- Does [it](room) have enough light?
-- is there a lot of lamps in the [first](room) room?
-- How is the lighting in the [last](room) one?
-- Are there good lamps?
-- Is there enough lighting in the [second](room) room?
-- we look for a meeting room with good light
-- we would like a room with a lot of lighting
-- do you have a lot of light in [this](room)?
-- Does the [third](room) room have enough light?
-- we searching for a meeting room with a lot of light
-- we look for an event room with good lighting
-- Does [Beta](room) have enough lighting?
-- do you have many lamps in [Beta](room)?
-- I would like a room with good lighting
-- we would like an event room with a lot of lamps
-- is there a lot of light in the [others](room)?
-- Does [this](room) have good light?
-- we need an event room with a lot of light
-- is there good lighting in the [other](room) ones?
-- Are there good lamps in [this](room) one?
-- do you have enough lighting in the [other](room) rooms?
-- Does [this](room) have a lot of light?
-- I searching for a meeting room with many lamps
-- I want a room with a lot of lighting
-- Does [this](room) room have enough lighting?
-- is there enough light in the [other](room) rooms?
-- I searching for a meeting room with enough light
-- Are there a lot of lamps in [the](room) room?
-- How is the lighting in the [first](room) one?
-- Is there enough lighting in the [third](room) room?
-- is there enough lighting in [the](room) room?
-- I look for an event room with enough light
-- Does room [Alpha](room) have a lot of lamps?
-- do you have a lot of lamps in [it](room)?
-- I would like a room with good lamps
-- Does the [second](room) one have a lot of lighting?
-- I would like an event room with good lamps
-- I searching for an event room with good light
-- Does [Gamma](room) have enough light?
-- Are there good lights in [this](room) room?
-- is there enough light in the [other](room) ones?
-- we want an event room with a lot of light
-- do you have good lighting in [it](room)?
-- Does room [beta](room) have good lamps?
-- I would like an event room with good lighting
-- How is the light in [this](room) one?
-- Is there enough light in [alpha](room)?
-- do you have good lighting in the [others](room)?
-- we want an event room with a lot of lighting
-- Are there a lot of lamps in [it](room)?
-- I look for a room with a lot of light
-- do you have enough light in the [last](room) room?
-- do you have enough light in room [Beta](room)?
-- we would like an event room with a lot of lighting
-- do you have enough lighting in [this](room) one?
-- do you have many lamps in room [beta](room)?
-- Does [the](room) room have enough lighting?
-- I want a meeting room with a lot of lamps
-- is there many lamps in [this](room)?
-- Is there enough light in [the](room) room?
-- How is the light in [alpha](room)?
-- I want a room with good lamps
-- Does the [other](room) one have a lot of lighting?
-- I look for a room with enough lighting
-- is there good light in the [others](room)?
-- we searching for an event room with enough lighting
-- we searching for a room with enough light
-- do you have a lot of lighting in [Alpha](room)?
-- Does room [Alpha](room) have good lamps?
-- Are there good lights in [it](room)?
-- I would like an event room with enough light
-- we look for an event room with a lot of lighting
-- Does [it](room) have a lot of lighting?
-- we searching for a room with enough lighting
-- we need an event room with a lot of lamps
-- Does [it](room) have enough lighting?
-- is there a lot of lighting in the [other](room) rooms?
-- we need a meeting room with enough light
-- do you have a lot of lighting in room [beta](room)?
-- Does room [Gamma](room) have enough light?
-- I searching for an event room with enough light
-- is there a lot of light in [this](room) room?
-- Does [it](room) have good light?
-- I want a room with enough light
-- is there a lot of light in [this](room) one?
-- is there many lamps in the [other](room) ones?
-- Does [it](room) have good lamps?
-- I need an event room with good lamps
-- do you have enough light in the [other](room) rooms?
-- is there good light in the [last](room) room?
-- we searching for an event room with good light
-- Are there a lot of lamps in room [Gamma](room)?
-- is there enough lighting in [this](room) one?
-- do you have good light in [this](room) one?
-- we need an event room with good lighting
-- Are there many lamps in [beta](room)?
-- Does [this](room) one have good lighting?
-- do you have a lot of lamps in the [other](room) rooms?
-- do you have a lot of lamps in the [other](room) ones?
-- I searching for an event room with a lot of lighting
-- is there a lot of lighting in [this](room)?
-- we want a meeting room with good lighting
-- is there enough light in [it](room)?
-- we searching for a meeting room with enough lighting
-- we searching for an event room with good lamps
-- Does the [second](room) room have many lamps?
-- do you have many lamps in the [other](room) rooms?
-- I would like a meeting room with good light
-- do you have a lot of light in [beta](room)?
-- Is there enough light in [Alpha](room)?
-- we need an event room with a lot of lighting
-- I look for a meeting room with a lot of lamps
-- we would like a meeting room with good lighting
-- Are there many lamps in the [first](room) room?
-- we look for an event room with good light
-- do you have good lighting in [Beta](room)?
-- Does [Gamma](room) have many lamps?
-- How is the lighting in [Gamma](room)?
-- I would like a meeting room with a lot of lamps
-- is there good light in the [other](room) ones?
-- I need a meeting room with enough lighting
-- I want a meeting room with good lamps
-- do you have a lot of lamps in the [second](room) one?
-- Are there good lamps in [Gamma](room)?
-- Does [this](room) room have a lot of lighting?
-- I need a room with many lamps
-- is there enough lighting in the [other](room) rooms?
-- Does room [alpha](room) have many lamps?
-- How is the lighting in [gamma](room)?
-- we want a meeting room with enough light
-- Does [this](room) one have a lot of lighting?
-- we look for a room with a lot of lamps
-- is there a lot of light in the [other](room) ones?
-- Are there good lamps in the [third](room) one?
-- Does the [third](room) room have good lighting?
-- we want a meeting room with good light
-- Are there a lot of lights in the [first](room) one?
-- I look for a room with a lot of lighting
-- Is there enough lighting in [this](room) room?
-- Does [the](room) room have enough light?
-- do you have a lot of lamps in [the](room) room?
-- we need an event room with enough lighting
-- Are there a lot of lights?
-- do you have a lot of lighting in [this](room) one?
-- I look for an event room with good lamps
-- Does the [second](room) one have a lot of light?
-- we look for an event room with a lot of lamps
-- we searching for a room with good lamps
-- is there good light in the [other](room) one?
-- I look for an event room with a lot of light
-- Are there a lot of lights in the [first](room) room?
-- do you have good lamps in [this](room)?
-- we searching for a meeting room with good light
-- we want a meeting room with many lamps
-- Does room [alpha](room) have a lot of lamps?
-- I need a room with a lot of light
-- we look for a room with good lighting
-- Does [it](room) have good lighting?
-- is there good lighting in [this](room)?
-- I look for a room with good lighting
-- Are there good lights in [this](room) one?
-- Is there enough light in [this](room)?
-- Does [this](room) room have good lamps?
-- I need an event room with many lamps
-- is there a lot of lamps in the [other](room) rooms?
-- we want an event room with good lamps
-- we would like a meeting room with enough lighting
-- Are there good lamps in the [second](room) room?
-- I want an event room with enough lighting
-- do you have good lamps in [the](room) room?
-- I want an event room with good light
-- do you have enough lighting in the [other](room) ones?
-- do you have many lamps in room [gamma](room)?
-- Is there enough lighting in the [third](room) one?
-- I need a room with good light
-- I look for a meeting room with many lamps
-- Does room [Beta](room) have a lot of lighting?
-- is there a lot of lighting in the [third](room) one?
-- do you have many lamps in [the](room) room?
-- Are there many lights in the [second](room) one?
-- we look for an event room with a lot of light
-- I searching for an event room with good lighting
-- Are there many lamps in [this](room) one?
-- is there enough light in [the](room) room?
-- we want a room with enough lighting
-- do you have enough light in [it](room)?
-- Is there enough lighting in room [beta](room)?
-- I would like an event room with a lot of lamps
-- Are there good lights in [beta](room)?
-- How is the lighting in the [third](room) one?
-- is there enough lighting in room [Gamma](room)?
-- Does [Gamma](room) have good lighting?
-- do you have a lot of light in [the](room) room?
-- we searching for an event room with a lot of lighting
-- Does the [first](room) room have good lighting?
-- is there a lot of light in [beta](room)?
-- Does the [third](room) one have enough light?
-- Is there enough lighting in [this](room)?
-- is there many lamps in the [first](room) room?
-- I want an event room with a lot of lamps
-- Does room [Beta](room) have many lamps?
-- I would like an event room with enough lighting
-- Are there a lot of lamps in [this](room)?
-- do you have good lamps in room [Gamma](room)?
-- I need a meeting room with a lot of lamps
-- we would like a room with enough lighting
-- is there a lot of lamps in [it](room)?
-- I look for a room with enough light
-- I need an event room with enough lighting
-- I look for a meeting room with good lamps
-- do you have a lot of lamps in [this](room) room?
-- Is there enough lighting in the [other](room) room?
-- Does [this](room) room have enough light?
-- How is the light in the [last](room) one?
-- Are there many lights in [this](room) one?
-- do you have many lamps in [this](room) one?
-- Does [gamma](room) have a lot of lamps?
-- Are there many lamps in the [second](room) one?
-- we need an event room with good lamps
-- Are there good lights in the [second](room) room?
-- Does [Gamma](room) have a lot of light?
-- I want an event room with a lot of light
-- I would like a room with many lamps
-- Does the [last](room) room have a lot of lighting?
-- is there good lighting in the [third](room) room?
-- How is the light in [the](room) room?
-- Does the [other](room) one have enough light?
-- do you have good lamps in the [others](room)?
-- I searching for a room with good light
-- I look for a meeting room with a lot of lighting
-- I searching for a room with good lighting
-- Does the [third](room) one have a lot of lamps?
-- is there good lamps in the [first](room) one?
-- I want a room with many lamps
-- How is the lighting in room [Beta](room)?
-- is there a lot of lighting in [the](room) room?
-- I look for a meeting room with enough lighting
-- Are there good lights in the [second](room) one?
-- Does [Alpha](room) have a lot of lamps?
-- do you have many lamps in [gamma](room)?
-- I searching for a room with a lot of light
-- we searching for a room with good light
-- Are there a lot of lights in [Beta](room)?
-- I want an event room with enough light
-- I need a room with a lot of lighting
-- Is there enough light in the [last](room) one?
-- How is the lighting in [Beta](room)?
-- I would like a meeting room with many lamps
-- is there many lamps in [Gamma](room)?
-- Does [this](room) have a lot of lamps?
-- Are there a lot of lights in the [third](room) one?
-- Does [this](room) room have many lamps?
-- Are there many lamps in the [third](room) one?
-- is there a lot of lighting in [this](room) room?
-- How is the lighting in the [other](room) room?
-- Is there enough light in [this](room) room?
-- do you have good lighting in room [beta](room)?
-- is there a lot of lamps in [the](room) room?
-- is there good lighting in the [last](room) room?
-- we would like a room with good lighting
-- do you have good lighting in [this](room)?
-- I look for a room with good light
-- Does [Gamma](room) have good lamps?
-- Are there a lot of lamps in [Beta](room)?
-- we look for a room with good light
-- Does the [last](room) one have a lot of lamps?
-- is there enough lighting in [this](room) room?
-- we look for a room with enough light
-- do you have a lot of light in room [alpha](room)?
-- we look for a meeting room with many lamps
-- Are there a lot of lamps in [this](room) room?
-- Does room [alpha](room) have a lot of lighting?
-- do you have a lot of lamps in room [Beta](room)?
-- Are there a lot of lamps in room [Beta](room)?
-- is there a lot of light in room [Gamma](room)?
-- Are there many lamps in the [last](room) one?
-- I need an event room with good light
-- is there good lamps in the [other](room) ones?
-- Does the [other](room) room have good light?
-- we look for a meeting room with a lot of light
-- How is the lighting in the [first](room) room?
-- Are there good lamps in room [Beta](room)?
-- Does [this](room) have enough light?
-- Does [beta](room) have a lot of light?
-- we searching for a meeting room with good lamps
-- I want an event room with good lamps
-- Does [it](room) have a lot of lamps?
-- we need a meeting room with a lot of lighting
-- Does room [Gamma](room) have good light?
-- is there enough lighting in the [last](room) one?
-- I look for a meeting room with enough light
-- Does [Beta](room) have good lamps?
-
-## intent:ask_for_rooms
+## intent:ask_for_options
 - Can you tell me more about the rooms?
-- I am searching an event room in your hotel
-- Say something about your rooms
-- We are interested in an option
-- What kind of rooms are available?
-- We would like to reserve a location
-- We're looking for a room
-- I am looking for a meeting room
-- I need a location in the one king hotel
-- We are interested in an event room in the one king hotel
-- I am interested in a location in the one king hotel
-- I am looking for a venue
-- I am looking for an event room
-- I need an option in the one king hotel
-- I am interested in an option
-- I would like to reserve a room in your hotel
-- We are interested in an event room
-- I'm looking for an event room in your hotel
-- I am interested in a venue
-- I am searching a venue in your hotel
-- We are looking for a location
-- I am looking for a meeting room in the one king hotel
-- We are searching a venue in the one king hotel
-- I need a room
-- We are searching an option
-- We're looking for an event room in your hotel
-- We would like to reserve an option
-- We need a meeting room in your hotel
-- We would like to reserve an option in the one king hotel
-- I am interested in a meeting room in the one king hotel
-- I need an option
-- I would like to reserve a room
-- We need a location
-- We need a room
-- I'm looking for a venue in your hotel
 - We are looking for a venue
-- We are searching an event room in your hotel
-- We're looking for an event room
-- I am searching a venue
-- We are interested in an event room in your hotel
-- We are looking for an event room in the one king hotel
-- I am searching an event room
-- We need an event room in your hotel
-- We would like to reserve an event room in your hotel
-- We are looking for an option in the one king hotel
-- We are interested in a room
-- I'm looking for a room
-- I would like to reserve a location in the one king hotel
-- I am interested in a room in your hotel
-- I am looking for a room in the one king hotel
-- I am interested in a room in the one king hotel
-- We're looking for an option in your hotel
-- We are searching an event room
-- We are searching a room
-- What kind of rooms do you have?
-- We are looking for an option
-- We would like to reserve a location in your hotel
-- I am looking for a room
-- We would like to reserve a venue
-- I'm looking for a location
-- I am searching an option in the one king hotel
-- We're looking for a venue
-- We would like to reserve an option in your hotel
-- I would like to reserve an event room
-- We are looking for an event room in your hotel
-- We would like to reserve a room
-- We are searching a meeting room in the one king hotel
-- We are interested in a room in the one king hotel
-- We are interested in a location
-- We are searching an option in the one king hotel
-- We need a meeting room
-- I'm looking for a venue
-- We are interested in an option in the one king hotel
-- What rooms do you provide?
-- Can you give me information about your rooms?
-- I'm looking for an option in your hotel
-- We are searching a venue
-- We are looking for an event room
-- I need an event room in the one king hotel
-- I am interested in an option in your hotel
-- I would like to reserve a meeting room in your hotel
-- I'm looking for an option
-- We are looking for a room
-- We need a meeting room in the one king hotel
-- I need a room in your hotel
-- We are looking for an option in your hotel
-- We are searching a meeting room
-- I am interested in an event room
-- We're looking for an event room in the one king hotel
-- I am looking for a meeting room in your hotel
-- We are looking for a venue in the one king hotel
-- I need a meeting room in your hotel
-- We are searching a room in your hotel
-- I'm looking for a meeting room in the one king hotel
-- We are searching a location
-- I am looking for a location in your hotel
-- I would like to reserve an event room in the one king hotel
-- We're looking for a meeting room
-- We're looking for a room in the one king hotel
-- I am looking for a location
-- I would like to reserve an option in the one king hotel
-- We need a venue
-- I would like to reserve a venue in the one king hotel
-- I am interested in an option in the one king hotel
-- I need a location in your hotel
-- I would like to reserve a room in the one king hotel
-- We're looking for a room in your hotel
-- I am searching a room in the one king hotel
-- We're looking for a location in the one king hotel
-- I would like to reserve a venue in your hotel
-- I need a room in the one king hotel
-- What rooms are available?
-- I am searching a location in your hotel
-- We're looking for an option
-- I'm looking for an event room
-- I need a meeting room
-- We would like to reserve a meeting room
-- We need an option
-- We are searching a venue in your hotel
-- I would like to reserve a location
-- I would like to reserve a meeting room in the one king hotel
-- I am looking for a room in your hotel
-- We are interested in a venue
-- We're looking for a location
-- I have a question about your rooms
-- We need a venue in the one king hotel
-- We are interested in a location in your hotel
-- I am searching a meeting room
-- I would like to reserve an option in your hotel
-- We would like to reserve an event room
-- I need a venue in your hotel
-- I need a venue
-- I'm looking for an event room in the one king hotel
-- I'm looking for a room in your hotel
-- I am interested in a meeting room in your hotel
-- I need an event room in your hotel
-- I would like to reserve an event room in your hotel
-- We are interested in a venue in the one king hotel
-- I am searching a room
-- How many rooms are available?
-- I am interested in a meeting room
-- I need a venue in the one king hotel
-- I am interested in a venue in the one king hotel
-- We would like to reserve a meeting room in the one king hotel
-- I am looking for an option in your hotel
-- I want to hear more about the rooms
-- We are looking for a meeting room in the one king hotel
-- We would like to reserve an event room in the one king hotel
-- I am searching an option in your hotel
-- I am interested in a location
-- I am interested in an event room in the one king hotel
-- I am searching an event room in the one king hotel
-- We're looking for an option in the one king hotel
-- What kind of rooms do you provide?
-- We are interested in a meeting room
-- We are looking for a room in the one king hotel
-- We would like to reserve a location in the one king hotel
-- I am searching a venue in the one king hotel
-- I would like to reserve an option
-- I need an event room
-- We need an event room in the one king hotel
-- I need a meeting room in the one king hotel
-- I need an option in your hotel
-- I am interested in a location in your hotel
-- I'm looking for a venue in the one king hotel
-- I am searching a room in your hotel
-- I am looking for a location in the one king hotel
-- We are interested in a venue in your hotel
-- I am interested in a venue in your hotel
-- I am looking for a venue in the one king hotel
-- I am looking for an event room in your hotel
-- We need an option in the one king hotel
-- We are interested in an option in your hotel
-- I'm looking for a meeting room in your hotel
-- We need a room in the one king hotel
-- I'm looking for a location in your hotel
-- I am interested in an event room in your hotel
-- We need an event room
-- We are searching a meeting room in your hotel
-- We are searching a location in the one king hotel
-- We need a room in your hotel
-- I'm looking for a meeting room
-- I need a location
-- We are searching an event room in the one king hotel
-- We are looking for a meeting room
-- I am interested in a room
-- We're looking for a venue in your hotel
-- We are interested in a location in the one king hotel
-- We would like to reserve a venue in the one king hotel
-- We are searching a room in the one king hotel
-- We would like to reserve a venue in your hotel
-- I am looking for an event room in the one king hotel
-- Tell me about your rooms
-- I am looking for an option
-- We would like to reserve a meeting room in your hotel
-- I am searching an option
-- We are looking for a location in the one king hotel
+- Say something about your rooms
 - How many rooms do you have?
-- I am looking for an option in the one king hotel
-- Do you have any information about your rooms?
-- We're looking for a meeting room in the one king hotel
-- We need an option in your hotel
-- I would like to reserve a venue
-- We would like to reserve a room in your hotel
-- I'm looking for an option in the one king hotel
-- We're looking for a venue in the one king hotel
-- We need a venue in your hotel
-- I am searching a meeting room in the one king hotel
-- I'm looking for a room in the one king hotel
-- We are looking for a venue in your hotel
-- I am searching a location
-- We are interested in a room in your hotel
-- I'd like to know more about the rooms
-- We are interested in a meeting room in the one king hotel
-- We are looking for a room in your hotel
+- We need a meeting room
+- I am interested in an event room in the one king hotel
+- I am searching an option in the one king hotel
+- We are interested in a meeting room
+- I need an option
+- We're looking for an option in the one king hotel
+- We are searching an option
+- We would like to reserve a venue
+- We are looking for an option
+- I need a room in your hotel
+- We need an event room in the one king hotel
+- I'm looking for an event room in the one king hotel
+- I would like to reserve a room
+- I'm looking for an option
+- We are searching an event room in the one king hotel
+- We are looking for a location
+- I would like to reserve an option in the one king hotel
+- I am looking for an event room in the one king hotel
+- We're looking for an option
+- I need an event room
+- I'm looking for a meeting room in the one king hotel
 - I would like to reserve a meeting room
-- How many rooms do you provide?
-- We need a location in the one king hotel
-- We're looking for a location in your hotel
+- We're looking for an event room in the one king hotel
+- I am interested in an option
 - I would like to reserve a location in your hotel
-- We are looking for a location in your hotel
-- We are searching a location in your hotel
-- What rooms do you have?
-- We are searching an option in your hotel
-- Give me information about your rooms
-- We are looking for a meeting room in your hotel
-- I am searching a location in the one king hotel
+- We are interested in a venue
+- We are searching an option in the one king hotel
+- What kind of rooms do you provide?
+- I am looking for an option
+- I would like to reserve a venue in your hotel
+- We are interested in an event room in the one king hotel
+- We are interested in an option
+- We are interested in an option in your hotel
+- I am searching an event room
+- We are looking for an event room
 - I'm looking for a location in the one king hotel
-- We would like to reserve a room in the one king hotel
+- We would like to reserve an event room
 - We need a location in your hotel
-- I am searching a meeting room in your hotel
+- I am searching an event room in your hotel
+- Tell me about your rooms
+- We need an option
+- I need a room
+- I need a venue in your hotel
 - We are interested in a meeting room in your hotel
-- I am looking for a venue in your hotel
+- I am searching a location in your hotel
+- I need an event room in the one king hotel
+- I am searching an option in your hotel
+- I'm looking for an event room
+- We would like to reserve a location in your hotel
+- We are searching a meeting room in your hotel
+- I'm looking for an option in your hotel
+- What rooms are available?
+- I'm looking for a location
+- We would like to reserve a location
+- I would like to reserve an event room
+- We are looking for a room
+- I am searching an event room in the one king hotel
+- I am looking for a venue in the one king hotel
+- I would like to reserve an option
+- I am interested in an option in the one king hotel
+- We're looking for a location in the one king hotel
+- I am looking for an option in your hotel
+- I'm looking for a room
+- We are interested in an option in the one king hotel
+- We need an event room in your hotel
+- I'm looking for a venue
+- We need a venue
+- We are looking for a room in your hotel
+- We need a location in the one king hotel
+- We would like to reserve an event room in your hotel
+- We would like to reserve a meeting room in the one king hotel
+- We are interested in a location in your hotel
+- I would like to reserve a location
+- I am looking for a location in the one king hotel
+- I am looking for a location in your hotel
+- Give me information about your rooms
+- Can you give me information about your rooms?
+- I am searching a location
+- We are looking for an event room in the one king hotel
+- We would like to reserve an event room in the one king hotel
+- We are looking for a meeting room in the one king hotel
+- I would like to reserve a venue in the one king hotel
+- We are searching an event room
+- We're looking for an event room
+- We would like to reserve an option
+- I'm looking for a venue in the one king hotel
+- We are searching a venue in your hotel
+- I am interested in an option in your hotel
+- We're looking for a venue in the one king hotel
+- I am looking for a room
+- We need a meeting room in your hotel
+- We would like to reserve a venue in the one king hotel
+- We are searching a location
+- We need a venue in your hotel
+- We are looking for a location in the one king hotel
+- We are interested in a meeting room in the one king hotel
+- We are interested in an event room
+- What rooms do you provide?
+- I need a location
+- I am interested in a venue in your hotel
+- I need a venue in the one king hotel
+- We're looking for an event room in your hotel
+- I am looking for an event room in your hotel
+- I am searching a room in your hotel
+- We're looking for a meeting room
+- We're looking for a location
+- We are interested in an event room in your hotel
+- I'm looking for a meeting room
+- I am interested in a meeting room in your hotel
+- We need an option in your hotel
+- We're looking for a room
+- What kind of rooms do you have?
+- I am searching an option
+- We are searching a location in the one king hotel
+- I am interested in a room in the one king hotel
+- We need a location
+- I need a meeting room
+- I am looking for a meeting room in your hotel
+- I am looking for a meeting room
+- I need an option in the one king hotel
+- We would like to reserve a meeting room
+- We are interested in a room in the one king hotel
 - We're looking for a meeting room in your hotel
+- We need an event room
+- We would like to reserve a venue in your hotel
+- We need a room in the one king hotel
+- We are searching a room
+- I need a location in your hotel
+- We're looking for an option in your hotel
+- I am interested in a room
+- We need a meeting room in the one king hotel
+- We would like to reserve a location in the one king hotel
+- I am looking for an event room
+- I am searching a venue in your hotel
+- I would like to reserve a room in the one king hotel
+- I am searching a meeting room
+- I am interested in an event room
+- We would like to reserve a room in your hotel
+- I would like to reserve a room in your hotel
+- We are looking for a meeting room
+- I am looking for a venue in your hotel
+- I am interested in a room in your hotel
+- We're looking for a venue
+- I would like to reserve a venue
+- I'm looking for a room in your hotel
+- We would like to reserve an option in your hotel
+- We are looking for an option in the one king hotel
+- We're looking for a room in the one king hotel
+- How many rooms are available?
+- I am looking for a venue
+- We are searching a meeting room
+- We are searching a venue
+- Do you have any information about your rooms?
+- I am looking for a meeting room in the one king hotel
+- I'm looking for a room in the one king hotel
+- I am looking for a room in the one king hotel
+- I need an option in your hotel
+- We are interested in a location
+- I need a meeting room in the one king hotel
+- We are looking for a venue in the one king hotel
+- What kind of rooms are available?
+- I need an event room in your hotel
+- I would like to reserve a meeting room in the one king hotel
+- We are looking for an option in your hotel
+- I am searching a venue
+- I want to hear more about the rooms
+- We are looking for an event room in your hotel
+- I am searching a location in the one king hotel
+- We are looking for a meeting room in your hotel
+- I am interested in a meeting room in the one king hotel
+- I am interested in a venue
+- I'd like to know more about the rooms
+- We would like to reserve an option in the one king hotel
+- We need an option in the one king hotel
+- We're looking for a venue in your hotel
+- We're looking for a location in your hotel
+- We are searching a room in the one king hotel
+- We are searching a room in your hotel
+- We are searching an option in your hotel
+- I have a question about your rooms
+- We need a room
+- I'm looking for an event room in your hotel
+- I am looking for an option in the one king hotel
+- We are interested in a room
+- We need a venue in the one king hotel
+- I am searching a room
+- We are searching a venue in the one king hotel
+- I am looking for a location
+- I would like to reserve a location in the one king hotel
+- What rooms do you have?
+- I am interested in an event room in your hotel
+- I would like to reserve an event room in the one king hotel
+- We would like to reserve a room in the one king hotel
+- We are interested in a room in your hotel
+- I am interested in a location
+- I'm looking for a location in your hotel
+- How many rooms do you provide?
+- We need a room in your hotel
+- I am searching a room in the one king hotel
+- We would like to reserve a room
+- We would like to reserve a meeting room in your hotel
+- I need a room in the one king hotel
+- We are interested in a location in the one king hotel
+- I would like to reserve an event room in your hotel
+- I'm looking for a venue in your hotel
+- We are interested in a venue in your hotel
+- I am interested in a meeting room
+- I need a venue
+- We are interested in a venue in the one king hotel
+- We are searching an event room in your hotel
+- I need a meeting room in your hotel
+- We are searching a location in your hotel
+- We are searching a meeting room in the one king hotel
+- I would like to reserve an option in your hotel
+- I am interested in a location in your hotel
+- We're looking for a room in your hotel
+- I am searching a venue in the one king hotel
+- I am interested in a venue in the one king hotel
+- I am searching a meeting room in the one king hotel
+- I would like to reserve a meeting room in your hotel
+- I need a location in the one king hotel
+- I am searching a meeting room in your hotel
+- We are looking for a location in your hotel
+- I'm looking for an option in the one king hotel
+- I'm looking for a meeting room in your hotel
+- We are looking for a venue in your hotel
+- We are looking for a room in the one king hotel
+- I am looking for a room in your hotel
+- We're looking for a meeting room in the one king hotel
+- I am interested in a location in the one king hotel
 
-## intent:ask_for_alternative_room
-- how is [Gamma](room)?
-- Are there [others](room)?
-- How are the [other](room) meeting rooms?
-- I am interested in room [beta](room)
-- Is option [gamma](room) nice?
-- do you have information about event room [Beta](room)?
-- does the [third](room) have this?
-- Are the [other](room) meeting rooms better?
-- do the [other](room) rooms have it?
-- Give me information about your [other](room) meeting rooms
-- Do you have a [other](room) meeting room?
-- can you provide facts about [it](room)?
-- do you have info about [it](room)?
-- Tell me about [it](room)
-- what about [the](room) event room?
-- can you provide information about the [second](room) one?
-- can you provide facts about the [second](room) one?
-- Is event room [alpha](room) nice?
-- Tell me about room [Gamma](room)
-- do you have info about [this](room)?
-- can we have facts about [it](room)?
-- what about location [Gamma](room)?
-- can we have info about [this](room) location?
-- Give me information on [this](room)
-- can i have info about [this](room) room?
-- Is [it](room) nice?
-- do you have information about the [first](room) one?
-- how is [the](room) room?
-- Give me information about option [Alpha](room)
-- can you provide information about the [second](room) event room?
-- can you provide facts about the [second](room) location?
-- Tell me about the [first](room) room
-- can we have facts about the [second](room) one?
-- what about event room [gamma](room)?
-- Is the [second](room) location good?
-- can we have information about [the](room) option?
-- does the [third](room) one have this?
-- can we have information about [the](room) meeting room?
-- what about [the](room) meeting room?
-- do you have info about meeting room [beta](room)?
-- can we have information about [this](room) option?
-- Is [it](room) better?
-- I am interested in the [last](room) meeting room
-- can we have facts about event room [gamma](room)?
-- can you provide info about [it](room)?
-- what about [it](room)?
-- can you provide information about [it](room)?
-- I want to know about [it](room)
-- Is the [other](room) one better?
-- can i have facts about [this](room)?
-- and [in?] the [first](room) location?
-- Tell me about option [beta](room)
-- do you have facts about [the](room) meeting room?
-- Tell me about [this](room)
-- how about the [third](room) one?
-- can we have facts about option [Gamma](room)?
-- do you have facts about [it](room)?
-- I have a question about your [others](room)
-- and [in?] option [gamma](room)?
-- can you provide facts about the [last](room) one?
-- can you provide facts about [the](room) meeting room?
-- Is [the](room) meeting room nice?
-- I want to know about option [beta](room)
-- what about the [second](room) room?
-- do you have info about [the](room) event room?
-- can we have facts about [alpha](room)?
-- Tell me about the [third](room) one
-- Is [this](room) location nice?
-- can i have info about location [Beta](room)?
-- can you provide information about location [Alpha](room)?
-- how about location [gamma](room)?
-- Tell me about option [gamma](room)
-- can we have information about the [last](room) one?
-- do you have information about [it](room)?
-- how is [the](room) location?
-- can we have information about [it](room)?
-- can you provide info about [this](room) room?
-- I want to know about [the](room) event room
-- how is the [third](room) option?
-- do you have info about the [third](room) one?
-- can you provide information about the [other](room) one?
-- Is option [alpha](room) good?
-- does the [other](room) room have it?
-- I want to know about the [last](room) option
-- can i have information about [it](room)?
-- and [in?] meeting room [Beta](room)?
-- do you have facts about room [Alpha](room)?
-- Is [this](room) meeting room better?
-- can i have facts about [it](room)?
-- how about [the](room) room?
-- Tell me about the [second](room) location
-- can you provide info about [this](room) location?
-- can you provide information about [Alpha](room)?
-- Tell me about the [first](room) one
-- can i have information about event room [Beta](room)?
-- how is event room [Gamma](room)?
-- Is [the](room) location nice?
-- do you have information about room [Alpha](room)?
-- Tell me about [this](room) location
-- how is room [Beta](room)?
-- Are the [others](room) nice?
-- can i have information about option [gamma](room)?
-- Tell me about your [others](room)
-- I am interested in location [Alpha](room)
-- does the [last](room) one have it?
-- do you have facts about room [alpha](room)?
-- how is location [beta](room)?
-- can we have facts about [this](room)?
-- Give me information on [the](room) event room
-- Is [the](room) option nice?
-- what about [this](room) location?
-- can we have facts about [this](room) room?
-- Tell me about location [Alpha](room)
-- can i have info about [the](room) option?
-- I am interested in [Gamma](room)
-- what about option [beta](room)?
-- Is the [last](room) option nice?
-- can you provide info about [the](room) event room?
-- do you have info about [this](room) option?
-- Tell me about [Alpha](room)
-- and [in?] the [third](room) one?
-- do you have information about [this](room) location?
-- can we have facts about [the](room) room?
-- I am interested in [this](room) meeting room
-- can we have facts about [this](room) event room?
-- does the [last](room) have it?
-- can we have info about the [third](room) room?
-- I want to know about room [beta](room)
-- do you have facts about [the](room) location?
-- what about meeting room [beta](room)?
-- Tell me about [the](room) location
-- can i have information about the [last](room) one?
-- can you provide facts about the [first](room) option?
-- Is option [beta](room) better?
-- how is the [other](room) meeting room?
-- Give me information on [the](room) room
-- can you provide facts about the [second](room) option?
-- can you provide facts about [the](room) room?
-- do you have facts about [this](room) meeting room?
-- Tell me about [this](room) meeting room
-- do you have facts about [the](room) event room?
-- how is [the](room) meeting room?
-- Is [this](room) meeting room good?
-- I am interested in [it](room)
-- I'd like to know more about the [others](room)
-- what about the [third](room) one?
-- can we have information about location [alpha](room)?
-- Give me information about [this](room) room
-- does the [other](room) have it?
-- do you have info about [the](room) meeting room?
-- how about meeting room [Alpha](room)?
-- can you provide information about option [gamma](room)?
-- can we have facts about event room [Beta](room)?
-- I am interested in [this](room) room
-- can you provide facts about [the](room) option?
-- can we have facts about the [last](room) one?
-- can we have info about [the](room) room?
-- and [in?] [this](room) option?
-- Is the [first](room) one good?
-- can i have info about [it](room)?
-- I want to know about event room [Gamma](room)
-- can you provide info about meeting room [Alpha](room)?
-- can you provide info about event room [Alpha](room)?
-- what about [Gamma](room)?
-- I want to know about [the](room) option
-- Is [the](room) location better?
-- do you have facts about the [first](room) location?
-- and [in?] event room [beta](room)?
-- does the [second](room) one have it?
-- I am interested in event room [beta](room)
-- Do you have a [other](room) option?
-- can we have information about meeting room [Alpha](room)?
-- Is room [Alpha](room) better?
-- can you provide facts about room [alpha](room)?
-- how about the [third](room) meeting room?
-- Give me information on [gamma](room)
-- can i have information about the [first](room) option?
-- how about [the](room) option?
-- Is the [other](room) one nice?
-- do you have facts about option [Beta](room)?
-- what about the [second](room) one?
-- can i have information about [the](room) option?
-- can you provide info about [beta](room)?
-- Is [Gamma](room) better?
-- I have a question about your [other](room) options
-- Are the [others](room) good?
-- do you have info about the [other](room) one?
-- Give me information on [it](room)
-- do you have facts about option [gamma](room)?
-- and [in?] [the](room) event room?
-- Is the [last](room) location good?
-- do you have facts about location [Alpha](room)?
-- can you provide info about the [last](room) meeting room?
-- Give me information about location [beta](room)
-- Is [the](room) room good?
-- can you provide information about [the](room) meeting room?
-- I am interested in the [third](room) location
-- can you provide info about [the](room) room?
-- and [in?] [it](room)?
-- can you provide facts about the [last](room) event room?
-- how about [it](room)?
-- Give me information on the [third](room) meeting room
-- do you have info about the [other](room) event room?
-- Give me information about [gamma](room)
-- Is room [Alpha](room) nice?
-- can we have info about [the](room) location?
+## intent:ask_for_room
 - does the [other](room) have this?
-- can you provide info about [this](room) meeting room?
-- do you have info about [alpha](room)?
-- Tell me about the [third](room) location
-- do you have information about [this](room) room?
-- Is [this](room) event room better?
-- I want to know about meeting room [Beta](room)
-- and [in?] location [alpha](room)?
-- I want to know about [the](room) meeting room
-- Is [this](room) nice?
-- how is [this](room) meeting room?
-- do you have facts about [this](room)?
-- I want to know about option [gamma](room)
-- Give me information about your [others](room)
-- can you provide facts about [this](room) meeting room?
-- can we have info about meeting room [gamma](room)?
-- Is [alpha](room) better?
-- Give me information about the [first](room) room
-- how about the [second](room) room?
-- does the [first](room) one have it?
-- can you provide info about [this](room)?
-- I am interested in [this](room) location
-- can you provide info about [the](room) option?
-- how is [this](room) event room?
-- Tell me about event room [Alpha](room)
-- what about the [other](room) one?
-- can you provide facts about [the](room) location?
-- Give me information about [the](room) meeting room
-- can i have info about the [third](room) option?
-- Is event room [beta](room) better?
-- and [in?] the [other](room) one?
-- can you provide info about option [Gamma](room)?
-- can you provide facts about the [other](room) one?
-- how is the [second](room) one?
-- Is event room [gamma](room) nice?
-- Tell me about room [Alpha](room)
-- can we have info about the [third](room) meeting room?
-- and [in?] room [Gamma](room)?
-- do you have information about [the](room) location?
-- can you provide information about [this](room) meeting room?
-- Is location [Gamma](room) nice?
-- can i have information about the [first](room) one?
-- can you provide information about [the](room) event room?
-- I want to know about the [other](room) one
-- do you have information about room [beta](room)?
-- can i have information about [Beta](room)?
-- Is the [last](room) one good?
-- How are the [others](room)?
-- I want to know about the [third](room) one
-- Are the [others](room) better?
-- do the [other](room) meeting rooms have this?
-- how about [this](room)?
-- can you provide information about [Beta](room)?
-- do you have facts about [this](room) room?
-- I am interested in [the](room) event room
-- can you provide facts about the [other](room) event room?
-- and [in?] location [beta](room)?
-- can i have information about [this](room) location?
-- does the [last](room) option have it?
-- I am interested in the [third](room) event room
-- and [in?] [this](room)?
-- can i have facts about [this](room) event room?
-- Tell me about the [last](room) option
-- can you provide facts about the [other](room) location?
-- do you have information about the [first](room) option?
-- can you provide information about room [gamma](room)?
-- can we have info about option [alpha](room)?
-- Give me information about [this](room) event room
-- can we have info about the [first](room) event room?
-- how about the [first](room) event room?
-- do you have info about the [second](room) meeting room?
-- I am interested in room [Gamma](room)
-- what about [this](room) option?
-- do you have information about option [beta](room)?
-- can you provide information about [beta](room)?
-- does the [first](room) one have this?
-- what about [the](room) location?
-- do you have information about [the](room) event room?
-- can you provide info about meeting room [alpha](room)?
-- can you provide info about the [third](room) event room?
-- how is the [other](room) one?
-- can you provide facts about [this](room)?
-- Is [the](room) event room good?
-- can you provide facts about the [second](room) event room?
-- I have a question about your [other](room) rooms
-- can i have facts about [Alpha](room)?
-- I want to know about [the](room) location
-- and [in?] event room [alpha](room)?
-- Is [gamma](room) good?
-- I am interested in [the](room) room
-- can you provide facts about [this](room) location?
-- how is [this](room) option?
-- can we have information about [this](room) meeting room?
-- Tell me about [the](room) option
-- Are there a [other](room) room?
-- Is [it](room) good?
-- can we have information about [the](room) event room?
-- Tell me about [the](room) room
-- can you provide info about the [second](room) one?
-- do you have facts about [the](room) room?
-- Is event room [Beta](room) better?
-- Give me information about the [last](room) location
-- what about location [Alpha](room)?
-- can i have facts about the [first](room) one?
-- I am interested in [the](room) location
-- what about [the](room) option?
-- can i have facts about [the](room) event room?
-- Give me information about [it](room)
-- do you have info about [this](room) meeting room?
-- what about [this](room)?
-- can i have information about [beta](room)?
-- does the [third](room) location have this?
-- how is [it](room)?
-- can i have facts about event room [beta](room)?
-- do you have info about [the](room) option?
-- Give me information about option [gamma](room)
-- do you have information about the [last](room) one?
-- I have a question about your [other](room) meeting rooms
-- can i have information about [this](room) option?
-- Is [this](room) event room good?
-- can you provide facts about option [Gamma](room)?
-- I want to know about [this](room) event room
-- can you provide information about location [beta](room)?
-- how is the [second](room) location?
-- can i have facts about the [third](room) one?
-- Is the [other](room) event room good?
-- I am interested in option [beta](room)
-- Tell me about the [second](room) option
-- how is event room [Alpha](room)?
-- Is the [third](room) location good?
-- can you provide info about [this](room) event room?
-- I want to know about [this](room) meeting room
-- can i have facts about the [first](room) meeting room?
-- and [in?] [the](room) option?
-- do you have facts about [this](room) option?
-- Is [this](room) option nice?
-- can you provide info about [alpha](room)?
-- and [in?] the [last](room) one?
-- can you provide facts about meeting room [Beta](room)?
-- Is the [first](room) meeting room good?
-- do you have information about the [other](room) one?
-- can i have facts about [the](room) option?
-- Give me information about the [other](room) meeting room
-- do you have facts about [the](room) option?
-- and [in?] the [second](room) meeting room?
-- Do you have [other](room) event rooms?
-- do the [other](room) locations have this?
-- Give me information about your [other](room) locations
-- do you have info about [the](room) room?
-- can i have info about the [third](room) one?
-- I want to know about the [first](room) one
-- Is the [third](room) option better?
-- do you have information about the [last](room) event room?
-- what about the [last](room) room?
-- do you have information about [this](room)?
-- can you provide information about the [first](room) event room?
-- can you provide info about location [gamma](room)?
-- do you have information about the [third](room) room?
-- Is location [beta](room) better?
-- I want to know about [this](room) room
-- can you provide information about [this](room) location?
-- do you have information about [gamma](room)?
-- do you have info about the [third](room) room?
-- can we have facts about room [alpha](room)?
-- and [in?] option [beta](room)?
-- can we have facts about [this](room) location?
-- do you have info about [Beta](room)?
-- Is [this](room) good?
-- can you provide information about location [Beta](room)?
-- can we have facts about location [Gamma](room)?
-- does the [second](room) one have this?
-- do you have facts about location [alpha](room)?
-- can you provide information about meeting room [Beta](room)?
-- do you have information about [this](room) option?
-- can you provide facts about the [third](room) location?
-- I want to know about the [other](room) option
-- I'd like to know more about the [other](room) meeting rooms
-- Is [alpha](room) nice?
-- can we have facts about location [alpha](room)?
-- Give me information about meeting room [gamma](room)
-- can i have info about [the](room) meeting room?
-- what about [this](room) event room?
-- can you provide information about room [Gamma](room)?
-- I am interested in [this](room)
-- Is [the](room) event room better?
-- can i have information about [the](room) room?
-- can you provide information about the [other](room) location?
-- can we have facts about meeting room [beta](room)?
-- Is the [first](room) event room better?
-- I am interested in the [last](room) location
-- can you provide facts about room [beta](room)?
-- can you provide information about event room [Gamma](room)?
-- Is [the](room) meeting room better?
-- how about [the](room) meeting room?
-- can i have info about room [Beta](room)?
-- Tell me about event room [beta](room)
-- Is [the](room) option good?
-- can you provide facts about the [first](room) event room?
-- Give me information about [this](room)
-- can you provide facts about [Alpha](room)?
-- how about meeting room [alpha](room)?
-- Is the [first](room) location nice?
-- I am interested in event room [Gamma](room)
+- Is room [Beta](room) good?
+- Tell me about [the](room) event room
+- do the [other](room) event rooms have it?
+- Are there [other](room) event rooms?
+- Are the [other](room) rooms nice?
 - Are there a [other](room) meeting room?
-- can you provide info about [Beta](room)?
-- can we have info about [this](room) event room?
-- Tell me about the [other](room) one
-- how is [this](room) room?
-- Give me information about event room [gamma](room)
-- I want to hear more about the [others](room)
-- Is location [gamma](room) better?
-- can you provide facts about the [last](room) option?
-- can you provide information about meeting room [Gamma](room)?
-- I am interested in [this](room) option
-- how about [this](room) option?
-- can you provide info about the [other](room) meeting room?
-- Is [this](room) option good?
-- Tell me about [this](room) event room
-- can you provide facts about location [alpha](room)?
-- how about meeting room [Gamma](room)?
-- does the [third](room) have it?
-- can you provide information about the [last](room) meeting room?
-- Tell me about the [third](room) event room
-- can i have info about room [alpha](room)?
-- can we have info about meeting room [beta](room)?
-- I am interested in [the](room) option
-- I am interested in the [third](room) one
-- Is the [second](room) location better?
-- and [in?] [this](room) room?
-- can you provide information about [this](room)?
-- Give me information on [the](room) option
-- does the [second](room) option have it?
-- can i have information about option [alpha](room)?
-- can you provide info about the [last](room) room?
-- do the [other](room) meeting rooms have it?
-- I am interested in room [gamma](room)
-- Do you have [other](room) options?
-- Is [the](room) room better?
-- do you have info about [gamma](room)?
-- can we have information about [this](room) room?
-- I want to know about the [third](room) meeting room
-- can you provide info about location [beta](room)?
-- Is [the](room) event room nice?
-- Tell me about meeting room [Beta](room)
-- can you provide facts about location [Alpha](room)?
-- does the [first](room) room have it?
-- I want to know about location [alpha](room)
-- Is [Alpha](room) nice?
-- can i have facts about [this](room) location?
-- and [in?] meeting room [Alpha](room)?
-- Give me information about event room [alpha](room)
-- can i have facts about option [Beta](room)?
-- can we have information about the [second](room) room?
-- I am interested in event room [Beta](room)
-- Is option [alpha](room) nice?
-- Tell me about room [alpha](room)
-- can i have facts about the [last](room) location?
-- and [in?] event room [Gamma](room)?
-- can we have info about event room [beta](room)?
+- I have a question about your [other](room) options
+- How are the [other](room) rooms?
+- can you provide info about the [third](room) meeting room?
+- how is [it](room)?
+- do you have facts about [it](room)?
+- can i have information about [the](room) room?
+- Tell me about event room [alpha](room)
+- do you have information about the [first](room) event room?
+- how is [the](room) option?
+- can you provide info about [this](room) meeting room?
+- Is [the](room) location better?
+- I am interested in room [Alpha](room)
+- do you have facts about room [alpha](room)?
+- can you provide info about [it](room)?
+- what about [this](room) room?
+- can we have info about [the](room) option?
+- I am interested in [this](room) meeting room
+- do you have information about [it](room)?
+- Is the [third](room) location good?
+- and [in?] [it](room)?
+- can you provide information about option [Alpha](room)?
+- Tell me about [this](room) option
+- do you have facts about [the](room) room?
+- can i have info about option [Gamma](room)?
+- I want to know about the [third](room) one
+- Is [it](room) nice?
+- do you have info about [it](room)?
+- how about the [second](room) room?
 - do you have information about the [second](room) one?
-- Give me information on the [other](room) one
-- Tell me about the [second](room) event room
-- do you have information about [the](room) room?
-- can i have information about [Alpha](room)?
-- do you have facts about meeting room [alpha](room)?
-- I am interested in option [Gamma](room)
-- can we have facts about [the](room) location?
-- can you provide facts about the [first](room) one?
-- I'd like to know more about the [other](room) locations
+- does the [third](room) one have it?
+- do you have information about [the](room) location?
+- I want to know about the [second](room) event room
+- and [in?] meeting room [gamma](room)?
+- can we have facts about [it](room)?
+- do you have facts about [this](room) meeting room?
+- Is the [second](room) one better?
+- I am interested in [the](room) option
+- do you have facts about the [second](room) one?
+- what about [the](room) event room?
+- can you provide info about [this](room)?
+- I am interested in [the](room) meeting room
+- do you have information about room [Gamma](room)?
+- Is [it](room) better?
+- how is the [third](room) room?
+- can i have info about room [Alpha](room)?
+- I am interested in location [Beta](room)
+- can i have facts about [the](room) option?
+- can you provide facts about [this](room) room?
+- can we have info about [this](room) event room?
+- I am interested in the [last](room) option
+- can we have information about the [second](room) location?
+- Say something about your [others](room)
+- do you have info about [Gamma](room)?
+- Give me information about the [first](room) one
+- does the [other](room) one have this?
+- and [in?] the [last](room) event room?
+- can you provide information about the [third](room) one?
+- do you have information about [this](room)?
+- Is [this](room) room nice?
+- Give me information on the [other](room) location
+- do you have info about option [alpha](room)?
+- how about event room [beta](room)?
+- can you provide facts about the [other](room) location?
+- can we have information about [this](room) location?
+- Tell me about [the](room) room
+- Is [the](room) option good?
+- can you provide information about option [gamma](room)?
+- how about [this](room) meeting room?
+- can you provide info about [this](room) location?
+- Give me information about [the](room) event room
+- can you provide facts about the [last](room) one?
 - do you have information about [the](room) option?
-- how about [this](room) room?
-- Is location [Beta](room) better?
-- can we have info about room [Beta](room)?
-- do you have facts about location [Beta](room)?
-- can i have info about [this](room) option?
-- can we have facts about the [last](room) meeting room?
-- can i have info about [the](room) location?
-- Is meeting room [gamma](room) better?
-- does the [last](room) one have this?
-- Give me information on option [Gamma](room)
-- can we have info about room [alpha](room)?
-- can we have facts about [the](room) meeting room?
-- Give me information about [this](room) meeting room
-- can we have facts about [the](room) event room?
-- how about event room [Gamma](room)?
-- Is meeting room [Gamma](room) better?
+- Is option [beta](room) better?
+- how about [it](room)?
+- do you have facts about location [beta](room)?
+- I am interested in [it](room)
+- and [in?] [the](room) location?
+- can we have information about [the](room) option?
+- can you provide information about [it](room)?
+- Is [the](room) meeting room good?
+- does the [last](room) one have it?
+- do you have info about [gamma](room)?
+- how about option [gamma](room)?
+- do you have information about location [alpha](room)?
+- can we have information about [it](room)?
+- Tell me about the [first](room) one
+- Is [the](room) option better?
+- do you have facts about [this](room) location?
+- can i have facts about [this](room) option?
+- how about [the](room) location?
+- Tell me about event room [Gamma](room)
+- do you have info about room [beta](room)?
+- can i have info about [this](room) event room?
+- can you provide facts about [it](room)?
+- how is room [alpha](room)?
+- Give me information on location [alpha](room)
+- Is [this](room) event room better?
+- can we have information about [this](room) room?
+- do you have info about [the](room) meeting room?
+- I want to know about [beta](room)
+- how is the [other](room) option?
+- Is [this](room) option good?
+- I'd like to know more about the [others](room)
+- Are the [others](room) good?
+- can you provide information about [the](room) room?
+- can you provide facts about [this](room) meeting room?
+- does the [other](room) room have it?
+- what about [this](room) location?
+- I want to know about [it](room)
 - can you provide facts about [the](room) event room?
-- do you have information about [this](room) meeting room?
+- can i have information about [this](room) event room?
+- and [in?] meeting room [Gamma](room)?
+- I want to know about the [last](room) one
+- can you provide facts about the [last](room) event room?
+- can we have facts about [the](room) location?
+- can i have info about meeting room [Alpha](room)?
+- Give me information on [it](room)
+- and [in?] room [Beta](room)?
+- Is [the](room) room good?
+- do you have information about option [alpha](room)?
+- I want to know about [this](room) room
+- can we have info about the [third](room) location?
+- Is room [gamma](room) good?
+- can we have facts about the [third](room) room?
+- I am interested in the [last](room) one
+- can you provide info about room [alpha](room)?
+- and [in?] the [first](room) one?
+- can you provide info about location [beta](room)?
+- can you provide information about event room [Alpha](room)?
+- I want to know about [this](room)
+- Is the [third](room) option good?
+- can you provide information about [this](room) room?
+- and [in?] [this](room)?
+- can you provide facts about [the](room) option?
+- Give me information about the [last](room) one
+- do you have info about [this](room) option?
+- can you provide information about [gamma](room)?
+- I want to know about [the](room) location
+- how about [the](room) event room?
+- Is meeting room [gamma](room) better?
+- can you provide information about [alpha](room)?
+- how about [the](room) meeting room?
+- do you have facts about [this](room) room?
+- Is [the](room) event room good?
+- can we have info about [the](room) meeting room?
+- Give me information on [this](room)
+- can you provide information about room [gamma](room)?
+- can we have facts about [the](room) meeting room?
+- and [in?] [the](room) meeting room?
+- Do you have [other](room) rooms?
+- Give me information about your [others](room)
+- do the [others](room) have this?
+- can i have info about event room [Gamma](room)?
+- Tell me about [this](room)
+- can i have info about location [gamma](room)?
+- Is [this](room) location better?
+- does the [first](room) option have this?
+- can you provide facts about [the](room) location?
+- do you have info about [the](room) event room?
+- and [in?] room [gamma](room)?
+- I am interested in [this](room) location
+- Is [the](room) location good?
+- do you have info about the [last](room) one?
+- can we have facts about [this](room)?
+- Tell me about [alpha](room)
+- can i have info about [the](room) location?
+- how is room [gamma](room)?
+- Is [it](room) good?
+- do you have information about [this](room) option?
+- I am interested in the [second](room) event room
+- and [in?] [this](room) meeting room?
+- do you have facts about the [other](room) one?
+- do you have information about [the](room) meeting room?
+- how is [this](room) location?
+- does the [other](room) one have it?
+- I want to know about [the](room) meeting room
+- can we have information about the [last](room) one?
+- do you have information about [this](room) event room?
+- Is the [other](room) one good?
+- Give me information about [it](room)
+- can we have information about the [third](room) one?
+- what about event room [beta](room)?
+- do you have info about [the](room) location?
+- can i have information about the [third](room) one?
+- Is event room [alpha](room) better?
+- I want to know about [the](room) room
+- can i have information about [this](room) meeting room?
+- how is the [last](room) one?
+- I am interested in location [Gamma](room)
+- Are the [other](room) event rooms better?
+- can you provide info about [this](room) option?
+- can you provide information about the [other](room) one?
+- how is the [first](room) one?
+- I want to know about meeting room [alpha](room)
+- can you provide facts about [the](room) meeting room?
+- does the [last](room) have this?
+- can you provide facts about [this](room)?
+- Is the [second](room) location better?
+- can you provide info about [the](room) room?
+- I want to know about [this](room) meeting room
+- can you provide information about location [Gamma](room)?
+- do you have information about the [other](room) option?
+- Tell me about [the](room) meeting room
+- what about [the](room) meeting room?
+- can you provide info about the [other](room) one?
+- can you provide facts about room [Alpha](room)?
+- do you have facts about the [last](room) one?
+- how about [Alpha](room)?
+- can you provide facts about the [other](room) option?
+- can you provide information about [the](room) meeting room?
+- Is meeting room [Gamma](room) better?
+- can you provide info about the [last](room) room?
+- Give me information about [the](room) location
+- can we have information about option [beta](room)?
+- how is [this](room) room?
+- I am interested in [the](room) event room
+- Is option [Gamma](room) good?
+- does the [first](room) have it?
+- can you provide facts about event room [Beta](room)?
+- Tell me about [the](room) location
+- what about the [third](room) one?
+- can you provide info about location [Beta](room)?
+- can you provide info about location [Alpha](room)?
+- what about room [gamma](room)?
+- can i have facts about [it](room)?
+- Give me information on [the](room) meeting room
+- can i have facts about [the](room) meeting room?
+- Is room [beta](room) nice?
+- can you provide info about the [first](room) event room?
+- what about the [second](room) location?
 - can you provide information about [this](room) event room?
-- Tell me about the [second](room) one
+- I want to know about event room [Beta](room)
+- can you provide information about option [Gamma](room)?
+- Is location [beta](room) good?
+- does the [first](room) event room have this?
+- I am interested in [the](room) room
+- what about the [second](room) room?
 - Is the [last](room) meeting room nice?
-- can we have information about meeting room [alpha](room)?
+- can you provide info about the [first](room) one?
+- Give me information on the [second](room) option
+- do you have facts about meeting room [alpha](room)?
+- I am interested in the [last](room) event room
+- can you provide facts about the [last](room) meeting room?
+- what about [the](room) option?
+- I am interested in option [beta](room)
+- Is [Gamma](room) good?
+- how is [this](room) meeting room?
+- can you provide info about room [gamma](room)?
 - do you have information about the [third](room) location?
+- Give me information about [the](room) option
+- what about [this](room) option?
+- does the [second](room) one have it?
+- Is [the](room) meeting room nice?
+- can you provide info about [the](room) option?
+- I want to know about event room [gamma](room)
+- do you have info about the [third](room) one?
+- and [in?] event room [alpha](room)?
+- do you have facts about the [second](room) meeting room?
+- Is the [first](room) option better?
+- can we have info about [it](room)?
+- what about the [third](room) event room?
+- I am interested in location [gamma](room)
+- Is [this](room) location nice?
+- Are the [others](room) better?
+- How are the [other](room) locations?
+- Do you have [others](room)?
+- I am interested in [this](room) event room
+- can you provide info about [the](room) meeting room?
+- can we have facts about the [first](room) location?
+- can we have facts about [the](room) option?
+- can you provide information about location [alpha](room)?
+- how about [this](room) location?
+- Is room [Alpha](room) good?
+- can you provide facts about [Beta](room)?
+- does the [second](room) meeting room have this?
+- Tell me about [this](room) room
+- can you provide info about meeting room [gamma](room)?
+- can i have facts about the [first](room) location?
+- I want to know about the [second](room) one
+- can i have facts about the [third](room) meeting room?
+- Is the [third](room) location nice?
+- Tell me about the [other](room) meeting room
+- can i have facts about the [first](room) one?
+- can you provide information about [the](room) location?
+- how about the [other](room) one?
+- I want to know about [the](room) option
+- Is [this](room) option better?
+- how is [the](room) event room?
+- Is event room [beta](room) good?
+- does the [last](room) have it?
+- how about [the](room) option?
+- can we have info about the [last](room) event room?
+- can you provide facts about location [beta](room)?
+- Is the [last](room) location good?
+- how is the [other](room) one?
+- Tell me about the [second](room) event room
+- can we have info about location [alpha](room)?
+- do you have info about option [beta](room)?
+- how is [the](room) room?
+- do you have info about [this](room) meeting room?
+- Give me information about [this](room) event room
+- Is [this](room) better?
+- can you provide facts about the [last](room) room?
+- I want to hear more about the [other](room) options
+- what about [the](room) room?
+- do you have information about [this](room) location?
+- Is [this](room) location good?
+- can you provide facts about meeting room [Alpha](room)?
+- Give me information about [this](room)
+- do you have info about [this](room) location?
+- can you provide info about [gamma](room)?
+- Are there a [other](room) option?
+- I am interested in room [gamma](room)
+- can you provide information about [this](room) location?
+- can we have facts about meeting room [Beta](room)?
+- can you provide info about the [third](room) room?
+- and [in?] [the](room) event room?
+- Give me information on [the](room) event room
+- do you have facts about room [gamma](room)?
+- Is meeting room [alpha](room) good?
+- can you provide facts about [this](room) event room?
+- can you provide information about [this](room) meeting room?
+- does the [second](room) have this?
+- Tell me about [the](room) option
+- can i have facts about the [third](room) option?
+- do you have facts about [Alpha](room)?
+- what about room [beta](room)?
+- Is [the](room) meeting room better?
+- do you have facts about [this](room) option?
+- I want to know about [the](room) event room
+- and [in?] the [third](room) one?
+- can we have info about option [Alpha](room)?
+- Are the [other](room) rooms good?
+- do you have information about event room [gamma](room)?
+- Is the [other](room) one better?
+- Tell me about [it](room)
+- and [in?] option [Gamma](room)?
+- I am interested in location [beta](room)
+- Give me information on [this](room) event room
+- does the [third](room) option have this?
+- can you provide facts about the [first](room) one?
+- what about [it](room)?
+- can we have info about room [gamma](room)?
+- Is event room [beta](room) better?
+- do you have information about the [last](room) event room?
+- Tell me about [this](room) meeting room
+- can i have info about location [beta](room)?
+- how about the [second](room) one?
+- do you have information about the [last](room) one?
+- do you have facts about [the](room) event room?
+- does the [other](room) option have it?
+- Is [Alpha](room) good?
+- Give me information on room [alpha](room)
+- how is the [third](room) one?
+- do you have information about meeting room [beta](room)?
+- Is the [second](room) one nice?
+- can i have information about [this](room) room?
+- I want to hear more about the [other](room) meeting rooms
+- how about [this](room) event room?
+- do the [others](room) have it?
+- I am interested in the [third](room) event room
+- Give me information on [this](room) room
+- do you have information about the [third](room) one?
+- Give me information about option [Alpha](room)
+- Is option [Gamma](room) better?
+- can you provide facts about the [third](room) one?
+- do you have info about [the](room) room?
+- I want to know about [this](room) event room
+- can you provide info about the [second](room) one?
+- what about location [Gamma](room)?
+- can we have facts about [the](room) event room?
+- Give me information about the [second](room) meeting room
+- what about [this](room) event room?
+- do you have information about the [second](room) option?
+- can i have information about [this](room)?
+- Tell me about meeting room [Gamma](room)
 - Is [this](room) event room nice?
+- do you have facts about event room [beta](room)?
+- can i have info about [this](room)?
+- how about the [other](room) room?
+- can you provide info about option [alpha](room)?
+- I am interested in the [other](room) one
+- can i have information about the [third](room) location?
+- can you provide information about meeting room [alpha](room)?
+- do you have information about [this](room) meeting room?
+- do you have information about [alpha](room)?
+- can we have info about [Beta](room)?
+- Are the [other](room) meeting rooms better?
+- can i have facts about [Gamma](room)?
+- how about [beta](room)?
+- I want to know about the [other](room) event room
+- do you have info about [the](room) option?
+- Is option [Beta](room) nice?
+- how about the [second](room) meeting room?
+- I want to know about [this](room) option
+- can you provide facts about [the](room) room?
+- can you provide information about [the](room) event room?
+- can we have info about [this](room) meeting room?
+- how is [Beta](room)?
+- does the [other](room) have it?
+- Is [the](room) option nice?
+- do you have information about the [second](room) event room?
+- can you provide info about [the](room) event room?
+- do you have info about the [third](room) meeting room?
+- can i have information about [this](room) option?
+- can we have info about location [gamma](room)?
+- what about meeting room [Alpha](room)?
+- Is [this](room) meeting room good?
+- can i have info about room [beta](room)?
+- I want to know about the [second](room) meeting room
+- can you provide facts about the [first](room) event room?
+- how about room [Gamma](room)?
+- Do you have a [other](room) meeting room?
+- do you have facts about event room [alpha](room)?
+- can i have facts about meeting room [gamma](room)?
+- I am interested in [this](room)
+- Tell me about your [others](room)
+- I want to know about [Beta](room)
+- can i have info about the [last](room) meeting room?
+- do you have information about option [Gamma](room)?
+- can i have information about [this](room) location?
+- Tell me about location [Gamma](room)
+- can you provide information about the [second](room) one?
+- can i have facts about [the](room) room?
+- can i have info about [this](room) room?
+- I am interested in event room [Alpha](room)
+- how is [the](room) location?
+- can you provide info about [this](room) event room?
+- Tell me about the [other](room) room
+- do you have info about the [second](room) room?
+- can i have information about the [second](room) meeting room?
+- and [in?] location [Gamma](room)?
+- I am interested in the [last](room) location
+- Is the [last](room) one good?
+- what about room [Beta](room)?
+- can we have info about meeting room [Alpha](room)?
+- Is the [first](room) one better?
+- Tell me about the [other](room) one
+- can we have info about meeting room [alpha](room)?
+- can we have information about [the](room) event room?
+- I want to know about meeting room [Alpha](room)
+- and [in?] room [beta](room)?
+- do you have information about the [second](room) room?
+- can we have facts about [this](room) meeting room?
+- can we have information about the [other](room) option?
+- what about the [last](room) one?
+- How are the [other](room) event rooms?
+- do you have information about [gamma](room)?
+- Do you have [other](room) meeting rooms?
+- do the [other](room) rooms have this?
+- do you have info about [this](room)?
+- can you provide info about meeting room [Alpha](room)?
+- Is [the](room) location nice?
+- can you provide facts about [this](room) option?
+- what about [the](room) location?
+- can i have info about the [second](room) location?
+- I am interested in room [beta](room)
+- Is [the](room) event room better?
+- does the [third](room) one have this?
+- I am interested in option [Alpha](room)
+- can you provide information about option [alpha](room)?
+- and [in?] the [second](room) location?
+- I am interested in [this](room) option
+- I want to know about option [alpha](room)
+- Is [this](room) meeting room better?
+- Tell me about option [Gamma](room)
+- can i have facts about [this](room)?
+- and [in?] [this](room) room?
+- does the [other](room) room have this?
+- I have a question about your [others](room)
+- I am interested in [this](room) room
+- can i have info about event room [Alpha](room)?
+- Give me information on event room [Alpha](room)
+- how is the [second](room) one?
+- Tell me about event room [gamma](room)
+- do you have facts about [this](room)?
+- can you provide facts about the [first](room) meeting room?
+- does the [last](room) option have it?
+- Is the [other](room) one nice?
+- and [in?] [this](room) event room?
+- can we have information about event room [beta](room)?
+- can i have info about [it](room)?
+- I am interested in [Beta](room)
+- can i have facts about option [beta](room)?
+- do you have facts about the [third](room) one?
+- I am interested in [gamma](room)
+- do you have facts about location [Beta](room)?
+- Tell me about meeting room [Alpha](room)
+- do you have information about [the](room) room?
+- can i have info about the [second](room) one?
+- how about meeting room [Beta](room)?
+- Tell me about [this](room) location
+- how is location [Gamma](room)?
 
 ## intent:ask_for_room_atmosphere
-- what's the [first](room) room like?
-- do you have a good vibe in [alpha](room)?
-- what's the atmosphere like in [Beta](room)?
-- What does [this](room) one look like?
-- what is the vibe in the [others](room) ?
-- Which room is the nicest?
+- what is the atmosphere like in the [others](room)?
+- what's the vibe in the [other](room) ones ?
+- Is [this](room) room nice?
 - Is [it](room) the nicest room?
-- Which room has a nice atmosphere?
-- Does the [other](room) one have a good atmosphere?
+- Which room is the nicest?
+- I search for an event room with a nice atmosphere
+- Which room has a good atmosphere?
 - Is it nice in the [others](room)?
-- I look for an option with a nice atmosphere
-- Is the [other](room) one nice?
-- what is the vibe in the [other](room) ones ?
-- what's the vibe like in the [other](room) rooms?
-- I need a room with a good atmosphere
-- do you have a nice atmosphere in the [other](room) ones?
-- what's the vibe in [it](room) ?
-- what's the vibe in the [others](room)?
-- I want a meeting room with a nice atmosphere
-- do you have a good vibe in the [others](room)?
-- Does [this](room) room have a good vibe?
-- what is the atmosphere in [the](room) room ?
-- I 'd like a meeting room with a good atmosphere
+- Does the [first](room) one have a good vibe?
+- what is [this](room) one like?
+- is there a good vibe in [it](room)?
+- What does [Alpha](room) look like?
+- what's the atmosphere in the [other](room) ones?
+- what's the atmosphere in [the](room) room ?
+- we need a venue with a good vibe
+- is there a good vibe in the [others](room)?
+- what is the vibe in [the](room) room like?
+- what is the vibe like in the [others](room)?
+- we would like a venue with a nice atmosphere
+- is there a nice atmosphere in the [other](room) rooms?
+- Does the [last](room) room have a good atmosphere?
+- what is the vibe like in room [beta](room)?
+- what's the atmosphere in the [others](room) like?
+- we want a location with a good atmosphere
+- what's the atmosphere in the [third](room) room ?
+- what's the atmosphere like in [the](room) room?
+- do you have a good vibe in [Alpha](room)?
+- what is room [gamma](room) like?
+- we 'd like an event room with a good vibe
+- what is the vibe in the [other](room) rooms like?
+- do you have a good vibe in room [Gamma](room)?
+- we 'd like an event room with a good atmosphere
+- Does room [Beta](room) have a nice atmosphere?
+- what is the atmosphere in the [others](room) ?
+- what's the vibe like in the [last](room) one?
+- do you have a good vibe in the [other](room) ones?
+- I want a room with a good vibe
+- what is the vibe in the [other](room) rooms ?
+- what is the atmosphere in the [others](room)?
+- I want an event room with a nice atmosphere
+- Is it nice in the [other](room) rooms?
+- is there a nice atmosphere in [the](room) room?
+- what's the atmosphere in the [third](room) one like?
+- what's the vibe like in the [other](room) ones?
+- What does the [first](room) room look like?
+- Is [it](room) nice?
+- we 'd like an event room with a nice atmosphere
+- what is [the](room) room like?
+- Does [the](room) room have a nice atmosphere?
+- what's the atmosphere in [the](room) room?
+- what's the atmosphere in the [second](room) room?
 - what's the atmosphere in the [others](room) ?
+- I would like a location with a good vibe
+- what is the atmosphere like in the [other](room) ones?
+- what's the vibe in [this](room) ?
+- I need a meeting room with a nice atmosphere
+- Does [alpha](room) have a good atmosphere?
+- do you have a nice atmosphere in [this](room) one?
+- what's the vibe in the [others](room) like?
+- we look for a location with a good atmosphere
+- we search for an option with a nice atmosphere
+- is there a good atmosphere in the [others](room)?
+- what's [it](room) like?
+- what's the atmosphere like in the [first](room) room?
+- what's the vibe in the [other](room) rooms like?
+- I want an option with a good vibe
+- is there a nice atmosphere in the [others](room)?
+- Does the [last](room) one have a nice atmosphere?
+- what's the vibe in the [others](room) ?
+- I would like a meeting room with a nice atmosphere
+- what's the vibe like in the [other](room) rooms?
+- what is the atmosphere in the [other](room) rooms like?
+- do you have a good atmosphere in the [other](room) rooms?
+- Is it nice in the [other](room) ones?
+- we want a meeting room with a good atmosphere
+- what's the vibe in [the](room) room ?
+- what's the atmosphere in [it](room)?
+- what's [gamma](room) like?
+- Is [the](room) room nice?
+- What does [the](room) room look like?
+- we would like a venue with a good vibe
+- Is room [Alpha](room) the nicest room?
+- Does [it](room) have a good vibe?
+- what is the atmosphere in the [other](room) rooms?
+- we would like a meeting room with a good atmosphere
+- what is the vibe in the [second](room) one ?
+- what is the vibe like in the [last](room) room?
+- what is the atmosphere in the [other](room) ones like?
+- I 'd like an event room with a good vibe
+- Does [this](room) one have a nice atmosphere?
+- what's the atmosphere like in the [other](room) rooms?
+- what is the atmosphere in the [last](room) one ?
+- we need an option with a nice atmosphere
+- is there a good vibe in the [other](room) rooms?
+- what's the atmosphere like in [this](room) room?
+- do you have a nice atmosphere in the [other](room) rooms?
+- what's the vibe in [this](room)?
+- we need an option with a good atmosphere
+- what is the vibe in [this](room) one like?
+- is there a nice atmosphere in the [other](room) ones?
+- what's the atmosphere like in the [others](room)?
+- I look for an event room with a good atmosphere
+- what is the vibe in the [other](room) ones?
+- what's the atmosphere in [it](room) like?
+- is there a good atmosphere in the [other](room) ones?
+- I 'd like a venue with a good atmosphere
+- what is the vibe in the [others](room) ?
+- Is [the](room) room the nicest room?
+- I would like a meeting room with a good vibe
+- Is [this](room) nice?
+- Does [this](room) have a good atmosphere?
+- what is [it](room) like?
+- What does [it](room) look like?
+- do you have a nice atmosphere in the [second](room) one?
+- what is the atmosphere in room [alpha](room)?
+- what's the atmosphere in the [other](room) ones like?
+- we search for an event room with a good atmosphere
+- is there a nice atmosphere in the [first](room) one?
+- I would like a room with a nice atmosphere
+- what is the atmosphere like in [beta](room)?
+- what's the vibe in [the](room) room like?
+- is there a good vibe in [the](room) room?
+- Does the [third](room) one have a nice atmosphere?
+- what's the vibe in [this](room) room?
+- what is the atmosphere in the [other](room) ones ?
+- do you have a nice atmosphere in [gamma](room)?
+- what's the vibe in the [first](room) one?
+- I search for a room with a nice atmosphere
+- what's the [other](room) room like?
+- what is the vibe like in [it](room)?
+- what's the vibe in the [other](room) rooms ?
 - do you have a good atmosphere in the [others](room)?
+- what's the atmosphere in [this](room) one ?
+- what's the vibe in the [other](room) rooms?
+- we would like an event room with a nice atmosphere
+- do you have a good atmosphere in the [other](room) ones?
+- what is the vibe in [this](room) like?
+- what's the vibe in the [other](room) one?
+- we search for an event room with a good vibe
+- is there a good atmosphere in the [other](room) rooms?
+- what is the vibe in room [alpha](room)?
+- what is the atmosphere in the [second](room) one ?
+- I need a meeting room with a good atmosphere
+- Is [this](room) one nice?
+- Is [this](room) room the nicest room?
+- what's [this](room) like?
+- What does the [other](room) room look like?
+- do you have a good vibe in the [other](room) rooms?
+- what is the vibe in [this](room) one ?
+- what's the vibe like in the [others](room)?
+- we search for an event room with a nice atmosphere
+- what's the vibe in the [other](room) ones like?
+- is there a nice atmosphere in [this](room) room?
+- Does the [second](room) room have a good atmosphere?
+- is there a nice atmosphere in [beta](room)?
+- we look for a room with a nice atmosphere
+- what is the vibe in [it](room) like?
+- Is it nice in [the](room) room?
+- what is the vibe like in [this](room) one?
+- we want a venue with a good atmosphere
+- Does the [first](room) room have a good atmosphere?
+- what is the vibe like in room [Alpha](room)?
+- I need a location with a nice atmosphere
+- what is the vibe like in the [second](room) one?
+- what is the atmosphere in the [others](room) like?
+- we look for a venue with a good atmosphere
+- do you have a nice atmosphere in [it](room)?
+- Does [the](room) room have a good atmosphere?
+- we would like a meeting room with a nice atmosphere
+- What does [this](room) look like?
+- what's the [first](room) one like?
+- what's the atmosphere in [the](room) room like?
+- I need an event room with a nice atmosphere
+- what is the vibe in the [others](room) like?
+- what's the atmosphere in [this](room)?
+- Does the [third](room) room have a good vibe?
+- I would like an event room with a good vibe
+- do you have a nice atmosphere in the [other](room) ones?
+- we 'd like a meeting room with a nice atmosphere
+- what's the vibe in the [other](room) ones?
+- we 'd like an option with a good atmosphere
+- Does [this](room) room have a nice atmosphere?
+- do you have a nice atmosphere in [this](room)?
+- what is the vibe like in the [other](room) ones?
+- what is the vibe in the [other](room) ones like?
+- we look for a room with a good vibe
+- is there a good atmosphere in [the](room) room?
+- we need a meeting room with a good vibe
+- what's the vibe in the [third](room) room ?
+- Is [gamma](room) nice?
+- Is the [second](room) room the nicest room?
+- Does [Alpha](room) have a nice atmosphere?
+- I want an event room with a good atmosphere
+- what's room [Beta](room) like?
+- what is the atmosphere in [the](room) room like?
+- what's the vibe like in the [second](room) one?
+- I look for a room with a nice atmosphere
+- what is the vibe like in [beta](room)?
+- do you have a good atmosphere in the [last](room) room?
+- what's the atmosphere in the [first](room) room ?
+- what is the vibe like in the [second](room) room?
+- I search for a room with a good vibe
+- what's the vibe in [beta](room) like?
+- is there a nice atmosphere in [it](room)?
+- we 'd like an option with a nice atmosphere
+- what is room [beta](room) like?
+- what's the atmosphere like in the [other](room) ones?
+- what's the atmosphere in [it](room) ?
+- what is the vibe like in the [other](room) rooms?
+- Does [it](room) have a nice atmosphere?
+- do you have a nice atmosphere in the [others](room)?
+- what's the vibe in the [others](room)?
+- what is the vibe in the [others](room)?
+- what's the atmosphere in the [other](room) ones ?
+- I would like an option with a good atmosphere
+- do you have a good atmosphere in the [first](room) one?
 - what's the atmosphere in the [others](room)?
 - what's [the](room) room like?
-- we would like an option with a good vibe
-- what is the vibe in [this](room) like?
-- what's the atmosphere in the [other](room) rooms?
-- is there a good atmosphere in the [others](room)?
-- we search for an option with a good atmosphere
-- Does [it](room) have a nice atmosphere?
-- what's the atmosphere in the [other](room) ones?
-- what is the atmosphere in the [other](room) rooms like?
-- we look for an option with a good vibe
-- what's the atmosphere in [it](room) like?
-- we 'd like an event room with a good atmosphere
-- what is the vibe like in the [others](room)?
-- do you have a nice atmosphere in the [others](room)?
-- What does [beta](room) look like?
-- Is [this](room) one nice?
-- what's [it](room) like?
-- I want an option with a good atmosphere
-- Does [gamma](room) have a nice atmosphere?
-- what is the atmosphere in the [others](room) like?
-- what is the vibe in the [other](room) rooms?
-- do you have a good vibe in the [other](room) rooms?
-- I 'd like a location with a nice atmosphere
-- what's the atmosphere in [Gamma](room)?
-- what's the vibe in the [other](room) ones ?
-- what is the atmosphere in room [beta](room) ?
-- what's the vibe in the [last](room) one?
-- we look for an option with a good atmosphere
-- Does [the](room) room have a good vibe?
-- what's the vibe in the [others](room) ?
-- is there a good vibe in [it](room)?
-- what is the atmosphere like in the [others](room)?
-- what's the vibe like in the [others](room)?
-- what is the vibe in the [others](room) like?
-- is there a good atmosphere in the [other](room) ones?
-- what is [this](room) room like?
-- I search for a venue with a good vibe
-- is there a good atmosphere in the [other](room) rooms?
-- what's the vibe like in [this](room) room?
-- what is the atmosphere in room [Gamma](room) like?
-- what's the atmosphere in the [others](room) like?
-- Is it nice in [the](room) room?
-- I would like a room with a nice atmosphere
-- what is the vibe in [this](room) room like?
-- what is the vibe in the [others](room)?
-- what's room [gamma](room) like?
-- What does room [Beta](room) look like?
-- Does [this](room) have a good atmosphere?
-- Is room [beta](room) the nicest room?
-- Is [it](room) nice?
-- we 'd like a meeting room with a good vibe
-- I would like a venue with a good atmosphere
-- what's the vibe in the [other](room) rooms ?
-- what is the atmosphere like in the [other](room) rooms?
-- I search for an event room with a nice atmosphere
-- is there a nice atmosphere in [the](room) room?
-- Does [this](room) one have a good vibe?
-- what is the atmosphere in [beta](room) like?
-- we would like a meeting room with a good atmosphere
-- what is the vibe like in the [other](room) rooms?
-- what's the atmosphere in the [other](room) ones ?
-- I would like a venue with a nice atmosphere
-- is there a nice atmosphere in [this](room) one?
-- what's the vibe in the [other](room) rooms like?
-- Does [alpha](room) have a nice atmosphere?
-- do you have a good atmosphere in the [other](room) ones?
-- I need an event room with a nice atmosphere
-- what is the atmosphere in [it](room) ?
-- we want a meeting room with a nice atmosphere
-- what is the vibe like in the [other](room) ones?
-- what's the atmosphere in the [other](room) rooms ?
-- What does [it](room) look like?
-- Is the [third](room) room nice?
 - Is the [third](room) room the nicest room?
-- I 'd like an event room with a nice atmosphere
-- Does [the](room) room have a nice atmosphere?
-- I would like a location with a good vibe
-- what is the atmosphere in the [other](room) ones like?
-- what is the vibe in the [third](room) one?
-- is there a nice atmosphere in the [others](room)?
-- I need an event room with a good vibe
-- is there a good vibe in the [other](room) rooms?
-- Does [Alpha](room) have a good atmosphere?
-- what's the vibe in [the](room) room like?
-- what's the vibe in [it](room)?
-- I search for an event room with a good atmosphere
-- what is the vibe in [this](room)?
-- we 'd like an option with a good atmosphere
-- is there a good vibe in the [others](room)?
-- Is it nice in [this](room) room?
-- Does [gamma](room) have a good atmosphere?
-- what is the atmosphere in the [others](room)?
-- we search for an event room with a good vibe
-- do you have a good atmosphere in [it](room)?
-- is there a good vibe in the [third](room) one?
-- what is the atmosphere in the [other](room) rooms ?
-- what's the vibe like in [this](room)?
-- what is [this](room) like?
-- I 'd like an event room with a good vibe
-- What does [this](room) look like?
-- Does [Alpha](room) have a good vibe?
-- Is the [first](room) one the nicest room?
-- what is the atmosphere in the [other](room) ones ?
-- what's the vibe like in the [other](room) ones?
-- we look for a location with a nice atmosphere
-- what's the atmosphere like in the [other](room) rooms?
-- what's the vibe in the [third](room) one ?
-- is there a nice atmosphere in [it](room)?
-- we would like an event room with a good vibe
-- what is the vibe in [this](room) ?
-- Does [it](room) have a good atmosphere?
-- do you have a good vibe in the [other](room) ones?
-- I search for an option with a good vibe
-- what's the vibe in [the](room) room ?
-- what's the vibe in the [other](room) rooms?
-- Is it nice in room [Gamma](room)?
-- is there a good atmosphere in [it](room)?
-- what is the atmosphere in the [other](room) rooms?
-- I search for a meeting room with a nice atmosphere
-- what is the atmosphere in [the](room) room like?
-- I want an option with a good vibe
-- Does [beta](room) have a nice atmosphere?
-- what is the atmosphere in the [others](room) ?
-- what is the atmosphere like in [this](room) room?
-- we look for a venue with a good atmosphere
-- we need an option with a good atmosphere
-- what's the vibe in [the](room) room?
-- What does [Beta](room) look like?
-- I want an event room with a good atmosphere
-- Is [gamma](room) the nicest room?
-- what's the [last](room) one like?
-- Does [it](room) have a good vibe?
-- Is [this](room) nice?
-- what's the vibe like in [it](room)?
-- what's the atmosphere in the [other](room) ones like?
-- we look for a meeting room with a good atmosphere
-- what is the atmosphere in [this](room) room?
-- do you have a nice atmosphere in [Beta](room)?
-- we 'd like a venue with a nice atmosphere
-- Does the [third](room) one have a nice atmosphere?
-- I look for a venue with a nice atmosphere
-- is there a good atmosphere in [this](room) one?
-- what is the [second](room) room like?
-- we 'd like an option with a nice atmosphere
-- we look for an option with a nice atmosphere
-- do you have a good atmosphere in [beta](room)?
-- we need a meeting room with a good vibe
-- what's the vibe in [this](room) one like?
-- is there a good atmosphere in [the](room) room?
-- we want an event room with a good atmosphere
-- what's the atmosphere like in [it](room)?
-- Is the [other](room) one the nicest room?
-- Does [gamma](room) have a good vibe?
-- what is the [other](room) room like?
-- Is the [third](room) one nice?
-- we 'd like an event room with a good vibe
-- what's the vibe in the [last](room) one ?
-- what's the vibe in the [other](room) ones?
-- I would like an option with a good vibe
-- do you have a good vibe in [this](room) room?
-- Is it nice in [it](room)?
-- we 'd like a location with a good vibe
-- what is [the](room) room like?
-- we would like an event room with a nice atmosphere
-- what is the vibe in the [other](room) rooms like?
-- what's the atmosphere like in the [others](room)?
-- I want an event room with a nice atmosphere
-- what's the atmosphere like in the [third](room) one?
-- what is the atmosphere in the [first](room) room ?
-- I need a venue with a nice atmosphere
-- what is the vibe like in [gamma](room)?
-- What does room [Gamma](room) look like?
-- what's the [second](room) one like?
-- Is [this](room) room the nicest room?
-- we would like an option with a good atmosphere
-- Is [the](room) room nice?
-- we search for a meeting room with a nice atmosphere
-- what's the vibe in the [other](room) ones like?
-- what's the atmosphere like in the [other](room) ones?
-- Is it nice in the [other](room) ones?
-- I search for a venue with a nice atmosphere
-- is there a good atmosphere in the [second](room) one?
-- I search for an event room with a good vibe
-- what is the atmosphere in the [other](room) ones?
-- what is [it](room) like?
-- I want an event room with a good vibe
-- we need an option with a nice atmosphere
-- what's the atmosphere in the [last](room) one ?
-- do you have a good vibe in [it](room)?
-- what is the atmosphere like in the [other](room) ones?
-- Does [this](room) room have a nice atmosphere?
-- is there a good atmosphere in [Alpha](room)?
-- what is the atmosphere like in the [last](room) room?
-- I look for an option with a good atmosphere
-- is there a nice atmosphere in the [other](room) rooms?
-- What does room [gamma](room) look like?
-- Does [the](room) room have a good atmosphere?
-- what is the atmosphere like in the [second](room) one?
-- I want a venue with a good atmosphere
-- we want a venue with a nice atmosphere
-- what is the vibe in [the](room) room?
-- I want a meeting room with a good vibe
-- what is the [last](room) one like?
-- we search for an option with a nice atmosphere
-- Does the [second](room) room have a good vibe?
-- we 'd like a venue with a good vibe
-- is there a good vibe in [the](room) room?
-- we search for an option with a good vibe
-- Does [this](room) room have a good atmosphere?
-- What does the [last](room) room look like?
-- do you have a good atmosphere in [this](room)?
-- Is the [last](room) room the nicest room?
-- Is room [gamma](room) nice?
-- I would like a room with a good atmosphere
-- what's the vibe in [Gamma](room) ?
-- I look for a meeting room with a nice atmosphere
-- is there a good vibe in the [first](room) room?
-- I 'd like an event room with a good atmosphere
-- what's [this](room) like?
-- what is the vibe in [the](room) room like?
-- I look for an event room with a good atmosphere
-- Does the [second](room) one have a nice atmosphere?
-- I look for a room with a good atmosphere
-- what is the atmosphere like in [alpha](room)?
-- I want a location with a good atmosphere
-- Is it nice in the [other](room) rooms?
-- what's the atmosphere in [the](room) room like?
-- Is [the](room) room the nicest room?
 - What does [this](room) room look like?
-- is there a good vibe in the [other](room) ones?
-- what's the atmosphere in the [other](room) rooms like?
-- what is the atmosphere in [gamma](room) ?
-- what's the vibe in room [Alpha](room)?
-- I 'd like a location with a good vibe
-- what is the vibe in the [last](room) one like?
-- I search for a room with a nice atmosphere
-- we want an option with a good vibe
-- do you have a nice atmosphere in the [other](room) rooms?
-- we look for a meeting room with a nice atmosphere
-- what is the vibe like in [this](room)?
-- what is the vibe in [it](room) like?
-- what's [this](room) room like?
-- What does room [beta](room) look like?
-- what is the vibe like in [it](room)?
-- what is the vibe in [the](room) room ?
-- we look for a room with a good vibe
-- Does [Gamma](room) have a nice atmosphere?
-- we need a location with a good vibe
-- what is the vibe like in [this](room) room?
-- what is the vibe in [this](room) room ?
-- what is [this](room) one like?
-- I would like a meeting room with a good vibe
-- Does [Beta](room) have a nice atmosphere?
-- I need an event room with a good atmosphere
-- what is the vibe in room [Gamma](room)?
-- do you have a good atmosphere in room [alpha](room)?
-- what's the atmosphere in [this](room) one?
-- I 'd like an option with a good atmosphere
-- Does the [last](room) room have a good atmosphere?
-- what is [Alpha](room) like?
-- what's the vibe in the [first](room) one like?
-- what is the atmosphere like in [this](room) one?
-- what is the vibe like in room [gamma](room)?
-- I search for a meeting room with a good vibe
-- what is the atmosphere in [gamma](room) like?
-- I want a venue with a good vibe
-- what's the atmosphere in [this](room) room like?
-- we want a room with a good atmosphere
-- Does room [Alpha](room) have a good atmosphere?
-- what is the vibe like in the [second](room) room?
-- do you have a good atmosphere in [this](room) room?
-- what's the vibe in the [second](room) room like?
-- Does the [first](room) one have a good vibe?
-- I want a venue with a nice atmosphere
-- Is [this](room) one the nicest room?
-- what is room [Gamma](room) like?
-- what is the vibe in the [last](room) room ?
-- what's the vibe in the [others](room) like?
-- we want an event room with a good vibe
-- we search for an event room with a good atmosphere
-- we need an option with a good vibe
-- I search for an option with a nice atmosphere
-- do you have a nice atmosphere in [the](room) room?
-- Does the [last](room) room have a nice atmosphere?
-- what's the atmosphere in [it](room) ?
-- what is the vibe in the [other](room) ones?
-- is there a good vibe in [this](room) room?
-- what is the atmosphere in the [last](room) one like?
-- what is the vibe in [Beta](room) like?
-- I would like an option with a good atmosphere
-- what's the vibe in [it](room) like?
-- what is the atmosphere in [it](room) like?
-- we would like a meeting room with a good vibe
-- what is the atmosphere in [Gamma](room) ?
-- I need an option with a good atmosphere
-- what is the atmosphere in the [first](room) one ?
-- is there a nice atmosphere in room [Beta](room)?
-- I 'd like a room with a good atmosphere
-- Is room [Alpha](room) nice?
-- I look for a meeting room with a good atmosphere
-- we want a venue with a good vibe
-- we look for an event room with a good atmosphere
-- what is the vibe in room [Gamma](room) like?
-- do you have a good vibe in [the](room) room?
-- what is the atmosphere in [the](room) room?
-- Does [this](room) one have a good atmosphere?
-- we would like an option with a nice atmosphere
-- what is the vibe in [it](room) ?
-- Is the [other](room) room nice?
-- What does [the](room) room look like?
-- Is [this](room) the nicest room?
-- what is the [third](room) room like?
-- what's the vibe in the [last](room) room ?
-- I need a meeting room with a good vibe
-- do you have a good atmosphere in [the](room) room?
-- what's the atmosphere in room [gamma](room) ?
-- we search for an event room with a nice atmosphere
-- Does [alpha](room) have a good vibe?
-- I want an option with a nice atmosphere
-- what's the atmosphere like in [this](room) room?
-- what is the vibe like in room [alpha](room)?
-- we need an event room with a nice atmosphere
-- I 'd like an option with a nice atmosphere
-- is there a good atmosphere in room [Alpha](room)?
-- we need a meeting room with a good atmosphere
-- Is the [second](room) one nice?
-- Is room [gamma](room) the nicest room?
-- what's the atmosphere in the [third](room) room?
-- I look for a room with a good vibe
-- what's the atmosphere in the [last](room) room ?
-- Does the [third](room) one have a good vibe?
-- we search for a venue with a good atmosphere
-- is there a nice atmosphere in the [second](room) one?
-- what's the atmosphere in [this](room) one like?
-- what's the atmosphere in [it](room)?
-- what is the atmosphere in [this](room) room like?
-- I look for a location with a nice atmosphere
-- what's the vibe in the [third](room) one?
-- Does the [last](room) one have a good vibe?
-- I 'd like a meeting room with a good vibe
-- what is the vibe in the [last](room) one ?
-- we look for a venue with a nice atmosphere
-- Is it nice in room [gamma](room)?
-- What does [Alpha](room) look like?
-- Does [Beta](room) have a good atmosphere?
-- Is [this](room) room nice?
-- what is the vibe like in the [last](room) room?
-- what's the vibe in [beta](room) ?
-- is there a good atmosphere in [gamma](room)?
-- what is the vibe in [beta](room)?
-- do you have a good atmosphere in the [other](room) rooms?
-- what's the atmosphere in the [second](room) one?
-- we need a room with a good vibe
-- what's the vibe in [this](room) room?
-- what's the atmosphere in [the](room) room ?
-- what's [this](room) one like?
-- what is the atmosphere like in room [Beta](room)?
-- is there a good atmosphere in the [second](room) room?
-- we look for a room with a nice atmosphere
-- we need a venue with a good vibe
-- do you have a good vibe in room [alpha](room)?
-- what is the vibe in room [gamma](room) like?
-- what is the vibe in room [Alpha](room)?
-- what is the vibe in the [other](room) rooms ?
-- I 'd like a room with a good vibe
-- what's [beta](room) like?
-- what is the atmosphere in [this](room)?
-- I search for a location with a good atmosphere
-- what's the atmosphere in the [other](room) room ?
-- we search for a room with a nice atmosphere
-- is there a nice atmosphere in the [other](room) room?
-- we want a room with a nice atmosphere
-- what's the atmosphere in [this](room) like?
-- we need a location with a nice atmosphere
-- what's the vibe in [this](room) one?
-- Is it nice in the [first](room) one?
-- Is [Gamma](room) the nicest room?
-- we need an event room with a good atmosphere
-- what is the vibe in [this](room) one?
-- what's the atmosphere in the [third](room) one like?
-- is there a nice atmosphere in the [other](room) ones?
-- what is the vibe in the [other](room) ones like?
-- we 'd like an option with a good vibe
-- Does the [second](room) room have a good atmosphere?
-- what is the atmosphere in [beta](room) ?
-- I would like a location with a nice atmosphere
-- we 'd like a location with a good atmosphere
-- I need a meeting room with a good atmosphere
-- what is the vibe in [Gamma](room) ?
-- I look for an event room with a good vibe
-- Does [Beta](room) have a good vibe?
-- we 'd like a room with a good atmosphere
-- we 'd like a meeting room with a good atmosphere
-- I need a location with a nice atmosphere
-- I 'd like a venue with a nice atmosphere
-- what's the atmosphere in room [Beta](room) ?
-- What does [alpha](room) look like?
-- we look for an event room with a nice atmosphere
-- I would like a room with a good vibe
-- we look for a location with a good vibe
-- do you have a nice atmosphere in the [first](room) one?
-- what's the atmosphere in [Alpha](room) like?
-- what is the vibe in the [last](room) room?
-- we want an option with a nice atmosphere
-- what's room [alpha](room) like?
-- Does room [beta](room) have a good vibe?
-- I want a location with a nice atmosphere
-- I look for a venue with a good vibe
-- we would like a meeting room with a nice atmosphere
-- what is the atmosphere like in [the](room) room?
-- what's the atmosphere like in [this](room) one?
-- what's the vibe in room [Alpha](room) like?
-- Does room [gamma](room) have a good atmosphere?
-- what is the vibe like in [the](room) room?
-- I search for a venue with a good atmosphere
-- is there a good atmosphere in the [other](room) room?
-- is there a good atmosphere in room [alpha](room)?
-- we want a room with a good vibe
-- what is the atmosphere in [this](room) one?
-- I would like an option with a nice atmosphere
-- do you have a good atmosphere in the [third](room) room?
-- Is the [second](room) room nice?
-- What does the [third](room) one look like?
-- what is the atmosphere in [this](room) like?
-- I look for an option with a good vibe
-- Does [this](room) one have a nice atmosphere?
-- is there a nice atmosphere in room [beta](room)?
-- what's the atmosphere in [Alpha](room)?
-- what is the atmosphere in the [last](room) room like?
-- what's the atmosphere in [this](room) one ?
-- Does room [Beta](room) have a nice atmosphere?
-- what is the vibe like in [this](room) one?
+- I need a room with a good vibe
+- do you have a good vibe in [it](room)?
+- what's the vibe in [Alpha](room) ?
+- do you have a good atmosphere in [this](room)?
+- what's the vibe in [gamma](room)?
+- I want a location with a good atmosphere
+- what is the vibe in the [other](room) ones ?
 - I need a location with a good atmosphere
-- do you have a good atmosphere in [this](room) one?
-- I look for a room with a nice atmosphere
-- is there a good vibe in [this](room) one?
+- is there a good atmosphere in the [third](room) room?
+- what is the atmosphere in [this](room) room like?
+- what is the vibe in [this](room) room?
+- what's the vibe in [Gamma](room) like?
+- do you have a good vibe in the [others](room)?
+- Does room [alpha](room) have a nice atmosphere?
+- we need a room with a good atmosphere
+- what's the vibe in [this](room) one like?
+- we search for a location with a nice atmosphere
+- what's the atmosphere in [this](room) one?
+- is there a good atmosphere in [Beta](room)?
+- what's the atmosphere in the [other](room) rooms ?
+- what is the vibe in [this](room)?
+- Is the [third](room) one nice?
+- I look for an event room with a good vibe
+- What does the [last](room) room look like?
+- is there a nice atmosphere in room [Alpha](room)?
+- what's the atmosphere in the [other](room) rooms?
+- I 'd like a venue with a good vibe
+- what's the atmosphere in the [second](room) room like?
+- we look for an event room with a good atmosphere
+- what's the vibe in [it](room) ?
+- Does room [alpha](room) have a good atmosphere?
+- I look for an event room with a nice atmosphere
+- do you have a nice atmosphere in the [first](room) room?
 - what's the vibe in [alpha](room) like?
-- I look for a location with a good atmosphere
-- what's [Alpha](room) like?
+- what is [this](room) like?
+- we would like a meeting room with a good vibe
+- is there a nice atmosphere in room [beta](room)?
+- what's the atmosphere like in room [alpha](room)?
+- Does room [alpha](room) have a good vibe?
+- we search for a meeting room with a nice atmosphere
+- do you have a nice atmosphere in the [other](room) room?
+- we search for an option with a good atmosphere
+- Does room [Alpha](room) have a good vibe?
+- what's room [beta](room) like?
 - Which room has a good vibe?
-- what's the vibe like in room [Alpha](room)?
-- I would like a location with a good atmosphere
-- do you have a good vibe in the [second](room) one?
-- is there a nice atmosphere in [this](room) room?
-- what is the atmosphere in room [alpha](room) ?
-- what is the atmosphere in room [Beta](room) like?
-- Does [this](room) have a nice atmosphere?
-- I search for a location with a nice atmosphere
-- do you have a nice atmosphere in the [other](room) one?
-- what is the atmosphere in [Beta](room) ?
-- What does the [first](room) one look like?
-- what is [Gamma](room) like?
-- I need a location with a good vibe
-- what's the atmosphere in [this](room)?
+- I would like a meeting room with a good atmosphere
+- we 'd like a venue with a nice atmosphere
+- what is the vibe in [the](room) room ?
+- I 'd like an event room with a nice atmosphere
+- Does [this](room) have a good vibe?
+- what's the vibe in the [last](room) one?
+- I search for an option with a nice atmosphere
+- what's the atmosphere in [alpha](room) ?
+- do you have a nice atmosphere in room [beta](room)?
+- we would like a location with a nice atmosphere
+- do you have a good atmosphere in [it](room)?
+- what's room [alpha](room) like?
+- What does the [second](room) room look like?
+- I want a location with a nice atmosphere
+- what is the vibe in the [last](room) one like?
+- what is the atmosphere in [it](room) like?
+- what's the vibe like in the [other](room) one?
+- we search for a venue with a good atmosphere
+- what's the atmosphere in room [beta](room) like?
+- do you have a good atmosphere in the [third](room) one?
+- I want a venue with a nice atmosphere
+- we look for an option with a nice atmosphere
+- is there a good vibe in the [other](room) ones?
+- what is the vibe like in [the](room) room?
+- I search for an option with a good atmosphere
+- What does [beta](room) look like?
+- what is room [Gamma](room) like?
+- Does [the](room) room have a good vibe?
+- Is the [third](room) one the nicest room?
+- what is the atmosphere like in the [other](room) room?
+- I search for a meeting room with a good vibe
+- I look for a meeting room with a good vibe
+- is there a good vibe in the [other](room) room?
+- we 'd like a location with a good vibe
+- I 'd like a room with a good vibe
+- what is the vibe in the [last](room) one ?
+- we look for an event room with a nice atmosphere
+- what's the atmosphere in [this](room) room?
+- what is the atmosphere in room [alpha](room) like?
+- I look for a venue with a good atmosphere
+- What does [alpha](room) look like?
+- Does room [Beta](room) have a good vibe?
+- what is [this](room) room like?
+- Is the [third](room) room nice?
+- what is the vibe in the [other](room) rooms?
+- I want an event room with a good vibe
+- what is the atmosphere like in [this](room) room?
+- what is the vibe in [this](room) room ?
+- do you have a nice atmosphere in [the](room) room?
+- I need a venue with a nice atmosphere
+- is there a good atmosphere in room [beta](room)?
+- what is the vibe like in the [first](room) room?
+- Is it nice in room [Beta](room)?
+- what's the atmosphere in the [last](room) room ?
+- we look for an event room with a good vibe
+- Does [it](room) have a good atmosphere?
+- we want a room with a good vibe
+- what's the vibe in [it](room)?
+- I need a room with a nice atmosphere
+- I need an option with a good vibe
+- Does the [first](room) one have a good atmosphere?
+- what is the atmosphere in [the](room) room ?
+- what is the atmosphere in room [Beta](room)?
+- we look for an option with a good vibe
+- what is the [third](room) room like?
+- we would like a location with a good vibe
+- I look for a location with a good atmosphere
+- I would like a venue with a good atmosphere
 - we would like an event room with a good atmosphere
-- Does the [first](room) room have a good vibe?
-- what's the vibe in the [other](room) room ?
-- what is the vibe in the [second](room) one?
-- we search for a venue with a good vibe
-- is there a nice atmosphere in [this](room)?
-- Does the [second](room) room have a nice atmosphere?
-- we look for a room with a good atmosphere
-- what's the vibe in [gamma](room) ?
-- Does [Gamma](room) have a good vibe?
-- I 'd like an option with a good vibe
-- Does the [other](room) one have a good vibe?
-- is there a good vibe in [Gamma](room)?
-- Is it nice in [this](room)?
-- I would like an event room with a good vibe
-- what is the atmosphere like in [this](room)?
-- Does room [gamma](room) have a nice atmosphere?
-- do you have a nice atmosphere in [it](room)?
-- I would like an event room with a nice atmosphere
+- What does room [beta](room) look like?
+- what is the [last](room) room like?
+- what's the atmosphere like in room [beta](room)?
+- I search for an option with a good vibe
+- I look for an option with a good vibe
+- what is the atmosphere like in [alpha](room)?
+- we want a meeting room with a nice atmosphere
+- what is the atmosphere like in [it](room)?
+- what's the vibe in room [Gamma](room) like?
+- Does [this](room) room have a good vibe?
+- do you have a good vibe in [this](room) room?
+- what is the atmosphere like in the [other](room) rooms?
+- we want an option with a good atmosphere
+- Is [gamma](room) the nicest room?
+- Is [Alpha](room) nice?
+- is there a good atmosphere in the [third](room) one?
+- What does room [gamma](room) look like?
+- I need a room with a good atmosphere
+- what's the vibe in room [beta](room) ?
+- what's the atmosphere like in [this](room)?
+- I would like a location with a nice atmosphere
+- we would like an option with a good atmosphere
+- what is the atmosphere in [it](room)?
+- what's the atmosphere in room [Alpha](room) ?
+- what's [Alpha](room) like?
+- is there a good atmosphere in [it](room)?
+- what's the vibe like in the [second](room) room?
+- we need an event room with a good atmosphere
+- what is the vibe in [it](room)?
+- we look for an option with a good atmosphere
+- Does [this](room) one have a good atmosphere?
+- I would like an event room with a good atmosphere
+- Is room [Gamma](room) the nicest room?
+- What does the [last](room) one look like?
+- is there a good vibe in [this](room) room?
+- what is the vibe in [Alpha](room) like?
+- we would like an option with a nice atmosphere
+- Is it nice in [Gamma](room)?
+- what's the vibe in room [Beta](room) ?
+- we need a location with a good atmosphere
+- what is the atmosphere in [this](room) one like?
+- what is the vibe in [the](room) room?
+- Does [Gamma](room) have a good atmosphere?
+- we need a venue with a good atmosphere
+- what's the atmosphere in [Gamma](room)?
+- we would like an event room with a good vibe
+- what is the [other](room) room like?
+- I 'd like an option with a nice atmosphere
+- what's the atmosphere like in [it](room)?
+- what's the atmosphere in [this](room) room ?
+- I search for a venue with a good atmosphere
+- what is the atmosphere in [it](room) ?
+- what's [this](room) one like?
+- Is room [Gamma](room) nice?
+- what's the vibe in [this](room) one ?
+- I 'd like an event room with a good atmosphere
+- what is the atmosphere in the [third](room) one ?
+- we search for a location with a good atmosphere
+- what's the atmosphere in the [other](room) room ?
 - we 'd like a venue with a good atmosphere
+- do you have a good vibe in [Beta](room)?
+- Is the [second](room) room nice?
+- What does [this](room) one look like?
+- Is it nice in [it](room)?
+- do you have a good vibe in the [other](room) one?
+- we need a room with a nice atmosphere
+- what is the atmosphere in the [other](room) ones?
+- I need a venue with a good vibe
+- what's the vibe in [it](room) like?
+- what is the atmosphere in [the](room) room?
+- what is the vibe in [it](room) ?
+- we would like a room with a good vibe
+- what's the atmosphere in the [third](room) room?
+- I 'd like an option with a good atmosphere
+- what's the vibe in room [Alpha](room)?
+- what is the atmosphere in the [last](room) room like?
+- what's the vibe like in [the](room) room?
+- we look for a location with a good vibe
+- do you have a good vibe in [the](room) room?
+- Does the [second](room) one have a nice atmosphere?
+- I would like a room with a good atmosphere
+- is there a nice atmosphere in [gamma](room)?
+- what's the atmosphere in [Gamma](room) ?
+- Does the [second](room) one have a good vibe?
+- we 'd like an option with a good vibe
+- do you have a nice atmosphere in [beta](room)?
+- what is the atmosphere in the [second](room) room?
+- we want an option with a nice atmosphere
+- Does the [third](room) one have a good atmosphere?
+- what's the vibe in [this](room) like?
+- what is the [third](room) one like?
+- we search for an option with a good vibe
+- is there a nice atmosphere in [this](room) one?
+- we 'd like a room with a good atmosphere
+- what's the atmosphere like in the [second](room) one?
+- what's the atmosphere in [this](room) one like?
+- do you have a good atmosphere in [alpha](room)?
+- what's [alpha](room) like?
+- I look for an option with a nice atmosphere
+- Does [this](room) have a nice atmosphere?
+- we 'd like a room with a good vibe
+- Does the [second](room) room have a nice atmosphere?
+- what is the atmosphere in room [Gamma](room) ?
+- I look for a meeting room with a good atmosphere
+- we 'd like a meeting room with a good atmosphere
+- Does [Alpha](room) have a good vibe?
+- what is the atmosphere in room [beta](room) like?
+- what is the vibe in [this](room) ?
+- we 'd like a location with a nice atmosphere
+- is there a good vibe in [this](room)?
+- I need a venue with a good atmosphere
+- what's the vibe in the [first](room) room ?
+- what is the [second](room) one like?
+- Does the [first](room) room have a good vibe?
+- we would like a room with a nice atmosphere
+- what is the atmosphere in [alpha](room) like?
+- what is the vibe in the [third](room) one?
+- we want a location with a good vibe
+- what's the vibe like in room [beta](room)?
+- Does room [gamma](room) have a nice atmosphere?
+- I 'd like a meeting room with a nice atmosphere
+- what's the vibe in [this](room) one?
+- what's the [first](room) room like?
+- do you have a nice atmosphere in room [Beta](room)?
+- what's the vibe in [Alpha](room)?
+- we want an event room with a good vibe
+- what's [beta](room) like?
+- is there a good atmosphere in the [last](room) one?
+- Does [beta](room) have a good vibe?
+- do you have a good vibe in room [gamma](room)?
+- I need an event room with a good atmosphere
+- Is the [other](room) room the nicest room?
+- Does the [third](room) room have a good atmosphere?
+- what is the atmosphere in the [other](room) room?
+- what is the atmosphere in [this](room) one?
+- what is the vibe in the [other](room) room like?
+- I look for a venue with a good vibe
+- what's the atmosphere in the [other](room) rooms like?
+- Does [Alpha](room) have a good atmosphere?
+- I need a meeting room with a good vibe
+- do you have a good vibe in [this](room)?
+- what is the atmosphere in the [other](room) rooms ?
+- Does the [other](room) one have a nice atmosphere?
+- do you have a good atmosphere in [Alpha](room)?
+- Is the [last](room) room nice?
+- Does [Beta](room) have a good atmosphere?
+- what is room [Alpha](room) like?
+- Is [this](room) the nicest room?
+- we look for a venue with a good vibe
+- we need a venue with a nice atmosphere
+- what's the vibe in the [first](room) one like?
+- what is [beta](room) like?
+- I search for a venue with a nice atmosphere
+- Does room [Gamma](room) have a good vibe?
+- I would like a location with a good atmosphere
+- What does room [Alpha](room) look like?
+- Is the [other](room) one the nicest room?
+- Is it nice in [beta](room)?
+- Does [this](room) one have a good vibe?
+- what's the atmosphere like in [beta](room)?
+- I search for an event room with a good atmosphere
+- what's the atmosphere in the [second](room) room ?
+- I would like an event room with a nice atmosphere
+- what's the vibe in the [second](room) room like?
+- is there a good vibe in [gamma](room)?
+- Does the [last](room) one have a good vibe?
 
 ## intent:ask_for_room_equipment
-- do you have equipment for our staff in the [other](room) ones?
-- do you have an event room which has equipment for the team?
-- does [this](room) room have equipment to do a talk for the team?
-- can we show a presentation for the team?
-- we also need an [audio/video system](equipment)
-- is there equipment for our employees in the [other](room) room?
-- do you have an event room which has equipment to show a presentation ?
-- we should be able to show a powerpoint presentation in the [other](room) rooms for our staff?
-- do you provide equipment to show a presentation for our staff ?
-- is there equipment to show a presentation for our staff in the [other](room) ones?
-- does [this](room) have equipment to show a presentation for the team?
-- is there an event room that has equipment to show a powerpoint presentation ?
-- are we able to do a talk in room [Alpha](room) for my colleagues?
-- do you have equipment to do a talk for our employees ?
-- do you provide equipment for my colleagues in the [other](room) ones?
-- do you provide a meeting room which has a [video system](equipment) to show a powerpoint presentation for my colleagues?
-- we like an [audio/video system](equipment) in [this](room) one
-- could I do a powerpoint presentation in the [other](room) rooms for our staff?
-- is there a [video system](equipment) for the team in the [others](room)?
-- does room [Gamma](room) have equipment for our staff?
-- do you have an event room with a [screen](equipment) for my colleagues?
-- is there an [audio/video system](equipment) in the [others](room)?
-- I should be able to show a powerpoint presentation in the [others](room) for our staff?
-- do you provide an [audio/video system](equipment) in the [other](room) ones?
-- do you have an option with equipment ?
-- is there equipment ?
-- can we do a powerpoint presentation for our employees?
-- do you have equipment for my colleagues ?
-- does the [first](room) room have equipment for the team?
-- do you provide a venue with equipment to do a powerpoint presentation ?
-- we need an [audio/video system](equipment) in the [others](room)
-- do you have an [audio/video system](equipment) to do a powerpoint presentation ?
-- are we able to show a presentation for our staff?
-- do you provide a [screen](equipment) for the team in the [other](room) rooms?
-- do you provide a meeting room which has equipment for our employees?
-- do you provide equipment in the [other](room) rooms?
-- we should be able to do a powerpoint presentation in the [others](room) for my colleagues?
-- does [it](room) have equipment to show a presentation for the team?
-- do you have an option that has an [audio/video system](equipment) for the team?
-- is there a [video system](equipment) in [this](room) one?
-- do you have equipment for our employees ?
-- do you provide an option with an [audio/video system](equipment) to show a powerpoint presentation ?
-- is it possible to hold a presentation in the [other](room) rooms for the team?
-- I want equipment in the [others](room)
-- do you provide an [audio/video system](equipment) to do a presentation for the team ?
-- do you provide equipment for our employees in [beta](room)?
-- does room [Gamma](room) have a [screen](equipment) to show a powerpoint presentation for our staff?
-- do you provide an option with an [audio/video system](equipment) to do a powerpoint presentation for our employees?
-- are we able to show a powerpoint presentation in the [others](room) for our staff?
-- do you provide an [audio/video system](equipment) to do a talk in the [other](room) rooms?
-- is there an option with a [projector](equipment) for our staff?
-- is there an [audio/video system](equipment) for the team ?
-- could I show a presentation in the [others](room) ?
-- do you have a [projector](equipment) ?
-- does [the](room) room have equipment to do a powerpoint presentation for the team?
-- do you have a room that has an [audio/video system](equipment) for my colleagues?
-- do you have equipment to show a presentation for the team in [it](room)?
-- we also like equipment in the [others](room)
-- is there a possibility to do a powerpoint presentation for our employees?
-- is there a [screen](equipment) for our employees in room [Beta](room)?
-- is there an event room with equipment to do a talk for our staff?
-- do you provide a [video system](equipment) for our staff in the [other](room) rooms?
-- can I do a powerpoint presentation in the [other](room) ones for my colleagues?
-- do you provide a [video system](equipment) for my colleagues ?
-- is there a location which has equipment to show a powerpoint presentation for my colleagues?
-- does [Beta](room) have equipment for the team?
-- do you have equipment for my colleagues in room [Beta](room)?
-- is there a possibility to hold a presentation for our employees?
-- do you have a location with an [audio/video system](equipment) for our staff?
-- is there an [audio/video system](equipment) for our staff ?
-- I also like equipment in the [other](room) rooms
-- do you have an [audio/video system](equipment) to do a talk for our staff in the [others](room)?
-- is there a possibility to do a powerpoint presentation in the [others](room) for my colleagues?
-- does [the](room) room have a [video system](equipment) for the team?
-- do you provide an option with a [screen](equipment) ?
-- do you provide equipment for my colleagues in room [gamma](room)?
-- is there a [video system](equipment) for my colleagues ?
-- can I do a presentation in the [other](room) room for our employees?
-- do you provide an event room that has equipment for the team?
-- do you have a [screen](equipment) to do a talk for my colleagues ?
-- is there an option that has an [audio/video system](equipment) for my colleagues?
-- does [the](room) room have equipment to show a presentation for our staff?
-- is there a [projector](equipment) for our employees ?
-- are we able to show a powerpoint presentation in the [others](room) ?
-- I like equipment in the [others](room)
-- do you provide equipment for our staff in the [other](room) rooms?
-- is there an event room with an [audio/video system](equipment) ?
-- do you have an [audio/video system](equipment) to do a presentation for our staff in the [other](room) ones?
-- could I hold a presentation for the team?
-- is there an [audio/video system](equipment) for my colleagues ?
-- do you have an option which has equipment to hold a presentation for our staff?
-- does [it](room) have a [video system](equipment) to do a presentation for our staff?
-- is there equipment to hold a presentation for our staff in the [third](room) room?
-- can we show a presentation in the [others](room) for our employees?
-- do you provide an event room which has an [audio/video system](equipment) for my colleagues?
 - I also would like a [screen](equipment) in the [others](room)
-- I should be able to do a presentation in [this](room) for our staff?
-- do you have a [video system](equipment) for our staff in [alpha](room)?
-- is there an event room that has an [audio/video system](equipment) to hold a presentation for our staff?
-- does [the](room) room have equipment for our employees?
-- is there equipment to do a powerpoint presentation in the [others](room)?
-- could I do a talk in the [other](room) ones for the team?
-- do you provide an [audio/video system](equipment) for our staff in the [other](room) rooms?
-- is there an event room which has an [audio/video system](equipment) for the team?
-- do you have an [audio/video system](equipment) in [it](room)?
-- we should be able to hold a presentation in the [others](room) for my colleagues?
-- is there an [audio/video system](equipment) for our employees ?
-- do you provide an event room which has equipment to do a presentation for the team?
-- does [it](room) have equipment to do a powerpoint presentation for our employees?
-- is there an [audio/video system](equipment) to do a presentation for our employees in the [others](room)?
-- I also need equipment in [this](room)
-- are we able to show a powerpoint presentation in the [other](room) ones for our staff?
-- do you have equipment for the team in the [other](room) rooms?
-- is there a location that has equipment for our employees?
-- do you have equipment to do a powerpoint presentation for my colleagues ?
-- could I hold a presentation in the [others](room) ?
-- does [it](room) have an [audio/video system](equipment) to do a talk ?
-- do you provide an option that has an [audio/video system](equipment) ?
-- do you provide a [screen](equipment) to do a powerpoint presentation for our staff ?
-- do you have a [screen](equipment) to do a powerpoint presentation for our employees ?
-- is there a meeting room with an [audio/video system](equipment) for my colleagues?
-- are we able to hold a presentation in the [other](room) ones for the team?
-- do you have equipment for the team in the [others](room)?
-- we search for equipment in [the](room) room
-- does [the](room) room have a [screen](equipment) to do a presentation for our staff?
-- do you provide an event room with an [audio/video system](equipment) to do a presentation for my colleagues?
-- could we do a presentation in the [others](room) ?
-- do you provide equipment for the team in the [others](room)?
-- is there an event room which has equipment to do a presentation for my colleagues?
-- do you provide equipment for our staff in room [gamma](room)?
-- is there a possibility to hold a presentation in the [first](room) room for my colleagues?
-- do you provide a [screen](equipment) to show a powerpoint presentation for our employees in the [others](room)?
-- do you provide an option which has equipment for our staff?
-- does [this](room) room have an [audio/video system](equipment) to show a powerpoint presentation for our employees?
-- do you have a [video system](equipment) for our staff in the [other](room) ones?
-- is it possible to show a presentation in [the](room) room for our staff?
-- I also want a [video system](equipment) in the [other](room) rooms
-- do you provide an [audio/video system](equipment) to hold a presentation for our employees ?
-- do you provide an option with an [audio/video system](equipment) to show a presentation for my colleagues?
-- do you provide an [audio/video system](equipment) to do a powerpoint presentation for the team in the [other](room) ones?
-- is there a possibility to do a presentation in the [other](room) rooms for our staff?
-- is there equipment to show a presentation for our employees in [the](room) room?
-- does [the](room) room have equipment to show a powerpoint presentation for my colleagues?
-- do you provide an event room which has an [audio/video system](equipment) to do a powerpoint presentation for my colleagues?
-- is it possible to do a presentation in the [other](room) ones for my colleagues?
-- is there a location with an [audio/video system](equipment) to show a powerpoint presentation for my colleagues?
-- do you have a [projector](equipment) for the team in the [others](room)?
-- I also like an [audio/video system](equipment) in [this](room)
-- do you have equipment to hold a presentation in [the](room) room?
-- can I do a presentation in the [other](room) ones for our staff?
-- does [it](room) have an [audio/video system](equipment) to show a presentation for our staff?
-- do you provide an option with equipment to do a talk for our staff?
-- do you have equipment for our staff in the [others](room)?
-- do you provide equipment to do a powerpoint presentation for my colleagues ?
-- do you provide a meeting room with a [projector](equipment) to show a powerpoint presentation ?
-- I should be able to do a powerpoint presentation for our staff?
-- is there equipment for my colleagues ?
-- do you provide an option that has an [audio/video system](equipment) for our employees?
-- do you have equipment to hold a presentation for our employees ?
-- does room [Beta](room) have equipment to do a powerpoint presentation for my colleagues?
-- we should be able to do a talk in the [other](room) rooms ?
-- we like equipment
-- do you provide a [screen](equipment) for my colleagues ?
-- is there a meeting room that has a [video system](equipment) to show a presentation for the team?
-- do you have equipment to do a powerpoint presentation for my colleagues in the [others](room)?
-- can I do a talk in the [others](room) for the team?
-- do you have an [audio/video system](equipment) to show a powerpoint presentation for our staff in the [others](room)?
-- is there a room with a [screen](equipment) to hold a presentation for our staff?
-- does room [Gamma](room) have a [screen](equipment) to hold a presentation for my colleagues?
-- is there equipment for our employees in [this](room)?
-- is it possible to do a talk in the [other](room) rooms for my colleagues?
-- do you provide equipment to hold a presentation for our employees in the [others](room)?
-- is there a venue with equipment to do a presentation ?
-- is there equipment to hold a presentation for our staff in the [others](room)?
-- are we able to do a talk in the [other](room) ones for the team?
-- we also search for an [audio/video system](equipment) in the [others](room)
-- is there an option which has equipment to show a powerpoint presentation ?
-- do you provide equipment for the team ?
-- do you have an [audio/video system](equipment) to show a presentation for our employees in the [others](room)?
-- could I show a powerpoint presentation in the [other](room) rooms for the team?
-- do you provide an option with a [video system](equipment) to do a talk for our staff?
-- is there an [audio/video system](equipment) to show a powerpoint presentation for our employees in the [others](room)?
-- could I hold a presentation for my colleagues?
-- is there equipment for the team ?
-- does [the](room) room have a [screen](equipment) to show a presentation for the team?
-- is there an option that has equipment to do a presentation for our employees?
-- do you have a [screen](equipment) for our employees in the [others](room)?
-- I also search for a [video system](equipment) in the [other](room) rooms
-- can we show a presentation in [this](room) room for the team?
-- do you provide equipment to do a presentation in the [other](room) rooms?
-- do you have a meeting room which has equipment for our employees?
-- do you have an [audio/video system](equipment) for the team in the [other](room) rooms?
-- does [the](room) room have an [audio/video system](equipment) for our staff?
-- do you provide a room that has equipment for the team?
-- we should be able to show a powerpoint presentation in [this](room) for the team?
-- do you have an [audio/video system](equipment) to do a powerpoint presentation in the [first](room) room?
-- is there a [video system](equipment) to do a talk for my colleagues in the [other](room) rooms?
-- are we able to do a presentation for the team?
-- we search for equipment in the [others](room)
-- do you provide equipment to do a powerpoint presentation in the [other](room) rooms?
-- do you provide an event room that has an [audio/video system](equipment) for my colleagues?
-- does [it](room) have a [screen](equipment) to show a powerpoint presentation for the team?
-- can I do a powerpoint presentation in the [other](room) rooms for our employees?
-- is there a [screen](equipment) to do a powerpoint presentation for our employees ?
-- do you have a meeting room with an [audio/video system](equipment) ?
-- do you have an [audio/video system](equipment) for our employees in the [other](room) ones?
-- could I show a powerpoint presentation in [this](room) one for our employees?
-- do you have a [video system](equipment) for our staff ?
-- do you provide a meeting room that has equipment for the team?
-- does [the](room) room have equipment ?
-- do you have equipment to do a talk for our staff in the [others](room)?
-- we should be able to do a powerpoint presentation in [this](room) room ?
-- we also search for equipment in the [other](room) rooms
-- is there an [audio/video system](equipment) to hold a presentation for our employees ?
-- do you provide an option that has equipment for our employees?
+- do you have an option that has an [audio/video system](equipment) for the team?
+- do you have equipment to do a presentation for the team in the [other](room) rooms?
+- can we show a powerpoint presentation for our staff?
+- does the [third](room) room have a [screen](equipment) ?
+- is there equipment to do a powerpoint presentation for our employees in the [third](room) room?
+- is there an event room with equipment to do a presentation ?
+- I should be able to show a powerpoint presentation in the [others](room) for our staff?
+- do you have an [audio/video system](equipment) to do a powerpoint presentation for the team ?
+- do you provide a [video system](equipment) to hold a presentation in the [other](room) ones?
+- is there an option that has a [screen](equipment) ?
+- does the [first](room) one have equipment to do a powerpoint presentation for our staff?
+- can we show a presentation in the [others](room) for my colleagues?
+- do you have equipment to show a powerpoint presentation ?
 - do you provide equipment for our employees in the [others](room)?
-- can I do a powerpoint presentation for my colleagues?
-- do you provide a [screen](equipment) to do a presentation for our staff ?
-- does [the](room) room have a [screen](equipment) ?
-- do you have a venue that has an [audio/video system](equipment) for my colleagues?
-- is there a possibility to hold a presentation in the [others](room) for the team?
-- is there a location with equipment to show a presentation ?
-- is there equipment to do a powerpoint presentation in the [other](room) rooms?
-- we would like equipment
-- are we able to show a presentation in the [others](room) ?
-- does [the](room) room have a [projector](equipment) ?
-- is there a location that has an [audio/video system](equipment) to show a powerpoint presentation for my colleagues?
-- is there equipment in [this](room) room?
-- do you provide a [projector](equipment) to hold a presentation for my colleagues in the [other](room) ones?
-- is there a room with a [screen](equipment) for the team?
-- are we able to show a presentation in [this](room) for our employees?
-- do you provide an [audio/video system](equipment) for my colleagues in [this](room)?
-- is there a [projector](equipment) to show a powerpoint presentation for the team in the [first](room) room?
-- do you have an option which has equipment for the team?
-- does room [alpha](room) have equipment for our employees?
-- we should be able to do a presentation for our staff?
-- is there an [audio/video system](equipment) to do a powerpoint presentation for my colleagues in [this](room) one?
-- I would like equipment in the [others](room)
-- is there a venue which has an [audio/video system](equipment) ?
-- do you have equipment for the team ?
-- can I hold a presentation for our staff?
-- do you have an [audio/video system](equipment) to do a powerpoint presentation for our employees in [it](room)?
-- is there a room that has an [audio/video system](equipment) ?
-- does the [second](room) room have a [video system](equipment) for our employees?
-- is there an [audio/video system](equipment) for our employees in the [other](room) ones?
-- can we hold a presentation in the [other](room) rooms ?
-- do you have an [audio/video system](equipment) to show a presentation for the team ?
-- is there an event room that has equipment to hold a presentation for our staff?
-- do you provide equipment for our staff in [this](room) room?
-- is there a possibility to show a presentation in [it](room) ?
-- I also like equipment in the [second](room) one
-- does [this](room) room have equipment for our staff?
-- is there a room which has equipment for our staff?
-- do you provide equipment to do a presentation for our staff in the [others](room)?
-- do you provide equipment for our staff ?
-- is there a possibility to show a presentation for the team?
-- is there a room with equipment to hold a presentation ?
-- do you have an [audio/video system](equipment) in the [other](room) room?
-- do you provide equipment to hold a presentation for the team ?
-- is it possible to show a presentation in the [other](room) rooms for our staff?
-- does [the](room) room have equipment to do a talk for the team?
-- is there a meeting room with equipment ?
-- do you have equipment to do a talk for the team in the [others](room)?
-- is there an [audio/video system](equipment) for our staff in the [others](room)?
-- could I do a presentation for our employees?
-- we need equipment
-- do you have a venue that has equipment to do a talk ?
-- do you have an [audio/video system](equipment) for the team in [this](room) one?
-- is there an event room which has a [projector](equipment) to do a presentation for our employees?
-- does [it](room) have equipment for our staff?
-- could I do a presentation in the [other](room) ones for the team?
-- is there an [audio/video system](equipment) for our staff in the [other](room) rooms?
-- do you provide a [projector](equipment) for my colleagues in [Gamma](room)?
-- do you have an event room with equipment to do a presentation ?
-- is there a possibility to do a presentation in [the](room) room for our staff?
-- is there a [projector](equipment) ?
-- do you provide a [screen](equipment) to hold a presentation for the team in the [other](room) ones?
-- do you have a location with equipment to do a talk ?
-- does [this](room) one have equipment to do a presentation ?
-- we also search for an [audio/video system](equipment) in the [second](room) one
-- are we able to do a presentation in the [other](room) rooms ?
-- do you have an [audio/video system](equipment) to show a presentation for my colleagues in the [others](room)?
-- do you provide a meeting room which has equipment to show a powerpoint presentation for our employees?
-- do you have an [audio/video system](equipment) to hold a presentation in the [others](room)?
-- could we hold a presentation for our employees?
-- do you have equipment to do a powerpoint presentation for our employees in [this](room)?
-- is there an event room with equipment to show a presentation for the team?
-- does the [third](room) room have an [audio/video system](equipment) for the team?
-- do you have equipment for my colleagues in [the](room) room?
-- could we do a powerpoint presentation in the [other](room) ones for my colleagues?
-- do you have an [audio/video system](equipment) to do a talk for our staff ?
-- do you provide a location which has equipment to show a presentation for my colleagues?
-- we search for equipment in the [last](room) one
-- do you provide equipment for the team in [this](room)?
-- are we able to do a talk in [it](room) for my colleagues?
-- do you have an option which has an [audio/video system](equipment) to do a presentation ?
-- does [the](room) room have equipment for our staff?
-- is there equipment to do a talk in [the](room) room?
-- is there a possibility to hold a presentation in the [third](room) room for our staff?
-- do you have an option with equipment to hold a presentation for our employees?
+- do you have a venue with equipment to hold a presentation for my colleagues?
+- I like equipment in the [others](room)
+- is there a possibility to do a presentation in the [other](room) ones for our staff?
+- do you provide equipment for the team in the [third](room) room?
+- is there a meeting room that has a [video system](equipment) for my colleagues?
+- does [gamma](room) have equipment to show a presentation for my colleagues?
+- do you provide equipment to do a presentation in room [Alpha](room)?
+- is there a possibility to show a powerpoint presentation in the [other](room) ones ?
+- do you have a [screen](equipment) in [the](room) room?
+- do you have a location that has a [projector](equipment) to do a powerpoint presentation ?
+- do you provide a [projector](equipment) to do a powerpoint presentation for my colleagues in the [others](room)?
+- could we show a presentation for the team?
 - do you provide equipment in the [others](room)?
-- do you provide an [audio/video system](equipment) for our employees in [it](room)?
-- is it possible to show a powerpoint presentation for our employees?
-- is there an option which has a [video system](equipment) for our employees?
-- does the [first](room) room have equipment for our employees?
-- I need a [projector](equipment)
-- is there an [audio/video system](equipment) to do a powerpoint presentation in the [third](room) one?
-- do you provide equipment for our staff in [this](room) one?
-- do you provide a venue that has a [screen](equipment) ?
-- could I show a powerpoint presentation for our staff?
-- do you have equipment to do a presentation for our staff in the [first](room) one?
-- is there a meeting room that has an [audio/video system](equipment) to hold a presentation for our staff?
-- does [this](room) have an [audio/video system](equipment) for our staff?
-- do you provide an [audio/video system](equipment) for my colleagues in the [first](room) one?
-- are we able to do a powerpoint presentation in the [other](room) ones for our employees?
-- is there an event room which has equipment to show a powerpoint presentation for our employees?
-- we also would like a [screen](equipment)
-- can I hold a presentation in the [other](room) ones ?
-- do you provide an [audio/video system](equipment) for my colleagues in the [other](room) ones?
-- does [it](room) have equipment to show a powerpoint presentation ?
-- do you have an event room with equipment for our employees?
-- do you provide equipment for our employees in [the](room) room?
-- is it possible to do a talk for the team?
-- do you provide equipment to show a powerpoint presentation for our staff in the [others](room)?
-- do you have a meeting room with equipment to do a presentation for the team?
-- is there equipment for our staff in the [others](room)?
-- is it possible to do a talk in [this](room) one for my colleagues?
-- is there an option which has equipment ?
-- does [this](room) have equipment to show a powerpoint presentation for our staff?
-- do you provide a [projector](equipment) for our employees ?
-- I need an [audio/video system](equipment)
-- do you have a [video system](equipment) for the team in the [other](room) ones?
-- is there a possibility to show a powerpoint presentation ?
-- do you provide an event room that has an [audio/video system](equipment) to do a powerpoint presentation for our employees?
-- do you have equipment for our staff in the [other](room) rooms?
-- is it possible to do a presentation in the [others](room) for my colleagues?
-- do you provide an option which has a [screen](equipment) to hold a presentation for the team?
-- does [it](room) have equipment to hold a presentation for our staff?
-- do you provide equipment to do a presentation for my colleagues in the [other](room) ones?
-- do you provide a meeting room that has an [audio/video system](equipment) to do a powerpoint presentation for my colleagues?
-- is it possible to show a powerpoint presentation in the [other](room) ones ?
-- I also like equipment in the [other](room) one
-- do you provide an [audio/video system](equipment) to do a talk for my colleagues in the [other](room) ones?
-- is there a meeting room which has equipment ?
-- does room [beta](room) have equipment to show a presentation for the team?
-- is there an [audio/video system](equipment) to do a presentation for my colleagues in the [others](room)?
-- is it possible to do a talk in the [other](room) rooms ?
-- do you provide an [audio/video system](equipment) to do a powerpoint presentation for my colleagues in the [other](room) ones?
-- is there an event room with a [video system](equipment) ?
-- is it possible to show a presentation in the [other](room) ones for our staff?
-- is there a [projector](equipment) to hold a presentation for our staff ?
-- do you have equipment to do a talk for my colleagues in [this](room) room?
-- does the [third](room) one have equipment for the team?
-- do you provide a location which has an [audio/video system](equipment) for the team?
-- we also want equipment in [Gamma](room)
-- could I do a presentation in the [other](room) rooms for my colleagues?
-- is there equipment to show a presentation for the team ?
-- is there an option that has equipment for my colleagues?
-- is there equipment to do a powerpoint presentation for our staff ?
-- is it possible to show a presentation in the [others](room) for the team?
-- do you have equipment to show a presentation for our staff in the [other](room) rooms?
-- does room [alpha](room) have a [screen](equipment) for our staff?
-- do you have a venue which has an [audio/video system](equipment) for my colleagues?
-- do you provide equipment to hold a presentation in the [other](room) rooms?
-- is there an [audio/video system](equipment) to hold a presentation for our staff ?
-- do you have a meeting room with a [projector](equipment) ?
-- do you have a [screen](equipment) to do a powerpoint presentation for our employees in the [second](room) room?
-- I want equipment in [the](room) room
-- is there a possibility to do a talk in [the](room) room ?
-- do you have an [audio/video system](equipment) for our employees in room [beta](room)?
-- does the [first](room) room have an [audio/video system](equipment) to show a presentation for our employees?
-- is there an event room that has a [projector](equipment) to do a powerpoint presentation for the team?
-- can I show a powerpoint presentation in room [Beta](room) for our staff?
-- is there an event room that has a [screen](equipment) to show a presentation for my colleagues?
-- do you provide equipment for the team in [the](room) room?
-- do you have a [projector](equipment) to hold a presentation for the team in [this](room) room?
-- do you have a location that has equipment to do a talk for my colleagues?
-- does the [last](room) one have equipment for the team?
-- can I do a presentation in the [others](room) for my colleagues?
-- do you provide equipment for the team in the [other](room) rooms?
-- we also like equipment in [the](room) room
-- is there a [projector](equipment) to do a talk for our employees in the [others](room)?
-- do you have an event room which has a [screen](equipment) for my colleagues?
-- are we able to do a powerpoint presentation for our employees?
-- do you have equipment to do a presentation for my colleagues in the [last](room) room?
-- do you provide equipment to show a presentation for my colleagues in [it](room)?
-- does the [first](room) room have equipment for our staff?
-- do you provide a venue with equipment to show a presentation for our employees?
-- is there a possibility to do a presentation ?
-- do you provide an [audio/video system](equipment) for my colleagues ?
-- is there a meeting room with equipment for our staff?
-- are we able to do a powerpoint presentation in the [other](room) rooms for our employees?
-- do you provide equipment for our employees ?
-- does [it](room) have a [screen](equipment) to hold a presentation for our staff?
-- do you provide an option with a [video system](equipment) to do a powerpoint presentation for our employees?
-- is there an [audio/video system](equipment) for our staff in [this](room) one?
-- is it possible to show a presentation in [the](room) room for our employees?
-- do you provide an [audio/video system](equipment) for our staff in the [others](room)?
-- is there a room with equipment for our staff?
-- do you have equipment to show a presentation for our staff in [Beta](room)?
-- is there a possibility to show a presentation in the [other](room) rooms for the team?
-- do you have a room that has equipment to do a presentation for my colleagues?
-- does room [gamma](room) have equipment for our staff?
-- do you have equipment ?
-- we also like equipment in the [other](room) ones
-- do you have equipment to show a powerpoint presentation for my colleagues ?
-- is there a possibility to show a presentation ?
-- is there a venue with an [audio/video system](equipment) to show a powerpoint presentation for our staff?
-- do you have an [audio/video system](equipment) to show a presentation for our employees in [the](room) room?
-- do you provide equipment to do a presentation ?
-- can I hold a presentation in the [other](room) rooms for our staff?
-- does room [Beta](room) have an [audio/video system](equipment) ?
-- do you provide an event room which has a [projector](equipment) for our employees?
-- is there a [screen](equipment) for our staff in the [other](room) ones?
-- is there a venue with a [video system](equipment) ?
-- can I do a talk for the team?
-- do you provide a [video system](equipment) to do a powerpoint presentation for our employees in the [other](room) rooms?
-- we search for equipment in the [other](room) rooms
-- do you provide a meeting room with equipment to hold a presentation ?
-- does [it](room) have a [screen](equipment) for our staff?
-- do you have a [screen](equipment) to do a powerpoint presentation for the team in the [other](room) rooms?
-- can I do a talk in the [others](room) for our employees?
-- is there a room with equipment to show a presentation for our employees?
-- do you have equipment to do a powerpoint presentation in the [second](room) one?
-- is it possible to show a presentation in [Gamma](room) for our staff?
-- is there equipment for the team in the [other](room) ones?
-- do you provide a location with an [audio/video system](equipment) for our staff?
-- does [it](room) have an [audio/video system](equipment) to do a presentation ?
-- are we able to do a presentation in the [others](room) ?
-- I search for a [projector](equipment) in [this](room) room
-- do you have an option with equipment for my colleagues?
-- do you provide a [video system](equipment) in the [other](room) ones?
-- do you provide equipment to do a talk in the [others](room)?
-- are we able to show a powerpoint presentation in [this](room) one for our staff?
-- does the [third](room) room have a [video system](equipment) to show a presentation for our employees?
-- do you have a venue with an [audio/video system](equipment) to hold a presentation for our staff?
-- do you provide an [audio/video system](equipment) to do a powerpoint presentation for the team in the [other](room) rooms?
-- could we do a powerpoint presentation in the [other](room) rooms ?
-- do you have equipment to show a powerpoint presentation in [the](room) room?
-- do you provide an event room which has equipment to show a powerpoint presentation for the team?
-- is there an [audio/video system](equipment) ?
-- I also search for equipment in the [others](room)
-- is there a possibility to show a powerpoint presentation for my colleagues?
-- do you have equipment for my colleagues in the [other](room) ones?
-- do you provide an event room that has an [audio/video system](equipment) for our staff?
-- does [the](room) room have equipment to do a powerpoint presentation for our staff?
-- do you have an [audio/video system](equipment) for our staff in room [Alpha](room)?
-- do you provide a meeting room which has an [audio/video system](equipment) for the team?
-- is there a possibility to show a presentation for my colleagues?
-- do you provide equipment to do a powerpoint presentation for our employees in the [others](room)?
-- is there an [audio/video system](equipment) in [the](room) room?
-- do you provide an option that has equipment to do a presentation for the team?
-- is it possible to show a presentation in the [other](room) ones for our employees?
-- is there a [screen](equipment) to do a powerpoint presentation for the team in the [first](room) one?
-- I want equipment in the [other](room) rooms
-- do you have equipment to show a powerpoint presentation for our employees in [this](room)?
-- do you have an option that has an [audio/video system](equipment) to hold a presentation for the team?
-- does [beta](room) have a [video system](equipment) to do a presentation for my colleagues?
-- do you have equipment to do a powerpoint presentation in [the](room) room?
-- we should be able to do a powerpoint presentation in [Alpha](room) for our employees?
-- do you have equipment to show a powerpoint presentation for our employees ?
-- do you have a room which has equipment for our employees?
-- do you provide a [screen](equipment) to do a powerpoint presentation for our staff in the [other](room) ones?
+- do you have a venue which has equipment to do a presentation for our staff?
+- does the [second](room) one have equipment to do a talk for my colleagues?
+- we also like a [screen](equipment) in the [third](room) one
+- do you provide a [projector](equipment) to show a presentation for our staff ?
+- could I show a presentation in [this](room) ?
+- is there an [audio/video system](equipment) for our employees in [it](room)?
+- is there an event room with an [audio/video system](equipment) to do a presentation for our employees?
+- do you have equipment to hold a presentation for my colleagues in the [first](room) room?
+- are we able to show a powerpoint presentation in [it](room) for my colleagues?
+- does [it](room) have an [audio/video system](equipment) for the team?
+- do you provide an option which has a [video system](equipment) to hold a presentation ?
+- is there a [screen](equipment) in the [other](room) rooms?
+- do you have a [projector](equipment) for our staff in the [others](room)?
+- is there a location with an [audio/video system](equipment) for our employees?
+- can I show a presentation for the team?
+- we need an [audio/video system](equipment) in [this](room) one
+- do you have an [audio/video system](equipment) for our employees in [Beta](room)?
+- do you have equipment to do a talk for our employees in [the](room) room?
+- does the [first](room) room have equipment to show a powerpoint presentation for our employees?
+- do you have a venue with an [audio/video system](equipment) for our employees?
 - is there a possibility to do a talk in the [others](room) for my colleagues?
-- do you have equipment to show a powerpoint presentation for the team in [this](room)?
-- we want equipment in room [Beta](room)
-- do you provide an event room which has equipment to do a talk for our staff?
-- does [it](room) have equipment to do a presentation for my colleagues?
-- do you provide equipment to show a powerpoint presentation for the team in the [other](room) ones?
-- is it possible to do a talk in the [other](room) ones for my colleagues?
-- is there equipment for my colleagues in the [other](room) rooms?
-- is there an event room which has a [video system](equipment) for our staff?
-- do you provide an [audio/video system](equipment) for our employees in the [others](room)?
-- could we hold a presentation in the [other](room) rooms ?
-- do you provide an event room that has an [audio/video system](equipment) to do a powerpoint presentation for our staff?
-- does [Beta](room) have an [audio/video system](equipment) to hold a presentation ?
-- do you provide equipment to do a powerpoint presentation for the team in the [other](room) ones?
-- I also would like an [audio/video system](equipment) in the [others](room)
-- is it possible to show a presentation for my colleagues?
-- do you provide a venue with equipment to show a powerpoint presentation for the team?
-- do you have equipment in [this](room)?
-- do you have a room that has equipment to do a talk for my colleagues?
-- does [it](room) have equipment to show a powerpoint presentation for the team?
-- can I show a presentation in the [other](room) ones ?
-- is there equipment for my colleagues in the [others](room)?
-- do you have an [audio/video system](equipment) to do a powerpoint presentation for our employees in room [alpha](room)?
-- do you have an event room with equipment to hold a presentation ?
-- is it possible to do a powerpoint presentation for the team?
-- is there equipment to show a presentation ?
-- I also like a [projector](equipment) in the [other](room) rooms
-- do you provide an option with equipment ?
-- does [it](room) have equipment for my colleagues?
-- is there equipment to show a powerpoint presentation for our staff in the [other](room) rooms?
-- are we able to do a powerpoint presentation in the [others](room) for our staff?
-- is there an option that has a [screen](equipment) to show a presentation for our employees?
+- do you have equipment for our employees in [it](room)?
+- do you provide an option that has a [video system](equipment) ?
+- do you have equipment in [the](room) room?
+- are we able to do a presentation in [it](room) ?
+- do you provide an [audio/video system](equipment) to show a powerpoint presentation for the team in the [other](room) ones?
+- do you have an option which has a [projector](equipment) for our employees?
+- does the [other](room) room have an [audio/video system](equipment) for the team?
+- do you provide an [audio/video system](equipment) to do a presentation for the team in [the](room) room?
+- I want an [audio/video system](equipment) in the [other](room) ones
+- are we able to hold a presentation in the [other](room) rooms for the team?
+- do you provide an [audio/video system](equipment) to do a talk in the [other](room) ones?
+- do you provide an option that has equipment for my colleagues?
+- is there equipment for the team ?
+- I should be able to do a presentation for our employees?
+- do you provide an [audio/video system](equipment) to do a presentation for the team in room [Gamma](room)?
+- do you have an option which has equipment to do a talk for our employees?
+- does [it](room) have equipment for our staff?
+- do you provide equipment for my colleagues in [the](room) room?
+- can we do a talk for our staff?
+- is there a meeting room that has an [audio/video system](equipment) to show a presentation for our staff?
+- do you have an [audio/video system](equipment) to do a talk for our staff in the [other](room) rooms?
+- I want equipment
+- do you have equipment in [it](room)?
+- is there a possibility to show a powerpoint presentation in the [others](room) for the team?
+- does [beta](room) have a [projector](equipment) to do a talk ?
+- do you have an option which has an [audio/video system](equipment) to hold a presentation for the team?
+- is there equipment to do a talk in the [other](room) rooms?
+- is there equipment to hold a presentation for my colleagues in room [Beta](room)?
+- is there a possibility to do a powerpoint presentation in [this](room) ?
+- do you have an event room that has an [audio/video system](equipment) ?
+- do you have equipment for my colleagues in the [others](room)?
+- does [the](room) room have equipment for our employees?
+- do you have an option that has a [video system](equipment) for my colleagues?
+- is there an [audio/video system](equipment) to hold a presentation for my colleagues ?
+- could we show a presentation in the [other](room) rooms for our employees?
+- we search for an [audio/video system](equipment)
+- do you provide equipment to show a powerpoint presentation for our staff in the [others](room)?
+- is there a meeting room that has equipment to do a talk for my colleagues?
+- do you have equipment to do a talk for the team in the [others](room)?
+- I should be able to show a powerpoint presentation in the [others](room) for my colleagues?
+- do you provide an [audio/video system](equipment) for my colleagues ?
+- does the [other](room) room have an [audio/video system](equipment) to hold a presentation for the team?
+- do you provide an option with equipment to do a presentation for our employees?
+- can I show a presentation in [the](room) room for my colleagues?
+- do you have an [audio/video system](equipment) for the team in [the](room) room?
+- is there a [video system](equipment) for the team in the [other](room) ones?
+- is there a meeting room with an [audio/video system](equipment) for the team?
+- I also like an [audio/video system](equipment)
+- is there a possibility to show a powerpoint presentation in the [others](room) ?
+- do you have an [audio/video system](equipment) in the [third](room) one?
+- does [this](room) room have equipment to show a presentation ?
+- is there an option with a [video system](equipment) to do a talk for our employees?
+- do you have a [projector](equipment) for our employees in the [others](room)?
+- is it possible to show a presentation in the [other](room) rooms ?
+- do you have an [audio/video system](equipment) to do a talk for my colleagues in [the](room) room?
+- is there a room which has equipment for the team?
+- is there a [projector](equipment) for my colleagues ?
+- I should be able to do a powerpoint presentation in the [other](room) rooms for our staff?
+- do you provide equipment to show a powerpoint presentation for the team ?
+- does room [alpha](room) have a [video system](equipment) to show a presentation for the team?
+- is there a meeting room with equipment to do a powerpoint presentation for our employees?
+- I search for an [audio/video system](equipment) in the [others](room)
+- do you have an [audio/video system](equipment) for the team in the [others](room)?
+- is there a possibility to hold a presentation in [it](room) for my colleagues?
+- do you provide an [audio/video system](equipment) to hold a presentation in the [others](room)?
+- do you have an event room with a [screen](equipment) for our staff?
+- do you provide an [audio/video system](equipment) to do a powerpoint presentation for our staff in the [others](room)?
+- could I show a presentation in [it](room) for my colleagues?
+- do you provide a room which has equipment to show a presentation for our staff?
+- does [it](room) have a [projector](equipment) to do a talk for our staff?
+- do you have equipment to show a presentation for our staff in the [other](room) room?
+- do you have equipment for the team in [it](room)?
+- do you have an option that has equipment ?
+- is there a possibility to show a presentation for our employees?
+- is there an [audio/video system](equipment) for our staff ?
+- we would like an [audio/video system](equipment)
+- do you provide equipment to do a talk for our staff in the [others](room)?
+- do you have an option with an [audio/video system](equipment) for our staff?
+- does room [Beta](room) have equipment for the team?
+- can we hold a presentation in the [others](room) ?
+- do you provide equipment to hold a presentation for our staff ?
+- do you provide a location which has equipment for our staff?
+- do you have an [audio/video system](equipment) in the [others](room)?
+- are we able to show a presentation for our employees?
+- do you have equipment to show a powerpoint presentation for our staff in room [Alpha](room)?
+- do you provide a room that has a [projector](equipment) to show a presentation for our employees?
+- does [beta](room) have equipment for my colleagues?
+- do you provide equipment for my colleagues ?
+- we should be able to show a presentation in the [other](room) ones for the team?
+- do you have equipment for our employees in the [others](room)?
+- is there an event room which has equipment to show a powerpoint presentation for my colleagues?
+- do you have equipment for my colleagues ?
+- are we able to show a presentation for the team?
+- do you provide equipment to do a powerpoint presentation for my colleagues in the [other](room) ones?
+- do you have a venue with equipment for our staff?
+- does [this](room) have a [projector](equipment) to do a talk for my colleagues?
+- is there equipment to show a presentation for our staff ?
+- is it possible to do a presentation for our employees?
+- is there a location with equipment for my colleagues?
+- is there a [screen](equipment) for the team ?
+- I also search for equipment in room [Alpha](room)
+- is there equipment for our employees in the [others](room)?
+- I should be able to do a talk in [it](room) for our employees?
+- does [it](room) have an [audio/video system](equipment) to hold a presentation for our staff?
+- is there an option which has equipment for the team?
+- do you have equipment to do a talk for my colleagues in the [others](room)?
+- is there a [video system](equipment) for the team ?
+- are we able to show a powerpoint presentation in the [others](room) ?
+- do you have a meeting room with equipment for our employees?
+- is there equipment to show a powerpoint presentation for the team in the [others](room)?
+- do you have equipment for our staff in the [other](room) rooms?
+- does room [alpha](room) have equipment ?
+- is it possible to show a powerpoint presentation in the [others](room) for our staff?
+- do you provide a [video system](equipment) for my colleagues in the [others](room)?
+- I also need a [screen](equipment) in the [other](room) ones
+- is there a room with equipment ?
+- are we able to hold a presentation in the [other](room) rooms for my colleagues?
+- is there a [projector](equipment) to do a talk ?
+- does [the](room) room have equipment for my colleagues?
+- do you have a venue with equipment to do a talk ?
+- do you provide equipment for my colleagues in the [others](room)?
+- could we show a presentation in [the](room) room for the team?
+- is there equipment for our staff in the [others](room)?
+- do you provide an event room that has equipment for our staff?
+- do you provide equipment to do a talk for our staff ?
+- are we able to do a presentation in the [others](room) for our staff?
+- we also need a [projector](equipment) in the [other](room) rooms
+- do you have an event room with equipment for our employees?
+- does [it](room) have a [video system](equipment) for our employees?
+- do you provide a [video system](equipment) to do a presentation for the team in the [others](room)?
+- could we do a talk in the [others](room) ?
+- is there equipment for our staff in [the](room) room?
+- do you have an event room with an [audio/video system](equipment) to do a presentation ?
+- is there a [video system](equipment) to do a presentation for my colleagues in the [other](room) one?
+- is it possible to do a talk in the [other](room) ones ?
+- do you have equipment to hold a presentation for my colleagues ?
+- is there an option which has equipment to do a powerpoint presentation for my colleagues?
+- does the [third](room) one have equipment to do a presentation ?
+- do you have a [video system](equipment) for our employees in [gamma](room)?
+- we also need equipment in the [other](room) rooms
+- are we able to hold a presentation in the [other](room) ones ?
+- is there equipment for my colleagues in the [other](room) ones?
+- do you provide a venue that has equipment to do a presentation ?
+- is there equipment to hold a presentation for my colleagues in the [others](room)?
+- does [it](room) have equipment to hold a presentation ?
+- do you provide an event room with a [video system](equipment) to do a talk ?
+- is it possible to do a talk in the [others](room) for my colleagues?
+- do you provide an [audio/video system](equipment) for the team in the [last](room) one?
+- do you have equipment for our staff in the [others](room)?
+- is there an option which has equipment to do a powerpoint presentation for our employees?
+- can I show a presentation in room [Alpha](room) for the team?
+- is there equipment to do a powerpoint presentation for our staff in the [others](room)?
+- we would like equipment in the [other](room) ones
+- is there a [projector](equipment) to do a talk for my colleagues in [it](room)?
+- does the [third](room) room have a [screen](equipment) to show a presentation ?
+- do you have a venue which has a [projector](equipment) for our employees?
+- can we do a talk in the [second](room) room ?
+- do you have equipment to do a powerpoint presentation ?
+- is there an event room that has equipment for our staff?
+- do you provide equipment to do a talk in the [other](room) rooms?
+- are we able to do a presentation in the [second](room) one for my colleagues?
+- do you provide equipment for the team in the [other](room) rooms?
+- does room [gamma](room) have a [projector](equipment) ?
+- is there an event room that has an [audio/video system](equipment) for my colleagues?
+- do you have an [audio/video system](equipment) to hold a presentation for the team in [it](room)?
+- is it possible to do a presentation in the [other](room) rooms ?
+- we would like a [screen](equipment) in the [other](room) ones
+- is there an [audio/video system](equipment) to do a presentation for our staff in the [other](room) ones?
+- is there an option with an [audio/video system](equipment) for the team?
+- do you provide an [audio/video system](equipment) to show a presentation for our staff ?
+- we should be able to do a powerpoint presentation in room [Beta](room) ?
+- is there equipment to do a presentation for our employees ?
+- do you provide an option with a [screen](equipment) for our staff?
+- does [it](room) have an [audio/video system](equipment) to do a presentation for our staff?
+- is there equipment to show a presentation in room [Beta](room)?
+- are we able to hold a presentation in room [beta](room) for my colleagues?
+- do you provide an event room that has equipment to do a powerpoint presentation for our employees?
+- do you have an [audio/video system](equipment) to do a presentation for the team ?
+- do you provide a [projector](equipment) to do a powerpoint presentation for my colleagues in [this](room)?
+- we would like a [video system](equipment) in the [others](room)
+- can we show a presentation in the [other](room) ones for our employees?
+- do you provide a room with equipment to show a presentation for my colleagues?
+- does room [gamma](room) have equipment to hold a presentation for my colleagues?
+- do you provide a [screen](equipment) for my colleagues in the [other](room) rooms?
+- do you have a room that has a [projector](equipment) for our staff?
+- I should be able to hold a presentation in [alpha](room) ?
+- is there an [audio/video system](equipment) for my colleagues ?
+- do you have a room with equipment to do a presentation for our staff?
+- does [the](room) room have an [audio/video system](equipment) ?
+- can we do a powerpoint presentation in the [others](room) for my colleagues?
+- do you provide equipment to show a powerpoint presentation for the team in the [others](room)?
+- I like an [audio/video system](equipment) in [this](room)
+- is there an event room which has an [audio/video system](equipment) to do a talk for my colleagues?
+- do you have equipment for the team in the [other](room) ones?
+- are we able to do a presentation in the [others](room) ?
+- is there an [audio/video system](equipment) for our employees in the [others](room)?
+- do you provide an option that has equipment for the team?
+- does [the](room) room have a [screen](equipment) for the team?
+- do you provide an [audio/video system](equipment) to do a powerpoint presentation for my colleagues in the [other](room) ones?
+- could I do a powerpoint presentation in [the](room) room for the team?
+- is there a [screen](equipment) to show a presentation for the team in the [other](room) ones?
+- do you provide a meeting room which has equipment for the team?
+- do you have an [audio/video system](equipment) for my colleagues in [this](room) room?
+- is there a possibility to do a powerpoint presentation in [the](room) room for the team?
+- we like equipment in the [others](room)
+- does the [second](room) one have equipment ?
+- do you have an event room which has a [screen](equipment) to do a talk for our employees?
+- do you have equipment to do a presentation for my colleagues ?
+- is it possible to show a powerpoint presentation in the [other](room) ones for my colleagues?
+- is there a venue that has equipment for the team?
+- do you provide equipment to show a presentation for the team in the [others](room)?
+- do you provide a [video system](equipment) in the [other](room) rooms?
+- we should be able to hold a presentation for our staff?
+- is there an option which has equipment to do a talk for our employees?
+- does room [Gamma](room) have an [audio/video system](equipment) to show a powerpoint presentation for our staff?
+- do you provide equipment to show a powerpoint presentation for our employees in [the](room) room?
+- do you provide equipment for the team in the [other](room) ones?
+- are we able to show a powerpoint presentation in the [other](room) ones ?
+- we would like equipment
+- is there a venue which has a [projector](equipment) to do a powerpoint presentation for our staff?
+- do you have a [video system](equipment) to show a powerpoint presentation in the [other](room) room?
+- do you have a location which has equipment ?
+- does [it](room) have equipment to do a presentation ?
+- is it possible to show a powerpoint presentation in [the](room) room for the team?
+- is there equipment in the [other](room) rooms?
+- is there equipment for the team in the [others](room)?
+- do you have an event room with an [audio/video system](equipment) for our staff?
+- can I do a talk in the [other](room) rooms for my colleagues?
+- do you have equipment to do a presentation in [this](room)?
+- do you have equipment for the team ?
+- does the [other](room) room have an [audio/video system](equipment) to show a presentation for my colleagues?
+- is there a meeting room that has an [audio/video system](equipment) to do a powerpoint presentation ?
+- we also need a [projector](equipment)
+- can we show a powerpoint presentation in the [other](room) rooms for my colleagues?
+- is there a [video system](equipment) to do a presentation for my colleagues in the [others](room)?
+- do you provide a venue which has equipment ?
+- is there equipment to do a presentation in the [other](room) rooms?
+- I should be able to show a presentation in [this](room) for our employees?
+- is there an [audio/video system](equipment) to show a presentation for the team in [it](room)?
+- does [the](room) room have an [audio/video system](equipment) to show a powerpoint presentation ?
+- is there a room which has equipment to do a talk ?
+- is there an [audio/video system](equipment) to do a powerpoint presentation in the [others](room)?
+- is it possible to do a presentation in the [others](room) for our employees?
+- do you have equipment to show a presentation for our employees in the [others](room)?
+- is there an event room with equipment for our employees?
+- we search for equipment in the [other](room) rooms
+- do you have an [audio/video system](equipment) in [Alpha](room)?
+- I should be able to show a powerpoint presentation in the [other](room) ones for our staff?
+- is there equipment ?
+- does the [second](room) room have an [audio/video system](equipment) for our staff?
+- is there equipment to hold a presentation for the team in [this](room) room?
+- could I do a presentation in the [others](room) for the team?
+- do you provide an option which has an [audio/video system](equipment) for our employees?
+- do you have a [projector](equipment) for my colleagues in the [others](room)?
+- do you have a [video system](equipment) to show a powerpoint presentation for our staff in room [Beta](room)?
+- is there an option with an [audio/video system](equipment) ?
+- does [the](room) room have an [audio/video system](equipment) to do a powerpoint presentation for our staff?
+- I should be able to show a presentation in the [other](room) ones ?
+- I want equipment in the [others](room)
+- is there equipment to show a powerpoint presentation for my colleagues ?
+- is there equipment to hold a presentation for the team in the [others](room)?
+- do you provide an option with an [audio/video system](equipment) to do a talk ?
+- we should be able to do a presentation in the [other](room) rooms for our employees?
+- do you have equipment for the team in the [others](room)?
+- does room [Alpha](room) have equipment to show a presentation for our employees?
+- is there equipment to do a talk for our employees in the [other](room) one?
+- do you have an option that has equipment to show a powerpoint presentation for our employees?
 - is it possible to do a presentation in the [others](room) for the team?
-- is there equipment for my colleagues in [this](room)?
-- do you provide an option that has equipment to do a presentation for our employees?
-- does [this](room) room have a [screen](equipment) for the team?
-- is there an [audio/video system](equipment) to do a talk for the team in [this](room) one?
+- is there an [audio/video system](equipment) to show a presentation for our staff ?
+- do you have a meeting room that has equipment ?
+- we also would like an [audio/video system](equipment) in the [first](room) room
+- is it possible to do a talk in the [other](room) rooms for my colleagues?
+- do you have a [video system](equipment) for the team in the [others](room)?
+- is there a venue with an [audio/video system](equipment) for the team?
+- do you provide an [audio/video system](equipment) for our staff in [the](room) room?
+- we should be able to do a presentation for my colleagues?
+- do you have a [screen](equipment) to show a presentation for our staff in the [other](room) rooms?
+- is there an option which has equipment to hold a presentation for our employees?
+- do you provide equipment to do a talk for our staff in the [other](room) rooms?
+- can we do a presentation for my colleagues?
+- do you provide a room that has equipment to show a presentation for the team?
+- does [it](room) have a [projector](equipment) ?
+- is there equipment to do a powerpoint presentation for our employees in [it](room)?
+- I also need equipment
+- we should be able to show a powerpoint presentation in [this](room) room for my colleagues?
+- do you have a meeting room with equipment for the team?
+- do you provide an [audio/video system](equipment) to do a presentation in the [other](room) ones?
+- do you provide an [audio/video system](equipment) to do a powerpoint presentation for the team in the [other](room) ones?
+- are we able to hold a presentation in the [other](room) ones for our employees?
+- is there a venue which has equipment for the team?
+- does [this](room) room have equipment for the team?
+- do you have a [projector](equipment) in the [other](room) rooms?
+- do you provide an option which has equipment ?
+- is it possible to show a presentation in the [others](room) for my colleagues?
+- I need a [screen](equipment) in the [other](room) ones
+- do you have equipment for our staff in the [other](room) one?
+- do you provide a [projector](equipment) for our employees ?
+- are we able to do a presentation in the [others](room) for my colleagues?
+- do you have equipment for our employees in [this](room)?
+- do you provide a room with a [projector](equipment) to show a presentation for the team?
+- are we able to do a powerpoint presentation for my colleagues?
+- do you have equipment to show a presentation for the team ?
+- do you have a room with an [audio/video system](equipment) to do a powerpoint presentation for our staff?
+- does [this](room) room have a [projector](equipment) to do a powerpoint presentation ?
+- I also would like equipment in the [others](room)
+- I should be able to do a presentation in the [others](room) for our staff?
+- do you have equipment to show a presentation for my colleagues in the [others](room)?
+- do you provide an event room which has a [screen](equipment) to hold a presentation for our employees?
+- do you have an [audio/video system](equipment) to do a presentation for my colleagues in the [other](room) rooms?
+- is it possible to do a talk in the [others](room) for our employees?
+- do you have equipment to hold a presentation ?
+- does the [last](room) one have a [screen](equipment) for my colleagues?
+- is there a room which has equipment ?
+- do you provide equipment to do a talk for the team in the [others](room)?
+- are we able to do a presentation in the [other](room) ones for our employees?
+- do you provide an [audio/video system](equipment) for our employees in [this](room)?
+- is there an event room that has a [screen](equipment) ?
+- do you provide an [audio/video system](equipment) for our staff in the [other](room) ones?
+- is it possible to show a powerpoint presentation ?
+- is there equipment to do a presentation for our staff in the [others](room)?
+- is there a location with equipment for the team?
+- does the [second](room) room have an [audio/video system](equipment) for the team?
+- do you provide an [audio/video system](equipment) for the team ?
+- could I show a powerpoint presentation in the [others](room) ?
+- do you have an option which has equipment to show a powerpoint presentation for the team?
+- is there an [audio/video system](equipment) for our employees ?
+- is there an [audio/video system](equipment) to do a presentation for our staff in [the](room) room?
+- do you provide a venue which has a [screen](equipment) for our employees?
+- does [it](room) have equipment for the team?
+- we should be able to do a presentation in [the](room) room for my colleagues?
+- do you have equipment to do a presentation for our employees in the [other](room) ones?
+- we also search for equipment in the [others](room)
+- is there an [audio/video system](equipment) for our staff in [the](room) room?
+- is there an option with a [projector](equipment) to do a powerpoint presentation for our employees?
+- could we show a powerpoint presentation in the [others](room) for our staff?
+- is there equipment to do a presentation for our employees in the [others](room)?
+- does [it](room) have equipment to show a presentation for the team?
+- do you provide a location with equipment to hold a presentation ?
+- do you provide equipment to do a powerpoint presentation for our employees ?
+- are we able to do a talk in the [second](room) one for our employees?
+- do you provide equipment to do a talk for the team in [this](room)?
+- are we able to do a talk for our employees?
+- do you have a [screen](equipment) to show a presentation for our staff in the [other](room) ones?
+- do you have a location that has an [audio/video system](equipment) to show a presentation for my colleagues?
+- does [it](room) have an [audio/video system](equipment) for our staff?
+- is there equipment for our employees in [this](room) room?
+- can we do a presentation in the [others](room) for our staff?
+- do you have an [audio/video system](equipment) in the [other](room) ones?
+- do you provide a venue that has an [audio/video system](equipment) for the team?
+- is there an [audio/video system](equipment) to do a presentation in the [others](room)?
+- can we show a presentation in the [other](room) ones for my colleagues?
+- do you provide a meeting room with equipment to show a powerpoint presentation for my colleagues?
+- does [the](room) room have an [audio/video system](equipment) for the team?
+- is there an [audio/video system](equipment) to do a talk ?
+- I also like a [screen](equipment) in the [others](room)
+- do you have a [screen](equipment) for my colleagues ?
+- we should be able to show a presentation in the [other](room) ones ?
+- do you have an option with a [projector](equipment) to do a talk for my colleagues?
+- do you provide equipment for our employees in the [other](room) rooms?
+- is there equipment for my colleagues in room [Alpha](room)?
+- we should be able to do a presentation in [it](room) ?
+- is there a location that has equipment to do a presentation for our staff?
+- does [the](room) room have an [audio/video system](equipment) for our staff?
+- is there an [audio/video system](equipment) to show a presentation for our staff in the [others](room)?
+- is there a [screen](equipment) for my colleagues in the [first](room) one?
+- do you provide a venue that has equipment for our staff?
+- are we able to show a powerpoint presentation for the team?
+- is there a [screen](equipment) to hold a presentation for our employees in [this](room) room?
+- we would like an [audio/video system](equipment) in the [other](room) ones
+- does [it](room) have a [screen](equipment) to show a powerpoint presentation for my colleagues?
+- do you have an event room that has equipment to show a powerpoint presentation for the team?
+- do you have equipment for the team in the [other](room) rooms?
+- is it possible to show a powerpoint presentation in [gamma](room) for my colleagues?
+- do you provide equipment to hold a presentation for the team in the [other](room) ones?
+- do you have an event room that has equipment to do a talk ?
+- is there equipment to show a presentation for our staff in [this](room)?
+- is there a possibility to do a talk in the [other](room) rooms for my colleagues?
+- is there a [video system](equipment) in the [others](room)?
+- do you have a location with a [projector](equipment) for our employees?
+- does [Beta](room) have equipment to hold a presentation ?
+- do you have equipment to hold a presentation for the team in the [second](room) room?
+- I also want equipment in the [others](room)
+- do you provide a room which has an [audio/video system](equipment) ?
+- is there equipment for my colleagues in [this](room) one?
+- could I do a powerpoint presentation in the [others](room) for my colleagues?
+- do you provide equipment to show a presentation for my colleagues in the [other](room) ones?
+- do you provide a room with equipment for our staff?
+- does [the](room) room have a [projector](equipment) to do a presentation for our employees?
+- is there a [screen](equipment) for my colleagues in [this](room)?
+- is it possible to do a powerpoint presentation in [gamma](room) for my colleagues?
+- is there a [screen](equipment) to hold a presentation in [this](room)?
+- do you provide an option which has an [audio/video system](equipment) for my colleagues?
+- do you provide an [audio/video system](equipment) for our employees in [gamma](room)?
+- we also need a [projector](equipment) in the [others](room)
+- could we do a presentation in [it](room) for the team?
+- do you have an [audio/video system](equipment) to do a powerpoint presentation for our employees in the [others](room)?
+- does [this](room) room have an [audio/video system](equipment) to do a talk for my colleagues?
+- do you provide an event room that has a [projector](equipment) to do a powerpoint presentation for the team?
+- is there a [screen](equipment) for the team in the [other](room) rooms?
+- is there a room that has equipment for the team?
+- can we do a presentation in [Gamma](room) for our employees?
+- is there equipment to show a presentation for the team in the [other](room) rooms?
+- do you have equipment to do a powerpoint presentation in the [others](room)?
+- does [this](room) have an [audio/video system](equipment) to do a powerpoint presentation for the team?
+- do you have a meeting room that has equipment to do a powerpoint presentation for the team?
+- could I do a powerpoint presentation for my colleagues?
+- do you provide equipment to show a powerpoint presentation for my colleagues in [the](room) room?
+- I also would like an [audio/video system](equipment) in the [other](room) ones
+- is there equipment in the [others](room)?
+- do you provide a location that has a [screen](equipment) for our staff?
+- is there a possibility to do a powerpoint presentation in the [others](room) for our staff?
+- is there equipment to do a talk for my colleagues in the [other](room) rooms?
+- is there an [audio/video system](equipment) in the [others](room)?
+- does [Gamma](room) have an [audio/video system](equipment) ?
+- do you provide an event room with an [audio/video system](equipment) for the team?
+- I should be able to show a powerpoint presentation in [this](room) room for our employees?
+- is there an event room with an [audio/video system](equipment) to do a presentation ?
+- do you provide an [audio/video system](equipment) for the team in the [first](room) one?
+- could we show a powerpoint presentation in the [others](room) ?
+- do you have an [audio/video system](equipment) to show a presentation in the [others](room)?
+- does [it](room) have an [audio/video system](equipment) to show a powerpoint presentation ?
+- do you have a venue with a [projector](equipment) ?
+- could we hold a presentation in [this](room) room for our employees?
+- do you have equipment to show a presentation for my colleagues in the [other](room) ones?
+- is there a venue that has an [audio/video system](equipment) to do a powerpoint presentation ?
+- do you have equipment to show a powerpoint presentation for our staff in the [others](room)?
+- I should be able to hold a presentation for our employees?
+- does the [third](room) one have equipment to do a presentation for the team?
+- do you have a venue with equipment to show a powerpoint presentation for our staff?
+- do you provide equipment for the team ?
+- do you provide an [audio/video system](equipment) for our employees in the [others](room)?
+- we want equipment
+- is there a possibility to show a presentation ?
+- do you have an option with equipment for our staff?
+- is there equipment for my colleagues in the [others](room)?
+- do you provide a room that has a [projector](equipment) to show a presentation for the team?
+- does the [first](room) room have a [projector](equipment) for our staff?
+- is it possible to do a presentation in the [other](room) ones for the team?
+- do you have an [audio/video system](equipment) ?
+- do you have a meeting room that has equipment for my colleagues?
+- is there a possibility to show a powerpoint presentation in the [other](room) rooms for the team?
+- do you have an [audio/video system](equipment) to hold a presentation for our staff in the [others](room)?
+- I search for equipment in the [other](room) ones
+- is there a meeting room that has equipment for our employees?
+- does [this](room) one have an [audio/video system](equipment) for the team?
+- do you have equipment to do a powerpoint presentation for the team in the [others](room)?
+- is it possible to hold a presentation in the [others](room) for our staff?
+- is there a [screen](equipment) to do a powerpoint presentation for the team ?
+- do you have an event room with a [video system](equipment) to do a talk for our employees?
+- do you provide an [audio/video system](equipment) for the team in the [others](room)?
+- is there a possibility to show a powerpoint presentation in the [others](room) for my colleagues?
 
 ## intent:ask_for_room_highlight
-- we want to impress the guests
-- I want a unique location
-- what is nice about [Alpha](room)?
-- what is special about the [others](room)?
-- Is [it](room) outstanding?
-- Will the people be impressed with [it](room)?
-- what's the highlight of [it](room)?
-- what's exceptional about event room [Beta](room)?
-- I search for an nice event room
-- what's exceptional about [it](room)?
-- Is [this](room) special?
-- what's special about [it](room)?
-- I need a unique location
-- Is [it](room) special?
-- what's special about [the](room) option?
-- what's nice about the [third](room) one?
-- I want an exceptional room
-- what is exclusive about the [other](room) location?
-- what is unique about [it](room)?
-- Will the people be impressed with the [first](room) one?
-- what's the highlight of [this](room)?
-- I search for a exclusive location
-- what's unique about event room [beta](room)?
-- Is the [other](room) one exceptional?
-- what is special about location [Beta](room)?
-- we would like an nice option
-- what is impressive about [the](room) room?
-- Is [the](room) room special?
-- what's nice about the [first](room) option?
-- we would like an outstanding meeting room
-- Is option [Alpha](room) impressive?
-- what is nice about option [beta](room)?
-- we search for an impressive room
-- what is unique about event room [beta](room)?
-- Will the guests be impressed with meeting room [beta](room)?
-- what is the highlight of the [first](room) one?
-- what is impressive about [alpha](room)?
-- I would like an impressive event room
-- what's special about [the](room) location?
-- what is outstanding about [it](room)?
-- I search for a unique location
-- what's unique about [the](room) option?
-- what's nice about [beta](room)?
-- we like a nice meeting room
-- what is unique about [the](room) meeting room?
-- what is unique about [the](room) room?
-- I need a unique event room
-- what is the highlight of [it](room)?
-- what is special about [the](room) meeting room?
-- what is impressive about the [first](room) one?
-- Is the [other](room) one special?
-- I search for a unique option
-- what is special about room [Alpha](room)?
-- we need an nice option
-- Is [beta](room) unique?
-- what's unique about location [alpha](room)?
-- what is unique about [this](room) event room?
-- I would like an nice location
-- what's special about the [third](room) one?
-- Is [the](room) event room exceptional?
-- what is special about [it](room)?
-- we like a special meeting room
-- Is location [Alpha](room) special?
-- what is the highlight of option [Alpha](room)?
-- what's special about location [Gamma](room)?
-- Will the people be impressed with room [Alpha](room)?
-- what is special about meeting room [Alpha](room)?
-- we search for an exceptional option
-- what is nice about [the](room) room?
-- Is [this](room) one special?
-- what's unique about [the](room) event room?
-- I need a unique room
-- what is unique about the [other](room) one?
-- Is [the](room) event room unique?
-- we like a exceptional event room
-- Is [this](room) exceptional?
-- what is impressive about the [first](room) event room?
-- Will the guests be impressed with the [last](room) room?
-- what is the highlight of [the](room) option?
-- what is unique about the [last](room) one?
-- we search for a exceptional location
-- what's special about [the](room) event room?
-- Is [it](room) unique?
-- I like an nice event room
-- what is special about the [last](room) location?
-- what is unique about the [second](room) one?
-- I like an exceptional event room
-- what is unique about meeting room [alpha](room)?
-- what is unique about the [others](room)?
-- what is nice about [this](room) one?
-- Is [it](room) exclusive?
-- we would like a special event room
-- what is special about [this](room)?
+- I need an nice room
+- I want to wow the guests
+- Is option [gamma](room) special?
 - Will the people be impressed with the [other](room) one?
-- Is [this](room) one nice?
-- what's the highlight of location [beta](room)?
-- what is special about the [first](room) one?
-- I need a outstanding option
-- what's unique about [the](room) room?
-- Is [this](room) unique?
-- I like a unique room
-- what's unique about room [Alpha](room)?
-- Is [this](room) one outstanding?
-- what is unique about option [Gamma](room)?
-- we like a outstanding room
-- what is exclusive about [it](room)?
-- Is the [other](room) meeting room unique?
-- what's the highlight of event room [Alpha](room)?
-- Will the guests be impressed with the [first](room) room?
-- what's special about [the](room) meeting room?
-- we want an nice option
-- Is the [third](room) location unique?
-- what is special about [the](room) location?
-- I would like a special option
-- what's special about the [second](room) one?
-- what's unique about the [third](room) option?
-- what is special about room [Beta](room)?
-- what's outstanding about [the](room) event room?
-- we want an outstanding meeting room
-- Is [it](room) nice?
-- what is the highlight of [this](room) one?
-- what's unique about [this](room) one?
-- Will the guests be impressed with the [third](room) one?
-- what is special about [this](room) location?
-- I want a special event room
-- what's exclusive about [Gamma](room)?
-- Is [this](room) outstanding?
-- we like an outstanding location
-- what's unique about location [gamma](room)?
-- Is the [first](room) one unique?
-- what's exceptional about the [third](room) event room?
-- we need an exclusive option
-- what's unique about [this](room)?
-- what is impressive about meeting room [Alpha](room)?
-- we need a special meeting room
-- Will the guests be impressed with [the](room) room?
-- what's the highlight of [this](room) one?
-- Is [the](room) event room special?
-- I would like a unique location
-- what's special about [this](room)?
-- Is the [third](room) one exclusive?
-- we like a impressive meeting room
-- what is unique about event room [gamma](room)?
-- Is [the](room) location unique?
-- I need a special meeting room
-- what's outstanding about [it](room)?
-- Will the guests be impressed with location [alpha](room)?
-- I search for an impressive event room
-- what's unique about [this](room) location?
-- I need an nice event room
-- Is [the](room) meeting room nice?
-- what is exceptional about [it](room)?
-- I need an exclusive event room
-- Is [this](room) event room special?
-- we search for an impressive option
-- what is special about [this](room) one?
-- Is [this](room) impressive?
-- what is the highlight of location [beta](room)?
-- Will the guests be impressed with room [gamma](room)?
-- we like a unique location
-- what's unique about [it](room)?
-- what's exceptional about the [other](room) rooms?
-- what is special about option [Beta](room)?
-- I like a outstanding meeting room
-- Is [this](room) meeting room exclusive?
-- what is special about [Alpha](room)?
-- what is impressive about the [second](room) room?
-- I need a special event room
-- what is special about the [second](room) one?
-- Is [this](room) one unique?
-- we search for a unique meeting room
-- what's exclusive about [it](room)?
-- what is special about the [third](room) room?
-- what is the highlight of [Alpha](room)?
-- Will the guests be impressed with [this](room) location?
-- we like an nice event room
-- what is special about meeting room [gamma](room)?
-- Is meeting room [beta](room) unique?
-- I like a unique location
-- what's special about [this](room) location?
-- what's exceptional about the [second](room) one?
-- we would like a unique location
-- what's special about [the](room) room?
-- Is the [third](room) room unique?
-- what is exceptional about option [beta](room)?
-- we would like an impressive room
-- Will the people be impressed with [the](room) location?
-- what's special about the [other](room) one?
-- what is the highlight of [this](room) room?
-- what is impressive about [it](room)?
-- Is [it](room) exceptional?
-- I need a exclusive room
-- what is special about meeting room [Beta](room)?
-- Is [the](room) event room outstanding?
-- I like a nice event room
-- what's outstanding about [the](room) location?
-- I would like an outstanding meeting room
-- what is nice about [this](room)?
-- Is [the](room) room outstanding?
-- I search for an impressive room
-- what's the highlight of [the](room) location?
-- Is the [first](room) one special?
-- what is impressive about the [other](room) option?
-- Will the guests be impressed with [it](room)?
-- what's unique about [the](room) location?
-- we need an outstanding option
-- what is nice about [it](room)?
-- Is the [third](room) one exceptional?
-- what is special about the [second](room) location?
-- we search for a outstanding option
-- Is event room [alpha](room) unique?
-- what is special about [this](room) option?
-- Will the guests be impressed with meeting room [Beta](room)?
-- what is the highlight of [the](room) room?
-- we search for an outstanding meeting room
-- Is [this](room) one exceptional?
-- I search for a special option
-- what is impressive about [gamma](room)?
-- what's unique about [Alpha](room)?
-- we need a unique event room
-- what's special about meeting room [Alpha](room)?
-- I like a special option
-- what is the highlight of [the](room) event room?
-- what's nice about option [gamma](room)?
-- we search for an impressive meeting room
-- what's nice about [this](room) location?
-- Is option [alpha](room) unique?
-- I want an exclusive event room
-- what is unique about [this](room)?
-- what is special about [the](room) event room?
-- we want an exceptional meeting room
-- I want an outstanding location
-- Is the [last](room) one special?
-- what is unique about [this](room) one?
-- what's nice about the [others](room)?
-- Will the people be impressed with [the](room) option?
-- what's the highlight of [this](room) meeting room?
-- we need an nice event room
-- Is [the](room) location nice?
-- we search for an exclusive meeting room
-- what is unique about the [last](room) location?
-- we want to wow our guests
-- Is the [other](room) meeting room impressive?
-- what is outstanding about [this](room)?
-- we like an nice option
-- Will the guests be impressed with [the](room) location?
-- what is outstanding about meeting room [alpha](room)?
-- Is the [second](room) location exclusive?
-- what's exceptional about the [other](room) option?
-- we would like an outstanding option
-- what's outstanding about location [Gamma](room)?
-- what is special about the [third](room) option?
-- Is location [Gamma](room) unique?
-- we like an impressive event room
-- what's nice about the [second](room) one?
-- what is impressive about [this](room) one?
-- we search for a special event room
-- what's the highlight of the [second](room) one?
-- Will the people be impressed with [the](room) meeting room?
-- Is the [first](room) meeting room exceptional?
-- we need a nice event room
-- what is special about [this](room) room?
-- what's impressive about [this](room) location?
-- Is meeting room [gamma](room) special?
-- I like a special meeting room
-- what's unique about [this](room) meeting room?
-- Is [the](room) location special?
-- Will the guests be impressed with [this](room)?
-- what's impressive about [the](room) meeting room?
-- what's impressive about the [last](room) one?
-- what's unique about option [beta](room)?
-- we search for a impressive event room
-- Is the [second](room) one unique?
-- what's outstanding about the [third](room) room?
-- I want a exceptional location
-- what is the highlight of [this](room)?
-- what's nice about [the](room) option?
-- we like an exceptional event room
-- Is [the](room) meeting room unique?
-- what's outstanding about location [Beta](room)?
-- what's unique about [alpha](room)?
-- I search for an exclusive room
-- what's unique about the [second](room) meeting room?
-- Is the [other](room) one unique?
-- what is unique about the [second](room) room?
-- we like an impressive location
-- what's impressive about [it](room)?
-- Will the people be impressed with the [third](room) one?
-- what's the highlight of the [third](room) one?
-- I like a unique event room
-- what is unique about option [gamma](room)?
-- what is unique about [the](room) option?
-- Is the [second](room) one exclusive?
-- we need a outstanding event room
-- what is special about [Beta](room)?
-- what's special about the [other](room) rooms?
-- what is unique about [this](room) meeting room?
-- what is unique about meeting room [Beta](room)?
-- Is location [beta](room) unique?
-- what's outstanding about the [last](room) meeting room?
-- I need an exclusive location
-- Will the people be impressed with room [Gamma](room)?
-- what is outstanding about [this](room) one?
-- Is [the](room) meeting room impressive?
-- we want a unique room
-- what is unique about the [third](room) one?
-- Is [the](room) location exceptional?
-- what's special about room [Beta](room)?
-- we like a unique meeting room
-- we search for a nice option
-- Is [this](room) location unique?
-- I would like a impressive meeting room
-- what's special about the [last](room) meeting room?
-- Will the people be impressed with [this](room) meeting room?
-- what's the highlight of [the](room) room?
-- Is option [Beta](room) special?
-- what's outstanding about meeting room [beta](room)?
-- Is [this](room) location exclusive?
-- we want an impressive option
-- Is room [gamma](room) unique?
-- what's special about [this](room) one?
-- we like an outstanding room
-- what is impressive about the [last](room) one?
-- Will the guests be impressed with the [other](room) event room?
-- what's the highlight of [Alpha](room)?
-- we need an outstanding room
-- we like a nice room
-- what is unique about [this](room) location?
-- we need an outstanding meeting room
-- what's exceptional about the [third](room) option?
-- what is nice about [Beta](room)?
-- Is the [last](room) event room unique?
-- I like a unique option
-- what's exclusive about [the](room) meeting room?
-- Is room [gamma](room) exclusive?
-- what is unique about the [first](room) room?
-- Will the guests be impressed with option [Beta](room)?
-- we want an nice location
-- what's outstanding about the [third](room) one?
-- Is room [Gamma](room) special?
-- what is unique about the [second](room) location?
-- I would like an exclusive location
-- I want to make a good impression on the people
-- what's unique about the [other](room) location?
-- we search for a unique option
-- what is outstanding about [the](room) event room?
-- what's the highlight of the [last](room) meeting room?
-- we want an exclusive location
-- what is exclusive about the [second](room) one?
-- we search for an outstanding event room
-- what is nice about option [gamma](room)?
-- we want a unique meeting room
-- Is meeting room [Gamma](room) special?
-- what's unique about [the](room) meeting room?
-- I need an exclusive meeting room
-- Is the [second](room) one exceptional?
-- what is the highlight of [the](room) location?
-- what's unique about the [others](room)?
-- what is exceptional about meeting room [Beta](room)?
-- what is nice about the [last](room) event room?
-- I want an impressive event room
-- I search for an outstanding room
-- what's unique about meeting room [gamma](room)?
-- I would like an nice meeting room
-- what's unique about [this](room) room?
-- Is the [first](room) one exceptional?
-- what's exceptional about [the](room) room?
-- what is exceptional about event room [Alpha](room)?
-- Is [the](room) location outstanding?
-- what's nice about [it](room)?
-- we like a special event room
-- what is special about [the](room) option?
-- we like an outstanding meeting room
-- Will the guests be impressed with [the](room) meeting room?
-- Is the [last](room) option outstanding?
-- I would like an impressive meeting room
-- what's outstanding about the [other](room) one?
-- we would like a nice meeting room
-- what is exclusive about the [last](room) one?
-- what's unique about the [other](room) one?
-- we need an exceptional meeting room
-- what is unique about the [last](room) option?
-- what's special about the [other](room) room?
-- what's unique about room [Gamma](room)?
-- what is exceptional about [the](room) meeting room?
-- we want a special meeting room
-- Is [it](room) impressive?
-- what is special about the [first](room) event room?
-- what's special about the [third](room) meeting room?
-- we like an exclusive room
-- Is option [Gamma](room) nice?
-- we would like an exceptional room
-- Will the guests be impressed with room [alpha](room)?
-- Is [the](room) event room exclusive?
-- I want an impressive option
-- what's unique about the [third](room) meeting room?
-- Is event room [gamma](room) unique?
-- I search for an impressive meeting room
-- what is outstanding about [the](room) option?
-- Is [the](room) option exclusive?
-- we want a impressive location
-- what is nice about the [last](room) one?
-- I like an nice option
-- Will the guests be impressed with option [Alpha](room)?
-- what's special about [this](room) meeting room?
-- Is the [last](room) one outstanding?
-- we would like a special room
-- I want an outstanding option
-- Is room [Gamma](room) exceptional?
-- what's special about the [others](room)?
-- we like a exceptional room
-- what is the highlight of the [last](room) room?
-- what's unique about the [other](room) event room?
-- what's special about room [Gamma](room)?
-- we would like an impressive option
-- I need a special room
-- Will the guests be impressed with the [other](room) one?
-- we like a unique option
-- we want to wow the guests
-- Is [alpha](room) special?
-- what is special about [the](room) room?
-- we need a impressive event room
-- Is [the](room) option unique?
-- what's impressive about the [last](room) meeting room?
-- Will the people be impressed with option [Beta](room)?
-- Is option [Gamma](room) special?
-- I like an impressive option
-- what is exclusive about [this](room) one?
-- Is the [last](room) location unique?
-- what's impressive about [the](room) room?
-- what is unique about [the](room) event room?
-- Will the guests be impressed with [this](room) option?
-- we need a exceptional location
-- Is the [last](room) option impressive?
-- what is outstanding about meeting room [gamma](room)?
-- we like an exclusive location
-- what is special about the [last](room) event room?
-- we search for an outstanding option
-- Is [this](room) location special?
-- what is special about the [last](room) meeting room?
-- I search for a unique event room
-- Will the guests be impressed with the [first](room) one?
-- Is event room [gamma](room) special?
-- what is special about the [last](room) one?
-- what is unique about the [third](room) option?
-- I search for an impressive location
-- I search for a unique room
-- we would like an impressive event room
-- what's unique about event room [Alpha](room)?
-- what is impressive about the [last](room) meeting room?
-- I like an exceptional option
-- Will the guests be impressed with [this](room) one?
-- what's the highlight of the [second](room) event room?
-- what's special about the [first](room) one?
+- what is special about the [other](room) rooms?
+- what's exceptional about [this](room) option?
+- what is the highlight of [the](room) option?
+- what is special about [it](room)?
+- I search for a unique meeting room
+- Is [this](room) option unique?
+- what's outstanding about the [first](room) one?
+- what is unique about [it](room)?
+- we would like an outstanding room
 - Is the [first](room) option unique?
-- we like a unique room
-- what's exceptional about the [first](room) meeting room?
-- what is nice about the [other](room) rooms?
-- what is the highlight of the [third](room) option?
-- Is [the](room) room impressive?
-- I would like a special room
-- I need a special option
+- what is outstanding about [it](room)?
+- we search for an exclusive option
+- Is [this](room) one unique?
+- what's special about [the](room) room?
+- Will the people be impressed with [the](room) option?
+- what's special about [it](room)?
+- what is the highlight of the [other](room) one?
+- I search for an outstanding meeting room
+- what's unique about [this](room) location?
+- Is the [second](room) one exclusive?
+- what is unique about [this](room)?
+- we like a special event room
+- what is special about [this](room)?
+- Is [this](room) one special?
+- what is impressive about [the](room) location?
+- I search for an nice room
+- what's exclusive about location [beta](room)?
+- Is meeting room [alpha](room) unique?
+- we need a impressive event room
+- what's special about room [alpha](room)?
+- Is [it](room) unique?
+- what's exclusive about [this](room) location?
+- what is the highlight of [it](room)?
+- Will the people be impressed with option [beta](room)?
+- we search for an nice option
+- what is exceptional about [the](room) option?
+- Is [Beta](room) unique?
+- what's exclusive about [it](room)?
+- we need an outstanding meeting room
+- what's unique about location [Alpha](room)?
+- what's unique about [this](room) option?
+- Is [it](room) impressive?
+- I search for a unique option
+- what's unique about meeting room [beta](room)?
+- Is the [last](room) location special?
+- we like an exceptional meeting room
+- what is the highlight of the [third](room) room?
+- Will the guests be impressed with the [first](room) event room?
+- Is event room [beta](room) impressive?
+- I would like an exceptional room
+- what's outstanding about [this](room) event room?
+- I like an impressive location
+- Is event room [alpha](room) special?
+- what is impressive about [it](room)?
+- what's special about [this](room)?
+- I would like an nice location
+- Is [it](room) nice?
 - what is exceptional about [gamma](room)?
-- what's outstanding about the [last](room) location?
-- I like an exclusive room
-- Is location [Alpha](room) unique?
-- what is unique about [the](room) location?
-- Will the guests be impressed with event room [Beta](room)?
+- what is unique about the [last](room) one?
 - we need an outstanding event room
-- Is the [third](room) event room unique?
-- what is unique about room [Alpha](room)?
-- I search for an nice meeting room
-- Is the [second](room) location special?
-- what's impressive about the [other](room) option?
-- I want an nice event room
-- what is special about the [other](room) one?
-- I would like a exceptional option
-- what's nice about the [first](room) event room?
-- Is room [Alpha](room) nice?
-- what's outstanding about [the](room) meeting room?
+- what's unique about [it](room)?
+- Is [the](room) option special?
+- what's the highlight of [this](room)?
+- Will the guests be impressed with [this](room) one?
+- what is special about [this](room) one?
+- I need a unique room
+- Is the [second](room) one nice?
+- what is special about the [second](room) meeting room?
+- I need a outstanding meeting room
+- what is special about event room [Alpha](room)?
+- Is event room [beta](room) unique?
+- what's impressive about [Beta](room)?
+- we search for an impressive option
+- Is [the](room) location exclusive?
+- what's outstanding about [the](room) room?
+- what is nice about [it](room)?
+- what's the highlight of meeting room [beta](room)?
 - I need an outstanding location
+- Is [the](room) location unique?
+- I want a unique room
+- what's unique about the [third](room) one?
+- what is unique about [the](room) option?
+- Is room [beta](room) special?
+- we search for an impressive room
+- what's special about the [other](room) rooms?
+- Is [it](room) special?
+- we want a unique option
+- what is unique about option [Beta](room)?
+- what is the highlight of the [first](room) one?
+- Will the people be impressed with [this](room) one?
+- Is [the](room) option exceptional?
+- we want a special event room
+- what's outstanding about [this](room) option?
+- what is nice about the [third](room) one?
+- Is room [alpha](room) special?
+- we search for a special event room
+- Is [the](room) meeting room unique?
+- what's exceptional about [the](room) room?
+- we want an impressive event room
+- we want an outstanding meeting room
+- Is the [other](room) event room special?
+- Will the guests be impressed with [it](room)?
+- what is exceptional about [this](room) one?
+- what is the highlight of [beta](room)?
+- I would like a unique location
+- what is special about meeting room [beta](room)?
+- what is exclusive about [this](room) one?
+- Is [the](room) location special?
+- I search for an impressive option
+- what's unique about room [Beta](room)?
+- I need a special location
+- Is [the](room) location outstanding?
+- Will the guests be impressed with [the](room) option?
+- what is the highlight of [Alpha](room)?
+- what's special about [gamma](room)?
+- I search for an exclusive option
+- what's unique about [this](room) one?
+- I would like a special meeting room
+- what is exceptional about location [beta](room)?
+- what's outstanding about [the](room) meeting room?
+- I need an exclusive room
+- what is unique about meeting room [alpha](room)?
+- I want to impress our guests
+- what's impressive about [it](room)?
+- I want a special event room
+- what is nice about room [Alpha](room)?
+- Will the people be impressed with [this](room) room?
+- Is [it](room) outstanding?
+- what is special about the [first](room) one?
+- we search for a exceptional room
 - we like an exclusive option
+- Is the [second](room) one unique?
+- what's unique about [the](room) room?
+- I like an nice location
+- what's exceptional about [it](room)?
+- what's the highlight of [it](room)?
+- Is the [other](room) event room unique?
+- Will the people be impressed with the [first](room) one?
+- I want a unique option
+- we would like a special location
+- what's exclusive about [this](room) room?
+- Is meeting room [Gamma](room) unique?
+- what's unique about [the](room) meeting room?
+- I like an exceptional option
+- what is special about [gamma](room)?
+- Is [this](room) room special?
+- what is unique about [alpha](room)?
+- I want an exceptional meeting room
+- Is the [first](room) event room special?
+- what is unique about meeting room [Beta](room)?
+- what's special about event room [Gamma](room)?
+- what's the highlight of the [last](room) one?
+- Will the people be impressed with the [last](room) location?
+- what is special about [the](room) location?
+- Is [it](room) exceptional?
+- what is special about the [third](room) one?
+- I search for a outstanding option
+- what's special about [this](room) room?
+- what's special about the [last](room) location?
+- I want a special option
+- what's nice about the [first](room) location?
+- Is [it](room) exclusive?
+- I like a exclusive location
+- what's impressive about [this](room)?
+- Is the [other](room) one special?
+- Will the people be impressed with meeting room [Alpha](room)?
+- what is the highlight of location [Gamma](room)?
+- what is exclusive about event room [gamma](room)?
+- what is exclusive about [this](room)?
+- Is [the](room) event room unique?
+- I would like a outstanding event room
+- what is nice about the [first](room) one?
+- what's special about the [last](room) one?
+- I would like an nice meeting room
+- what's unique about the [last](room) one?
+- Is [the](room) event room exceptional?
+- what's unique about [the](room) option?
+- I would like an exceptional option
+- what's the highlight of the [second](room) one?
+- Will the people be impressed with [the](room) location?
+- Is option [Beta](room) unique?
+- what's unique about [this](room)?
+- what is exceptional about event room [Beta](room)?
+- Is location [beta](room) special?
+- what is unique about [the](room) location?
+- I would like an impressive room
+- what's unique about option [Alpha](room)?
+- we need a exceptional meeting room
+- what is special about [the](room) room?
+- what is unique about event room [alpha](room)?
+- we need a unique event room
+- what's the highlight of [this](room) event room?
+- what is special about room [alpha](room)?
+- Will the guests be impressed with [this](room)?
+- Is the [third](room) room outstanding?
+- we need an exceptional meeting room
+- what's unique about the [other](room) meeting room?
+- what is unique about location [Beta](room)?
+- I search for a outstanding room
+- what is exceptional about [the](room) meeting room?
+- I want a unique event room
+- Will the people be impressed with [it](room)?
+- what is the highlight of the [third](room) one?
+- I want an exceptional option
+- Is room [Gamma](room) nice?
+- I search for an nice option
+- what's exceptional about meeting room [beta](room)?
+- Is meeting room [Beta](room) nice?
+- we search for an exclusive event room
+- what's unique about the [last](room) location?
+- what's the highlight of the [other](room) one?
+- I want a special room
+- what is special about the [third](room) room?
+- what is unique about option [alpha](room)?
+- Is [the](room) option unique?
+- we search for a special meeting room
+- what's nice about [the](room) event room?
+- we search for an nice room
+- what's exclusive about [the](room) location?
+- what's special about [this](room) one?
+- Is [the](room) event room impressive?
+- what's unique about the [other](room) rooms?
+- what is special about meeting room [gamma](room)?
+- Is [the](room) meeting room exclusive?
+- what's unique about room [Alpha](room)?
+- I would like a exceptional room
+- what is special about room [Beta](room)?
+- Is [this](room) impressive?
+- we want to wow the guests
+- what's outstanding about [this](room) one?
+- we want an exclusive location
+- I search for an impressive meeting room
+- Will the people be impressed with room [alpha](room)?
+- what's special about meeting room [alpha](room)?
+- what is the highlight of meeting room [gamma](room)?
+- Is the [other](room) one unique?
+- what's special about [the](room) meeting room?
+- Is meeting room [beta](room) special?
+- what's outstanding about the [third](room) option?
+- we want an exceptional meeting room
+- what is special about room [gamma](room)?
+- Is [this](room) location unique?
+- we search for an exclusive room
 - what is impressive about [the](room) option?
-- what is the highlight of location [Alpha](room)?
-- what's nice about [this](room) one?
-- Is location [Beta](room) special?
-- I like an nice room
-- we want an impressive meeting room
-- what is exceptional about room [Gamma](room)?
-- Is [this](room) option exclusive?
-- what's exclusive about [the](room) room?
-- I want to impress the guests
-- I need a unique option
-- what is the highlight of event room [Beta](room)?
+- what is unique about [the](room) event room?
+- I would like a special room
+- what is nice about option [Alpha](room)?
+- Will the guests be impressed with the [last](room) one?
+- we need a outstanding option
+- what's special about the [third](room) option?
+- Is option [beta](room) unique?
+- what's special about event room [gamma](room)?
+- what's special about event room [alpha](room)?
+- we search for a special option
+- what's unique about event room [Alpha](room)?
+- Is [the](room) room special?
+- what is special about the [second](room) room?
+- what is the highlight of [the](room) event room?
+- I would like an impressive event room
+- what is unique about the [third](room) one?
+- I want an nice location
+- what is special about location [gamma](room)?
+- what is unique about meeting room [beta](room)?
+- I search for a special location
+- Is [the](room) room unique?
+- what is special about the [third](room) event room?
+- what is special about [alpha](room)?
+- we search for an outstanding event room
+- what is unique about event room [beta](room)?
+- we like an outstanding option
+- Is [the](room) option exclusive?
+- what's impressive about the [second](room) one?
+- what is impressive about location [beta](room)?
+- what's unique about the [other](room) one?
+- we like an impressive room
+- what's unique about [the](room) location?
+- I would like an exclusive event room
+- what is special about the [other](room) option?
+- what is the highlight of the [first](room) room?
+- Will the people be impressed with the [second](room) event room?
+- we would like an exceptional event room
+- what is unique about the [third](room) location?
+- we would like a unique option
+- what is exceptional about [it](room)?
+- what is unique about the [others](room)?
+- I search for a special meeting room
+- I need an exceptional event room
 - Will the guests be impressed with [the](room) event room?
-- we search for an outstanding location
-- what's nice about [alpha](room)?
-- what is unique about [Gamma](room)?
-- I need an impressive room
-- what is exclusive about the [others](room)?
+- what's nice about the [other](room) room?
+- what's the highlight of [this](room) one?
+- what is special about [Beta](room)?
+- Is the [last](room) room exceptional?
+- we search for an outstanding room
+- what's special about location [beta](room)?
+- what is outstanding about event room [alpha](room)?
+- what's unique about the [second](room) one?
+- I like a impressive location
+- Is the [third](room) location impressive?
+- I want an outstanding room
+- Will the guests be impressed with option [Alpha](room)?
+- what's special about the [first](room) one?
+- what is the highlight of the [second](room) event room?
+- what's special about the [last](room) option?
+- we need a special option
+- what's special about the [third](room) location?
+- Is [the](room) meeting room special?
+- what's special about location [Alpha](room)?
+- Is meeting room [gamma](room) special?
+- what is the highlight of the [second](room) one?
+- what's impressive about [the](room) location?
+- I need a unique event room
+- what is unique about [this](room) location?
+- what is exceptional about the [first](room) location?
+- Is event room [alpha](room) unique?
+- what is unique about [the](room) room?
+- Is [the](room) option outstanding?
+- we want a unique event room
+- what's exceptional about the [first](room) one?
+- what is the highlight of [the](room) location?
+- what's special about [this](room) location?
+- Will the people be impressed with the [other](room) event room?
+- we like a special room
+- what's impressive about option [Alpha](room)?
+- Is room [Beta](room) exceptional?
+- what is unique about location [Gamma](room)?
+- we want to impress the guests
+- we would like a special option
+- what's unique about room [gamma](room)?
+- we would like a special meeting room
+- we like an exclusive room
+- what's exclusive about the [third](room) one?
+- Will the guests be impressed with [gamma](room)?
+- what's the highlight of the [third](room) one?
+- we like a unique location
+- what's exclusive about the [first](room) option?
+- I need an nice location
+- Is [this](room) unique?
+- what's exclusive about the [other](room) one?
+- I would like a exceptional option
+- Is room [Gamma](room) unique?
+- what's unique about [this](room) event room?
+- we would like a unique event room
+- what's exceptional about location [Gamma](room)?
+- Is location [Alpha](room) special?
+- we like a impressive option
+- what is unique about location [gamma](room)?
+- I like an exclusive meeting room
+- what is unique about the [last](room) event room?
+- we need a outstanding meeting room
+- what is unique about event room [Alpha](room)?
+- what's outstanding about room [Beta](room)?
+- Is location [beta](room) unique?
+- we need an nice meeting room
+- what's the highlight of [this](room) location?
+- Will the people be impressed with [the](room) room?
+- what is unique about [this](room) one?
+- I would like an exclusive room
+- Is the [last](room) option exceptional?
+- we want an exclusive event room
+- what is special about option [Alpha](room)?
+- what's unique about the [second](room) meeting room?
+- what is the highlight of [this](room) location?
+- what's nice about the [last](room) meeting room?
+- I like a outstanding meeting room
+- what's exclusive about room [gamma](room)?
+- we search for a unique location
+- what's special about the [last](room) meeting room?
+- what is special about the [other](room) room?
+- I would like a unique room
+- we would like an exclusive room
+- what's special about option [Alpha](room)?
+- what is special about room [beta](room)?
+- we need an impressive meeting room
+- what's unique about [this](room) meeting room?
+- we would like an impressive option
+- Is the [last](room) location exceptional?
+- what is special about [this](room) option?
+- what's exceptional about meeting room [alpha](room)?
+- I need an impressive event room
+- what is impressive about the [other](room) one?
+- Will the people be impressed with the [second](room) one?
+- Is [gamma](room) exceptional?
+- I want an exclusive option
+- what's outstanding about location [gamma](room)?
+- Is the [other](room) location impressive?
+- I search for a unique location
+- we like a special option
+- what is unique about option [Alpha](room)?
+- I would like a unique meeting room
+- Is [the](room) meeting room nice?
+- I search for a special option
+- what's outstanding about [it](room)?
+- I want a impressive location
+- Is [this](room) meeting room special?
+- Is [this](room) location special?
+- Will the people be impressed with the [third](room) one?
+- what's special about [the](room) event room?
+- Is [beta](room) special?
+- what's exclusive about [this](room) one?
+- I search for an exclusive location
+- what is exceptional about [the](room) location?
+- what is unique about event room [Gamma](room)?
+- we need an exclusive event room
+- what is impressive about [Alpha](room)?
+- Is the [first](room) location unique?
+- what is unique about room [Alpha](room)?
+- we would like an nice event room
+- I want to wow the people
+- what's impressive about [this](room) meeting room?
+- Is [gamma](room) nice?
+- what's nice about [it](room)?
+- I would like an outstanding room
+- what's outstanding about [the](room) event room?
+- I search for a unique event room
+- what is special about the [second](room) one?
+- I want an exclusive room
+- what's special about option [Gamma](room)?
+- Is [this](room) special?
+- Will the people be impressed with the [last](room) one?
+- what's the highlight of meeting room [Beta](room)?
+- we like a unique meeting room
+- we like an outstanding location
+- Is the [other](room) one nice?
+- we want a exclusive meeting room
+- what is exclusive about [it](room)?
+- we want a special meeting room
+- I want an nice room
+- what's unique about [the](room) event room?
+- I need a special event room
+- what's exclusive about event room [beta](room)?
+- what's special about room [Gamma](room)?
+- we need a special meeting room
+- Is the [first](room) option impressive?
+- what is unique about the [other](room) location?
+- I need an exceptional room
+- Is [the](room) room outstanding?
+- what's unique about meeting room [Alpha](room)?
+- what is impressive about [this](room) one?
+- I would like a special location
+- what is special about [this](room) location?
+- Is [Gamma](room) unique?
+- Will the guests be impressed with the [second](room) location?
+- what's exclusive about the [first](room) one?
+- Is room [Alpha](room) special?
+- I want an impressive event room
+- I would like an exceptional meeting room
+- what is unique about the [other](room) event room?
+- I need an impressive location
+- what is impressive about the [second](room) one?
+- Is event room [Alpha](room) exceptional?
+- I want an nice option
+- I need an exclusive option
+- Is the [second](room) location special?
+- we want an exclusive option
+- Will the people be impressed with meeting room [alpha](room)?
+- what is exceptional about [this](room) room?
+- we like a exclusive event room
+- Is room [Alpha](room) exceptional?
+- what is nice about room [beta](room)?
+- what is nice about the [third](room) room?
+- what's exclusive about [the](room) room?
+- I need a unique meeting room
+- what's the highlight of meeting room [Alpha](room)?
+- Is the [third](room) option unique?
+- Will the guests be impressed with the [third](room) option?
+- we need an impressive location
+- Is [the](room) meeting room outstanding?
+- what's unique about option [gamma](room)?
+- I like a outstanding room
+- Is the [third](room) one exclusive?
+- what's impressive about [this](room) location?
+- I like an exceptional meeting room
+- what is special about [the](room) event room?
+- Is [this](room) location nice?
+- we need a unique meeting room
+- what's the highlight of the [last](room) option?
+- Will the guests be impressed with [the](room) room?
+- what's unique about the [last](room) room?
+- we would like a unique room
+- what's nice about [this](room)?
+- Is event room [beta](room) outstanding?
+- what is outstanding about the [other](room) room?
+- what is outstanding about [this](room)?
+- we want to make a good impression on the people
+- I would like an outstanding event room
+- Will the people be impressed with option [Beta](room)?
+- what is exclusive about [this](room) room?
+- Is the [third](room) one unique?
+- I need a special room
+- Is location [gamma](room) special?
+- what is exclusive about [the](room) location?
+- I need an outstanding room
+- what's exceptional about [the](room) meeting room?
+- what's the highlight of room [Beta](room)?
+- Will the people be impressed with option [alpha](room)?
+- I like a special room
+
+## intent:ask_for_room_lighting
+- Are there a lot of lamps in [this](room)?
+- How is the light in the [third](room) room?
+- Is there enough lighting in [this](room)?
+- I want an event room with good light
+- is there enough lighting in the [others](room)?
+- Are there many lamps?
+- Does room [Beta](room) have good lamps?
+- I need a meeting room with a lot of light
+- is there good lighting in the [other](room) rooms?
+- we want a meeting room with good lamps
+- do you have good light in room [Beta](room)?
+- we need a meeting room with many lamps
+- Does the [first](room) room have enough light?
+- do you have good lighting in the [other](room) rooms?
+- Are there a lot of lights in [Beta](room)?
+- we need a meeting room with a lot of lighting
+- we want an event room with good lamps
+- do you have good light in [this](room) one?
+- Does [Gamma](room) have enough lighting?
+- do you have enough light in the [others](room)?
+- do you have many lamps in the [others](room)?
+- we would like a meeting room with many lamps
+- we would like an event room with a lot of light
+- Does [beta](room) have good light?
+- Are there good lamps in the [third](room) one?
+- do you have enough lighting in the [other](room) rooms?
+- I need an event room with enough lighting
+- do you have a lot of lighting in the [others](room)?
+- I look for a room with enough light
+- Does [this](room) room have a lot of lighting?
+- do you have enough lighting in the [others](room)?
+- I searching for a room with a lot of light
+- Is there enough light in [it](room)?
+- is there a lot of lighting in the [others](room)?
+- Are there many lights in [this](room) one?
+- we searching for an event room with many lamps
+- How is the light in [this](room)?
+- Does [the](room) room have good lighting?
+- we would like a room with many lamps
+- is there good lighting in [this](room) room?
+- I would like a meeting room with enough light
+- is there good light in the [other](room) ones?
+- Does [it](room) have a lot of lamps?
+- Are there many lights in [Beta](room)?
+- is there enough lighting in the [other](room) rooms?
+- we searching for an event room with a lot of light
+- I want an event room with good lighting
+- do you have many lamps in the [other](room) rooms?
+- Does [it](room) have a lot of lighting?
+- I need an event room with enough light
+- we look for a room with a lot of light
+- is there enough lighting in the [other](room) ones?
+- Are there many lamps in [the](room) room?
+- do you have enough lighting in [it](room)?
+- Does [it](room) have good lighting?
+- we look for a meeting room with good lamps
+- do you have a lot of lamps in room [Gamma](room)?
+- do you have good light in [it](room)?
+- I would like an event room with a lot of lighting
+- I want a room with good light
+- How is the light in the [other](room) one?
+- Does room [beta](room) have good lighting?
+- Are there good lights in [it](room)?
+- do you have a lot of light in the [second](room) room?
+- do you have a lot of light in the [last](room) one?
+- I searching for a room with enough light
+- I want an event room with a lot of lighting
+- Does [the](room) room have enough lighting?
+- is there enough lighting in the [third](room) room?
+- Are there good lamps in the [last](room) room?
+- I look for a meeting room with good lamps
+- I need an event room with good light
+- do you have a lot of lighting in room [Alpha](room)?
+- Does [the](room) room have enough light?
+- is there a lot of lighting in the [other](room) rooms?
+- I searching for a meeting room with many lamps
+- we searching for a meeting room with enough light
+- Does [it](room) have many lamps?
+- do you have enough light in [the](room) room?
+- is there a lot of light in the [others](room)?
+- I want a room with good lamps
+- Does [it](room) have a lot of light?
+- is there a lot of lamps in the [others](room)?
+- do you have a lot of lighting in the [other](room) rooms?
+- we would like a meeting room with a lot of lamps
+- How is the lighting in the [second](room) room?
+- Are there good lights in [Gamma](room)?
+- I look for a meeting room with a lot of lighting
+- Is there enough lighting in [the](room) room?
+- Does [gamma](room) have a lot of light?
+- I want a meeting room with a lot of lighting
+- we want an event room with a lot of light
+- do you have good light in the [other](room) rooms?
+- Does [this](room) one have a lot of lamps?
+- I want a room with a lot of lighting
+- we would like an event room with good lamps
+- do you have enough light in [it](room)?
+- is there a lot of lighting in [the](room) room?
+- Does [this](room) room have good lighting?
+- is there good lighting in [the](room) room?
+- we look for an event room with enough lighting
+- we need a room with a lot of lamps
+- Are there many lamps in [this](room)?
+- do you have good lighting in [alpha](room)?
+- Does [this](room) have a lot of lamps?
+- we searching for an event room with enough light
+- do you have good light in the [other](room) ones?
+- is there good lamps in [it](room)?
+- we look for an event room with enough light
+- we look for an event room with a lot of lamps
+- Are there a lot of lights in the [other](room) room?
+- Does [this](room) one have a lot of lighting?
+- How is the light in [the](room) room?
+- is there good lighting in the [others](room)?
+- Is there enough light in the [other](room) room?
+- do you have good lighting in the [others](room)?
+- I need an event room with good lamps
+- is there a lot of lamps in the [other](room) rooms?
+- we searching for a meeting room with enough lighting
+- Does [it](room) have good lamps?
+- do you have good light in the [others](room)?
+- Are there a lot of lights in [the](room) room?
+- I need an event room with a lot of lamps
+- I look for an event room with a lot of light
+- Does [the](room) room have a lot of lighting?
+- do you have many lamps in the [other](room) ones?
+- is there enough light in the [others](room)?
+- I searching for an event room with good light
+- I need a room with good lamps
+- Does [the](room) room have good lamps?
+- Are there many lamps in [it](room)?
+- we need a meeting room with enough lighting
+- we would like a room with good lighting
+- Does room [beta](room) have enough lighting?
+- Are there many lights in room [gamma](room)?
+- Is there enough lighting in room [Gamma](room)?
+- we need an event room with a lot of light
+- I need a meeting room with a lot of lighting
+- do you have a lot of lamps in the [other](room) ones?
+- How is the lighting in [the](room) room?
+- Does [alpha](room) have a lot of lamps?
+- I look for an event room with good lamps
+- do you have a lot of lamps in the [others](room)?
+- Does [it](room) have enough light?
+- we would like a meeting room with good lighting
+- I searching for an event room with many lamps
+- do you have enough light in the [other](room) ones?
+- I searching for an event room with a lot of light
+- we want a meeting room with enough lighting
+- Are there a lot of lights in [it](room)?
+- do you have good lighting in the [other](room) ones?
+- Does room [alpha](room) have enough light?
+- I look for a room with good lamps
+- do you have a lot of light in the [others](room)?
+- I want a meeting room with many lamps
+- Is there enough light in [this](room) room?
+- Are there good lamps in [the](room) room?
+- we need an event room with enough light
+- How is the lighting in the [third](room) one?
+- do you have good lamps in [this](room)?
+- I would like a meeting room with good lighting
+- I searching for a meeting room with a lot of light
+- do you have a lot of lamps in the [other](room) rooms?
+- do you have a lot of light in the [other](room) ones?
+- Are there many lights in [this](room)?
+- do you have enough lighting in [the](room) room?
+- we need a room with enough lighting
+- we would like an event room with a lot of lighting
+- Does [the](room) room have a lot of lamps?
+- is there enough lighting in [this](room) room?
+- is there many lamps in [the](room) room?
+- I want an event room with many lamps
+- we want an event room with good lighting
+- Are there good lamps in [it](room)?
+- Does [the](room) room have a lot of light?
+- do you have good lamps in [it](room)?
+- we want a meeting room with a lot of lighting
+- I want an event room with enough light
+- I would like an event room with enough light
+- Are there good lamps in [alpha](room)?
+- How is the lighting in room [beta](room)?
+- Is there enough light in room [gamma](room)?
+- Does [it](room) have enough lighting?
+- is there good light in [the](room) room?
+- I want a room with a lot of lamps
+- I look for an event room with enough lighting
+- Are there many lights in [it](room)?
+- we need an event room with a lot of lighting
+- is there good lamps in [this](room) room?
+- do you have enough light in the [other](room) rooms?
+- I want a meeting room with good lighting
+- I searching for an event room with enough lighting
+- Are there many lights in room [beta](room)?
+- Does room [Alpha](room) have good lighting?
+- I want an event room with good lamps
+- do you have good lamps in the [other](room) rooms?
+- I need a room with good light
+- do you have a lot of light in the [other](room) rooms?
+- Is there enough light in [this](room) one?
+- I searching for a room with a lot of lamps
+- How is the light in [it](room)?
+- I want a meeting room with good lamps
+- is there good lamps in the [others](room)?
+- do you have good lighting in room [alpha](room)?
+- Are there a lot of lamps in [Gamma](room)?
+- I want an event room with a lot of lamps
+- is there a lot of lamps in [it](room)?
+- I look for a meeting room with good lighting
+- I look for a meeting room with good light
+- is there many lamps in the [last](room) one?
+- we look for a room with good lighting
+- Does [Alpha](room) have a lot of lamps?
+- Are there many lights in [gamma](room)?
+- do you have enough lighting in room [Gamma](room)?
+- we searching for a room with good light
+- Are there a lot of lights?
+- Are there many lamps in [this](room) room?
+- Does [Gamma](room) have good lighting?
+- I would like an event room with good light
+- do you have many lamps in [the](room) room?
+- I look for a meeting room with a lot of lamps
+- Does the [third](room) one have good lighting?
+- is there enough lighting in [it](room)?
+- we want a meeting room with many lamps
+- Does [this](room) one have good lamps?
+- we would like an event room with enough light
+- do you have a lot of lighting in [alpha](room)?
+- is there good lamps in the [other](room) ones?
+- I need an event room with many lamps
+- How is the light in [Alpha](room)?
+- I look for an event room with a lot of lamps
+- do you have a lot of lamps in the [second](room) one?
+- Is there enough light in [the](room) room?
+- we look for a meeting room with a lot of lighting
+- we would like a meeting room with a lot of light
+- we need a meeting room with a lot of lamps
+- I would like a room with a lot of lighting
+- I searching for a room with enough lighting
+- we would like a meeting room with enough lighting
+- Does room [Beta](room) have a lot of lighting?
+- Are there many lights in [this](room) room?
+- Does the [third](room) room have good light?
+- is there good lighting in the [third](room) room?
+- we searching for a room with many lamps
+- I searching for a meeting room with good lamps
+- Is there enough light in the [second](room) room?
+- Does [Beta](room) have enough lighting?
+- I searching for a room with a lot of lighting
+- I look for an event room with many lamps
+- Does room [Beta](room) have enough light?
+- Are there many lights in the [other](room) room?
+- we want a room with a lot of light
+- Does the [other](room) room have good lamps?
+- we need an event room with good lighting
+- Does [this](room) have good light?
+- I need a meeting room with enough lighting
+- I look for an event room with a lot of lighting
+- is there a lot of light in the [other](room) ones?
+- Is there enough lighting in [Gamma](room)?
+- I would like a meeting room with enough lighting
+- Does [Alpha](room) have enough lighting?
+- we would like an event room with good light
+- do you have good lamps in the [other](room) ones?
+- is there a lot of lighting in the [other](room) ones?
+- Does the [second](room) one have a lot of lamps?
+- we look for a meeting room with enough light
+- we look for an event room with good lighting
+- Does the [last](room) room have a lot of lighting?
+- Are there a lot of lamps in [gamma](room)?
+- is there a lot of lamps in the [other](room) ones?
+- Does [gamma](room) have many lamps?
+- do you have many lamps in [alpha](room)?
+- Are there many lamps in the [last](room) one?
+- Is there enough lighting in the [last](room) room?
+- Does room [gamma](room) have good lighting?
+- is there a lot of lamps in [the](room) room?
+- Are there a lot of lamps in [the](room) room?
+- Does the [first](room) room have enough lighting?
+- I want a room with a lot of light
+- I would like an event room with enough lighting
+- do you have good lamps in the [others](room)?
+- Does the [last](room) room have enough light?
+- we searching for a meeting room with many lamps
+- I need a meeting room with a lot of lamps
+- Is there enough lighting in [this](room) room?
+- Does [the](room) room have many lamps?
+- Are there good lights in the [other](room) one?
+- we want a room with good light
+- Does room [beta](room) have good light?
+- is there good lamps in room [Beta](room)?
+- we searching for a room with a lot of light
+- is there enough light in [the](room) room?
+- we searching for an event room with good lamps
+- I would like a room with enough lighting
+- Are there a lot of lights in the [other](room) one?
+- I would like an event room with many lamps
+- do you have good lighting in [it](room)?
+- Does [Beta](room) have enough light?
+- Is there enough lighting in [it](room)?
+- I would like a room with enough light
+- do you have a lot of light in [this](room) one?
+- How is the lighting in [this](room) room?
+- Does the [third](room) room have enough lighting?
+- Does [Beta](room) have a lot of lighting?
+- is there enough light in the [other](room) rooms?
+- Does [the](room) room have good light?
+- I searching for an event room with a lot of lighting
+- Are there many lamps in [beta](room)?
+- is there good lighting in the [other](room) ones?
+- we searching for an event room with good lighting
+- do you have a lot of lamps in [the](room) room?
+- I would like an event room with a lot of light
+- we want an event room with many lamps
+- we want an event room with a lot of lighting
+- is there many lamps in the [others](room)?
+- Are there many lamps in room [Beta](room)?
+- is there enough light in the [first](room) room?
+- we would like a room with a lot of light
+- I want a meeting room with a lot of lamps
+- Are there a lot of lights in room [Gamma](room)?
+- Does [alpha](room) have good light?
+- I searching for a room with good light
+- I look for a room with good lighting
+- Does the [last](room) one have good light?
+- Is there enough lighting in [this](room) one?
+- How is the lighting in [it](room)?
+- I want a meeting room with enough light
+- is there enough light in the [other](room) ones?
+- Does [this](room) one have enough lighting?
+- Are there good lights in [the](room) room?
+- is there good lighting in room [Beta](room)?
+- do you have a lot of light in [it](room)?
+- I would like a meeting room with a lot of light
+- Does [alpha](room) have enough lighting?
+- Are there many lamps in the [third](room) room?
+- How is the lighting in the [third](room) room?
+- I look for an event room with good lighting
+- I look for an event room with enough light
+- do you have good lighting in [this](room) one?
+- I need a room with enough lighting
+- I need an event room with good lighting
+- Are there good lights in [this](room)?
+- I want a room with enough lighting
+- I need an event room with a lot of light
+- is there many lamps in the [other](room) rooms?
+- Does [this](room) have enough lighting?
+- Are there good lamps in room [Alpha](room)?
+- I look for a room with enough lighting
+- I searching for an event room with good lighting
+- we need a room with enough light
+- do you have good light in [this](room) room?
+- I need a meeting room with good lighting
+- is there good lamps in [the](room) room?
+- Does [this](room) room have many lamps?
+- we want a meeting room with good light
+- I look for a room with many lamps
+- is there a lot of light in the [other](room) rooms?
+- Are there good lamps in the [other](room) one?
+- we look for an event room with good light
+- is there a lot of lighting in [it](room)?
+- How is the lighting in [Gamma](room)?
+- Does [Gamma](room) have a lot of lamps?
+- we want a meeting room with a lot of light
+- is there good lighting in the [second](room) room?
+- is there enough lighting in the [third](room) one?
+- Does room [alpha](room) have a lot of lighting?
+- Are there a lot of lamps in [this](room) one?
+- do you have a lot of lighting in room [gamma](room)?
+- I would like a room with good lamps
+- Does [it](room) have good light?
+- do you have good lamps in [this](room) one?
+- I would like an event room with good lighting
+- I want a room with many lamps
+- Are there a lot of lights in [this](room) room?
+- Does [this](room) have a lot of light?
+- we look for an event room with a lot of lighting
+- do you have a lot of lamps in the [other](room) room?
+- Does [Gamma](room) have many lamps?
+- I want a room with enough light
+- do you have many lamps in [Beta](room)?
+- Does [Alpha](room) have many lamps?
+- do you have good light in room [gamma](room)?
+- we need an event room with a lot of lamps
+- Are there good lamps in [this](room) room?
+- is there good light in the [other](room) rooms?
+- I would like a meeting room with a lot of lamps
+- we searching for a meeting room with a lot of light
+- Are there many lights in [the](room) room?
+- I would like a meeting room with good lamps
+- Does the [other](room) one have a lot of lighting?
+- we look for a room with a lot of lamps
+- I searching for an event room with a lot of lamps
+- Are there many lights in the [third](room) room?
+- do you have a lot of lighting in [this](room)?
+- do you have a lot of lighting in [the](room) room?
+- we look for a meeting room with a lot of light
+- Does [Gamma](room) have a lot of light?
+- is there good lighting in [Beta](room)?
+- How is the light in [this](room) one?
+- we searching for a meeting room with good light
+- I searching for a room with good lamps
+- Are there many lights in room [alpha](room)?
+- is there a lot of light in [Alpha](room)?
+- we need a meeting room with a lot of light
+- do you have enough lighting in [this](room) one?
+- Does room [beta](room) have many lamps?
+- do you have good lamps in [beta](room)?
+- we need a room with good lighting
+- Are there a lot of lamps in room [gamma](room)?
+- is there many lamps in the [other](room) ones?
+- Does [gamma](room) have enough lighting?
+- we searching for a room with good lighting
+- I searching for a meeting room with good lighting
+- Does room [Beta](room) have good light?
+- Are there good lights in the [first](room) room?
+- is there good lamps in the [other](room) rooms?
+- is there a lot of lamps in the [first](room) room?
+- Are there a lot of lamps in [it](room)?
+- we want an event room with enough lighting
+- Does the [last](room) room have good lamps?
+- we would like a meeting room with good light
+- is there good lighting in [gamma](room)?
+- is there many lamps in [gamma](room)?
+- How is the light in [this](room) room?
+- Are there a lot of lights in the [first](room) room?
+- do you have enough light in [this](room)?
+- Does [this](room) room have good lamps?
+- I need a room with a lot of lighting
+- Are there many lamps in [this](room) one?
+- we need a meeting room with enough light
+- I want a room with good lighting
+- is there good lighting in [it](room)?
+- Are there many lamps in room [alpha](room)?
+- do you have many lamps in the [other](room) one?
+- I look for a meeting room with enough lighting
+- Does [this](room) have enough light?
+- I need a room with enough light
+- we searching for a room with a lot of lamps
+- Does the [first](room) room have many lamps?
+- Are there good lights in room [Gamma](room)?
+- I searching for a meeting room with a lot of lighting
+- Are there many lights in the [third](room) one?
+- we want an event room with good light
+- Does [beta](room) have good lighting?
+- we need an event room with many lamps
+- do you have many lamps in [it](room)?
+- Does the [third](room) one have a lot of lighting?
+- I would like an event room with good lamps
+- I searching for a meeting room with a lot of lamps
+- is there enough light in [this](room) room?
+- is there good light in the [others](room)?
+- I look for a room with a lot of light
+- do you have a lot of lamps in [beta](room)?
+- How is the lighting in [beta](room)?
+- do you have a lot of lighting in the [other](room) ones?
+- we need a meeting room with good lighting
+- Does the [first](room) one have enough lighting?
+- Are there a lot of lights in [this](room)?
+- we need a room with good lamps
+- Does [Alpha](room) have good light?
+- is there a lot of lighting in the [third](room) room?
+- Does [Beta](room) have a lot of light?
+- is there good lamps in the [third](room) one?
+- is there a lot of lighting in [this](room) room?
+- Is there enough lighting in [Alpha](room)?
+- Are there a lot of lamps in room [Gamma](room)?
+- do you have good lighting in [this](room) room?
+- we would like an event room with a lot of lamps
+- do you have a lot of lamps in [this](room) one?
+- Does the [other](room) one have a lot of light?
+- do you have a lot of light in [this](room) room?
+- is there enough lighting in [the](room) room?
+- I need a meeting room with many lamps
+- we would like a room with good light
+- Does [this](room) have good lighting?
+- we look for a room with a lot of lighting
+- Does [this](room) one have good light?
+- Does [this](room) have many lamps?
+- Are there good lamps in room [Beta](room)?
+- we look for a meeting room with enough lighting
+- Does the [last](room) room have many lamps?
+- is there a lot of light in [gamma](room)?
+- How is the lighting in [this](room)?
+- Is there enough lighting in room [Alpha](room)?
+- do you have enough lighting in the [other](room) ones?
+- we would like a meeting room with a lot of lighting
+- we would like a room with enough lighting
+- I look for a room with a lot of lighting
+- Does room [Beta](room) have a lot of lamps?
+- is there a lot of lamps in [this](room)?
+- we look for a room with good light
+- I need a room with many lamps
+- Are there a lot of lights in room [Alpha](room)?
+- Is there enough light in [Alpha](room)?
+- Does the [first](room) one have good light?
+- do you have a lot of lamps in [this](room) room?
+- Does room [Alpha](room) have many lamps?
+- Is there enough lighting in the [third](room) one?
+- How is the light in the [second](room) room?
+- we look for an event room with good lamps
 
 ## intent:ask_for_room_price
-- Are there any rooms for [1,200](budget) dollars?
-- How much are the [other](room) rooms?
+- is it possible to book an option for €[1500](budget)?
 - How much are the rooms?
-- Is the [first](room) room cheaper?
-- How cheap is the [second](room) one?
+- Is [it](room) cheap?
+- How much are the [others](room)?
 - How much do the rooms cost?
-- How much is [Alpha](room)?
-- do you offer an option for €[1'400](budget)?
-- How much do they cost?
 - What's the price of the [others](room)?
-- Is room [Gamma](room) expensive?
-- How much does the [first](room) room cost?
-- What is the price of [this](room) room?
-- Are the [other](room) rooms cheap?
-- How expensive are they?
-- do you have get [it](room) for GBP [600](budget)?
-- What's the price of the rooms?
+- What is the price of the rooms?
 - Are they expensive?
-- is there a possibility to get an option for [700](budget) pounds?
-- is it possible to book an option for €[1'200](budget)?
-- do you have book a location for $[1,000](budget)?
-- could we rent a location for £[700](budget)?
-- is it possible to rent an option for [1,500](budget).-?
-- is there a possibility to book a meeting room for $[1400](budget)?
-- is it possible to get an event room for [1'400](budget).-?
-- can we book a meeting room for €[1'400](budget)?
-- do you have rent [the](room) room for GBP [1'400](budget)?
-- is there a possibility to book an event room for £[1'500](budget)?
-- could we rent a meeting room for CHF [1,000](budget)?
-- could we rent a meeting room for [500](budget).-?
-- could we get the [other](room) room for [1400](budget) euros?
-- is there a possibility to rent [this](room) for $[1200](budget)?
-- is it possible to get an event room for [1,000](budget) euros?
-- could we rent a meeting room for [900](budget) pounds?
-- can we rent a meeting room for [1'500](budget) pounds?
-- could we book [the](room) room for [1500](budget) euros?
-- can we get a room for CHF [1200](budget)?
-- can we book a venue for [1,000](budget).-?
-- is there a possibility to rent [this](room) for USD [1000](budget)?
-- is it possible to get a meeting room for €[900](budget)?
-- is there a possibility to rent [this](room) for [1,500](budget).-?
-- do you have get a location for [1,000](budget).-?
-- is it possible to rent an event room for [1,400](budget).-?
-- is it possible to rent an event room for [1'000](budget).-?
-- is there a possibility to book an option for USD [1,000](budget)?
-- is there a possibility to get an event room for $[800](budget)?
-- do you have get the [third](room) one for [1500](budget) pounds?
-- is there a possibility to book a room for [1500](budget) dollars?
-- is there a possibility to rent a location for €[1'200](budget)?
-- is it possible to get a location for $[1,400](budget)?
-- do you have book a location for [800](budget) dollars?
-- can we rent a room for €[1,200](budget)?
-- can we get an event room for €[500](budget)?
-- is it possible to rent [the](room) room for [1'000](budget) euro?
-- is there a possibility to rent a venue for Fr. [500](budget)?
-- is it possible to get an option for GBP [1500](budget)?
-- could we rent [this](room) for [1'400](budget).-?
-- do you have get an option for £[1,200](budget)?
-- is there a possibility to rent [it](room) for Fr. [1,500](budget)?
-- is it possible to get a meeting room for $[500](budget)?
-- do you have get an option for $[500](budget)?
-- can we rent a venue for [1,400](budget) euros?
-- can we get a location for $[1'400](budget)?
-- is there a possibility to rent a room for CHF [1'400](budget)?
-- is there a possibility to rent an event room for $[1500](budget)?
-- is it possible to get a room for [1,500](budget).-?
-- could we rent [it](room) for $[1,200](budget)?
-- is there a possibility to rent a venue for £[600](budget)?
-- could we rent an option for £[1,400](budget)?
-- is it possible to rent a meeting room for USD [1500](budget)?
-- is it possible to book a venue for £[600](budget)?
-- is it possible to get the [first](room) room for [1'200](budget).-?
-- can we get the [first](room) room for [1,400](budget).-?
-- could we book a room for [1500](budget).-?
-- can we get a venue for CHF [900](budget)?
-- is it possible to get [the](room) room for €[1'200](budget)?
-- could we rent [it](room) for USD [1200](budget)?
-- is there a possibility to rent room [Alpha](room) for USD [500](budget)?
-- is there a possibility to get an event room for [1'400](budget).-?
-- is there a possibility to rent [it](room) for £[600](budget)?
-- could we book the [last](room) room for €[600](budget)?
-- could we get room [alpha](room) for [1'500](budget).-?
-- can we book an event room for USD [1500](budget)?
-- can we get an option for USD [1000](budget)?
-- do you have rent a location for CHF [1500](budget)?
-- is there a possibility to book a location for [1,200](budget).-?
-- do you have get [the](room) room for [1'400](budget).-?
-- is there a possibility to get [this](room) room for €[1'000](budget)?
-- can we get an event room for CHF [900](budget)?
-- do you have book a venue for $[1,200](budget)?
-- can we rent a location for [1000](budget) dollars?
-- is it possible to book an option for [1'000](budget).-?
-- could we book a location for [600](budget) dollars?
-- is it possible to rent an event room for $[1000](budget)?
-- is it possible to get an event room for [1000](budget).-?
-- could we rent a venue for $[1'200](budget)?
-- is there a possibility to book the [other](room) room for €[1,200](budget)?
-- could we get a venue for [1'200](budget) francs?
-- can we rent an option for [500](budget) dollars?
-- is there a possibility to get a location for €[1400](budget)?
-- is it possible to book an option for [600](budget) dollars?
-- could we get an option for €[1500](budget)?
-- is there a possibility to book the [last](room) one for $[700](budget)?
-- is it possible to get [alpha](room) for Fr. [1'000](budget)?
-- can we rent an option for €[1200](budget)?
-- can we book [this](room) for [1,200](budget).-?
-- can we book [this](room) for CHF [800](budget)?
-- could we get an option for [900](budget).-?
-- is there a possibility to rent an option for [1,500](budget) Swiss francs?
-- is it possible to rent an event room for GBP [700](budget)?
-- could we rent the [second](room) room for [1,400](budget) dollars?
-- could we rent a venue for €[1'200](budget)?
-- is there a possibility to rent [it](room) for USD [1'000](budget)?
-- can we get an option for [1'500](budget).-?
-- is it possible to rent a location for [1,000](budget) dollars?
-- is there a possibility to rent a location for [1,200](budget) euro?
-- can we book [this](room) for [800](budget) pounds?
-- could we get an event room for [600](budget).-?
-- can we rent a room for [1'500](budget).-?
-- do you have book an event room for [900](budget) dollars?
-- could we book an event room for USD [1400](budget)?
-- is there a possibility to book a venue for €[1500](budget)?
-- is there a possibility to rent an event room for [500](budget).-?
-- do you have rent a venue for CHF [1,500](budget)?
-- is there a possibility to rent the [last](room) room for £[1200](budget)?
-- could we get an event room for GBP [1,400](budget)?
-- can we rent a room for €[700](budget)?
-- is there a possibility to get an option for GBP [1,500](budget)?
-- is there a possibility to get a room for [1,500](budget).-?
-- could we rent a venue for CHF [1'200](budget)?
-- do you have get an option for [1'000](budget) pounds?
-- is it possible to book [gamma](room) for GBP [1,000](budget)?
-- is it possible to rent an option for [1000](budget).-?
-- is there a possibility to get [it](room) for [1,500](budget) dollars?
-- can we rent a location for CHF [1'200](budget)?
-- can we rent a meeting room for £[1'200](budget)?
-- do you have rent an event room for £[500](budget)?
-- do you have get an option for Fr. [1'500](budget)?
-- could we get room [Alpha](room) for £[700](budget)?
-- do you have rent an option for USD [1'400](budget)?
-- is there a possibility to get a meeting room for €[1200](budget)?
-- do you have an option for [700](budget).-?
-- is it possible to get [the](room) room for £[700](budget)?
-- do you have rent a location for GBP [1'200](budget)?
-- could we rent an event room for €[600](budget)?
-- could we get a meeting room for [1'500](budget) pounds?
-- could we book [gamma](room) for [500](budget) pounds?
-- is it possible to rent [it](room) for USD [1,200](budget)?
-- can we rent an option for Fr. [1,500](budget)?
-- is there a possibility to book an option for [1400](budget).-?
-- is there a possibility to rent [it](room) for £[900](budget)?
-- do you have book a location for USD [1,000](budget)?
-- can we get an event room for [1'500](budget) euro?
-- is it possible to get a room for [1200](budget) dollars?
-- is there a possibility to get room [alpha](room) for €[1,000](budget)?
-- is there a possibility to get a location for CHF [1500](budget)?
-- could we book a meeting room for USD [1,500](budget)?
-- can we rent a meeting room for $[1,400](budget)?
-- is it possible to book [this](room) one for Fr. [1'500](budget)?
-- do you have get [it](room) for [900](budget) pounds?
-- could we rent an event room for [500](budget).-?
-- can we rent a location for USD [1,200](budget)?
-- do you have book an event room for [1,500](budget) pounds?
-- can we rent [this](room) for [1,500](budget).-?
-- do you have book an option for [1000](budget) dollars?
-- do you have get an event room for USD [800](budget)?
-- could we book [Beta](room) for [1400](budget).-?
-- can we book an event room for [800](budget).-?
-- could we get an event room for [1,200](budget).-?
-- is it possible to rent a room for [1000](budget) francs?
-- do you have get the [last](room) one for [1'400](budget) dollars?
-- can we get [the](room) room for GBP [900](budget)?
-- is it possible to rent an option for Fr. [1'400](budget)?
-- do you have book a room for USD [1500](budget)?
-- is there a possibility to book [it](room) for £[1,400](budget)?
-- could we book room [Alpha](room) for Fr. [1,200](budget)?
-- is it possible to rent a room for $[1400](budget)?
-- is it possible to get a venue for Fr. [700](budget)?
-- is it possible to rent [the](room) room for £[1'500](budget)?
-- do you have get a venue for USD [1,500](budget)?
-- is there a possibility to get a room for €[700](budget)?
-- is there a possibility to rent a meeting room for [1400](budget).-?
-- do you have get the [other](room) one for [1200](budget) dollars?
-- is it possible to book a room for Fr. [500](budget)?
-- could we rent [this](room) one for £[1,500](budget)?
-- is it possible to get the [third](room) one for €[1'200](budget)?
-- is there a possibility to book a venue for USD [1,000](budget)?
-- is there a possibility to get a room for [1'500](budget).-?
-- is there a possibility to get an option for [1'000](budget) dollars?
-- do you have get a location for $[1,200](budget)?
-- do you have rent an option for [1'200](budget).-?
-- could we book a location for [1'200](budget).-?
-- is there a possibility to get an option for €[1500](budget)?
-- could we rent an option for [1500](budget) Swiss francs?
-- can we rent a meeting room for [700](budget) dollars?
-- is there a possibility to book [beta](room) for €[1,000](budget)?
-- do you have book a meeting room for [500](budget) dollars?
-- could we book the [third](room) one for €[900](budget)?
-- could we book an option for CHF [1,400](budget)?
-- could we book [the](room) room for [1,500](budget).-?
-- do you have rent [this](room) one for €[1,200](budget)?
-- can we rent an event room for €[1500](budget)?
-- can we book a venue for [900](budget).-?
-- is it possible to get an event room for Fr. [800](budget)?
-- do you have get a venue for [1,200](budget) francs?
-- could we get a venue for [1'500](budget) francs?
-- is it possible to rent a room for $[1,200](budget)?
-- is there a possibility to get [Alpha](room) for [1500](budget).-?
-- is it possible to book a meeting room for [1000](budget) pounds?
-- is there a possibility to rent an event room for CHF [1'200](budget)?
-- can we book a meeting room for CHF [1,200](budget)?
-- is there a possibility to book [the](room) room for [900](budget).-?
-- is there a possibility to get a room for [500](budget).-?
-- is it possible to book a location for [800](budget).-?
-- is it possible to rent [it](room) for €[900](budget)?
-- is it possible to rent an option for [1'500](budget).-?
-- is there a possibility to rent [it](room) for CHF [1'000](budget)?
-- can we rent an event room for £[500](budget)?
-- is it possible to get [Alpha](room) for USD [1,000](budget)?
-- can we rent the [second](room) one for USD [1'200](budget)?
-- could we book the [last](room) one for [500](budget) pounds?
+- What's the price of [the](room) room?
+- Is [this](room) one cheaper?
+- do you provide an option for $[1,500](budget)?
+- How cheap is [this](room)?
+- How much do they cost?
+- How much is room [Alpha](room)?
+- How expensive are they?
+- How much does the [second](room) room cost?
+- Are there any rooms for $[600](budget)?
+- Are the [other](room) rooms expensive?
+- is there a possibility to book [it](room) for $[1200](budget)?
+- is there a possibility to book [the](room) room for [1'000](budget) euros?
+- do you have book an option for €[700](budget)?
+- is it possible to get [it](room) for [1400](budget) dollars?
+- is there a possibility to get a location for [1400](budget).-?
+- can we get the [last](room) one for USD [1'400](budget)?
+- is it possible to rent an event room for Fr. [1,500](budget)?
+- can we get [gamma](room) for [1200](budget) dollars?
+- is there a possibility to get a room for [1,000](budget).-?
+- is there a possibility to rent an option for [1'400](budget).-?
+- could we get an option for [600](budget).-?
+- can we get [this](room) for [1000](budget) francs?
+- is it possible to rent a room for €[500](budget)?
+- is there a possibility to book a venue for CHF [1500](budget)?
+- could we book a meeting room for [800](budget).-?
+- is it possible to book an event room for €[1200](budget)?
+- do you have get an option for $[1'500](budget)?
+- is it possible to rent an event room for [700](budget) pounds?
+- do you have book an option for £[1500](budget)?
+- can we book an option for [1'500](budget).-?
+- is it possible to book an event room for £[600](budget)?
+- could we book the [other](room) room for [700](budget) dollars?
+- could we rent [the](room) room for €[1200](budget)?
+- can we book an event room for Fr. [1200](budget)?
+- is there a possibility to rent an option for €[1,400](budget)?
+- is there a possibility to get [Beta](room) for CHF [600](budget)?
+- is it possible to book [this](room) for GBP [1'400](budget)?
+- is it possible to book an option for [1500](budget).-?
+- could we book a meeting room for CHF [1'200](budget)?
+- can we rent an option for [1,500](budget) francs?
+- could we rent a venue for Fr. [1400](budget)?
+- do you have rent [this](room) room for Fr. [600](budget)?
+- is it possible to get a location for €[600](budget)?
+- is it possible to rent an event room for $[1400](budget)?
+- is there a possibility to get an option for [1'000](budget) euro?
+- do you have rent room [gamma](room) for [1,400](budget) pounds?
+- is it possible to get an option for [1'500](budget) francs?
+- can we rent a location for [1200](budget) euros?
+- do you have get room [Gamma](room) for €[600](budget)?
+- do you have rent [this](room) one for €[1,400](budget)?
+- can we book a room for [1'200](budget).-?
+- could we rent [it](room) for Fr. [1,000](budget)?
+- do you have get a meeting room for GBP [600](budget)?
+- can we get [the](room) room for $[500](budget)?
+- can we rent an option for $[700](budget)?
+- is it possible to book a meeting room for GBP [1,000](budget)?
+- is there a possibility to rent a location for [1200](budget).-?
+- is there a possibility to book [this](room) room for [1'200](budget) Swiss francs?
+- is it possible to book an option for Fr. [500](budget)?
+- is there a possibility to get room [beta](room) for [900](budget).-?
+- is it possible to rent [it](room) for [1500](budget) pounds?
+- can we rent a meeting room for £[600](budget)?
+- is there a possibility to get [this](room) for [800](budget).-?
+- can we rent a location for CHF [600](budget)?
+- can we book a room for [1400](budget).-?
+- is it possible to book a location for $[900](budget)?
+- can we book a location for £[1'000](budget)?
+- is it possible to rent [it](room) for [1400](budget) pounds?
+- could we book an option for [1,400](budget).-?
+- can we get a venue for [1000](budget) pounds?
+- do you have book the [first](room) room for CHF [800](budget)?
+- is it possible to book an option for [1200](budget).-?
+- is it possible to get an option for £[1200](budget)?
+- is there a possibility to rent an event room for [1,400](budget).-?
+- do you have get the [first](room) one for [900](budget).-?
+- could we rent a meeting room for £[1'500](budget)?
+- do you have rent an event room for GBP [800](budget)?
+- do you have get a venue for Fr. [800](budget)?
+- could we get a room for GBP [1,200](budget)?
+- do you have get an event room for [1'400](budget) pounds?
+- is it possible to get [gamma](room) for [1000](budget) pounds?
+- is it possible to get the [third](room) one for [1,400](budget) pounds?
+- do you have rent room [Alpha](room) for [1400](budget).-?
+- could we rent [the](room) room for [1'500](budget).-?
+- could we get room [Beta](room) for £[1,000](budget)?
+- could we get a location for $[1'000](budget)?
+- is it possible to rent a room for €[600](budget)?
+- can we get an option for [1,400](budget) Swiss francs?
+- could we get a venue for €[1200](budget)?
+- is it possible to rent an event room for USD [600](budget)?
+- is it possible to get an option for [1'000](budget).-?
+- is there a possibility to book a location for [600](budget).-?
+- do you have book an event room for €[1400](budget)?
+- do you have get a location for €[700](budget)?
+- can we get a location for €[1'200](budget)?
+- could we rent an event room for USD [1500](budget)?
+- can we rent an option for $[1,200](budget)?
+- is there a possibility to get [the](room) room for [1'400](budget).-?
+- do you have book a meeting room for [1,400](budget).-?
+- could we rent [this](room) for CHF [800](budget)?
+- is it possible to rent an option for [500](budget).-?
+- could we book a room for €[1,500](budget)?
+- do you have book [this](room) one for [1'400](budget) pounds?
+- is it possible to book an option for [1,500](budget).-?
+- is there a possibility to get a location for [1,400](budget).-?
+- could we rent [the](room) room for [700](budget).-?
+- do you have book an option for Fr. [1,200](budget)?
+- can we get [it](room) for [1,200](budget) dollars?
+- do you have get an event room for [1,500](budget).-?
+- do you have book [this](room) for £[1,400](budget)?
+- is there a possibility to book the [third](room) room for [1,000](budget).-?
+- can we rent [this](room) one for £[800](budget)?
+- can we book a meeting room for £[1000](budget)?
+- could we get a meeting room for CHF [1'400](budget)?
+- can we rent an option for £[1,400](budget)?
+- could we rent a meeting room for Fr. [1,000](budget)?
+- do you have get an event room for [600](budget) euros?
+- do you have book an event room for [600](budget) pounds?
+- could we get an option for [700](budget) pounds?
+- is there a possibility to rent a venue for Fr. [800](budget)?
+- can we get room [gamma](room) for GBP [600](budget)?
+- do you have rent an event room for [1'500](budget) dollars?
+- is it possible to book a room for $[1'000](budget)?
+- is there a possibility to book a location for USD [1'400](budget)?
+- do you have rent a room for $[1200](budget)?
+- can we rent an event room for USD [1000](budget)?
+- is it possible to book a meeting room for GBP [1,200](budget)?
+- can we get [Alpha](room) for [900](budget) pounds?
+- can we rent a room for GBP [800](budget)?
+- can we get a room for CHF [1400](budget)?
+- is it possible to book [this](room) room for $[1,000](budget)?
+- is there a possibility to book an option for [800](budget) francs?
+- is there a possibility to rent an event room for [1,500](budget) dollars?
+- do you provide an option for CHF [1'400](budget)?
+- is it possible to book an event room for €[800](budget)?
+- could we get an event room for GBP [1,000](budget)?
+- could we rent [this](room) for [1000](budget) Swiss francs?
+- can we rent a venue for $[1'000](budget)?
+- can we book a room for USD [1,000](budget)?
+- is there a possibility to book a venue for £[800](budget)?
+- could we book [the](room) room for [1,000](budget) francs?
+- is there a possibility to rent a room for [1'200](budget).-?
+- could we rent an option for [500](budget) dollars?
+- is there a possibility to book [Beta](room) for [800](budget) pounds?
+- do you have get a location for €[1,200](budget)?
+- can we rent an option for [1'200](budget) euros?
+- do you have rent [it](room) for [500](budget).-?
+- is it possible to rent room [beta](room) for Fr. [1,500](budget)?
+- is there a possibility to get an event room for €[1,000](budget)?
+- do you have book a meeting room for [900](budget).-?
+- can we get an event room for GBP [500](budget)?
+- can we get a meeting room for [1,500](budget) dollars?
+- is it possible to book an option for [1000](budget).-?
+- is there a possibility to rent an event room for [1'200](budget).-?
+- is it possible to book an event room for €[1,500](budget)?
+- could we rent [it](room) for GBP [1400](budget)?
+- can we rent a room for GBP [1'400](budget)?
+- is there a possibility to get [it](room) for £[1400](budget)?
+- can we book [the](room) room for GBP [1'400](budget)?
+- can we rent an event room for [1'000](budget).-?
+- is there a possibility to rent [it](room) for GBP [1,000](budget)?
+- can we book an option for [1'400](budget).-?
+- is there a possibility to get an option for Fr. [1400](budget)?
+- is there a possibility to rent [this](room) room for [900](budget).-?
+- is there a possibility to rent the [second](room) one for USD [500](budget)?
+- do you have rent the [first](room) one for [500](budget).-?
+- can we rent an option for CHF [1'400](budget)?
 - can we rent an event room for [1,200](budget).-?
-- do you have book an option for GBP [1'500](budget)?
-- is there a possibility to get [this](room) for £[700](budget)?
-- could we book a meeting room for USD [800](budget)?
-- is there a possibility to book an event room for [1'400](budget).-?
-- could we book an event room for €[1'500](budget)?
-- is it possible to book an option for £[900](budget)?
-- can we book room [Gamma](room) for GBP [1,500](budget)?
-- is there a possibility to rent the [first](room) one for [1,200](budget) pounds?
-- do you have rent [it](room) for [1'500](budget).-?
-- is there a possibility to book an event room for [600](budget) dollars?
-- can we get an option for [1'500](budget) euros?
-- do you have get an event room for €[1,400](budget)?
-- is there a possibility to rent [the](room) room for [600](budget) Swiss francs?
-- do you have get the [first](room) one for [1200](budget).-?
-- can we rent [the](room) room for [900](budget).-?
-- can we get an option for USD [500](budget)?
-- is there a possibility to book an option for Fr. [1400](budget)?
-- do you have rent [it](room) for Fr. [1500](budget)?
-- is it possible to rent a meeting room for [700](budget).-?
-- could we get an event room for [1'500](budget).-?
-- do you have rent [the](room) room for CHF [1,000](budget)?
-- is there a possibility to get a room for [1'400](budget).-?
-- is there a possibility to rent [this](room) room for [1,400](budget) euro?
-- is there a possibility to rent [this](room) one for [1500](budget) dollars?
-- do you have rent an option for $[1,000](budget)?
-- could we book [this](room) for $[1400](budget)?
-- can we rent an option for [900](budget).-?
+- is there a possibility to rent a location for $[500](budget)?
+- can we get an option for $[1'500](budget)?
+- can we book a venue for [500](budget).-?
+- do you have book [the](room) room for [1200](budget) dollars?
+- can we book a room for €[1'200](budget)?
+- can we book a room for [1,200](budget).-?
+- could we book an option for USD [1200](budget)?
+- could we rent [Beta](room) for [1'400](budget) dollars?
+- can we book the [last](room) room for [700](budget) euros?
+- could we book an option for [1'200](budget).-?
+- can we book [beta](room) for USD [1000](budget)?
+- could we book an option for [600](budget).-?
+- could we book an event room for [1500](budget) euros?
+- can we book the [other](room) room for [500](budget) Swiss francs?
+- could we rent [it](room) for €[1000](budget)?
+- can we get an event room for [900](budget) Swiss francs?
+- could we book a room for [1,500](budget) francs?
+- is it possible to rent a venue for [1,000](budget).-?
+- is there a possibility to book a venue for [1'500](budget).-?
+- could we book a venue for [500](budget) euros?
+- could we get an option for [800](budget).-?
+- can we rent [this](room) room for CHF [800](budget)?
+- is it possible to book [it](room) for GBP [700](budget)?
+- is it possible to book an option for [1'200](budget).-?
+- is it possible to get [this](room) room for $[900](budget)?
+- do you have rent a meeting room for [500](budget) Swiss francs?
+- do you have book an event room for USD [700](budget)?
+- do you have rent a meeting room for €[800](budget)?
+- is there a possibility to book [the](room) room for [1200](budget).-?
+- could we get [it](room) for [900](budget) pounds?
+- can we get a room for GBP [600](budget)?
+- is it possible to get [this](room) one for [1'400](budget) dollars?
+- can we book an option for GBP [1'400](budget)?
 - do you have book an event room for CHF [1'400](budget)?
-- can we rent a location for €[1,200](budget)?
-- could we book a location for GBP [1,200](budget)?
-- is there a possibility to book [Alpha](room) for $[1400](budget)?
-- do you have get a meeting room for CHF [500](budget)?
-- is there a possibility to book a meeting room for [1'400](budget).-?
-- can we rent an event room for [700](budget) francs?
-- could we book an option for Fr. [1400](budget)?
-- is it possible to book [the](room) room for [600](budget).-?
-- can we book [this](room) room for [800](budget).-?
-- could we rent a meeting room for [500](budget) euro?
-- do you have rent a meeting room for [900](budget).-?
-- do you have book a meeting room for [1000](budget) francs?
-- is there a possibility to rent an option for £[600](budget)?
-- is it possible to get [this](room) room for €[600](budget)?
-- do you provide an option for [1,500](budget) Swiss francs?
-- do you have book a room for [600](budget).-?
-- is it possible to rent an event room for $[900](budget)?
-- is there a possibility to book an event room for [1,000](budget) pounds?
-- do you have rent an event room for USD [1'400](budget)?
-- could we get [it](room) for CHF [1,000](budget)?
-- can we book an option for €[500](budget)?
-- do you have get [the](room) room for CHF [1'500](budget)?
-- is it possible to book [the](room) room for CHF [1,500](budget)?
-- can we rent a location for £[1,200](budget)?
-- can we rent [the](room) room for USD [600](budget)?
-- is there a possibility to get [this](room) for [1,500](budget).-?
-- could we book a meeting room for [1'500](budget) dollars?
-- do you have book [the](room) room for [1'200](budget) pounds?
-- can we rent an event room for $[500](budget)?
-- is it possible to rent an option for [1,000](budget).-?
-- is it possible to book a room for £[1,000](budget)?
-- is it possible to book a venue for £[1400](budget)?
-- do you have get a venue for [1400](budget) euro?
-- is it possible to rent an option for $[500](budget)?
-- is there a possibility to rent a meeting room for [500](budget).-?
-- do you have rent an option for CHF [900](budget)?
-- can we get a location for USD [1'000](budget)?
-- can we book an option for [1200](budget).-?
-- is there a possibility to rent a meeting room for CHF [1'400](budget)?
-- do you have rent [this](room) room for £[1'200](budget)?
-- could we get a venue for [1,400](budget) euro?
-- could we rent a location for [800](budget) dollars?
-- could we rent [the](room) room for [1'000](budget).-?
-- do you have rent an option for [1,500](budget).-?
-- do you have book an event room for €[1,000](budget)?
-- could we get the [first](room) one for £[1000](budget)?
-- is it possible to get [it](room) for [700](budget).-?
-- is there a possibility to get [it](room) for [1,000](budget).-?
-- do you have book an option for [600](budget).-?
-- do you have rent a venue for [1'000](budget) euro?
-- is it possible to book a venue for £[1500](budget)?
-- is it possible to rent [the](room) room for CHF [1200](budget)?
-- could we rent room [beta](room) for $[1,200](budget)?
-- is it possible to book the [second](room) room for €[700](budget)?
-- is it possible to get an event room for [1,500](budget) Swiss francs?
-- is it possible to book an option for [1,000](budget).-?
-- do you have book [this](room) one for [900](budget).-?
-- is there a possibility to book an option for [1'500](budget).-?
-- do you have book a venue for £[900](budget)?
-- could we rent [Alpha](room) for [1,500](budget).-?
-- is there a possibility to rent an event room for [1'500](budget).-?
-- do you have get an event room for [1200](budget).-?
-- is there a possibility to book a location for [500](budget).-?
-- could we get [this](room) for [1'200](budget) Swiss francs?
-- is it possible to book [it](room) for €[1'200](budget)?
-- could we rent [the](room) room for [900](budget) dollars?
-- do you have rent a meeting room for [1'200](budget).-?
-- is it possible to book a room for Fr. [1'500](budget)?
-- do you have rent the [first](room) room for [1,500](budget) euro?
-- do you have get an option for [1000](budget).-?
-- do you have get the [second](room) one for £[1'500](budget)?
-- can we get an option for €[1'500](budget)?
-- do you have book an event room for [1000](budget) dollars?
-- can we book a location for £[700](budget)?
-- do you have book [it](room) for €[1500](budget)?
-- can we get a room for [1,400](budget).-?
-- do you have book a meeting room for [1000](budget) euro?
-- could we get an event room for USD [1400](budget)?
-- do you have book an event room for CHF [1000](budget)?
-- is it possible to book a meeting room for Fr. [1200](budget)?
-- is there a possibility to rent a venue for [800](budget).-?
-- do you have book an option for €[1,000](budget)?
-- could we get a venue for [1,500](budget) euros?
-- can we book the [second](room) one for [600](budget) francs?
-- is it possible to get an event room for [1200](budget) pounds?
-- could we rent an option for [1000](budget) dollars?
-- is it possible to get [it](room) for [1500](budget).-?
-- is it possible to rent an event room for USD [1400](budget)?
-- is there a possibility to rent an event room for [800](budget) pounds?
-- do you have book a room for [700](budget) euro?
-- can we book [the](room) room for $[1'200](budget)?
-- could we book a venue for CHF [1200](budget)?
-- could we get a venue for CHF [1,500](budget)?
-- could we rent [this](room) one for [700](budget).-?
-- can we book an event room for €[700](budget)?
-- is there a possibility to book the [first](room) room for [1,500](budget) euro?
-- is there a possibility to book an event room for CHF [1,500](budget)?
-- can we get [this](room) one for €[1,000](budget)?
-- could we book a location for [1'500](budget) dollars?
-- could we rent a venue for [1,200](budget) pounds?
-- do you have get an event room for [1'200](budget).-?
-- could we book an option for [500](budget) euros?
-- is there a possibility to get the [last](room) one for [1,500](budget) francs?
-- can we get an option for CHF [1000](budget)?
-- could we book a location for [1000](budget) Swiss francs?
-- could we book an event room for $[1000](budget)?
-- is it possible to get a venue for CHF [1,000](budget)?
-- is there a possibility to rent room [Gamma](room) for £[900](budget)?
-- is it possible to rent an option for [1500](budget).-?
-- could we rent an event room for [1400](budget) francs?
-- is it possible to get [the](room) room for [1200](budget).-?
-- is there a possibility to book an option for [1000](budget).-?
-- could we get [this](room) one for €[1,000](budget)?
-- could we get the [last](room) one for £[500](budget)?
-- do you have book [this](room) room for €[900](budget)?
-- can we book a meeting room for CHF [1,500](budget)?
-- could we book an option for £[1'000](budget)?
-- do you have get the [other](room) room for [1,500](budget) pounds?
-- could we get an option for [1,400](budget) dollars?
-- is there a possibility to book [the](room) room for £[800](budget)?
-- is there a possibility to rent the [last](room) room for [1400](budget).-?
-- is it possible to book the [other](room) room for [1,400](budget).-?
-- is there a possibility to rent [this](room) one for [1,000](budget) euros?
-- do you have get an option for GBP [1200](budget)?
-- do you have get [the](room) room for [1400](budget).-?
-- could we book an option for [700](budget).-?
-- could we get a room for £[1200](budget)?
-- do you have book an event room for [1,200](budget) Swiss francs?
-- could we book a venue for £[900](budget)?
-- could we book [this](room) for £[1,200](budget)?
-- can we get an event room for $[1400](budget)?
-- is it possible to rent a location for £[500](budget)?
-- is there a possibility to book an option for [1,200](budget) pounds?
-- do you have get a venue for $[1'400](budget)?
-- do you have get an option for £[1,000](budget)?
-- can we book [the](room) room for GBP [800](budget)?
-- is it possible to book an event room for CHF [1'200](budget)?
-- do you have rent the [last](room) room for [1'500](budget) pounds?
-- do you have an option for £[1,000](budget)?
-- is it possible to rent a room for [1400](budget).-?
-- can we get a room for [1000](budget) pounds?
-- can we rent an event room for USD [500](budget)?
-- can we get an event room for [1,200](budget) euro?
-- could we rent an option for Fr. [1'500](budget)?
+- is it possible to book a meeting room for £[1400](budget)?
+- do you have rent an option for [1400](budget) euro?
+- do you have get a meeting room for £[800](budget)?
+- is there a possibility to get an option for [1400](budget) francs?
+- is it possible to get an option for [1200](budget).-?
+- is it possible to get a meeting room for €[600](budget)?
+- can we rent [this](room) room for [1,400](budget).-?
+- could we rent [the](room) room for [1,200](budget) dollars?
+- could we get [it](room) for [1,000](budget) dollars?
+- could we book a room for [1000](budget) dollars?
+- is there a possibility to get an option for $[1'500](budget)?
+- is it possible to get a venue for USD [1,200](budget)?
+- is there a possibility to get [the](room) room for $[800](budget)?
+- is there a possibility to book [it](room) for [1'400](budget) pounds?
+- is it possible to rent [this](room) for €[1000](budget)?
+- can we rent an event room for GBP [1'500](budget)?
+- is it possible to get an option for [1,400](budget) pounds?
+- could we rent a venue for [1,500](budget) pounds?
+- is it possible to book a room for [1'400](budget) euro?
+- is there a possibility to book an event room for USD [1,200](budget)?
+- is it possible to rent an event room for CHF [1'400](budget)?
+- is there a possibility to rent an option for £[1200](budget)?
+- is there a possibility to book an option for £[800](budget)?
+- do you have get a room for £[900](budget)?
+- could we get a room for £[1000](budget)?
+- can we book a venue for [800](budget) dollars?
+- can we rent an option for [800](budget).-?
+- do you have get [it](room) for €[1'200](budget)?
+- is there a possibility to rent an event room for CHF [1,400](budget)?
+- could we get a venue for £[1400](budget)?
+- is there a possibility to book an option for [1400](budget) euro?
+- is there a possibility to rent an event room for Fr. [1,400](budget)?
+- is there a possibility to book a room for [1,000](budget).-?
+- could we get a venue for [1'400](budget).-?
+- can we get a meeting room for GBP [1200](budget)?
+- is it possible to book an option for [800](budget).-?
+- do you have get an option for Fr. [1,500](budget)?
+- can we book a venue for [1,000](budget).-?
+- is there a possibility to rent a venue for [1'400](budget) dollars?
+- do you have rent a location for €[1'200](budget)?
+- can we book [it](room) for [1000](budget).-?
+- is it possible to rent a room for [600](budget) pounds?
+- could we get a venue for [600](budget).-?
+- is it possible to book an event room for [1,500](budget).-?
+- can we rent the [last](room) one for [1'400](budget).-?
+- is it possible to rent an event room for €[1,000](budget)?
+- is it possible to get an option for €[1'400](budget)?
+- do you have book [the](room) room for [600](budget) dollars?
+- is there a possibility to book an option for $[1'500](budget)?
+- is it possible to get an option for [500](budget).-?
+- is there a possibility to get [the](room) room for GBP [1'400](budget)?
+- is there a possibility to book a room for [1,500](budget).-?
+- is it possible to get an event room for [1,500](budget).-?
+- can we book [it](room) for £[1400](budget)?
+- can we get an option for Fr. [1,400](budget)?
+- is there an option for [900](budget).-?
+- is it possible to book [the](room) room for GBP [1'500](budget)?
+- do you have book a room for €[600](budget)?
+- is there a possibility to get an event room for [1'000](budget) dollars?
+- can we book a location for [1'000](budget).-?
+- is it possible to book a meeting room for CHF [1,400](budget)?
+- can we rent a meeting room for [1,000](budget).-?
+- is there a possibility to book a location for CHF [1'200](budget)?
+- is there a possibility to rent a venue for [900](budget) Swiss francs?
+- is it possible to rent an event room for [1500](budget) pounds?
+- do you have get an option for USD [900](budget)?
+- is there a possibility to rent [this](room) room for [1'200](budget).-?
+- do you have get an event room for [1,000](budget).-?
+- do you have rent a meeting room for [1500](budget).-?
+- is there a possibility to book room [alpha](room) for [1,400](budget).-?
+- can we get [this](room) room for €[1'000](budget)?
+- is there a possibility to book a room for Fr. [600](budget)?
+- do you have get [it](room) for CHF [1'200](budget)?
+- is it possible to get a location for [1,400](budget).-?
+- is there a possibility to book a room for £[900](budget)?
+- is it possible to book a venue for €[700](budget)?
+- can we book a room for £[1'500](budget)?
+- could we get a venue for Fr. [800](budget)?
+- is there a possibility to book an option for €[1000](budget)?
+- can we get a room for [600](budget) euros?
+- can we rent an option for €[1000](budget)?
+- do you have get [the](room) room for [1'400](budget).-?
+- could we rent an option for $[600](budget)?
+- is it possible to rent an option for [1,500](budget) pounds?
+- can we get an event room for €[1'400](budget)?
+- is there a possibility to rent [the](room) room for £[1000](budget)?
+- is it possible to get an option for [1,000](budget).-?
+- could we book [it](room) for [600](budget).-?
+- do you have book an option for CHF [1'000](budget)?
+- can we book an option for [1'400](budget) euros?
+- could we get [it](room) for [1,200](budget).-?
+- do you have get the [second](room) room for €[1400](budget)?
+- could we get a meeting room for £[700](budget)?
+- do you have book [the](room) room for [500](budget).-?
+- could we get an event room for GBP [500](budget)?
+- do you have get a location for USD [1'400](budget)?
+- can we get a location for €[1,500](budget)?
+- can we book a location for [1,000](budget) dollars?
+- do you have get an option for £[1500](budget)?
+- could we book a meeting room for [900](budget) dollars?
+- could we get a location for [1400](budget) pounds?
+- do you have rent a location for [1'400](budget) dollars?
+- is there a possibility to get [it](room) for $[1'000](budget)?
+- can we rent the [last](room) one for €[600](budget)?
+- can we book an option for [800](budget) euro?
+- is there a possibility to rent a venue for USD [1'200](budget)?
+- do you have get a room for USD [1'400](budget)?
+- is it possible to get an event room for [1400](budget) pounds?
+- do you have get an event room for £[1'400](budget)?
+- could we rent an event room for €[500](budget)?
+- is it possible to book a meeting room for $[1000](budget)?
+- is there a possibility to rent room [beta](room) for $[500](budget)?
+- can we book an event room for £[500](budget)?
+- is it possible to get a venue for [900](budget).-?
+- is there a possibility to rent a meeting room for USD [700](budget)?
+- can we book an event room for [1200](budget).-?
+- is there a possibility to rent an option for $[1,500](budget)?
+- could we get a location for [1,200](budget) pounds?
+- is it possible to rent [this](room) room for [900](budget).-?
+- do you have book the [first](room) one for USD [1200](budget)?
+- is there a possibility to book [it](room) for [1,400](budget).-?
 - is it possible to book an option for [1,400](budget).-?
-- do you have rent [it](room) for [1,400](budget) dollars?
-- could we book [this](room) for €[800](budget)?
-- do you have book [this](room) for USD [1'000](budget)?
-- is it possible to book [beta](room) for [1'500](budget).-?
-- can we get a venue for €[1'500](budget)?
-- can we rent an option for Fr. [1'200](budget)?
-- is there a possibility to get a venue for £[1,000](budget)?
-- is it possible to rent an option for CHF [1200](budget)?
-- do you have book [the](room) room for [900](budget).-?
-- could we get a venue for [700](budget) euros?
-- do you have get [this](room) room for $[1,500](budget)?
-- could we get [the](room) room for Fr. [1400](budget)?
-- is there a possibility to book a location for [1200](budget) pounds?
-- is there a possibility to book [it](room) for €[800](budget)?
-- do you have get an option for [1'400](budget).-?
-- do you have get room [gamma](room) for [1'500](budget) pounds?
-- is there a possibility to get [it](room) for [1'200](budget).-?
-- is it possible to get an option for [500](budget) euro?
-- do you have rent a venue for GBP [600](budget)?
-- is it possible to book a meeting room for £[900](budget)?
-- is there a possibility to get a room for [1'200](budget) euro?
-- can we rent a venue for CHF [800](budget)?
-- could we book an event room for [1000](budget) dollars?
-- could we get [the](room) room for [1'000](budget).-?
-- can we get a location for $[1,400](budget)?
-- can we rent an option for Fr. [1,400](budget)?
-- is it possible to book a meeting room for [500](budget) dollars?
-- do you have get [this](room) one for £[1400](budget)?
-- is it possible to get a venue for £[1000](budget)?
-- is it possible to get an event room for €[600](budget)?
-- is there a possibility to book a location for €[1'500](budget)?
-- is it possible to get an event room for [1'500](budget) euro?
-- could we book an option for [1'400](budget) pounds?
-- can we get a room for €[1,200](budget)?
-- is there a possibility to book [it](room) for [1,000](budget) pounds?
-- is there a possibility to book an option for [800](budget) dollars?
-- is there a possibility to get a location for £[1,400](budget)?
-- is it possible to get an event room for $[1'400](budget)?
-- could we book a room for [1000](budget).-?
-- is it possible to book a location for $[1'400](budget)?
-- is it possible to book room [Alpha](room) for £[1'400](budget)?
-- could we book [this](room) one for [1000](budget).-?
-- can we rent an event room for €[1'500](budget)?
-- can we rent [it](room) for [1400](budget).-?
-- do you have book room [Beta](room) for [1200](budget) dollars?
-- is there a possibility to get [it](room) for [1,200](budget) pounds?
-- could we rent [the](room) room for [500](budget).-?
-- is it possible to rent an event room for [1500](budget) Swiss francs?
-- could we book [it](room) for GBP [1,200](budget)?
-- do you have rent [the](room) room for GBP [1400](budget)?
-- is it possible to book a location for £[1,000](budget)?
-- is it possible to rent an option for $[900](budget)?
-- is there a possibility to get an event room for [600](budget) francs?
-- can we book a venue for [1200](budget) pounds?
-- is there a possibility to get an event room for [700](budget).-?
-- is it possible to rent [it](room) for [900](budget).-?
-- could we book [the](room) room for [900](budget) dollars?
-- can we book an event room for [900](budget).-?
-- is there a possibility to book an option for CHF [1,000](budget)?
-- is it possible to get [the](room) room for USD [800](budget)?
-- could we book a location for [900](budget) Swiss francs?
-- can we get an event room for [1200](budget) euros?
-- can we get a venue for [1500](budget) francs?
-- can we book an event room for [1'000](budget) euro?
-- is it possible to get a meeting room for GBP [700](budget)?
-- do you have get [the](room) room for £[1'000](budget)?
-- is there a possibility to book a meeting room for [1'500](budget).-?
-- is there a possibility to get an option for [1,400](budget).-?
-- could we rent a location for GBP [900](budget)?
-- can we book [Gamma](room) for [800](budget) dollars?
-- could we book a venue for [900](budget) dollars?
-- can we rent a venue for [900](budget).-?
-- is it possible to get a location for $[500](budget)?
-- can we get an option for USD [700](budget)?
-- can we book a room for CHF [1000](budget)?
-- is there a possibility to rent an event room for [1400](budget) dollars?
-- is there a possibility to rent an option for [1,400](budget).-?
-- do you have book [this](room) for £[800](budget)?
-- is there a possibility to get a room for [1500](budget) dollars?
-- could we book a meeting room for [500](budget).-?
-- is it possible to book a location for [1400](budget) dollars?
-- can we get an event room for CHF [1200](budget)?
-- is it possible to get room [Gamma](room) for £[700](budget)?
-- is it possible to get an event room for CHF [1,200](budget)?
-- could we book [the](room) room for $[1'200](budget)?
-- could we book a room for $[1'400](budget)?
-- could we book an option for Fr. [1500](budget)?
-- can we rent [this](room) one for GBP [1,400](budget)?
-- do you have get a room for [1,500](budget).-?
-- do you have get the [second](room) one for CHF [1400](budget)?
-- is there a possibility to book a venue for £[600](budget)?
-- can we book an event room for €[1'400](budget)?
-- could we get an event room for [900](budget).-?
-- do you have book room [gamma](room) for GBP [500](budget)?
-- do you have rent [this](room) for [1,000](budget).-?
-- do you have book an event room for [1500](budget) Swiss francs?
-- could we get a location for [800](budget).-?
-- can we get an event room for USD [1'400](budget)?
-- could we get [the](room) room for CHF [1400](budget)?
-- can we get an event room for GBP [1000](budget)?
-- can we rent an option for [1000](budget) pounds?
-- could we rent an option for [1,000](budget) euros?
-- can we rent [Alpha](room) for USD [1000](budget)?
-- is there a possibility to rent [this](room) room for €[1'400](budget)?
-- do you have rent a meeting room for Fr. [1000](budget)?
+- can we rent a location for [500](budget) Swiss francs?
+- could we get an option for [800](budget) Swiss francs?
+- do you have rent room [gamma](room) for €[1'200](budget)?
+- do you have get a room for £[1'500](budget)?
+- is there a possibility to rent [it](room) for $[1'200](budget)?
+- do you have book room [gamma](room) for €[1,400](budget)?
+- can we book a venue for [1'500](budget).-?
+- do you have get [the](room) room for [700](budget).-?
+- do you have get room [gamma](room) for [600](budget).-?
+- can we book room [Beta](room) for [500](budget) dollars?
+- could we get the [last](room) room for GBP [800](budget)?
+- is it possible to get a room for £[900](budget)?
+- can we rent [this](room) room for £[1'200](budget)?
+- is there a possibility to book a room for $[900](budget)?
+- is it possible to get an event room for [1200](budget).-?
+- do you have rent an option for £[1'500](budget)?
+- is there a possibility to get an event room for $[1'200](budget)?
+- is there a possibility to book [the](room) room for [800](budget).-?
+- is it possible to rent an option for [1,500](budget).-?
+- could we get [this](room) one for €[500](budget)?
+- can we book [Beta](room) for [1200](budget).-?
+- is it possible to rent a location for €[1'500](budget)?
+- do you have get a location for [1'000](budget).-?
+- do you have rent a venue for [500](budget) dollars?
+- can we rent a room for USD [1500](budget)?
+- is there a possibility to rent an event room for [700](budget) euros?
+- could we book a venue for Fr. [1,000](budget)?
+- is it possible to get room [alpha](room) for [1,200](budget) francs?
+- is it possible to rent a room for [1,200](budget) pounds?
+- do you have rent a meeting room for USD [1400](budget)?
+- can we get [this](room) one for GBP [900](budget)?
+- do you have get the [second](room) one for €[500](budget)?
+- is it possible to get an event room for [1'500](budget).-?
+- do you have get [this](room) one for USD [800](budget)?
+- could we book [the](room) room for [1500](budget) pounds?
+- is it possible to book an event room for $[800](budget)?
+- is there a possibility to get [it](room) for [1,500](budget) dollars?
+- can we get a location for USD [600](budget)?
+- can we rent [the](room) room for USD [1'200](budget)?
+- is there a possibility to get room [gamma](room) for GBP [1,500](budget)?
+- can we get an option for £[1'200](budget)?
+- can we book [the](room) room for [1,500](budget).-?
+- is it possible to book a venue for [1'500](budget) pounds?
+- is there a possibility to rent [this](room) one for [1,200](budget) euros?
+- can we rent a location for USD [1'400](budget)?
+- is there a possibility to rent a location for Fr. [1500](budget)?
+- is it possible to book a room for [500](budget) euros?
+- is it possible to get [the](room) room for GBP [600](budget)?
+- could we get a room for €[1,200](budget)?
+- can we rent a meeting room for [1500](budget).-?
+- can we rent an event room for [1200](budget).-?
+- could we book the [other](room) one for [700](budget).-?
+- is there a possibility to get an option for [700](budget).-?
+- is it possible to get an event room for [1,500](budget) dollars?
+- do you have rent [this](room) room for CHF [1500](budget)?
+- can we rent an event room for [1,500](budget).-?
+- is it possible to rent a venue for CHF [1200](budget)?
+- is there an option for CHF [1,200](budget)?
+- do you have get a location for £[900](budget)?
+- is there a possibility to book an option for [800](budget).-?
+- can we rent an event room for €[1200](budget)?
+- is it possible to book an option for GBP [1'000](budget)?
+- do you have get the [other](room) one for £[500](budget)?
+- do you have rent a venue for [1200](budget).-?
+- is there a possibility to book the [last](room) room for [1000](budget).-?
+- is there a possibility to book a venue for CHF [1400](budget)?
+- is there a possibility to book [this](room) room for £[1,500](budget)?
+- is it possible to get a room for GBP [1,500](budget)?
+- do you have rent an event room for $[1,000](budget)?
+- is it possible to book an option for Fr. [1'400](budget)?
+- can we get an option for $[1'200](budget)?
+- could we get a room for CHF [1400](budget)?
+- can we get an event room for CHF [1400](budget)?
+- do you have book [Gamma](room) for [700](budget).-?
+- could we rent [it](room) for GBP [1,400](budget)?
+- is there a possibility to get an option for £[1400](budget)?
+- could we rent [Alpha](room) for [1500](budget) pounds?
+- can we book an event room for [1'000](budget) francs?
+- is it possible to get a meeting room for £[600](budget)?
+- is there a possibility to get a meeting room for USD [500](budget)?
+- is there a possibility to book a venue for [600](budget) dollars?
+- do you have book a room for [1500](budget).-?
+- do you have rent an event room for £[600](budget)?
+- is there a possibility to rent an event room for £[1400](budget)?
+- is there a possibility to rent an option for £[1500](budget)?
+- could we rent an option for [1'500](budget).-?
+- is it possible to book [the](room) room for [1,400](budget) dollars?
+- can we book [the](room) room for £[500](budget)?
+- is it possible to get an event room for [1400](budget) Swiss francs?
+- could we book a room for $[600](budget)?
+- do you have get a location for £[800](budget)?
+- do you have book the [first](room) one for Fr. [1'400](budget)?
+- could we book [this](room) one for Fr. [700](budget)?
+- could we get an option for $[1'200](budget)?
+- is it possible to book the [third](room) room for [1'200](budget).-?
+- is it possible to get an event room for £[1000](budget)?
+- can we rent a location for CHF [700](budget)?
+- can we book an option for €[1,500](budget)?
+- could we book a venue for CHF [600](budget)?
+- do you have get a venue for £[1500](budget)?
+- can we get a meeting room for [1200](budget) euros?
+- could we get a room for €[500](budget)?
+- can we book a venue for £[800](budget)?
+- is it possible to get a venue for [500](budget).-?
+- do you have book a venue for [1'500](budget) euros?
+- is it possible to get a venue for Fr. [700](budget)?
+- is there a possibility to book an event room for [1400](budget) Swiss francs?
+- is there a possibility to rent an option for $[600](budget)?
+- do you have rent an event room for €[1,500](budget)?
+- do you have book a venue for £[1000](budget)?
+- could we get a venue for [1000](budget).-?
+- could we book a location for GBP [1,200](budget)?
+- do you have get a meeting room for [1'500](budget) Swiss francs?
+- is there a possibility to rent an option for [1'500](budget) euro?
+- can we book an event room for £[1,200](budget)?
+- could we get an option for [1,200](budget) Swiss francs?
+- do you have get the [second](room) room for [1'500](budget) Swiss francs?
+- could we get a venue for $[500](budget)?
+- is it possible to get an event room for €[800](budget)?
+- can we book a location for [1500](budget) euros?
+- do you have book [alpha](room) for €[1,400](budget)?
+- can we book [Gamma](room) for Fr. [1400](budget)?
+- do you have book [the](room) room for [900](budget) francs?
+- could we book an option for £[1'400](budget)?
+- is there a possibility to book [it](room) for [800](budget).-?
+- do you have rent [it](room) for CHF [1500](budget)?
+- could we rent a meeting room for [1,400](budget) euros?
+- can we rent a meeting room for GBP [1'500](budget)?
+- could we get an option for [1,000](budget) euros?
+- is it possible to get [it](room) for [700](budget) Swiss francs?
+- can we get [this](room) room for [600](budget).-?
+- is there a possibility to get a room for Fr. [1,000](budget)?
+- is it possible to book an option for £[1500](budget)?
+- can we get an option for [500](budget).-?
+- could we rent a venue for [1,200](budget).-?
+- is it possible to rent a meeting room for €[1,500](budget)?
+- could we get a location for £[1,400](budget)?
+- do you have book [Gamma](room) for [1000](budget) euro?
+- do you have get a location for [800](budget) dollars?
+- could we get an event room for [1500](budget).-?
+- can we rent a meeting room for [1400](budget).-?
+- is it possible to rent an event room for [1'400](budget).-?
+- is there a possibility to book an event room for [1'200](budget).-?
+- could we book [the](room) room for £[1'200](budget)?
+- do you have book a venue for £[1,400](budget)?
+- is it possible to rent a venue for [1'000](budget).-?
+- is there a possibility to book an event room for GBP [1,000](budget)?
+- could we get a location for Fr. [1000](budget)?
+- can we rent an option for [800](budget) Swiss francs?
+- can we rent a venue for [1'000](budget) dollars?
+- can we book a location for €[1'000](budget)?
+- is there a possibility to get an option for [1200](budget).-?
+- is there a possibility to rent an event room for £[1'200](budget)?
+- is it possible to book an option for $[1'500](budget)?
+- is there a possibility to rent a venue for £[1'000](budget)?
+- is it possible to book a location for [500](budget).-?
+- can we book a room for [1400](budget) dollars?
+- can we rent an event room for €[1'000](budget)?
+- is it possible to rent an event room for [700](budget) euros?
+- is it possible to rent a meeting room for [1'200](budget).-?
+- is there a possibility to get a venue for [1,400](budget).-?
+- do you have rent [Beta](room) for €[500](budget)?
+- is there a possibility to get [it](room) for [1'000](budget) dollars?
+- can we rent [this](room) room for [1'400](budget).-?
+- could we book [it](room) for $[1,400](budget)?
+- can we get room [alpha](room) for [1,400](budget) euros?
+- do you have get [the](room) room for [1200](budget) pounds?
+- do you have get [the](room) room for [1500](budget) euros?
 
 ## intent:ask_for_room_seating
-- How about the seating arrangement ?
-- We would like to create small teams.
-- Can we have conversations in groups ?
-- Do you have chairs and tables in the [other](room) rooms_with_ones?
-- Can we create small groups ?
-- Is it possible to form smaller teams in the [last](room) one?
-- Can we sit together smaller groups ?
-- Is there a possibility to make small teams in [this](room) one?
-- Is there a possibility to create teams in [it](room)?
-- Can the guests sit in teams ?
-- Will we be able to have chats in small groups ?
-- Are the people able to chat in smaller groups ?
-- Is there a possibility to make teams in the [other](room) rooms_with_ones?
-- Can we talk in small groups in the [other](room) rooms_with_ones?
-- Is there a possibility to sit together small groups in the [other](room) rooms_with_ones?
-- Will the guests be able to sit in teams ?
-- Can we have chats in small groups in the [first](room) location?
-- Will the guests be able to form small teams in the [others](room)?
-- Will we be able to sit together small teams ?
-- Can we make small groups in the [other](room) rooms_with_ones?
-- Is it possible to create smaller groups in [it](room)?
-- Is there a possibility to sit in smaller groups in the [others](room)?
-- Is there a possibility to have conversations in small groups in the [other](room) rooms_with_ones?
-- Are the guests able to form smaller groups in [this](room) one?
-- Is it possible to sit in groups in the [other](room) meeting room?
-- Is it possible to sit together smaller teams in the [others](room)?
-- Is it possible to create small teams in the [other](room) rooms_with_ones?
-- Is it possible to create smaller groups in the [others](room)?
-- Will we be able to form groups in [this](room)?
-- Will the people be able to form groups in [it](room)?
-- Can we form smaller teams ?
-- Is it possible to sit in small groups ?
-- Is it possible to have chats in small groups in the [others](room)?
-- Is it possible to chat in groups ?
-- Is there a possibility to sit in smaller groups in the [other](room) rooms_with_ones?
-- Are we able to chat in small teams ?
-- Can we talk in groups in the [others](room)?
-- Will we be able to form smaller groups ?
-- Is there a possibility to sit in small groups ?
-- Can the people have conversations in teams in the [others](room)?
-- Is there a possibility to make small groups ?
-- Are the guests able to form teams in [this](room) one?
-- Can we sit in smaller teams in [the](room) meeting room?
-- Can we chat in small teams ?
-- Will the guests be able to sit in smaller teams in the [others](room)?
-- Are the people able to sit in groups in [this](room)?
-- Can we make groups in [the](room) event room?
-- Is there a possibility to talk in small teams in the [other](room) rooms_with_ones?
-- Is there a possibility to form smaller groups ?
-- Is it possible to sit in small groups in the [other](room) rooms_with_ones?
-- Is it possible to have conversations in smaller teams in the [other](room) rooms_with_ones?
-- Can we form groups ?
-- Can we sit in small teams in the [other](room) rooms_with_ones?
-- Is there a possibility to have conversations in groups in the [other](room) rooms_with_ones?
-- Is it possible to form small teams in the [other](room) rooms_with_ones?
-- Is it possible to form small groups ?
-- Can we create small teams in the [others](room)?
-- Is there a possibility to sit together smaller teams in the [others](room)?
-- Can we have chats in small teams in the [others](room)?
-- Can we make small groups in the [others](room)?
-- Is there a possibility to form smaller teams in [Gamma](room)?
-- Are we able to sit together smaller groups in [this](room)?
-- Can the people form small teams in the [third](room) one?
-- Can we sit in groups in the [others](room)?
-- Are the guests able to talk in teams in the [others](room)?
-- Are we able to have conversations in small teams in the [first](room) location?
-- Will we be able to sit in smaller teams ?
-- Is it possible to create teams ?
-- Are we able to sit in small teams in the [others](room)?
-- Can we create groups ?
-- Can the guests sit in groups in the [last](room) location?
-- Is there a possibility to talk in smaller teams in the [others](room)?
-- Can we sit together smaller teams in the [other](room) rooms_with_ones?
-- Is it possible to chat in teams in [the](room) event room?
-- Can we create smaller groups ?
-- Is there a possibility to sit together small teams in [this](room)?
-- Can the guests create smaller groups in the [others](room)?
-- Is there a possibility to sit together small teams in the [third](room) one?
-- Is it possible to sit in groups ?
-- Are the guests able to talk in groups ?
-- Are we able to sit in smaller groups in [Beta](room)?
-- Will we be able to make small teams in the [other](room) rooms_with_ones?
-- Is there a possibility to chat in smaller groups ?
-- Can we sit in small groups in the [other](room) rooms_with_ones?
-- Is there a possibility to have discussions in small teams ?
-- Can we sit in small groups ?
-- Are the people able to form small groups ?
-- Is it possible to have discussions in groups in the [others](room)?
-- Are we able to form groups in meeting room [gamma](room)?
-- Are the guests able to form smaller groups ?
-- Is there a possibility to talk in smaller teams ?
-- Will we be able to make small teams in the [second](room) one?
-- Will the guests be able to form groups in the [others](room)?
-- Is there a possibility to sit together teams in location [Beta](room)?
-- Are there chairs in the [other](room) rooms_with_ones?
-- Are the guests able to talk in small teams in the [other](room) rooms_with_ones?
-- Can the guests sit together teams in the [other](room) rooms_with_ones?
-- Are the people able to make smaller teams in the [others](room)?
-- Is it possible to have chats in smaller groups in event room [Alpha](room)?
-- Is there a possibility to create groups in the [other](room) rooms_with_ones?
-- Can we have discussions in smaller groups in [it](room)?
-- Is there a possibility to talk in groups in [this](room)?
-- Are the guests able to talk in small groups in the [other](room) rooms_with_ones?
-- Will the guests be able to sit in smaller groups in event room [Alpha](room)?
-- Are the guests able to create smaller teams in the [others](room)?
-- Can we talk in small teams in the [others](room)?
-- Are the people able to make small groups in the [other](room) rooms_with_ones?
-- Will the people be able to talk in small groups in the [others](room)?
-- Is it possible to create small groups in the [other](room) rooms_with_ones?
-- Is it possible to create groups ?
-- Will the guests be able to create smaller teams ?
-- Is there a possibility to chat in groups ?
-- Will the people be able to talk in teams in the [others](room)?
-- Can we talk in groups in the [other](room) rooms_with_ones?
-- Are the people able to form small groups in the [others](room)?
-- Will the people be able to create small groups ?
-- Is it possible to create small groups in the [others](room)?
-- Is it possible to talk in smaller groups in [it](room)?
-- Is there a possibility to have chats in small groups ?
-- Is it possible to create teams in the [others](room)?
-- Can we sit together small groups in the [others](room)?
-- Is there a possibility to sit together teams ?
-- Is there a possibility to have chats in smaller groups in the [others](room)?
-- Can we talk in small groups in the [others](room)?
-- Can the people have discussions in teams ?
-- Can we talk in smaller groups ?
-- Are the guests able to chat in small teams ?
-- Will the people be able to have conversations in small groups in the [others](room)?
-- Can we sit in small teams in meeting room [Beta](room)?
-- Can the guests make small groups in the [other](room) rooms_with_ones?
-- Can we talk in groups in option [gamma](room)?
-- Are the people able to create small teams in the [other](room) rooms_with_ones?
-- Is it possible to have discussions in smaller groups in the [others](room)?
-- Is it possible to chat in smaller groups in [it](room)?
-- Are the people able to make smaller groups in [the](room) meeting room?
-- Can we sit in small groups in [the](room) room?
-- Can we chat in smaller groups in the [other](room) rooms_with_ones?
-- Will we be able to chat in smaller groups in the [other](room) rooms_with_ones?
-- Is there a possibility to form groups in the [other](room) rooms_with_ones?
-- Is there a possibility to talk in small teams ?
-- Are we able to sit together smaller teams in the [others](room)?
-- Can we make small teams ?
-- Will the people be able to form groups in the [others](room)?
-- Can we sit in smaller groups in the [others](room)?
-- Are the guests able to make groups in [it](room)?
-- Is there a possibility to form smaller teams in the [others](room)?
-- Can we sit in groups in [this](room)?
-- Are the guests able to have conversations in teams in the [others](room)?
-- Can we sit together teams in the [others](room)?
-- Is there a possibility to sit together smaller teams in [it](room)?
-- Is it possible to form smaller teams ?
-- Can we sit together smaller teams in [the](room) room?
-- Will the people be able to create groups in the [other](room) rooms_with_ones?
-- Can the guests sit in smaller groups ?
-- Is there a possibility to form groups in [the](room) event room?
-- Are the people able to sit in teams ?
-- Is it possible to have chats in smaller teams in the [others](room)?
-- Can we chat in smaller teams in the [others](room)?
-- Can the people chat in groups in the [others](room)?
-- Can we sit together teams in the [first](room) one?
-- Are the people able to create small groups in [it](room)?
-- Is there a possibility to chat in smaller groups in [this](room) meeting room?
-- Can the people talk in groups ?
-- Can we create smaller teams in the [others](room)?
-- Is it possible to create smaller teams ?
-- Are the people able to form smaller groups in the [others](room)?
-- Can we talk in teams in the [others](room)?
-- Are the guests able to sit together small groups in the [others](room)?
-- Is it possible to sit together groups in the [other](room) rooms_with_ones?
-- Can the guests form small groups ?
-- Is it possible to have chats in teams in the [other](room) rooms_with_ones?
-- Can we sit together teams in the [other](room) rooms_with_ones?
-- Can the people chat in small teams ?
-- Will the guests be able to sit in groups in the [others](room)?
-- What's the seating arrangement in the [other](room) rooms_with_ones?
-- Can the guests chat in small groups in the [other](room) rooms_with_ones?
-- Will we be able to have conversations in small groups in [the](room) event room?
-- Is there a possibility to chat in smaller groups in the [others](room)?
-- Do you have tables and chairs in the [other](room) rooms_with_ones?
-- Can we talk in small groups in room [beta](room)?
-- Can we chat in small groups in the [other](room) rooms_with_ones?
-- Will the people be able to talk in smaller teams in the [others](room)?
-- Can we sit together smaller groups in [this](room) event room?
-- Can we sit together teams ?
-- Can we chat in small teams in the [first](room) option?
-- Is it possible to create groups in the [other](room) rooms_with_ones?
-- Can we make teams in the [others](room)?
-- Is there a possibility to create small teams in [the](room) room?
-- Is there a possibility to have discussions in smaller groups in the [other](room) rooms_with_ones?
-- Is it possible to sit together small teams in the [others](room)?
-- Can we sit together smaller teams in [the](room) meeting room?
-- Are the guests able to chat in small teams in the [other](room) rooms_with_ones?
-- Are the guests able to form small groups ?
-- Can we create smaller teams in the [other](room) rooms_with_ones?
-- Can the guests talk in small teams ?
-- Can the guests create small teams in the [other](room) rooms_with_ones?
-- Are we able to sit in small teams in [this](room) one?
-- Can the people create groups in the [others](room)?
-- Are we able to sit together teams ?
-- Will we be able to sit together teams ?
-- Is there a possibility to make smaller groups ?
-- Is there a possibility to make small teams in the [other](room) rooms_with_ones?
-- Is there a possibility to sit together groups in [the](room) event room?
-- Will the guests be able to sit in small groups in the [others](room)?
-- Is it possible to chat in small groups in option [alpha](room)?
-- Are the guests able to chat in smaller groups in the [others](room)?
-- Is there a possibility to form smaller groups in the [last](room) event room?
-- Is there a possibility to form teams in the [others](room)?
-- Can the people form small teams in the [other](room) rooms_with_ones?
-- Is it possible to make groups in the [third](room) meeting room?
-- Will the people be able to form small groups ?
-- Will the people be able to sit together groups ?
-- Are the guests able to make smaller teams ?
-- Is it possible to sit together smaller groups ?
-- Can we sit in teams in the [other](room) rooms_with_ones?
-- Is it possible to talk in smaller groups in [this](room) location?
-- Are the guests able to talk in small teams in the [others](room)?
-- Are the people able to sit in groups in the [others](room)?
-- Can we sit in small groups in [this](room) location?
-- Can the people have conversations in groups in [the](room) room?
-- Can we have chats in groups in the [others](room)?
-- Is there a possibility to make smaller teams ?
-- Will the people be able to chat in teams ?
-- Can we chat in smaller groups in the [others](room)?
-- Are we able to form groups in the [third](room) meeting room?
-- Will the people be able to chat in smaller teams in the [others](room)?
-- Is there a possibility to form smaller teams ?
-- Can we sit together groups ?
-- Can we sit together smaller groups in option [Alpha](room)?
-- Will we be able to talk in groups in [this](room)?
-- Can we sit together small teams ?
-- Can we form teams ?
-- Can the guests create small teams in the [others](room)?
-- Is it possible to chat in smaller teams in the [others](room)?
-- Is it possible to sit together smaller teams in the [other](room) rooms_with_ones?
-- Can we make teams ?
-- Can we create teams in the [others](room)?
-- Is there a possibility to have chats in smaller teams in [the](room) option?
-- Are the guests able to talk in smaller teams in the [other](room) rooms_with_ones?
-- Are the guests able to talk in small teams in [this](room) room?
-- Is it possible to form smaller groups in the [others](room)?
-- Are the people able to have discussions in small groups ?
-- Is there a possibility to have conversations in smaller teams in the [other](room) rooms_with_ones?
-- Can we chat in small teams in [it](room)?
-- Are the people able to create groups in [this](room) location?
-- Will the guests be able to sit in groups ?
-- Can the guests form smaller groups in the [others](room)?
-- Is it possible to make small groups in the [other](room) rooms_with_ones?
-- Can we make small teams in the [others](room)?
-- Can the guests sit together smaller teams in the [second](room) room?
-- Can the people create small teams in the [others](room)?
-- Is it possible to have chats in smaller teams in the [other](room) rooms_with_ones?
-- Is it possible to sit in small teams in the [other](room) rooms_with_ones?
-- Is there a possibility to sit together smaller teams in the [other](room) rooms_with_ones?
-- Can the guests sit in groups in [this](room) meeting room?
-- Can the people make groups ?
-- Is there a possibility to sit together small teams in the [other](room) rooms_with_ones?
-- Will the guests be able to form smaller teams in the [other](room) rooms_with_ones?
-- Can the guests sit together small teams in [it](room)?
-- Is there a possibility to form smaller groups in the [other](room) rooms_with_ones?
-- Will we be able to make teams ?
-- Are there tables and chairs in [it](room)?
-- Can we talk in groups ?
-- Is there a possibility to have conversations in groups in the [others](room)?
-- Is there a possibility to chat in teams in [it](room)?
-- Is it possible to make smaller teams in [it](room)?
-- Are we able to form smaller teams ?
-- Is it possible to form groups in the [others](room)?
-- Is there a possibility to have conversations in smaller groups in the [others](room)?
-- Are the people able to have conversations in small groups in [it](room)?
-- Is it possible to make teams in the [other](room) rooms_with_ones?
-- Are we able to create teams in [this](room) one?
-- Is it possible to have discussions in small teams in the [others](room)?
-- Is there a possibility to make small teams in [it](room)?
-- Can we form groups in the [other](room) rooms_with_ones?
-- Can the guests create small groups ?
-- Will the people be able to form smaller teams ?
-- Are we able to have chats in small groups in [it](room)?
-- Is it possible to form smaller groups in the [other](room) rooms_with_ones?
-- Is there a possibility to have conversations in small groups in the [others](room)?
-- Is there a possibility to form smaller groups in the [others](room)?
-- Are the guests able to sit in small teams in the [others](room)?
-- Are we able to sit in groups in the [other](room) rooms_with_ones?
-- Are the guests able to sit together small teams ?
-- Is it possible to form smaller teams in the [other](room) rooms_with_ones?
-- Can the people sit together small groups ?
-- Can the people make smaller teams in the [other](room) rooms_with_ones?
-- Are the people able to talk in smaller groups in the [other](room) rooms_with_ones?
-- Is it possible to have chats in small teams in the [others](room)?
-- Is it possible to talk in groups in the [others](room)?
-- Can we have discussions in small groups in the [other](room) rooms_with_ones?
-- Are the people able to chat in smaller groups in the [other](room) rooms_with_ones?
-- Can we have conversations in groups in location [Alpha](room)?
-- Is there a possibility to chat in smaller groups in [it](room)?
-- Will the people be able to create small groups in [it](room)?
-- Are the people able to sit in smaller teams in the [others](room)?
-- Will the people be able to sit in groups ?
-- Can we sit together smaller groups in the [other](room) rooms_with_ones?
-- Can the people create small groups ?
-- Are the people able to talk in smaller groups ?
-- Can we have chats in smaller groups in the [others](room)?
-- Are the people able to talk in groups in the [others](room)?
-- Will the guests be able to have conversations in small teams ?
-- Will the guests be able to have conversations in teams ?
-- Can we make small groups ?
-- Can we have chats in groups in [it](room)?
-- Is it possible to talk in smaller teams in the [others](room)?
-- Can we have chats in small groups ?
-- Is it possible to talk in smaller teams in the [other](room) one?
-- Is there a possibility to make teams in [it](room)?
-- Will the people be able to create smaller groups in [this](room)?
-- Can the guests make small teams in the [others](room)?
-- Can we make teams in [beta](room)?
-- We would like to form small teams.
-- Is it possible to have conversations in small groups in [this](room) event room?
-- Is there a possibility to chat in small teams ?
-- Can we have discussions in small teams in the [other](room) rooms_with_ones?
-- Can the guests chat in smaller groups in the [other](room) rooms_with_ones?
-- Is it possible to chat in teams in the [other](room) rooms_with_ones?
-- Will the guests be able to form smaller groups in [this](room) room?
-- Is it possible to have chats in teams in the [others](room)?
-- Is there a possibility to talk in teams in [this](room)?
-- Are the people able to sit in teams in the [others](room)?
-- Can we create smaller groups in [this](room) one?
-- Will the guests be able to make groups in the [other](room) rooms_with_ones?
-- Can we have discussions in small groups in option [beta](room)?
-- Will we be able to chat in small teams in the [others](room)?
-- Are the people able to form small teams in the [other](room) one?
-- Can we make small teams in [the](room) location?
-- Will the people be able to chat in small teams in the [others](room)?
-- Can the guests make small groups in [it](room)?
-- Can the people form smaller teams in the [third](room) location?
-- Can the guests chat in groups ?
-- Can we create small groups in the [others](room)?
-- Can the people chat in smaller teams ?
-- Can we chat in teams in event room [Beta](room)?
-- Can we create teams in the [other](room) rooms_with_ones?
-- Are the people able to form smaller teams ?
-- Will we be able to talk in smaller groups ?
-- Will the people be able to chat in smaller groups in the [other](room) rooms_with_ones?
-- Are we able to make small groups in the [others](room)?
-- Is it possible to chat in small teams in [the](room) event room?
-- What's the seating arrangement in the [others](room)?
-- Can we create groups in the [others](room)?
-- Can we sit in small teams in [this](room)?
-- Can we create small teams ?
-- Are we able to sit in teams in the [last](room) meeting room?
-- Are there tables in the [third](room) option?
-- Can the guests have chats in small teams in the [other](room) rooms_with_ones?
-- Is it possible to make small groups ?
-- Is there a possibility to chat in groups in the [others](room)?
-- Are the people able to create smaller groups in the [others](room)?
-- Will we be able to sit in smaller teams in [the](room) option?
-- Is there a possibility to have chats in smaller teams in the [other](room) rooms_with_ones?
-- Can we form smaller groups in the [others](room)?
-- Is it possible to sit together groups in the [others](room)?
-- Will the people be able to create small teams in the [others](room)?
-- Will the people be able to sit in small groups in the [other](room) rooms_with_ones?
-- Can we talk in smaller groups in the [other](room) rooms_with_ones?
-- Can we have chats in groups in the [other](room) rooms_with_ones?
-- Are the people able to make smaller teams ?
-- Can the people sit in teams in the [others](room)?
-- Is there a possibility to talk in smaller groups in the [others](room)?
-- Are the people able to sit together small teams ?
-- Will the guests be able to have chats in small teams in the [others](room)?
-- Are the guests able to sit in teams in the [other](room) rooms_with_ones?
-- Can the people sit together groups in the [other](room) rooms_with_ones?
-- Can the guests talk in groups in the [others](room)?
-- Is there a possibility to create small teams ?
-- Are we able to form small teams in the [others](room)?
-- Is it possible to form groups in the [other](room) rooms_with_ones?
-- Will the guests be able to chat in smaller groups in the [other](room) rooms_with_ones?
-- Is it possible to form smaller teams in the [second](room) location?
-- Can the guests talk in smaller groups in the [other](room) rooms_with_ones?
-- Are we able to create smaller groups in the [others](room)?
-- Are we able to create small groups in the [others](room)?
-- Is it possible to form teams in the [other](room) rooms_with_ones?
-- Can we form groups in the [third](room) one?
-- Is there a possibility to talk in teams ?
-- Is it possible to talk in smaller groups in the [others](room)?
-- Is it possible to form groups ?
-- Is there a possibility to chat in small teams in the [third](room) one?
-- Is it possible to form smaller teams in the [others](room)?
-- Can we chat in teams in the [others](room)?
-- Can the people have discussions in small teams in the [other](room) rooms_with_ones?
-- Will we be able to have chats in smaller groups in the [others](room)?
-- Is it possible to sit in teams in the [others](room)?
-- Can we form smaller groups ?
-- Is it possible to create groups in the [first](room) one?
-- Can the guests form smaller teams in [it](room)?
-- Are the guests able to make groups in the [other](room) rooms_with_ones?
-- Can we sit in smaller groups in the [second](room) one?
-- Are the guests able to form small teams in the [other](room) rooms_with_ones?
-- Can we sit together groups in the [other](room) rooms_with_ones?
-- Is it possible to chat in smaller teams ?
-- Is there a possibility to sit in smaller groups ?
-- Are we able to create smaller teams ?
-- Will the guests be able to have conversations in small groups ?
-- Will the people be able to make groups in the [other](room) rooms_with_ones?
-- Will the people be able to sit in small teams ?
-- Is there a possibility to form smaller teams in the [other](room) rooms_with_ones?
-- Can we have chats in small groups in the [second](room) event room?
-- Is it possible to make small groups in [this](room) one?
-- Is it possible to sit together small groups ?
-- Is there a possibility to talk in smaller teams in the [other](room) rooms_with_ones?
-- Is there a possibility to have discussions in teams in the [last](room) event room?
-- Are the people able to talk in small groups ?
-- Can we sit in small teams in the [first](room) event room?
-- Are we able to sit together small teams ?
-- Is there a possibility to have discussions in groups in the [other](room) rooms_with_ones?
-- Can the people chat in teams in the [other](room) rooms_with_ones?
-- Is there a possibility to have chats in teams in the [other](room) rooms_with_ones?
-- Is there a possibility to create teams in [this](room) room?
-- Will we be able to make small teams ?
-- Is there a possibility to sit in small groups in the [other](room) rooms_with_ones?
-- Can the people have chats in teams in room [Gamma](room)?
-- Will the people be able to form small groups in the [other](room) rooms_with_ones?
-- Are the people able to create smaller groups in the [other](room) rooms_with_ones?
-- Is there a possibility to talk in smaller groups ?
-- Will we be able to create small groups ?
-- Are the guests able to create small teams in the [other](room) rooms_with_ones?
-- Is there a possibility to sit in small groups in the [others](room)?
-- Are there tables and chairs in the [others](room)?
-- Can we form smaller teams in [it](room)?
-- Is it possible to sit together smaller groups in the [others](room)?
-- Can we talk in small teams in the [other](room) rooms_with_ones?
-- Is there a possibility to create groups ?
-- Is it possible to sit together groups in [this](room) meeting room?
-- Is there a possibility to form small teams in the [other](room) rooms_with_ones?
-- Can we sit in small teams in the [others](room)?
-- Is there a possibility to chat in small groups in the [first](room) one?
-- Can the people sit together smaller groups in [this](room) option?
-- Are we able to sit together small teams in [the](room) meeting room?
-- Is there a possibility to talk in groups in the [other](room) rooms_with_ones?
-- Can we make smaller groups in the [others](room)?
-- Can we have conversations in small teams in [it](room)?
-- Is it possible to sit together teams in the [others](room)?
-- Will the guests be able to have conversations in smaller teams in the [other](room) rooms_with_ones?
-- Are the guests able to sit together groups in the [other](room) rooms_with_ones?
-- Are the people able to have conversations in smaller teams in [it](room)?
-- Will the guests be able to make smaller teams in the [other](room) rooms_with_ones?
-- Is there a possibility to talk in small teams in the [others](room)?
-- Will we be able to have chats in groups in [this](room)?
-- Is there a possibility to talk in smaller groups in the [other](room) rooms_with_ones?
-- Is it possible to talk in small groups in the [others](room)?
-- Is there a possibility to make smaller groups in the [others](room)?
-- Can we sit in groups in the [other](room) rooms_with_ones?
-- Is it possible to talk in smaller groups ?
-- Are the guests able to form groups ?
-- Are the guests able to have conversations in small teams in the [other](room) rooms_with_ones?
-- Can the guests have conversations in small groups in the [other](room) rooms_with_ones?
-- Is there a possibility to create smaller teams in the [others](room)?
-- Are the people able to create groups in the [other](room) rooms_with_ones?
-- Are the guests able to make small teams in [the](room) event room?
-- Is it possible to chat in smaller groups in the [other](room) rooms_with_ones?
-- Is it possible to chat in small groups in the [others](room)?
-- Is there a possibility to have discussions in small groups in the [others](room)?
-- Are we able to form small groups in the [others](room)?
-- Will the guests be able to talk in groups ?
-- Can the people make smaller groups in [it](room)?
-- Can we sit in small teams in the [third](room) one?
-- Can we sit together small teams in the [others](room)?
-- Can we make groups in the [other](room) rooms_with_ones?
-- Are the guests able to talk in smaller groups ?
-- Can we sit in small groups in [it](room)?
-- Are we able to chat in small teams in the [others](room)?
-- Is it possible to create small groups ?
-- Is there a possibility to form small groups in the [others](room)?
-- Are we able to talk in smaller groups in the [other](room) rooms_with_ones?
-- Is there a possibility to form groups ?
-- Can the guests make small teams in the [other](room) rooms_with_ones?
-- Can we sit together groups in the [last](room) option?
-- Are the guests able to sit together small groups in [the](room) room?
-- Is it possible to talk in smaller teams in [it](room)?
-- Is it possible to create teams in the [other](room) rooms_with_ones?
-- Are the people able to chat in small groups in the [others](room)?
-- Can we have chats in small teams in the [other](room) rooms_with_ones?
-- Will the guests be able to make teams in the [others](room)?
-- Can we talk in teams in [Beta](room)?
-- Can the guests make teams in the [other](room) one?
-- Is there a possibility to chat in small teams in meeting room [Beta](room)?
-- Is it possible to form small teams in the [others](room)?
-- Can the guests make groups in the [others](room)?
-- Is there a possibility to chat in small groups in the [others](room)?
-- Will the guests be able to create smaller groups ?
-- Are the people able to chat in smaller groups in the [others](room)?
-- Is there a possibility to chat in teams ?
-- Will the people be able to have chats in small teams ?
-- Can we form small groups ?
-- Is it possible to have discussions in groups in the [other](room) rooms_with_ones?
-- Will the guests be able to make teams in [this](room)?
+- We would like to create smaller teams.
+- Are there tables and chairs in the [third](room) one?
 - How about the seating arrangement in the [other](room) rooms_with_ones?
-- Is there a possibility to sit together small teams ?
-- Is there a possibility to create smaller groups ?
-- Is it possible to talk in smaller groups in [the](room) room?
-- Is there a possibility to make teams in the [last](room) one?
-- Are there tables in the [others](room)?
-- Is there a possibility to form groups in [it](room)?
-- Is it possible to make smaller groups ?
-- Is there a possibility to create small groups in the [others](room)?
+- Is there a possibility to create small groups in meeting room [beta](room)?
+- Can we chat in small groups in the [others](room)?
+- Is it possible to create smaller groups in the [others](room)?
+- Is there a possibility to make small groups in the [others](room)?
+- Is there a possibility to form smaller groups ?
+- Can we sit together groups in the [others](room)?
+- Can we make teams ?
+- Will the guests be able to chat in smaller teams in the [others](room)?
+- Is there a possibility to create smaller groups in the [other](room) rooms_with_ones?
+- Can we form teams in the [third](room) one?
+- Is it possible to sit together small groups in the [other](room) rooms_with_ones?
+- Is it possible to sit together smaller groups ?
+- Will the people be able to sit in smaller teams in the [others](room)?
+- Will we be able to form smaller groups in the [third](room) room?
+- Will the people be able to create smaller groups ?
+- Are the guests able to form small groups in the [other](room) rooms_with_ones?
+- Can we sit together teams in the [others](room)?
+- Are we able to talk in teams in the [others](room)?
+- Is there a possibility to sit together groups ?
+- Can the guests make teams in [it](room)?
+- Is it possible to chat in teams ?
+- Will the people be able to have discussions in smaller groups in the [other](room) rooms_with_ones?
+- Is there a possibility to sit together small teams in the [other](room) rooms_with_ones?
+- Can the guests chat in smaller teams ?
+- Will the guests be able to make smaller groups in the [other](room) rooms_with_ones?
+- Is there a possibility to form smaller teams in meeting room [gamma](room)?
+- Can we form small groups in the [others](room)?
+- Is there a possibility to form small groups in [it](room)?
+- Is there a possibility to make smaller teams ?
+- Can the people have discussions in smaller teams in the [other](room) rooms_with_ones?
+- Are the people able to sit in smaller groups in the [others](room)?
+- Is it possible to make small groups in the [other](room) rooms_with_ones?
+- Will we be able to have chats in groups in the [other](room) rooms_with_ones?
+- Will we be able to make groups ?
+- Will the people be able to make groups in [it](room)?
+- Can we sit together smaller teams in the [other](room) rooms_with_ones?
+- Can the guests have chats in smaller groups in the [others](room)?
+- Are the guests able to talk in smaller teams ?
+- Are we able to talk in small teams in the [others](room)?
+- Is it possible to create teams ?
+- Can we make smaller groups in meeting room [Gamma](room)?
+- Will the guests be able to sit together small teams in the [other](room) rooms_with_ones?
+- Can we form teams in the [other](room) rooms_with_ones?
+- Is it possible to talk in smaller groups in the [others](room)?
+- Can we sit together teams in [the](room) room?
+- Is there a possibility to chat in smaller groups in the [other](room) rooms_with_ones?
+- Is there a possibility to have chats in teams in the [other](room) rooms_with_ones?
+- Will the people be able to sit together smaller groups in the [other](room) rooms_with_ones?
+- Will the people be able to chat in teams in the [other](room) rooms_with_ones?
+- Is it possible to sit in smaller teams in the [other](room) rooms_with_ones?
+- Can we talk in small groups in the [other](room) rooms_with_ones?
+- Will the people be able to talk in small teams in the [others](room)?
+- Are we able to form groups ?
+- Is it possible to create smaller teams in the [other](room) rooms_with_ones?
+- Will we be able to sit in smaller groups in [it](room)?
+- Will the people be able to make groups in [Beta](room)?
+- Can we form smaller groups in the [others](room)?
+- Is it possible to make smaller groups in the [others](room)?
+- Is it possible to chat in small groups in the [other](room) rooms_with_ones?
+- Will the guests be able to form smaller teams in the [other](room) rooms_with_ones?
+- Is it possible to chat in groups in the [other](room) rooms_with_ones?
+- Can we create groups ?
+- Are the guests able to sit in small teams in [it](room)?
+- Can we sit in smaller teams ?
+- Will the people be able to talk in smaller groups ?
+- Is there a possibility to form teams in the [others](room)?
+- Are the guests able to make small teams in [it](room)?
+- Is there a possibility to chat in small groups in the [other](room) rooms_with_ones?
+- Is it possible to create teams in the [others](room)?
+- Are the guests able to sit together small groups in the [last](room) one?
+- Are we able to have discussions in groups ?
+- Will the guests be able to sit together groups in the [others](room)?
+- Is it possible to sit in teams in the [other](room) rooms_with_ones?
+- Is there a possibility to form groups in the [other](room) rooms_with_ones?
+- Is it possible to sit in smaller teams in the [others](room)?
+- Can we make small teams in the [other](room) rooms_with_ones?
+- Are the guests able to chat in smaller teams ?
+- Will the people be able to create small groups in [this](room) one?
+- Is it possible to chat in small teams ?
+- Can we sit together groups ?
+- Can we chat in teams in [this](room) meeting room?
+- Is it possible to create small groups in the [other](room) rooms_with_ones?
+- Is it possible to form teams in the [other](room) rooms_with_ones?
+- Can the people create teams ?
+- Can the people sit together smaller groups ?
+- Will we be able to have discussions in teams in the [others](room)?
+- Is it possible to talk in smaller groups in [this](room)?
+- Can we talk in small groups ?
+- Is it possible to create small teams in the [others](room)?
+- Can we sit together smaller groups in the [others](room)?
+- Is it possible to make smaller teams ?
+- Are there tables and chairs in the [other](room) rooms_with_ones?
+- Will the people be able to sit in teams in the [other](room) rooms_with_ones?
+- Is it possible to sit in small teams in [Gamma](room)?
+- Is it possible to form small teams ?
+- Is it possible to sit in small groups in location [Gamma](room)?
+- Can the guests sit together small groups ?
+- Can we talk in smaller groups in [this](room) one?
+- Is it possible to chat in small teams in the [others](room)?
+- Can we chat in small teams in the [others](room)?
+- Are the people able to form teams in the [others](room)?
+- Will the people be able to sit in small teams in [the](room) event room?
+- Will the people be able to sit in small teams in meeting room [Beta](room)?
+- Is there a possibility to make smaller teams in the [others](room)?
+- Will the guests be able to form small groups in [this](room) one?
+- Is it possible to sit together groups ?
+- Is there a possibility to make smaller groups in the [other](room) rooms_with_ones?
+- Are we able to form smaller teams ?
+- Can we sit together small teams in [this](room) one?
+- Can we sit together small teams in the [other](room) rooms_with_ones?
+- Will the people be able to talk in smaller groups in the [other](room) rooms_with_ones?
+- Can the people create smaller groups ?
+- Is it possible to have discussions in smaller groups in the [other](room) rooms_with_ones?
+- Are the guests able to have chats in smaller teams in the [first](room) one?
+- Are the guests able to make smaller groups ?
+- Is there a possibility to sit in smaller teams ?
+- Can we have conversations in smaller groups ?
+- Can we make small groups in the [other](room) rooms_with_ones?
+- Will the people be able to sit in smaller teams in the [other](room) rooms_with_ones?
+- Is there a possibility to form small teams in room [gamma](room)?
+- Can the people sit together small groups ?
+- Is it possible to have conversations in teams in [this](room) one?
+- Is there a possibility to sit in small groups in [it](room)?
+- Can the people create small groups in the [others](room)?
+- Will the people be able to make groups in event room [gamma](room)?
+- Will the people be able to sit in teams in [this](room) room?
+- Can the people create small teams in the [other](room) rooms_with_ones?
+- Will we be able to sit together small teams in [alpha](room)?
+- Can the guests sit in teams in the [third](room) location?
+- Is it possible to form small groups in the [other](room) rooms_with_ones?
+- Is it possible to form smaller teams ?
+- Can we form small groups ?
+- Can we form groups in the [last](room) one?
+- Is there a possibility to create smaller teams in the [others](room)?
+- Is it possible to sit in smaller teams ?
+- Is there a possibility to create small groups in [this](room)?
+- Is there a possibility to sit together groups in the [first](room) one?
+- Can we have conversations in small groups in [it](room)?
+- Is it possible to sit together small teams ?
+- Is there a possibility to create small teams in the [others](room)?
+- Can we sit together small teams in the [others](room)?
+- Can we make smaller teams in the [other](room) rooms_with_ones?
+- Can we talk in small teams in [gamma](room)?
+- Can we chat in smaller groups in the [other](room) rooms_with_ones?
+- Will the guests be able to sit together groups in [this](room) option?
+- Can the guests make teams in the [other](room) rooms_with_ones?
+- Can we make smaller teams in [this](room) one?
+- Can the guests make small teams in the [third](room) one?
+- Is there a possibility to talk in teams ?
+- Can we form smaller groups in [this](room) one?
+- Will the people be able to have conversations in smaller teams in [this](room)?
+- Will we be able to make teams in option [gamma](room)?
+- Will the guests be able to sit in groups in the [other](room) rooms_with_ones?
+- Is there a possibility to sit together small teams in [it](room)?
+- Will the people be able to have conversations in small teams in the [others](room)?
+- Is it possible to sit in smaller teams in the [last](room) event room?
+- Can the guests chat in smaller groups in [the](room) room?
+- Is there a possibility to create small teams ?
+- Can the people have conversations in groups in the [others](room)?
+- Are the guests able to sit together teams in the [other](room) rooms_with_ones?
+- Will the guests be able to form small teams in the [other](room) rooms_with_ones?
+- Is there a possibility to create small groups in [it](room)?
+- Will we be able to chat in smaller groups ?
+- Is there a possibility to have discussions in small teams in the [other](room) rooms_with_ones?
+- Will the guests be able to chat in smaller teams in the [other](room) rooms_with_ones?
+- Can we sit in smaller groups in [the](room) event room?
+- Are we able to sit in groups in the [other](room) rooms_with_ones?
+- Is there a possibility to talk in small groups in [this](room) one?
+- Are the people able to sit together small teams in [it](room)?
+- Is there a possibility to sit in smaller teams in [the](room) event room?
+- Is there a possibility to have discussions in groups in the [second](room) room?
+- Are we able to have chats in teams in the [other](room) rooms_with_ones?
+- Are we able to make groups ?
+- Can we make teams in the [others](room)?
+- Will the guests be able to form smaller groups in the [other](room) rooms_with_ones?
+- Will the guests be able to sit in small teams in the [others](room)?
+- Can the guests sit together teams in meeting room [Alpha](room)?
+- What can you tell me about the seating arrangement in [it](room)?
+- Can we make groups in [this](room) meeting room?
+- Is it possible to sit in groups ?
+- Are there chairs and tables in [this](room) one?
+- Will we be able to have chats in small groups in the [other](room) rooms_with_ones?
+- Will the people be able to form smaller groups in the [others](room)?
+- Will we be able to form smaller teams ?
+- Are we able to create smaller teams in the [other](room) rooms_with_ones?
+- Will the guests be able to sit together smaller groups ?
+- Can we create small teams in meeting room [beta](room)?
+- Is there a possibility to form smaller groups in the [other](room) rooms_with_ones?
+- Are the people able to form smaller teams in the [other](room) rooms_with_ones?
+- Can we chat in teams in the [others](room)?
+- Can we chat in smaller teams ?
+- Is there a possibility to form smaller teams in the [others](room)?
+- Is there a possibility to create smaller groups in [the](room) room?
+- Is it possible to sit together teams in the [others](room)?
+- Will we be able to chat in smaller teams in room [Beta](room)?
+- Will the guests be able to make smaller groups in the [others](room)?
+- Will the guests be able to sit in teams in [the](room) meeting room?
+- Can we sit together smaller teams ?
+- Is there a possibility to have conversations in small teams in the [other](room) rooms_with_ones?
+- Is there a possibility to sit in groups in the [others](room)?
+- Is there a possibility to chat in groups ?
+- Will the people be able to have conversations in smaller teams in the [others](room)?
+- Can we sit together small groups ?
+- Can the guests form smaller groups in the [others](room)?
+- Will the people be able to have conversations in teams in option [beta](room)?
+- Will the people be able to sit together groups in the [others](room)?
+- Is it possible to have chats in smaller teams in the [other](room) rooms_with_ones?
+- Is there a possibility to make teams in [it](room)?
+- Can we sit in smaller teams in the [other](room) rooms_with_ones?
+- Are the guests able to talk in small teams in the [other](room) rooms_with_ones?
+- Can we have discussions in small groups in the [other](room) rooms_with_ones?
+- Can the people have chats in teams ?
+- Can we talk in small teams in the [others](room)?
+- Can the guests create teams in the [others](room)?
+- Will the people be able to form teams ?
+- Will the guests be able to make groups in [it](room)?
+- Will the guests be able to talk in groups in the [other](room) rooms_with_ones?
+- Will we be able to chat in smaller teams ?
+- Can we make groups in the [others](room)?
+- Can the guests talk in smaller groups in [the](room) meeting room?
+- Is there a possibility to sit together groups in event room [alpha](room)?
+- Is it possible to create smaller teams ?
+- Can the guests create teams in [the](room) meeting room?
+- Can we make smaller groups in [the](room) event room?
+- Can the guests sit together smaller groups in the [other](room) rooms_with_ones?
+- Is there a possibility to sit in small teams in the [first](room) location?
+- Can we have discussions in smaller groups in the [other](room) rooms_with_ones?
+- Is it possible to sit together small groups in [this](room)?
+- Is there a possibility to talk in teams in the [other](room) rooms_with_ones?
+- Can the people have discussions in small teams in the [other](room) rooms_with_ones?
+- Will we be able to chat in groups in the [other](room) rooms_with_ones?
+- Can we sit in smaller teams in the [others](room)?
+- Can the guests have conversations in small groups in the [other](room) rooms_with_ones?
+- Can we talk in small teams in the [other](room) rooms_with_ones?
+- Is it possible to sit in small teams in the [other](room) rooms_with_ones?
+- Is it possible to talk in groups in [the](room) event room?
+- Can the guests have discussions in small groups in the [others](room)?
+- Will we be able to create groups in the [other](room) rooms_with_ones?
+- Can we talk in teams in the [third](room) room?
+- Can we create groups in the [others](room)?
+- Will the people be able to chat in smaller teams ?
+- Can the guests sit together smaller teams in the [other](room) rooms_with_ones?
+- Can we have chats in small teams in the [last](room) one?
+- Are the guests able to chat in groups in the [others](room)?
+- Can the guests chat in small groups ?
+- Is there a possibility to create smaller groups in the [others](room)?
+- Can we make groups ?
+- Can the guests sit in small groups in the [others](room)?
+- Is there a possibility to create small groups in the [other](room) rooms_with_ones?
+- Will we be able to talk in teams in the [third](room) one?
+- Is it possible to have conversations in small groups ?
+- Can we make teams in the [other](room) rooms_with_ones?
+- Can we sit together small groups in [this](room)?
+- Is it possible to make teams ?
+- Is it possible to create teams in [the](room) location?
+- Is it possible to make groups in [the](room) room?
+- Can we create small teams in the [other](room) rooms_with_ones?
+- Can we chat in small groups in the [other](room) rooms_with_ones?
+- Is there a possibility to sit together smaller groups in the [others](room)?
+- Are we able to have chats in small teams in the [other](room) rooms_with_ones?
+- Will the guests be able to form groups in [this](room) one?
+- Is there a possibility to sit in teams in [it](room)?
+- Can we sit together smaller groups ?
+- Will the guests be able to sit in small groups in the [other](room) rooms_with_ones?
+- Are there chairs in the [other](room) rooms_with_ones?
+- Are the guests able to chat in small teams ?
+- Will the people be able to form small teams in [it](room)?
+- Can the guests chat in small groups in the [other](room) rooms_with_ones?
+- Can the guests chat in small teams in the [other](room) rooms_with_ones?
+- Will the guests be able to sit together smaller groups in the [others](room)?
+- Can we talk in groups in [it](room)?
+- Are the guests able to sit in smaller groups in the [other](room) rooms_with_ones?
+- Is there a possibility to make small groups in the [other](room) rooms_with_ones?
+- Is there a possibility to sit together groups in the [other](room) rooms_with_ones?
+- Is there a possibility to make teams in the [other](room) rooms_with_ones?
+- Are we able to talk in smaller groups ?
+- Will the people be able to create groups ?
+- Will the guests be able to sit in small teams ?
+- Are the guests able to create small groups ?
+- Is it possible to make small teams in the [other](room) rooms_with_ones?
+- Can we sit in groups in the [others](room)?
+- Will we be able to have conversations in small teams in the [other](room) rooms_with_ones?
+- Is it possible to sit in teams ?
+- Is it possible to form small groups in the [others](room)?
+- Can the people sit together groups in room [gamma](room)?
+- Is there a possibility to form small teams in the [others](room)?
+- Can the people sit in smaller groups in the [other](room) one?
+- Can the guests sit together groups in the [other](room) rooms_with_ones?
+- Will the guests be able to form groups in the [others](room)?
+- Can we sit in small teams in the [others](room)?
+- Are the people able to form small groups in the [other](room) rooms_with_ones?
+- Can we sit together smaller groups in [it](room)?
+- Can the guests talk in small groups in the [other](room) rooms_with_ones?
+- Can we sit in groups in the [other](room) rooms_with_ones?
+- Will we be able to make smaller teams in [the](room) meeting room?
+- Will the people be able to have discussions in teams in [this](room) event room?
+- Is it possible to sit together smaller teams ?
+- Will we be able to sit together groups in the [others](room)?
+- Can the guests create groups in the [others](room)?
+- Can we create small teams in [this](room)?
+- Is it possible to have discussions in groups ?
+- Are we able to sit in smaller groups ?
+- Can we chat in small groups ?
+- Is there a possibility to form teams in [it](room)?
+- Is it possible to talk in small teams in the [other](room) rooms_with_ones?
+- Is there a possibility to chat in teams in the [other](room) rooms_with_ones?
+- Is there a possibility to chat in teams ?
+- Will the guests be able to form small teams in the [others](room)?
+- Is there a possibility to chat in groups in the [other](room) rooms_with_ones?
+- Is there a possibility to talk in smaller groups in the [other](room) rooms_with_ones?
+- Is there a possibility to form small groups ?
+- Is it possible to chat in smaller groups ?
+- Will the guests be able to have chats in small groups in [it](room)?
+- We would like to sit in small teams.
+- Are the people able to make teams in the [others](room)?
+- Can the people sit in groups in meeting room [alpha](room)?
+- Is there a possibility to sit together teams in [it](room)?
+- Are the guests able to create small teams in the [other](room) option?
+- Are we able to form small teams in the [third](room) one?
+- Is there a possibility to sit together smaller teams ?
+- Are the people able to have discussions in small teams in the [others](room)?
+- Are we able to make small groups in the [other](room) rooms_with_ones?
+- Is it possible to create teams in the [other](room) rooms_with_ones?
+- Are the guests able to sit together smaller teams in the [other](room) rooms_with_ones?
+- Will the people be able to talk in small groups in the [other](room) rooms_with_ones?
+- Can we sit in smaller groups ?
+- Is it possible to sit together small teams in [the](room) location?
+- Is there a possibility to sit together teams in the [other](room) rooms_with_ones?
+- Is it possible to create smaller groups in the [other](room) rooms_with_ones?
+- Is there a possibility to talk in groups in the [other](room) rooms_with_ones?
+- Can the guests chat in smaller teams in [the](room) location?
+- Is it possible to chat in small groups ?
+- Is it possible to have chats in smaller teams in the [others](room)?
+- Are we able to sit in small teams in the [other](room) rooms_with_ones?
+- Can we chat in small teams in [the](room) meeting room?
+- Are the guests able to make smaller groups in the [other](room) rooms_with_ones?
+- Will the people be able to have discussions in small groups in [it](room)?
+- Will the guests be able to sit together small groups in the [others](room)?
+- Can the guests sit together groups ?
+- Can we make small groups ?
+- Can we chat in small teams ?
+- Will the people be able to have conversations in teams in the [other](room) rooms_with_ones?
+- Tell me more about the seating arrangement in the [others](room)?
+- Can we chat in groups in the [others](room)?
+- Are we able to make smaller groups in the [first](room) location?
+- Is there a possibility to sit in small teams ?
+- Is there a possibility to chat in groups in [it](room)?
+- Will the people be able to have discussions in teams in [it](room)?
+- Do you have chairs in the [others](room)?
+- Are the guests able to sit in smaller teams in the [others](room)?
+- Are the guests able to talk in groups in the [other](room) rooms_with_ones?
+- Is it possible to create small teams ?
+- Can the people create small teams in the [others](room)?
+- Can we make smaller groups in the [others](room)?
+- Can the people sit together groups in the [other](room) rooms_with_ones?
+- Will the guests be able to make smaller teams ?
+- Will the people be able to sit together teams in the [first](room) one?
+- Will the guests be able to form teams in the [other](room) rooms_with_ones?
+- Is it possible to sit together small teams in the [other](room) rooms_with_ones?
+- Is it possible to form teams in event room [beta](room)?
+- Is there a possibility to have chats in groups in [it](room)?
+- Are the people able to form small teams in [the](room) meeting room?
+- Will we be able to have discussions in smaller teams ?
+- Is there a possibility to sit together groups in the [others](room)?
+- Are we able to have discussions in small teams ?
+- Will we be able to have discussions in small groups in the [other](room) rooms_with_ones?
+- Is there a possibility to sit together smaller teams in the [other](room) rooms_with_ones?
+- Are the guests able to have conversations in small groups ?
+- Is there a possibility to form groups ?
+- Are the people able to chat in small teams in [this](room)?
+- Can we form smaller teams in room [alpha](room)?
+- Is it possible to sit in small teams in the [first](room) one?
+- Can we sit together teams ?
+- Can we create small groups in the [other](room) rooms_with_ones?
+- Will we be able to form smaller groups ?
+- Are we able to talk in teams ?
+- Is there a possibility to talk in smaller groups in meeting room [gamma](room)?
+- Can we sit together small teams ?
+- Will the people be able to chat in small teams ?
+- Can we have discussions in small groups ?
+- Will the guests be able to sit together smaller teams ?
+- Will we be able to form small groups in the [other](room) rooms_with_ones?
+- Is it possible to make groups in the [other](room) rooms_with_ones?
+- Can we make teams in [this](room)?
+- Can we talk in teams in the [others](room)?
+- Are we able to make small teams ?
+- Is it possible to sit together groups in the [other](room) rooms_with_ones?
+- Will we be able to sit in small teams ?
+- Is there a possibility to sit in groups in the [other](room) rooms_with_ones?
+- Can the guests sit in small groups in the [other](room) rooms_with_ones?
+- Can we create smaller teams in option [alpha](room)?
+- Is there a possibility to talk in smaller groups in room [gamma](room)?
+- Are the guests able to talk in groups in the [others](room)?
+- Is there a possibility to have discussions in teams in the [others](room)?
+- Are the people able to create teams in the [other](room) rooms_with_ones?
+- Can we sit together smaller groups in [the](room) location?
+- Can we make smaller groups in the [other](room) rooms_with_ones?
+- Is it possible to chat in small teams in the [last](room) meeting room?
+- Is it possible to make small teams in the [others](room)?
+- Can we have chats in groups ?
+- Are the guests able to have conversations in groups in the [others](room)?
+- Will we be able to form smaller teams in [Alpha](room)?
+- Can we have discussions in small teams ?
+- Is there a possibility to create small teams in [it](room)?
+- Are the people able to sit in small groups ?
+- Will the people be able to sit in smaller groups in the [other](room) rooms_with_ones?
+- Can we form smaller teams in the [other](room) rooms_with_ones?
+- Can we form groups in the [others](room)?
+- Will the guests be able to create teams ?
+- Will the guests be able to make teams in [this](room) event room?
+- Are the guests able to sit in smaller teams in [it](room)?
+- Will the guests be able to create teams in the [other](room) rooms_with_ones?
+- Will the guests be able to create smaller teams in the [others](room)?
+- Can we sit in small teams ?
+- Can we have conversations in groups in the [other](room) rooms_with_ones?
+- Is there a possibility to sit in small groups in [this](room) option?
+- Is it possible to talk in small teams in the [others](room)?
+- Can the people create smaller groups in the [other](room) rooms_with_ones?
+- Will the guests be able to make groups in the [other](room) rooms_with_ones?
+- Will the guests be able to chat in smaller groups in event room [gamma](room)?
+- Is it possible to form smaller groups in the [other](room) rooms_with_ones?
+- Are we able to talk in small groups ?
+- Will the guests be able to make teams in the [others](room)?
+- Is it possible to have conversations in groups in the [others](room)?
+- Will we be able to sit in small teams in [the](room) meeting room?
+- Will we be able to sit together groups in the [other](room) rooms_with_ones?
+- Is it possible to sit in groups in the [others](room)?
+- Is it possible to have chats in small teams in [alpha](room)?
+- Are the guests able to chat in small groups in the [others](room)?
+- Do you have tables in [it](room)?
+- Is there a possibility to chat in teams in [the](room) option?
+- Will the guests be able to have conversations in smaller teams ?
+- Can the guests make smaller groups in the [other](room) rooms_with_ones?
+- Is there a possibility to form smaller teams ?
+- Are we able to sit together groups in the [others](room)?
+- Can we talk in smaller teams ?
+- Is it possible to form groups in the [others](room)?
+- Is it possible to form small teams in [the](room) meeting room?
+- Can we form smaller teams in [this](room) option?
+- Is there a possibility to form teams in the [other](room) rooms_with_ones?
+- Are we able to form small teams ?
+- Are the guests able to chat in smaller teams in the [others](room)?
+- Is it possible to talk in small groups ?
+- Can we form groups ?
+- Will the people be able to make small teams in [this](room) location?
+- Can we chat in groups in [this](room)?
+- Is it possible to form teams in the [others](room)?
+- Can we have discussions in small groups in the [others](room)?
+- Will the people be able to sit together small groups in the [others](room)?
+- Can the people sit together groups in the [others](room)?
+- Is there a possibility to talk in smaller teams in the [others](room)?
+- Are we able to create groups ?
+- Are the guests able to talk in teams in the [other](room) rooms_with_ones?
+- Will the people be able to have discussions in smaller teams ?
+- Is it possible to sit in smaller groups in the [others](room)?
+- Are the guests able to make groups in the [other](room) rooms_with_ones?
+- Will the people be able to sit in small groups in [it](room)?
+- Can the people create smaller teams in the [other](room) rooms_with_ones?
+- Are the people able to chat in smaller teams in the [other](room) rooms_with_ones?
+- Can the people have chats in teams in the [other](room) rooms_with_ones?
+- Is it possible to talk in smaller teams in [the](room) event room?
+- Can the guests chat in teams ?
+- Is it possible to sit in small teams ?
+- Is it possible to have discussions in groups in location [Gamma](room)?
+- Can the people have conversations in small teams in the [others](room)?
+- Can the guests create small groups ?
+- Can the guests talk in teams ?
+- Can the people sit together small groups in [it](room)?
+- Can we form groups in option [Beta](room)?
+- Is it possible to chat in small groups in the [others](room)?
+- Can we sit in small groups in the [others](room)?
+- Is there a possibility to have conversations in groups in [the](room) event room?
+- Is there a possibility to chat in small groups ?
+- Is it possible to talk in teams in the [others](room)?
+- Is it possible to talk in groups in [it](room)?
+- Can we make smaller teams in room [beta](room)?
+- Are we able to create small groups ?
+- Is there a possibility to have discussions in small teams in the [last](room) event room?
+- Will we be able to chat in groups in the [others](room)?
+- Are the people able to sit together smaller teams ?
+- Is it possible to talk in groups in the [other](room) rooms_with_ones?
+- Will we be able to chat in smaller teams in the [others](room)?
+- Is there a possibility to sit together teams ?
+- Can the people make smaller teams ?
+- Will the guests be able to form smaller teams in [this](room) meeting room?
+- Can we talk in groups ?
+- Will we be able to make groups in the [others](room)?
+- Are we able to chat in small teams ?
+- Is it possible to create small groups in [Gamma](room)?
+- Can the guests create groups ?
+- Can the people form smaller groups in [the](room) room?
+- Is there a possibility to have conversations in small groups in the [other](room) rooms_with_ones?
+- Are the people able to make groups in the [other](room) rooms_with_ones?
+- Are the guests able to sit together small teams in the [others](room)?
+- Can we form small teams in the [others](room)?
+- Will the guests be able to form small teams in the [second](room) one?
+- How about the seating arrangement in [it](room)?
 
 ## intent:ask_for_room_size
-- Does it have enough space?
-- Are the [other](room) spaces big enough?
-- How many guests can be in there?
-- Are the [other](room) rooms bigger?
-- Will it have enough space for [250](nr_of_people) guests?
-- Is the [last](room) one large enough for [150](nr_of_people) persons?
-- How much room does it have?
-- Is [this](room) space big enough?
-- Is the [last](room) room bigger?
-- search an event room for [150](nr_of_people) persons in the one king hotel
-- What rooms do you have for [150](nr_of_people) guests in the one king hotel?
-- Is the [last](room) room large enough for [250](nr_of_people)?
-- What rooms do you provide that has room for [300](nr_of_people) colleagues?
-- How big is [this](room) room?
-- Is [the](room) room big enough for [150](nr_of_people) persons?
-- How many rooms do you have that has room for [250](nr_of_people) colleagues in your hotel?
-- search an option that has room for [300](nr_of_people) people in your hotel
-- Is the [third](room) space big enough for [150](nr_of_people) people?
-- How many rooms do you provide for [150](nr_of_people) persons in your hotel?
-- search an event room that has room for [250](nr_of_people) people in the one king hotel
-- How many rooms do you provide for [300](nr_of_people) persons?
-- Is [Beta](room) big enough for [250](nr_of_people) guests?
-- search a location that fits [200](nr_of_people) colleagues in the one king hotel
-- What kind of rooms are available that fits [250](nr_of_people) persons in your hotel?
-- Is [Beta](room) large enough for [200](nr_of_people)?
-- Is [Alpha](room) large enough for [250](nr_of_people) persons?
-- How many rooms are available for [150](nr_of_people) colleagues in the one king hotel?
-- How many rooms are available for [250](nr_of_people) guests?
-- search a location that has room for [200](nr_of_people) persons in the one king hotel
-- Is room [beta](room) large enough for [150](nr_of_people) guests?
-- Is [this](room) one big enough for [150](nr_of_people) persons?
-- search a meeting room for [150](nr_of_people) persons in your hotel
-- What kind of rooms are available that fits [250](nr_of_people) colleagues in the one king hotel?
-- Is the [third](room) room big enough for [300](nr_of_people) people?
-- search an event room for [300](nr_of_people) people in the one king hotel
-- What rooms do you provide that fits [150](nr_of_people) persons in your hotel?
-- How many rooms are available that has room for [250](nr_of_people) colleagues?
-- Is [the](room) room large enough for [150](nr_of_people) colleagues?
-- Is the [last](room) one big enough for [300](nr_of_people)?
-- search a location that has room for [150](nr_of_people) people in the one king hotel
-- What kind of rooms do you have that fits [200](nr_of_people) guests in the one king hotel?
-- Is [the](room) room large enough for [200](nr_of_people) guests?
-- How many rooms are available that fits [150](nr_of_people) people?
-- How many rooms do you have for [250](nr_of_people) guests in the one king hotel?
-- search an option that has room for [250](nr_of_people) colleagues in your hotel
-- Is [this](room) one big enough for [200](nr_of_people) guests?
-- What kind of rooms do you have for [300](nr_of_people) people in the one king hotel?
-- search an option that has room for [300](nr_of_people) people
-- Is [this](room) one large enough for [150](nr_of_people) colleagues?
-- Is room [beta](room) big enough for [200](nr_of_people)?
-- Is room [gamma](room) big enough for [200](nr_of_people) colleagues?
-- What rooms are available for [150](nr_of_people) people?
-- search an option that has room for [300](nr_of_people) persons
-- What kind of rooms do you have for [250](nr_of_people) colleagues in your hotel?
-- Is [it](room) big enough for [250](nr_of_people) guests?
-- Does it have enough room for [300](nr_of_people) persons?
-- What rooms do you have for [150](nr_of_people) guests in your hotel?
-- search a location for [300](nr_of_people) persons in the one king hotel
-- Is the [third](room) one big enough for [200](nr_of_people) people?
-- How many rooms do you provide that fits [300](nr_of_people) people in your hotel?
-- search an event room that has room for [300](nr_of_people) colleagues
-- What kind of rooms do you provide for [200](nr_of_people) people?
-- Is [this](room) room big enough for [300](nr_of_people) colleagues?
-- search a room that fits [300](nr_of_people) people in the one king hotel
-- What rooms are available that has room for [200](nr_of_people) persons in the one king hotel?
-- Is the [first](room) one big enough for [300](nr_of_people)?
-- How large is [it](room)?
-- Is the [second](room) one larger?
-- Is [it](room) large enough?
-- Is the [third](room) one big enough for [150](nr_of_people) persons?
-- Is [the](room) room large enough for [150](nr_of_people) people?
-- search a location that fits [200](nr_of_people) people in your hotel
-- How many rooms are available that has room for [300](nr_of_people) persons?
-- How many rooms are available that has room for [200](nr_of_people) people in the one king hotel?
-- Is [the](room) room big enough for [300](nr_of_people) guests?
-- How many rooms do you provide that has room for [150](nr_of_people) colleagues in the one king hotel?
-- search an option that has room for [200](nr_of_people) guests in the one king hotel
-- Is [Beta](room) large enough for [200](nr_of_people) people?
-- search an event room for [250](nr_of_people) people in the one king hotel
-- What kind of rooms are available that fits [200](nr_of_people) people in the one king hotel?
-- What rooms do you have that fits [200](nr_of_people) colleagues?
-- Is [it](room) large enough for [200](nr_of_people) persons?
-- Is [it](room) large enough for [250](nr_of_people)?
-- What kind of rooms are available that has room for [300](nr_of_people) colleagues in the one king hotel?
-- search a room that has room for [150](nr_of_people) people in your hotel
-- Is [this](room) one large enough for [250](nr_of_people) people?
-- What rooms are available that has room for [150](nr_of_people) persons?
-- search a venue that has room for [300](nr_of_people) people in your hotel
-- Is [it](room) big enough for [150](nr_of_people) guests?
-- What kind of rooms do you provide for [150](nr_of_people) colleagues in your hotel?
-- Is room [Alpha](room) big enough for [300](nr_of_people) guests?
-- search a location that has room for [250](nr_of_people) guests in the one king hotel
-- What rooms do you have that fits [150](nr_of_people) people in the one king hotel?
-- Is [this](room) room big enough for [250](nr_of_people)?
-- Is [the](room) room big enough for [250](nr_of_people) persons?
-- How many rooms do you have that fits [150](nr_of_people) persons in your hotel?
-- What rooms are available that fits [300](nr_of_people) persons?
-- search an option that fits [150](nr_of_people) people in your hotel
-- Is [alpha](room) large enough for [150](nr_of_people) persons?
-- search an option for [250](nr_of_people) people in your hotel
-- What kind of rooms do you have that fits [200](nr_of_people) colleagues in the one king hotel?
-- Is [it](room) big enough for [150](nr_of_people) colleagues?
-- Will it have enough room for [250](nr_of_people) ?
-- search an event room for [250](nr_of_people) persons in the one king hotel
-- What rooms do you provide that fits [250](nr_of_people) persons in your hotel?
-- Is [this](room) large enough for [300](nr_of_people) people?
-- Is [it](room) big enough for [150](nr_of_people) people?
-- Is the [second](room) room big enough for [200](nr_of_people)?
-- search a location that fits [200](nr_of_people) colleagues in your hotel
-- What rooms do you have that has room for [300](nr_of_people) persons in the one king hotel?
-- Is [this](room) large enough for [150](nr_of_people) persons?
-- search a meeting room that fits [300](nr_of_people) colleagues in your hotel
-- What kind of rooms do you have that fits [300](nr_of_people) colleagues in the one king hotel?
-- What rooms are available for [200](nr_of_people) guests?
-- Is [this](room) large enough for [150](nr_of_people) people?
-- How many rooms are available that has room for [300](nr_of_people) persons in your hotel?
-- search a room for [200](nr_of_people) colleagues in your hotel
-- Is the [second](room) space large enough for [150](nr_of_people) people?
-- search an option for [300](nr_of_people) colleagues
-- What rooms are available that has room for [250](nr_of_people) persons in your hotel?
-- What kind of rooms are available that has room for [300](nr_of_people) colleagues?
-- Is the [third](room) one big enough?
-- Is [this](room) one big enough for [200](nr_of_people) colleagues?
-- Is room [gamma](room) big enough for [150](nr_of_people)?
-- How big is room [Beta](room)?
-- Is [it](room) bigger?
-- search an event room that fits [150](nr_of_people) persons in your hotel
-- Is room [Alpha](room) large enough for [150](nr_of_people) guests?
-- What kind of rooms do you have for [300](nr_of_people) persons in the one king hotel?
-- Is [it](room) large enough for [250](nr_of_people) colleagues?
-- What kind of rooms do you provide that fits [300](nr_of_people) people?
-- search a room that has room for [300](nr_of_people) guests in your hotel
-- What rooms are available for [150](nr_of_people) colleagues in your hotel?
-- Is [this](room) one large enough for [150](nr_of_people) guests?
-- How many rooms do you provide that has room for [200](nr_of_people) colleagues in your hotel?
-- search an event room that has room for [300](nr_of_people) colleagues in your hotel
-- Is the [other](room) room large enough for [250](nr_of_people)?
-- Is [it](room) large enough for [150](nr_of_people) people?
-- search an event room that fits [200](nr_of_people) people in the one king hotel
-- What kind of rooms do you provide that fits [150](nr_of_people) guests in the one king hotel?
-- What kind of rooms do you have that fits [300](nr_of_people) persons?
-- Is [beta](room) large enough for [250](nr_of_people) colleagues?
-- search a meeting room that fits [150](nr_of_people) guests
-- What kind of rooms do you provide that fits [150](nr_of_people) people in your hotel?
-- Is room [Alpha](room) large enough for [250](nr_of_people) people?
-- Is [this](room) room big enough for [300](nr_of_people) guests?
-- search a meeting room that fits [200](nr_of_people) guests in the one king hotel
-- What kind of rooms are available that has room for [200](nr_of_people) people?
-- How many rooms are available that has room for [150](nr_of_people) people in your hotel?
-- Will it have enough space for [150](nr_of_people) persons?
-- Is the [third](room) room large enough for [150](nr_of_people) people?
-- Is the [last](room) one large enough for [200](nr_of_people)?
-- search a location that fits [250](nr_of_people) guests in the one king hotel
-- What kind of rooms do you have that has room for [200](nr_of_people) people in the one king hotel?
-- Is the [first](room) room large enough for [250](nr_of_people) guests?
-- How many rooms are available for [250](nr_of_people) persons?
-- How many rooms do you provide for [250](nr_of_people) guests in the one king hotel?
-- search an event room for [200](nr_of_people) persons in the one king hotel
-- Is [the](room) room large enough for [300](nr_of_people) colleagues?
-- search a meeting room that has room for [250](nr_of_people) people in your hotel
-- What rooms do you provide that fits [150](nr_of_people) guests in the one king hotel?
-- Is room [gamma](room) large enough for [300](nr_of_people) guests?
-- Is the [second](room) one big enough for [250](nr_of_people) colleagues?
-- Is the [first](room) one large enough for [300](nr_of_people)?
-- search a room that has room for [200](nr_of_people) persons in your hotel
-- What rooms are available for [150](nr_of_people) persons?
-- What kind of rooms do you provide that fits [200](nr_of_people) people in the one king hotel?
-- search an option that has room for [150](nr_of_people) guests
-- Is the [other](room) room big enough for [150](nr_of_people) colleagues?
-- How many rooms do you provide that fits [250](nr_of_people) persons?
-- What rooms do you have that fits [150](nr_of_people) persons in your hotel?
-- search an event room for [200](nr_of_people) colleagues
-- How many rooms do you provide that fits [200](nr_of_people) colleagues in your hotel?
-- search a location for [250](nr_of_people) people
-- Is [the](room) room big enough for [200](nr_of_people)?
-- Is [the](room) room big enough?
-- Is [this](room) space larger?
+- Is [it](room) big enough for [300](nr_of_people)?
+- Is the [second](room) room larger?
 - How big is [the](room) room?
-- Is [this](room) one large enough for [300](nr_of_people) colleagues?
-- How many rooms do you have that fits [250](nr_of_people) colleagues?
-- How many rooms are available for [200](nr_of_people) persons in the one king hotel?
-- search an option for [200](nr_of_people) colleagues in your hotel
-- Is [the](room) room big enough for [150](nr_of_people) people?
-- Is [the](room) room large enough for [300](nr_of_people) persons?
-- What rooms are available that fits [300](nr_of_people) persons in the one king hotel?
-- search a location for [250](nr_of_people) persons in the one king hotel
-- Is the [last](room) space big enough for [200](nr_of_people) people?
-- What rooms do you provide that fits [150](nr_of_people) colleagues?
-- search an option that has room for [200](nr_of_people) people
-- Is [the](room) room large enough for [250](nr_of_people)?
-- Is the [second](room) one big enough for [200](nr_of_people) people?
-- What rooms do you have that has room for [250](nr_of_people) persons in your hotel?
-- search an event room for [200](nr_of_people) people in your hotel
-- Does it have enough room for [250](nr_of_people) ?
-- Is the [third](room) one big enough for [300](nr_of_people) persons?
-- search an event room that has room for [200](nr_of_people) persons in your hotel
-- What rooms are available that has room for [250](nr_of_people) people?
-- What rooms do you provide for [200](nr_of_people) colleagues in the one king hotel?
-- Is [it](room) big enough for [200](nr_of_people) persons?
-- search a room that fits [250](nr_of_people) people
-- Is [the](room) room large enough for [200](nr_of_people) people?
-- What kind of rooms do you have for [250](nr_of_people) guests in the one king hotel?
-- Is [beta](room) large enough for [200](nr_of_people) guests?
-- Is [it](room) large enough for [200](nr_of_people)?
-- How many rooms do you provide that has room for [250](nr_of_people) guests in the one king hotel?
-- How many rooms do you have that fits [300](nr_of_people) guests?
-- search a meeting room that has room for [300](nr_of_people) persons in your hotel
-- Is [this](room) space large enough for [300](nr_of_people) persons?
-- How many rooms are available for [150](nr_of_people) people in your hotel?
-- search a room that has room for [300](nr_of_people) people in your hotel
-- Is the [first](room) one big enough for [250](nr_of_people) colleagues?
-- What kind of rooms are available for [250](nr_of_people) colleagues?
-- search a meeting room that fits [200](nr_of_people) persons in the one king hotel
-- What kind of rooms do you provide that fits [250](nr_of_people) people in the one king hotel?
-- Is the [third](room) room big enough for [150](nr_of_people) colleagues?
-- search an option that fits [250](nr_of_people) people in the one king hotel
-- How many rooms are available that fits [250](nr_of_people) people in your hotel?
-- Is [this](room) large enough for [250](nr_of_people)?
-- Is room [Gamma](room) big enough for [300](nr_of_people) people?
-- Is [it](room) large enough for [200](nr_of_people) guests?
-- search an event room that fits [250](nr_of_people) persons in the one king hotel
-- How many rooms are available that fits [250](nr_of_people) colleagues?
-- What rooms do you provide for [300](nr_of_people) colleagues in the one king hotel?
-- Is [this](room) large enough for [200](nr_of_people) people?
-- What kind of rooms do you have that has room for [250](nr_of_people) guests in the one king hotel?
-- search a venue that has room for [200](nr_of_people) colleagues in your hotel
-- Is [this](room) one big enough for [200](nr_of_people) people?
-- What rooms do you provide that fits [150](nr_of_people) colleagues in the one king hotel?
-- What kind of rooms are available that has room for [300](nr_of_people) persons?
-- search a location for [250](nr_of_people) people in the one king hotel
-- Is room [gamma](room) bigger?
-- Is room [Alpha](room) big enough?
-- Is [beta](room) big enough for [250](nr_of_people) guests?
-- Is [this](room) room large enough for [250](nr_of_people)?
-- What rooms do you have that has room for [150](nr_of_people) colleagues in your hotel?
-- search a meeting room that fits [300](nr_of_people) guests in your hotel
-- Is [this](room) space large enough for [300](nr_of_people) people?
-- What kind of rooms do you provide for [150](nr_of_people) colleagues in the one king hotel?
-- Does it have enough room for [250](nr_of_people) people?
-- Is [the](room) room big enough for [200](nr_of_people) persons?
-- search an event room for [150](nr_of_people) guests in the one king hotel
-- What rooms are available that fits [150](nr_of_people) persons?
-- Is [Gamma](room) big enough for [200](nr_of_people) guests?
-- What rooms are available that fits [200](nr_of_people) guests in your hotel?
-- search a meeting room that has room for [150](nr_of_people) colleagues in your hotel
-- Is [Gamma](room) big enough for [250](nr_of_people)?
-- Is [the](room) room large enough for [150](nr_of_people) persons?
-- What kind of rooms are available that fits [150](nr_of_people) colleagues?
-- search a venue for [200](nr_of_people) persons
-- What kind of rooms do you have for [300](nr_of_people) colleagues in the one king hotel?
-- What kind of rooms do you have that fits [150](nr_of_people) persons in your hotel?
-- search a room that has room for [200](nr_of_people) people in the one king hotel
-- What rooms do you have that fits [300](nr_of_people) guests in your hotel?
-- search a meeting room that fits [250](nr_of_people) colleagues
-- What rooms are available that fits [300](nr_of_people) people?
-- Is the [other](room) space large enough for [200](nr_of_people) persons?
-- Is the [second](room) one big enough for [250](nr_of_people) persons?
-- What kind of rooms do you have that has room for [200](nr_of_people) persons in the one king hotel?
-- search a location that has room for [250](nr_of_people) guests
-- Is [Alpha](room) big enough for [200](nr_of_people) people?
-- search an event room that fits [200](nr_of_people) colleagues in your hotel
-- How many rooms do you have that fits [200](nr_of_people) persons?
-- What rooms are available for [150](nr_of_people) colleagues in the one king hotel?
-- Is [this](room) one big enough for [150](nr_of_people) people?
-- search a location that fits [250](nr_of_people) persons
-- Is [the](room) room large enough for [300](nr_of_people) people?
-- search a venue that fits [150](nr_of_people) guests in your hotel
-- What kind of rooms do you have that has room for [300](nr_of_people) persons in your hotel?
-- What kind of rooms do you have that has room for [250](nr_of_people) guests?
-- Is [it](room) big enough for [250](nr_of_people)?
-- Is [this](room) big enough for [300](nr_of_people) colleagues?
-- search a venue for [200](nr_of_people) guests in your hotel
-- How many rooms do you provide that has room for [250](nr_of_people) persons in your hotel?
-- Is [this](room) one large enough for [150](nr_of_people) people?
-- How many rooms do you have for [150](nr_of_people) colleagues in your hotel?
-- What rooms do you provide for [300](nr_of_people) guests?
-- search an event room that has room for [250](nr_of_people) guests
-- Is the [other](room) space big enough for [200](nr_of_people) people?
-- Does it have enough space for [300](nr_of_people) colleagues?
-- How many rooms do you have for [200](nr_of_people) people in the one king hotel?
-- search an event room for [250](nr_of_people) guests in your hotel
-- Is [the](room) room big enough for [250](nr_of_people)?
-- Is [alpha](room) big enough for [200](nr_of_people) persons?
-- Is [the](room) room larger?
-- Is [alpha](room) large enough?
-- How large is the [second](room) space?
-- What rooms do you provide for [300](nr_of_people) people in your hotel?
-- search an option that has room for [200](nr_of_people) persons
-- How many rooms do you provide that fits [250](nr_of_people) colleagues?
-- Is [the](room) room big enough for [150](nr_of_people) colleagues?
-- search an event room that has room for [300](nr_of_people) colleagues in the one king hotel
-- What rooms do you provide that has room for [250](nr_of_people) guests in the one king hotel?
-- Is [this](room) large enough for [300](nr_of_people) colleagues?
-- Is [it](room) large enough for [250](nr_of_people) guests?
-- search a venue that fits [200](nr_of_people) people in the one king hotel
-- What rooms do you have that fits [200](nr_of_people) persons in your hotel?
-- What rooms do you have for [300](nr_of_people) people?
-- Is [this](room) room large enough for [300](nr_of_people)?
-- search a room for [250](nr_of_people) colleagues
-- What kind of rooms do you have that has room for [250](nr_of_people) people in the one king hotel?
-- Is the [other](room) one big enough for [150](nr_of_people) guests?
-- search an event room that has room for [200](nr_of_people) persons
-- What kind of rooms do you provide that fits [150](nr_of_people) guests in your hotel?
-- Is room [Gamma](room) large enough for [250](nr_of_people) colleagues?
-- search a location for [200](nr_of_people) people
-- How many rooms do you provide that has room for [250](nr_of_people) colleagues in your hotel?
-- Is [this](room) space large enough for [150](nr_of_people) colleagues?
-- search an option that fits [200](nr_of_people) persons in the one king hotel
-- How many guests can sit there?
-- Is [it](room) big enough for [200](nr_of_people) people?
-- Is the [second](room) room large enough for [250](nr_of_people)?
-- How many rooms do you provide for [250](nr_of_people) guests in your hotel?
-- How many rooms do you have for [200](nr_of_people) persons?
-- Is [this](room) room large enough for [300](nr_of_people) guests?
-- search a venue that has room for [300](nr_of_people) guests in your hotel
-- What kind of rooms do you provide that fits [300](nr_of_people) persons in the one king hotel?
-- Is room [Alpha](room) large enough for [300](nr_of_people) people?
-- search a room that fits [150](nr_of_people) guests in your hotel
-- What kind of rooms are available that has room for [250](nr_of_people) guests in the one king hotel?
-- How many rooms do you provide that has room for [150](nr_of_people) guests?
-- Is [Gamma](room) big enough for [300](nr_of_people) people?
-- search an event room that fits [200](nr_of_people) guests
-- What kind of rooms do you have that has room for [150](nr_of_people) persons in your hotel?
-- Is the [last](room) one big enough for [150](nr_of_people)?
-- Is [it](room) big enough for [300](nr_of_people) colleagues?
-- Will it have enough room for [200](nr_of_people) people?
-- What rooms are available for [200](nr_of_people) colleagues?
-- What rooms are available that fits [300](nr_of_people) persons in your hotel?
-- search a meeting room that fits [200](nr_of_people) people in your hotel
-- Is [the](room) room big enough for [250](nr_of_people) guests?
-- What rooms are available that fits [200](nr_of_people) colleagues in the one king hotel?
-- search a location for [300](nr_of_people) people in the one king hotel
-- Is room [Gamma](room) large enough for [150](nr_of_people) colleagues?
-- What kind of rooms do you have that has room for [200](nr_of_people) colleagues?
-- What rooms do you have that fits [200](nr_of_people) people in the one king hotel?
-- search a location for [250](nr_of_people) colleagues in your hotel
-- Is the [other](room) one big enough for [200](nr_of_people)?
-- Is the [first](room) one big enough?
-- How big is [this](room) space?
-- Is the [third](room) space larger?
-- Is the [first](room) room big enough for [200](nr_of_people) persons?
-- What rooms do you provide for [250](nr_of_people) colleagues in the one king hotel?
-- search a meeting room for [150](nr_of_people) guests in the one king hotel
-- Is the [other](room) room large enough for [200](nr_of_people) colleagues?
-- What kind of rooms are available that fits [300](nr_of_people) guests?
-- Is [the](room) room big enough for [150](nr_of_people) guests?
-- How many rooms are available that has room for [150](nr_of_people) colleagues in your hotel?
-- Is [the](room) room large enough for [250](nr_of_people) people?
-- Is the [last](room) space large enough for [200](nr_of_people)?
-- Is room [gamma](room) large enough for [150](nr_of_people) people?
-- How many rooms do you have that has room for [250](nr_of_people) people?
-- How many rooms are available that fits [250](nr_of_people) persons in your hotel?
-- Is [this](room) room big enough for [300](nr_of_people) persons?
-- How many rooms do you have that fits [200](nr_of_people) colleagues in your hotel?
-- search a location for [200](nr_of_people) colleagues
-- What kind of rooms do you have that fits [250](nr_of_people) colleagues in the one king hotel?
-- How many rooms do you have that has room for [150](nr_of_people) people?
-- search an event room for [250](nr_of_people) people
-- Is room [gamma](room) large enough for [300](nr_of_people)?
-- Is the [last](room) one big enough for [250](nr_of_people) guests?
-- What rooms do you have for [200](nr_of_people) persons?
-- How many rooms do you have that has room for [250](nr_of_people) persons in the one king hotel?
-- search a meeting room for [250](nr_of_people) guests in the one king hotel
-- Does it have enough room for [150](nr_of_people) guests?
-- Is [Beta](room) big enough for [200](nr_of_people) persons?
-- What rooms do you provide for [300](nr_of_people) colleagues in your hotel?
-- search an option for [150](nr_of_people) guests
-- Is [it](room) big enough for [200](nr_of_people) colleagues?
-- What rooms do you provide for [300](nr_of_people) persons?
-- search an event room that fits [150](nr_of_people) guests in the one king hotel
-- How many rooms do you have for [250](nr_of_people) guests in your hotel?
-- Is room [Gamma](room) large enough for [300](nr_of_people)?
-- Is the [second](room) one large enough for [150](nr_of_people) persons?
-- search a venue for [300](nr_of_people) persons in your hotel
-- Is [it](room) big enough for [250](nr_of_people) persons?
-- What kind of rooms are available that has room for [250](nr_of_people) persons in your hotel?
-- Is room [beta](room) large enough for [150](nr_of_people) people?
-- search a room that has room for [200](nr_of_people) colleagues in your hotel
-- How many rooms do you have that has room for [250](nr_of_people) persons?
-- Is [it](room) large enough for [300](nr_of_people) colleagues?
-- What kind of rooms are available that has room for [300](nr_of_people) people in your hotel?
-- search a location for [200](nr_of_people) people in the one king hotel
-- Is room [beta](room) large enough for [200](nr_of_people) persons?
-- How big is [this](room) one?
-- Is [beta](room) big enough for [150](nr_of_people)?
-- Is room [gamma](room) large enough?
-- Is [this](room) bigger?
-- What rooms are available that fits [300](nr_of_people) people in the one king hotel?
-- search a location that has room for [250](nr_of_people) people in your hotel
-- How many rooms do you have that fits [250](nr_of_people) people?
-- Is [Beta](room) big enough for [200](nr_of_people) guests?
-- search a room for [250](nr_of_people) people in your hotel
-- How many rooms are available that fits [300](nr_of_people) colleagues in the one king hotel?
-- Is [this](room) room large enough for [150](nr_of_people) persons?
-- search a room for [250](nr_of_people) people in the one king hotel
-- What kind of rooms do you have for [150](nr_of_people) colleagues in the one king hotel?
-- What rooms do you have that has room for [250](nr_of_people) guests?
-- Is [the](room) room big enough for [200](nr_of_people) guests?
-- Is the [second](room) one large enough for [150](nr_of_people)?
-- search a room that fits [250](nr_of_people) guests
-- What rooms do you have for [250](nr_of_people) colleagues in your hotel?
-- Is [gamma](room) large enough for [150](nr_of_people) persons?
-- How many rooms do you have that fits [300](nr_of_people) persons?
-- search a room that fits [200](nr_of_people) guests
-- How many rooms do you have for [150](nr_of_people) persons in the one king hotel?
-- Is the [first](room) one large enough for [250](nr_of_people) guests?
-- search a location that has room for [200](nr_of_people) persons in your hotel
-- What rooms do you have that has room for [250](nr_of_people) people in your hotel?
-- Is the [first](room) space large enough for [200](nr_of_people) people?
-- What kind of rooms do you provide for [300](nr_of_people) colleagues in your hotel?
-- search an option that fits [250](nr_of_people) colleagues
-- What rooms do you provide for [300](nr_of_people) colleagues?
-- Is [Gamma](room) large enough for [150](nr_of_people) guests?
-- search a room that has room for [150](nr_of_people) persons in the one king hotel
-- How many rooms do you provide for [300](nr_of_people) people?
-- What kind of rooms are available that has room for [150](nr_of_people) colleagues in the one king hotel?
-- search an option for [250](nr_of_people) guests in your hotel
-- How many rooms do you have that fits [150](nr_of_people) persons in the one king hotel?
-- Is the [other](room) one large enough for [300](nr_of_people)?
-- What kind of rooms do you provide that fits [250](nr_of_people) persons?
-- search a meeting room that fits [200](nr_of_people) people
-- Is [it](room) large enough for [250](nr_of_people) people?
-- search a room for [200](nr_of_people) guests in the one king hotel
-- What kind of rooms do you have that fits [300](nr_of_people) colleagues in your hotel?
-- Is the [first](room) room big enough for [300](nr_of_people) people?
-- search a venue that fits [300](nr_of_people) persons
-- What rooms do you have for [200](nr_of_people) colleagues in your hotel?
-- What kind of rooms do you have for [250](nr_of_people) guests?
-- Is [Alpha](room) bigger?
-- Is the [first](room) room large enough?
-- Is [this](room) one large enough for [200](nr_of_people)?
-- How many rooms do you provide that fits [250](nr_of_people) persons in the one king hotel?
-- search a room for [300](nr_of_people) guests in your hotel
-- Is the [other](room) one large enough for [150](nr_of_people) guests?
-- What rooms do you provide that fits [250](nr_of_people) colleagues in your hotel?
-- search an event room that fits [200](nr_of_people) colleagues
-- search a venue that fits [150](nr_of_people) colleagues
-- How many rooms are available for [200](nr_of_people) people in the one king hotel?
-- Is the [second](room) one large enough for [250](nr_of_people) people?
-- Is the [second](room) space big enough for [200](nr_of_people)?
-- How many rooms are available that has room for [300](nr_of_people) colleagues?
-- search an event room for [150](nr_of_people) persons in your hotel
-- How many rooms do you have that has room for [150](nr_of_people) colleagues in the one king hotel?
+- What kind of rooms do you provide that fits [300](nr_of_people) people?
+- Are the [other](room) ones bigger?
 - Are the [others](room) big enough?
-- Will it have enough space for [300](nr_of_people) guests?
-- Is [Alpha](room) large enough for [300](nr_of_people) persons?
-- Are the [others](room) larger?
-- Is [the](room) room big enough for [250](nr_of_people) people?
-- search an event room that fits [250](nr_of_people) guests in your hotel
-- What rooms do you provide that has room for [150](nr_of_people) people in your hotel?
-- Is the [third](room) space big enough for [250](nr_of_people) people?
-- search an option that has room for [200](nr_of_people) people in the one king hotel
-- What rooms do you have for [200](nr_of_people) people?
-- Is [beta](room) large enough for [150](nr_of_people) persons?
-- search an event room that fits [250](nr_of_people) colleagues
-- What kind of rooms do you have that fits [300](nr_of_people) persons in the one king hotel?
-- Is [this](room) large enough for [250](nr_of_people) people?
-- What rooms are available for [300](nr_of_people) colleagues in your hotel?
-- What kind of rooms do you have that fits [250](nr_of_people) colleagues?
-- Is [the](room) room big enough for [200](nr_of_people) people?
-- Is the [third](room) room large enough for [200](nr_of_people) people?
-- search a location that fits [150](nr_of_people) guests in the one king hotel
-- What rooms do you provide that fits [150](nr_of_people) persons in the one king hotel?
-- What rooms do you provide for [250](nr_of_people) guests in your hotel?
-- What kind of rooms are available for [200](nr_of_people) colleagues?
-- search an event room that has room for [200](nr_of_people) guests in your hotel
-- Is the [third](room) room big enough for [200](nr_of_people) colleagues?
-- search an option that fits [250](nr_of_people) persons in the one king hotel
-- Is room [Gamma](room) big enough for [250](nr_of_people) guests?
-- How many rooms do you provide that fits [250](nr_of_people) people in the one king hotel?
-- What rooms are available that fits [150](nr_of_people) guests?
-- search a location that fits [150](nr_of_people) guests in your hotel
-- Is the [other](room) room large enough for [300](nr_of_people) people?
-- search an option that has room for [150](nr_of_people) guests in your hotel
-- Is the [last](room) one big enough for [150](nr_of_people) persons?
-- How many rooms are available that fits [200](nr_of_people) colleagues in the one king hotel?
-- Is room [Alpha](room) large enough for [250](nr_of_people) colleagues?
+- Does it have enough room?
+- search an option that has room for [150](nr_of_people) colleagues
+- Does it have enough space for [150](nr_of_people) guests?
+- How much space does it have?
+- Is the [first](room) room big enough?
+- How many guests can sit there?
+- Is [it](room) big enough for [150](nr_of_people) colleagues?
+- What kind of rooms are available that fits [150](nr_of_people) guests in the one king hotel?
+- Is the [last](room) room big enough for [200](nr_of_people) guests?
+- What rooms are available for [250](nr_of_people) guests in your hotel?
+- search an event room that fits [200](nr_of_people) persons
+- Is [it](room) big enough for [300](nr_of_people) colleagues?
+- search an event room for [300](nr_of_people) colleagues
+- What rooms do you have for [150](nr_of_people) people in your hotel?
+- How many rooms do you have that has room for [150](nr_of_people) colleagues?
+- Is room [Beta](room) large enough for [150](nr_of_people) colleagues?
+- What kind of rooms do you have that has room for [250](nr_of_people) persons in the one king hotel?
+- search an event room that fits [150](nr_of_people) persons
+- Is [it](room) large enough for [150](nr_of_people) people?
+- Is [the](room) room big enough for [150](nr_of_people)?
+- How many rooms are available that has room for [200](nr_of_people) guests in your hotel?
+- search an event room that has room for [150](nr_of_people) people
+- How many rooms do you provide that has room for [300](nr_of_people) guests?
+- Is [it](room) large enough for [250](nr_of_people) persons?
+- Is the [second](room) one big enough for [250](nr_of_people) colleagues?
+- What rooms do you provide for [250](nr_of_people) persons in the one king hotel?
+- search an event room that has room for [300](nr_of_people) persons in the one king hotel
+- Is [Beta](room) large enough for [300](nr_of_people) colleagues?
+- search an event room that fits [150](nr_of_people) people
+- What kind of rooms are available that has room for [150](nr_of_people) colleagues?
+- What kind of rooms do you provide that fits [250](nr_of_people) colleagues in the one king hotel?
+- Is the [second](room) one big enough for [300](nr_of_people)?
+- Is room [Beta](room) large enough for [300](nr_of_people) persons?
+- How many rooms do you provide for [200](nr_of_people) persons in the one king hotel?
+- search an event room for [150](nr_of_people) persons
+- Is the [third](room) one big enough for [300](nr_of_people) guests?
+- search a venue that fits [300](nr_of_people) persons
+- What kind of rooms do you provide for [250](nr_of_people) persons in your hotel?
+- What rooms do you have that fits [250](nr_of_people) people?
+- Is the [first](room) room large enough for [300](nr_of_people) colleagues?
+- What kind of rooms are available that fits [250](nr_of_people) people in the one king hotel?
+- search a location for [300](nr_of_people) guests
+- Is the [first](room) room big enough for [200](nr_of_people)?
+- Is room [Alpha](room) big enough for [150](nr_of_people) persons?
+- search a venue that has room for [250](nr_of_people) people in your hotel
+- What rooms do you provide that fits [150](nr_of_people) persons?
+- What rooms do you have that has room for [150](nr_of_people) persons in the one king hotel?
+- Is [it](room) large enough for [150](nr_of_people) colleagues?
+- Does it have enough room for [300](nr_of_people) persons?
+- What kind of rooms do you have that fits [250](nr_of_people) persons in the one king hotel?
+- search an event room that has room for [250](nr_of_people) guests in the one king hotel
+- Is [it](room) big enough for [200](nr_of_people) persons?
+- What kind of rooms do you provide that fits [150](nr_of_people) colleagues?
+- search a location for [250](nr_of_people) guests in the one king hotel
+- What rooms are available for [300](nr_of_people) people in your hotel?
+- Is the [first](room) one big enough for [150](nr_of_people) colleagues?
+- search a venue that fits [200](nr_of_people) persons in the one king hotel
+- Is room [alpha](room) big enough for [150](nr_of_people) colleagues?
+- Is [this](room) large enough for [300](nr_of_people)?
+- Is [the](room) room large enough?
+- Is [the](room) room bigger?
+- How big is [it](room)?
+- Is [it](room) large enough for [200](nr_of_people) persons?
+- How many rooms do you have that has room for [300](nr_of_people) persons?
+- What rooms do you provide that fits [200](nr_of_people) persons in your hotel?
+- What kind of rooms do you have that fits [200](nr_of_people) guests in your hotel?
+- search an option for [300](nr_of_people) colleagues in the one king hotel
+- Is the [last](room) space big enough for [300](nr_of_people) persons?
+- search an option that fits [150](nr_of_people) colleagues in the one king hotel
+- How many rooms do you have for [150](nr_of_people) persons in the one king hotel?
+- What rooms do you provide that has room for [300](nr_of_people) colleagues?
+- Is [the](room) room large enough for [150](nr_of_people) guests?
+- Is [the](room) room large enough for [150](nr_of_people)?
+- How many rooms do you have for [150](nr_of_people) guests in the one king hotel?
+- search a venue that has room for [300](nr_of_people) persons
+- Is [the](room) room large enough for [300](nr_of_people) guests?
+- What kind of rooms do you have that fits [200](nr_of_people) persons?
+- search a venue that has room for [250](nr_of_people) guests
+- Is room [alpha](room) big enough for [200](nr_of_people) people?
+- Is [this](room) space big enough for [200](nr_of_people) persons?
+- How many rooms do you have for [200](nr_of_people) guests in your hotel?
+- search a room for [300](nr_of_people) guests in your hotel
+- Is the [last](room) space large enough for [250](nr_of_people) persons?
+- Is room [Beta](room) large enough for [250](nr_of_people)?
+- search a location that has room for [300](nr_of_people) persons in your hotel
+- What kind of rooms do you have that fits [200](nr_of_people) guests?
+- How many rooms do you have that has room for [250](nr_of_people) people in your hotel?
+- Is [this](room) room big enough for [300](nr_of_people) guests?
+- What rooms do you have that fits [200](nr_of_people) colleagues in the one king hotel?
+- search an option for [150](nr_of_people) guests
+- Is [it](room) large enough for [300](nr_of_people) people?
+- Does it have enough room for [250](nr_of_people) ?
+- search an event room that fits [150](nr_of_people) guests
+- What rooms do you provide that fits [150](nr_of_people) people?
+- What kind of rooms do you provide that has room for [250](nr_of_people) persons in the one king hotel?
+- Is [the](room) room large enough for [150](nr_of_people) people?
+- Is [this](room) one big enough for [300](nr_of_people)?
+- Is [the](room) room big enough for [300](nr_of_people) people?
+- search a location that has room for [250](nr_of_people) colleagues
+- What kind of rooms do you provide for [150](nr_of_people) guests in the one king hotel?
+- Is [this](room) room large enough for [250](nr_of_people) colleagues?
+- search an option that has room for [250](nr_of_people) colleagues in the one king hotel
+- What rooms are available that has room for [150](nr_of_people) people?
+- What kind of rooms are available for [250](nr_of_people) people in your hotel?
+- Is [this](room) large enough for [300](nr_of_people) colleagues?
+- search an event room that has room for [200](nr_of_people) persons in the one king hotel
+- What rooms do you provide that fits [200](nr_of_people) colleagues in the one king hotel?
+- Is [it](room) big enough for [150](nr_of_people) persons?
+- How many rooms are available for [250](nr_of_people) colleagues?
+- search a location that has room for [250](nr_of_people) guests in your hotel
+- Is [this](room) one bigger?
+- Is [this](room) big enough for [250](nr_of_people) persons?
+- Is [the](room) room big enough?
 - Is the [last](room) one large enough for [250](nr_of_people)?
-- How large is [this](room)?
-- Is [it](room) big enough?
-- search an option that has room for [250](nr_of_people) people
-- What rooms do you have that has room for [150](nr_of_people) people in the one king hotel?
-- Will it have enough space for [150](nr_of_people) guests?
-- search a meeting room for [250](nr_of_people) people
+- How many rooms are available that has room for [200](nr_of_people) people in your hotel?
+- search an option that fits [250](nr_of_people) persons in the one king hotel
+- Is [the](room) room big enough for [150](nr_of_people) guests?
+- Is [this](room) room big enough for [200](nr_of_people) persons?
+- search an option that fits [250](nr_of_people) people
+- What rooms are available that fits [250](nr_of_people) guests in the one king hotel?
+- How many rooms do you have that has room for [200](nr_of_people) guests?
+- Is the [third](room) space big enough for [150](nr_of_people) colleagues?
+- What rooms do you provide for [250](nr_of_people) guests in your hotel?
+- search an event room that fits [200](nr_of_people) people in your hotel
+- Is [gamma](room) large enough for [150](nr_of_people) people?
+- Is [the](room) room big enough for [200](nr_of_people)?
+- What rooms are available that fits [300](nr_of_people) people?
+- search a meeting room that fits [300](nr_of_people) people in your hotel
+- How many rooms do you have that fits [150](nr_of_people) guests in the one king hotel?
+- Is [this](room) one big enough for [300](nr_of_people) colleagues?
+- What rooms are available that has room for [250](nr_of_people) people in the one king hotel?
+- search a room that fits [200](nr_of_people) colleagues in your hotel
+- Is [this](room) room big enough for [250](nr_of_people) people?
+- Is [this](room) big enough for [150](nr_of_people) people?
+- How many rooms are available for [300](nr_of_people) colleagues?
+- search a room that fits [150](nr_of_people) colleagues in your hotel
+- What rooms do you provide that has room for [150](nr_of_people) colleagues in your hotel?
+- Does it have enough room for [200](nr_of_people) people?
+- Is [the](room) room big enough for [300](nr_of_people)?
+- Is room [alpha](room) large enough for [150](nr_of_people) persons?
+- What kind of rooms do you provide that has room for [300](nr_of_people) persons in your hotel?
+- search an event room that fits [150](nr_of_people) guests in the one king hotel
+- Is [the](room) room big enough for [300](nr_of_people) guests?
+- How many rooms do you provide that fits [250](nr_of_people) guests?
+- What kind of rooms are available that has room for [300](nr_of_people) people in your hotel?
+- search a location that fits [300](nr_of_people) people
+- Is [it](room) big enough for [250](nr_of_people) people?
+- search an option that fits [150](nr_of_people) persons
+- How many rooms are available for [200](nr_of_people) colleagues in your hotel?
+- What kind of rooms do you have for [300](nr_of_people) colleagues in your hotel?
+- Is [this](room) room big enough for [200](nr_of_people)?
+- Is [this](room) big enough for [150](nr_of_people) colleagues?
+- What kind of rooms are available that has room for [150](nr_of_people) persons?
+- search a location that has room for [150](nr_of_people) colleagues in the one king hotel
+- Is [it](room) large enough for [150](nr_of_people) persons?
+- search a venue that has room for [300](nr_of_people) colleagues in your hotel
+- What kind of rooms do you provide that fits [250](nr_of_people) people in your hotel?
+- search an event room that has room for [250](nr_of_people) people in the one king hotel
+- What kind of rooms do you have that fits [300](nr_of_people) colleagues in the one king hotel?
+- What rooms are available that fits [200](nr_of_people) persons?
+- Is the [first](room) room large enough for [200](nr_of_people) colleagues?
+- search a meeting room that fits [300](nr_of_people) guests
+- How many rooms do you have that fits [250](nr_of_people) persons in the one king hotel?
+- Is [the](room) room big enough for [150](nr_of_people) colleagues?
+- How large is [this](room) one?
+- Is [it](room) big enough for [250](nr_of_people)?
+- Is [this](room) bigger?
+- How many rooms do you have that has room for [200](nr_of_people) persons in your hotel?
+- How many rooms do you have that has room for [300](nr_of_people) people?
+- search a room that fits [250](nr_of_people) guests in the one king hotel
+- Is [this](room) one big enough for [200](nr_of_people) colleagues?
+- Is room [beta](room) large enough for [250](nr_of_people) persons?
+- What kind of rooms are available that has room for [150](nr_of_people) people in your hotel?
+- search an option for [300](nr_of_people) persons in your hotel
+- Is [it](room) large enough for [300](nr_of_people) guests?
+- What rooms do you provide that fits [250](nr_of_people) colleagues in your hotel?
+- search an option for [150](nr_of_people) people
+- What kind of rooms do you have that fits [150](nr_of_people) guests?
+- Is [alpha](room) big enough for [200](nr_of_people)?
+- Is [Alpha](room) big enough for [200](nr_of_people) colleagues?
+- search a location for [300](nr_of_people) people in your hotel
+- What rooms are available for [150](nr_of_people) guests in your hotel?
+- Will it have enough room for [300](nr_of_people) colleagues?
 - Is [gamma](room) big enough for [200](nr_of_people) guests?
-- search an event room that fits [250](nr_of_people) colleagues in the one king hotel
-- What kind of rooms are available that has room for [150](nr_of_people) people?
-- Is the [other](room) one big enough for [300](nr_of_people) guests?
-- search a room that fits [250](nr_of_people) people in the one king hotel
-- What rooms do you have for [300](nr_of_people) guests in the one king hotel?
-- Is [this](room) big enough for [200](nr_of_people)?
-- Is [this](room) space big enough for [150](nr_of_people) colleagues?
-- Is the [third](room) one large enough for [150](nr_of_people) people?
-- What kind of rooms are available that fits [300](nr_of_people) persons?
-- What kind of rooms are available that fits [200](nr_of_people) persons in your hotel?
+- What rooms are available that fits [250](nr_of_people) colleagues?
+- search an event room that fits [200](nr_of_people) guests in your hotel
+- How many rooms are available that fits [200](nr_of_people) persons in the one king hotel?
+- Is [this](room) one large enough for [150](nr_of_people) persons?
+- What kind of rooms are available that has room for [250](nr_of_people) persons in the one king hotel?
+- Is the [third](room) one big enough for [250](nr_of_people) persons?
+- search an option that fits [150](nr_of_people) colleagues in your hotel
+- Is the [second](room) one big enough for [250](nr_of_people) guests?
+- Is [it](room) big enough for [200](nr_of_people)?
+- search a room that fits [300](nr_of_people) guests in your hotel
+- How many rooms do you have that has room for [150](nr_of_people) people in the one king hotel?
+- What rooms do you have that has room for [200](nr_of_people) persons?
+- Is the [second](room) space large enough for [200](nr_of_people) people?
+- How many rooms do you provide that has room for [300](nr_of_people) colleagues in your hotel?
+- search a room that has room for [150](nr_of_people) colleagues in the one king hotel
+- How many rooms do you have that fits [150](nr_of_people) colleagues?
+- How many rooms do you provide that has room for [150](nr_of_people) guests in your hotel?
+- search an event room that fits [200](nr_of_people) persons in your hotel
+- Is room [Gamma](room) big enough for [250](nr_of_people) colleagues?
+- search an event room that fits [300](nr_of_people) guests in the one king hotel
+- How many rooms do you provide that has room for [150](nr_of_people) persons in your hotel?
+- Is [this](room) one large enough for [250](nr_of_people) persons?
+- Is [it](room) large enough for [250](nr_of_people)?
+- search an option that has room for [150](nr_of_people) colleagues in your hotel
+- What rooms do you provide that has room for [250](nr_of_people) guests in the one king hotel?
+- What rooms do you provide that fits [300](nr_of_people) people?
+- Is the [other](room) room big enough for [150](nr_of_people) colleagues?
+- How many rooms are available that has room for [300](nr_of_people) people in your hotel?
+- search an option that has room for [300](nr_of_people) people
+- Is [the](room) room big enough for [250](nr_of_people) persons?
+- What kind of rooms are available that fits [300](nr_of_people) persons in the one king hotel?
+- How many rooms are available that has room for [150](nr_of_people) guests?
+- search a room that fits [200](nr_of_people) people in the one king hotel
+- Is the [second](room) one big enough?
+- Is the [third](room) one large enough for [150](nr_of_people) guests?
+- Is [it](room) bigger?
+- How large is [this](room) room?
+- What kind of rooms are available for [150](nr_of_people) colleagues in the one king hotel?
+- search an option that has room for [150](nr_of_people) people
+- Is [it](room) big enough for [300](nr_of_people) people?
+- What rooms do you have that fits [250](nr_of_people) guests?
+- Is [this](room) room big enough for [150](nr_of_people) people?
+- What rooms are available for [250](nr_of_people) colleagues in your hotel?
+- search an option that has room for [250](nr_of_people) persons in the one king hotel
+- Is room [gamma](room) big enough for [150](nr_of_people) persons?
+- What kind of rooms do you have that fits [200](nr_of_people) people in the one king hotel?
+- search an option that fits [150](nr_of_people) people in the one king hotel
+- Is the [first](room) one big enough for [250](nr_of_people)?
+- Is [this](room) space big enough for [150](nr_of_people) persons?
+- How many rooms are available for [150](nr_of_people) persons?
+- What kind of rooms do you have that has room for [200](nr_of_people) persons in your hotel?
+- search an option that has room for [300](nr_of_people) guests
+- What rooms do you provide for [150](nr_of_people) persons in the one king hotel?
+- search an event room for [250](nr_of_people) colleagues in the one king hotel
+- Is [the](room) room large enough for [300](nr_of_people) colleagues?
+- How many rooms do you have for [300](nr_of_people) colleagues?
+- search a location that fits [150](nr_of_people) persons
+- What rooms do you provide for [150](nr_of_people) people in your hotel?
+- Is [this](room) large enough for [150](nr_of_people) colleagues?
+- Is the [second](room) one big enough for [150](nr_of_people) persons?
+- Is the [other](room) one big enough for [200](nr_of_people)?
+- What rooms are available that has room for [300](nr_of_people) people in the one king hotel?
+- Is [it](room) big enough for [300](nr_of_people) persons?
+- What rooms are available that fits [200](nr_of_people) persons in your hotel?
+- search an event room for [250](nr_of_people) persons in your hotel
+- How many rooms are available that has room for [250](nr_of_people) persons?
+- Is [it](room) large enough for [250](nr_of_people) colleagues?
+- search a room that has room for [250](nr_of_people) guests in the one king hotel
+- Is [the](room) room large enough for [250](nr_of_people) persons?
+- How many rooms do you have for [300](nr_of_people) people?
+- What kind of rooms are available for [200](nr_of_people) people in the one king hotel?
+- search a location that fits [200](nr_of_people) guests in the one king hotel
+- Is [this](room) one large enough for [200](nr_of_people) persons?
+- Is [the](room) room large enough for [300](nr_of_people)?
+- What kind of rooms are available that has room for [200](nr_of_people) colleagues in the one king hotel?
+- search a venue that fits [300](nr_of_people) guests
+- Is the [other](room) one big enough for [200](nr_of_people) people?
+- Is [gamma](room) large enough for [250](nr_of_people) guests?
+- search an option for [200](nr_of_people) people in your hotel
+- What rooms do you provide that fits [150](nr_of_people) colleagues?
+- How many rooms do you provide for [300](nr_of_people) guests in your hotel?
+- Is [Beta](room) big enough for [300](nr_of_people) persons?
+- Does it have enough room for [200](nr_of_people) colleagues?
+- search a venue that has room for [250](nr_of_people) people
+- What rooms do you provide that has room for [300](nr_of_people) persons in your hotel?
+- Is [this](room) big enough for [250](nr_of_people) guests?
+- Is [the](room) room large enough for [200](nr_of_people)?
+- Is [this](room) space bigger?
+- How large is room [beta](room)?
+- Is [it](room) big enough?
+- What rooms do you have that fits [250](nr_of_people) guests in the one king hotel?
+- How many rooms do you have that has room for [150](nr_of_people) people?
+- search an event room for [200](nr_of_people) persons in your hotel
+- search an option that fits [250](nr_of_people) guests in your hotel
+- What rooms are available that fits [150](nr_of_people) people in your hotel?
+- Is [alpha](room) big enough for [150](nr_of_people) guests?
+- Is the [first](room) one big enough for [200](nr_of_people) persons?
+- search a venue for [250](nr_of_people) guests
+- How many rooms do you have that fits [250](nr_of_people) guests?
+- How many rooms do you provide for [300](nr_of_people) people in the one king hotel?
+- Is the [second](room) one big enough for [300](nr_of_people) colleagues?
+- Is [this](room) large enough for [200](nr_of_people)?
+- search a location that fits [200](nr_of_people) guests in your hotel
+- How many rooms do you have that fits [250](nr_of_people) people in the one king hotel?
+- Is [Alpha](room) big enough for [300](nr_of_people) guests?
+- search a location that has room for [250](nr_of_people) guests in the one king hotel
+- What kind of rooms are available for [300](nr_of_people) people in your hotel?
+- How many rooms do you have for [200](nr_of_people) guests?
+- Is [it](room) large enough for [200](nr_of_people) guests?
+- How many rooms do you provide that has room for [300](nr_of_people) persons in the one king hotel?
+- search a meeting room that has room for [150](nr_of_people) people in your hotel
+- Is [this](room) large enough for [300](nr_of_people) guests?
+- What rooms are available that fits [200](nr_of_people) people in the one king hotel?
+- search an option for [200](nr_of_people) guests
+- Is room [Gamma](room) large enough for [150](nr_of_people)?
+- How many rooms do you provide for [300](nr_of_people) persons?
+- Is the [first](room) one large enough for [150](nr_of_people) people?
+- search a location for [150](nr_of_people) guests in the one king hotel
+- What kind of rooms are available that has room for [250](nr_of_people) colleagues in your hotel?
+- Is room [Gamma](room) large enough for [200](nr_of_people) colleagues?
+- search a room for [300](nr_of_people) people in the one king hotel
+- How many rooms are available that has room for [300](nr_of_people) guests?
+- Is [the](room) room large enough for [300](nr_of_people) people?
+- What rooms do you provide that has room for [150](nr_of_people) guests in the one king hotel?
+- Is room [Beta](room) big enough for [150](nr_of_people)?
+- Is the [other](room) one large enough for [150](nr_of_people) people?
+- Does it have enough space for [250](nr_of_people) people?
+- What kind of rooms are available that fits [250](nr_of_people) people?
+- search an option that fits [200](nr_of_people) guests in the one king hotel
+- How many rooms are available for [300](nr_of_people) people in your hotel?
+- Is [the](room) room large enough for [250](nr_of_people) colleagues?
+- What rooms are available that fits [300](nr_of_people) persons in the one king hotel?
+- search a meeting room that fits [150](nr_of_people) people in your hotel
+- Is [gamma](room) large enough for [300](nr_of_people) guests?
+- search a location for [250](nr_of_people) persons in your hotel
+- What rooms do you have for [300](nr_of_people) people in your hotel?
+- What kind of rooms do you have that has room for [200](nr_of_people) colleagues?
+- Is the [first](room) room larger?
+- How large is [it](room)?
+- Is [this](room) one large enough?
+- Is room [beta](room) big enough for [300](nr_of_people)?
+- Is [beta](room) big enough for [150](nr_of_people) colleagues?
+- How many rooms are available that fits [150](nr_of_people) colleagues in the one king hotel?
+- search a room for [200](nr_of_people) guests
+- Is the [second](room) one large enough for [150](nr_of_people) guests?
+- search an event room for [150](nr_of_people) guests in the one king hotel
+- What kind of rooms do you have that has room for [250](nr_of_people) colleagues in the one king hotel?
+- What kind of rooms do you provide that has room for [150](nr_of_people) colleagues?
+- Is room [gamma](room) large enough for [300](nr_of_people) people?
 - search a room that has room for [300](nr_of_people) persons in the one king hotel
-- What kind of rooms are available that fits [200](nr_of_people) persons in the one king hotel?
-- What rooms do you provide that fits [150](nr_of_people) colleagues in your hotel?
-- search a meeting room that has room for [300](nr_of_people) guests in your hotel
-- Is the [last](room) space large enough for [150](nr_of_people) persons?
+- What rooms do you provide that has room for [200](nr_of_people) guests in your hotel?
+- Is [beta](room) large enough for [300](nr_of_people)?
+- What kind of rooms do you provide that has room for [150](nr_of_people) people in your hotel?
+- What rooms do you have that fits [300](nr_of_people) colleagues?
+- search an event room that has room for [150](nr_of_people) persons in your hotel
+- Is [it](room) large enough for [300](nr_of_people) persons?
+- search a venue for [200](nr_of_people) guests in the one king hotel
+- What rooms do you provide that fits [150](nr_of_people) people in your hotel?
+- search a venue that has room for [250](nr_of_people) people in the one king hotel
+- What kind of rooms are available that fits [150](nr_of_people) people?
+- What rooms do you provide that fits [250](nr_of_people) people in your hotel?
+- search a venue that has room for [250](nr_of_people) persons in your hotel
+- How many rooms do you have for [150](nr_of_people) people in the one king hotel?
+- Is [it](room) large enough for [250](nr_of_people) people?
+- Is room [gamma](room) large enough for [250](nr_of_people)?
+- Is the [first](room) one large enough for [200](nr_of_people) people?
+- search a venue that has room for [200](nr_of_people) persons in the one king hotel
+- How many rooms do you provide for [250](nr_of_people) colleagues in your hotel?
+- Will it have enough space for [250](nr_of_people) persons?
+- Is [the](room) room large enough for [250](nr_of_people) people?
+- How many rooms are available for [200](nr_of_people) people in the one king hotel?
+- search a meeting room for [150](nr_of_people) colleagues in your hotel
+- Is [it](room) large enough for [300](nr_of_people) colleagues?
+- What rooms do you provide that fits [300](nr_of_people) persons in the one king hotel?
+- How many rooms are available that fits [250](nr_of_people) guests?
+- search a room that has room for [250](nr_of_people) people in your hotel
+- Is [this](room) one large enough for [300](nr_of_people) people?
+- How many rooms do you have that has room for [250](nr_of_people) guests in your hotel?
+- search an event room for [250](nr_of_people) people
+- search a venue for [300](nr_of_people) guests in your hotel
+- What kind of rooms do you have that fits [300](nr_of_people) colleagues?
+- How many rooms do you provide for [300](nr_of_people) persons in the one king hotel?
+- Is room [gamma](room) large enough for [150](nr_of_people) people?
+- search an option for [250](nr_of_people) people
+- How many rooms are available that fits [250](nr_of_people) colleagues in the one king hotel?
+- Is room [alpha](room) large enough for [150](nr_of_people) guests?
+- Is [this](room) one larger?
+- What kind of rooms are available for [250](nr_of_people) persons in the one king hotel?
+- search a meeting room that fits [150](nr_of_people) people
+- How many rooms are available that fits [250](nr_of_people) persons?
+- Is [it](room) big enough for [200](nr_of_people) people?
+- search a location that has room for [250](nr_of_people) persons
+- What rooms do you have that fits [250](nr_of_people) people in your hotel?
+- Is the [third](room) one big enough for [250](nr_of_people) colleagues?
+- How many rooms do you have that has room for [300](nr_of_people) colleagues in the one king hotel?
+- What rooms are available that fits [200](nr_of_people) guests?
+- Is the [first](room) one large enough for [150](nr_of_people) colleagues?
+- What kind of rooms do you have that has room for [300](nr_of_people) colleagues in the one king hotel?
+- search an option that has room for [250](nr_of_people) guests in your hotel
+- Is [this](room) one big enough for [250](nr_of_people) guests?
+- How many rooms are available that has room for [250](nr_of_people) guests in your hotel?
+- search an option for [300](nr_of_people) people in your hotel
+- What rooms do you provide that fits [250](nr_of_people) guests?
+- Is the [last](room) one big enough for [250](nr_of_people) persons?
+- What rooms do you have for [200](nr_of_people) colleagues in your hotel?
+- search a venue that fits [150](nr_of_people) persons
+- Does it have enough space for [250](nr_of_people) guests?
+- Is the [last](room) space large enough for [200](nr_of_people) guests?
+- search an option that fits [300](nr_of_people) guests
+- What rooms are available that has room for [150](nr_of_people) colleagues?
+- How many rooms do you have for [200](nr_of_people) persons in your hotel?
+- Is [beta](room) large enough for [250](nr_of_people)?
+- What rooms are available for [300](nr_of_people) colleagues in the one king hotel?
+- search a venue that fits [300](nr_of_people) guests in your hotel
+- Is room [Alpha](room) large enough for [150](nr_of_people) persons?
+- Is room [gamma](room) large enough for [300](nr_of_people) colleagues?
+- How many rooms do you have for [150](nr_of_people) guests?
+- search an option that has room for [250](nr_of_people) persons
+- Is the [first](room) room big enough for [300](nr_of_people) guests?
+- search a location that has room for [150](nr_of_people) people in your hotel
+- What rooms do you provide that fits [300](nr_of_people) people in the one king hotel?
+- Is [this](room) one large enough for [300](nr_of_people)?
+- search an option that has room for [250](nr_of_people) colleagues
+- How many rooms do you provide for [200](nr_of_people) colleagues in the one king hotel?
+- Is the [other](room) one big enough for [200](nr_of_people) persons?
+- search a meeting room that has room for [150](nr_of_people) guests
+- What rooms do you provide that fits [200](nr_of_people) people in your hotel?
+- Is the [third](room) one big enough for [300](nr_of_people) persons?
+- Is the [second](room) one large enough for [200](nr_of_people) people?
+- search a room that fits [200](nr_of_people) persons
+- What rooms are available for [250](nr_of_people) people in your hotel?
+- What rooms are available that fits [150](nr_of_people) people?
+- How big is [Beta](room)?
+- Is the [third](room) one larger?
+- Is [it](room) large enough for [300](nr_of_people)?
+- Is the [third](room) space large enough for [200](nr_of_people) people?
+- Is [this](room) one big enough?
+- What rooms do you have that has room for [250](nr_of_people) people in the one king hotel?
+- search an option that fits [200](nr_of_people) guests
+- Is [this](room) one large enough for [150](nr_of_people) people?
+- search an event room that fits [250](nr_of_people) people in the one king hotel
+- What rooms do you have that fits [200](nr_of_people) guests?
+- How many rooms do you have that has room for [250](nr_of_people) persons in the one king hotel?
+- search a location for [200](nr_of_people) guests in the one king hotel
+- How many rooms do you have that has room for [300](nr_of_people) persons in the one king hotel?
+- Are the [others](room) large enough?
+- Are the [other](room) ones larger?
+- Will it have enough room for [200](nr_of_people) people?
+- How many rooms are available that has room for [250](nr_of_people) colleagues?
+- Is [this](room) one large enough for [200](nr_of_people)?
+- What rooms do you have that has room for [250](nr_of_people) guests in your hotel?
+- Is [alpha](room) large enough for [250](nr_of_people) guests?
+- Is [the](room) room big enough for [250](nr_of_people) guests?
+- search an event room that fits [250](nr_of_people) guests
+- How many rooms do you have for [300](nr_of_people) people in your hotel?
+- Is room [alpha](room) large enough for [200](nr_of_people) guests?
+- How many rooms are available that fits [200](nr_of_people) guests in your hotel?
+- What kind of rooms do you provide that has room for [200](nr_of_people) people?
+- search a location for [300](nr_of_people) persons in the one king hotel
+- Is room [gamma](room) big enough for [150](nr_of_people) guests?
+- search an option that fits [150](nr_of_people) people
+- Is [this](room) space large enough for [250](nr_of_people)?
+- What rooms do you provide for [250](nr_of_people) people in the one king hotel?
+- What kind of rooms do you provide that fits [150](nr_of_people) guests?
+- What rooms do you have for [150](nr_of_people) people in the one king hotel?
+- search an option that has room for [300](nr_of_people) colleagues in the one king hotel
+- Is [Alpha](room) large enough for [300](nr_of_people) guests?
+- What kind of rooms are available that has room for [300](nr_of_people) persons?
+- How many rooms are available that fits [300](nr_of_people) people in your hotel?
+- search an option that fits [250](nr_of_people) people in the one king hotel
+- Is [it](room) large enough for [200](nr_of_people)?
+- Is [Alpha](room) large enough for [250](nr_of_people) colleagues?
+- What kind of rooms are available that fits [250](nr_of_people) guests in your hotel?
+- search an event room that fits [300](nr_of_people) persons in your hotel
+- Is the [last](room) one big enough for [200](nr_of_people) people?
+- search an event room that has room for [150](nr_of_people) guests
+- Is the [third](room) room large enough for [250](nr_of_people) people?
+- search a meeting room that has room for [200](nr_of_people) people in your hotel
+- How big is [gamma](room)?
+- Is the [first](room) space big enough?
+- Is the [first](room) space big enough for [300](nr_of_people)?
+- How many rooms are available for [250](nr_of_people) colleagues in your hotel?
+- How many rooms do you provide for [250](nr_of_people) people?
+- Is [the](room) room big enough for [300](nr_of_people) colleagues?
+- Will it have enough space for [150](nr_of_people) colleagues?
+- search an option that has room for [300](nr_of_people) colleagues
+- Is the [other](room) one big enough for [250](nr_of_people) people?
+- What rooms are available that has room for [150](nr_of_people) guests?
+- search a venue that fits [150](nr_of_people) colleagues in your hotel
+- How many rooms do you provide that fits [200](nr_of_people) people in your hotel?
+- How many rooms do you provide for [300](nr_of_people) persons in your hotel?
+- search an event room for [150](nr_of_people) colleagues
+- Is [beta](room) large enough for [200](nr_of_people) persons?
+- What kind of rooms are available that fits [200](nr_of_people) colleagues in the one king hotel?
+- What kind of rooms do you have that has room for [250](nr_of_people) persons?
+- search an event room for [200](nr_of_people) people in your hotel
+- Is the [first](room) room big enough for [250](nr_of_people) people?
+- search an option for [150](nr_of_people) persons
+- What kind of rooms are available for [250](nr_of_people) people in the one king hotel?
+- Is the [last](room) space big enough for [150](nr_of_people) guests?
+- What kind of rooms are available that fits [150](nr_of_people) colleagues?
+- What kind of rooms do you provide that fits [200](nr_of_people) people in your hotel?
+- search an event room for [300](nr_of_people) colleagues in your hotel
+- search an event room that fits [200](nr_of_people) colleagues in the one king hotel
+- What kind of rooms do you have that fits [300](nr_of_people) persons in the one king hotel?
+- Is [this](room) space big enough for [200](nr_of_people) people?
+- search a venue that has room for [150](nr_of_people) colleagues in the one king hotel
+- What kind of rooms do you have for [200](nr_of_people) persons?
+- What rooms do you provide that fits [150](nr_of_people) colleagues in the one king hotel?
+- Is [this](room) room large enough for [300](nr_of_people) people?
 
 ## intent:deny
-- Maybe not
-- Absolutely not
-- No, I'm sorry
-- I'm sorry, but no
 - nope
 - No thank you
 - No man
-- no
-- No thanks
-- No, I'm good
 - No, I don't think so
+- Absolutely not
+- I'm sorry, but no
+- No thanks
 - Not today
 - Maybe not
-- Absolutely not
+- no
+- No, I'm good
 - No, I'm sorry
-- I'm sorry, but no
 - nope
 - No thank you
 - No man
-- no
-- No thanks
-- No, I'm good
 - No, I don't think so
+- Absolutely not
+- I'm sorry, but no
+- No thanks
 - Not today
 - Maybe not
-- Absolutely not
+- no
+- No, I'm good
 - No, I'm sorry
-- I'm sorry, but no
 - nope
 - No thank you
 - No man
-- no
-- No thanks
-- No, I'm good
 - No, I don't think so
+- Absolutely not
+- I'm sorry, but no
+- No thanks
 - Not today
+- Maybe not
+- no
+- No, I'm good
+- No, I'm sorry
+
 
 ## intent:disagree
 - That doesn't sound good
-- Hm, doesn't seem good
 - Not great
 - I don't like it
+- Hm, doesn't seem good
 - That doesn't work
 - That doesn't sound good
-- Hm, doesn't seem good
 - Not great
 - I don't like it
+- Hm, doesn't seem good
 - That doesn't work
 - That doesn't sound good
-- Hm, doesn't seem good
 - Not great
 - I don't like it
-- That doesn't work
-- That doesn't sound good
 - Hm, doesn't seem good
-- Not great
-- I don't like it
 - That doesn't work
 
 ## intent:farewell
-- Chat with you later, Madam, Thanks
-- We will be in touch
-- ok, Thank you
-- ok, Talk to you later, Thanks
-- Thanks for helping me. We will be in touch
-- ok, Bye-bye
-- Seeya
-- ok, Thank you, Byebye
-- Thanks for helping me. We will be in touch. Seeya
-- Wish you a great evening
-- Seeya, Madam, Thank you very much
-- Thank you very much. I will be in touch. Seeya
-- Seeya, Bro, Thanks
-- Talk to you later, Bro, Many thanks
-- Thanks. We will be in touch. Byebye
-- Chat with you later, Bro, Thanks for your help
-- Byebye, Sir, Many thanks
-- ok, Thank you, Goodbye
-- Talk to you later, Bro, Thanks very much
-- Thanks for the help. I will contact you again. Talk later
-- ok, Goodbye, Many thanks
-- Bye, Bro, Thanks for helping
-- Thanks for helping me. I will contact you again. Talk later
-- Chat with you later, Bro, Thanks very much
-- Byebye, Madam, Thanks very much
-- Goodbye, , Thanks a lot
-- Thanks. We will be in touch. Bye-bye
-- I wish you a great day
-- Bye-bye, Francis, Thank you so much
-- Byebye, , Thank you very much
-- ok, Thank you, See you
-- Thanks so much. I will contact you again. Talk to you later
-- ok, Chat with you later, Thank you so much
-- Talk later, Bro, Thank you very much
-- Bye-bye, Bro, Thanks for helping
-- Thanks very much. I will be in touch. Talk to you later
-- Byebye, Dude, Thanks
-- Bye-bye, Madam, Thank you
-- Thanks a lot. I will be in touch. Talk to you later
-- Seeya, Sir, Thanks for helping me
-- Thanks for helping me. I will contact you again
-- Thanks a lot. I will be in touch. Chat with you later
-- ok, Thanks very much, Byebye
-- ok, Bye-bye, Many thanks
-- Talk to you later, , Thanks a lot
-- See you, Francis, Thank you
-- Bye-bye, Madam, Many thanks
-- Thanks. We will be in touch. Bye
-- Seeya, Bro, Thanks so much
-- I wish you a nice night
-- Bye, Francis, Thanks a lot
-- Many thanks. I will be in touch. Seeya
-- See you, Madam, Thank you so much
-- ok, Seeya, Thank you very much
-- Byebye, Francis, Thanks a lot
-- Thanks for helping. I will be in touch. Talk to you later
-- ok, Thank you so much, Chat with you later
-- Seeya, Bro, Thanks a lot
-- Talk to you later, Sir, Thanks a lot
-- Thanks so much. We will be in touch. Seeya
-- Bye-bye, Sir, Thanks for the help
-- Many thanks. I will contact you again. See you
-- Talk later, Francis, Thank you so much
-- Talk later, Bro, Thanks a lot
-- ok, Byebye, Thanks
-- Thanks so much. I will contact you again. See you
-- Bye, Madam, Thank you very much
-- ok, Many thanks, Goodbye
-- Talk later, Dude, Thanks a lot
-- Thank you. I will contact you again. See you
-- Goodbye, Madam, Many thanks
-- I wish you a good day
-- Bye, Dude, Many thanks
-- See you, Bro, Thanks so much
-- Thank you very much. I will be in touch. Talk later
-- Bye, , Thanks
-- ok, See you, Thank you very much
-- Thanks. I will be in touch
-- Thanks a lot. We will be in touch. Talk to you later
-- ok, Thanks for helping, Bye
-- Goodbye, , Thanks for the help
-- Byebye, , Thank you
-- Many thanks. We will be in touch. Talk later
-- Talk to you later, Bro, Thank you so much
-- Bye, Sir, Thanks
-- Thanks. I will be in touch. Talk to you later
-- See you, Francis, Thanks very much
-- ok, Thanks very much, Chat with you later
-- ok, Goodbye, Thanks so much
-- Seeya, Bro, Many thanks
-- Thank you. We will be in touch. Bye-bye
-- Talk to you later, Dude, Thanks for helping
-- Wish you a good afternoon
-- Thanks so much. We will be in touch. Bye-bye
-- Talk later, Francis, Many thanks
-- Seeya, Bro, Thank you so much
-- Thank you. I will be in touch. Goodbye
-- Seeya, Madam, Thanks for the help
-- Byebye, Bro, Many thanks
-- ok, Thanks a lot, Bye-bye
-- Goodbye, , Thanks so much
-- Thanks for helping. I will be in touch. Bye-bye
-- ok, Goodbye, Thanks
-- Seeya, Francis, Thank you so much
-- Thank you very much. We will be in touch. Bye
-- Chat with you later, , Many thanks
-- Goodbye, , Thanks for helping
-- Thanks a lot. We will be in touch. Bye-bye
-- See you, Francis, Thanks a lot
-- Byebye, , Thanks a lot
-- See you, Madam, Thanks for your help
-- ok, Thanks for your help
-- ok, Thank you, Talk later
-- Many thanks. We will be in touch
-- I wish you a nice afternoon
-- ok, See you, Thank you so much
-- Thank you very much. I will contact you again. Talk to you later
-- Bye, Francis, Thanks
-- Thanks a lot. I will be in touch. Bye-bye
-- Goodbye, Madam, Thanks for the help
-- See you, Francis, Thank you very much
-- Thanks very much. I will contact you again. Bye
-- Byebye, Dude, Thank you
-- ok, Thanks a lot, Byebye
-- ok, Talk to you later, Many thanks
-- Bye-bye, Madam, Thanks a lot
-- Thanks. We will be in touch. See you
-- Talk to you later, Dude, Thanks so much
-- Thanks for your help. We will be in touch. Talk later
-- Seeya, , Thank you so much
-- I hope you'll have a good night
-- See you, Sir, Thank you
-- Thanks for the help. I will contact you again. Talk to you later
-- ok, Seeya, Thanks very much
-- ok, Thank you so much, Byebye
-- Goodbye, Madam, Thanks so much
-- Goodbye, , Many thanks
-- Many thanks. I will contact you again. Bye-bye
-- Talk later, Dude, Many thanks
-- Goodbye, , Thanks very much
-- Bye, Bro, Thank you so much
-- Thank you. We will be in touch. Goodbye
-- Talk to you later, Bro, Thanks
-- Thanks. We will be in touch. Talk later
-- ok, Thank you so much, Bye
-- Seeya, Dude, Thanks a lot
-- ok, Chat with you later
-- Bye-bye
-- Thanks very much. I will be in touch
-- Bye, Dude, Thanks
-- Thank you very much. We will be in touch. Talk later
-- Bye-bye, Dude, Thank you very much
-- Talk later, , Many thanks
-- Thanks very much. I will be in touch. See you
-- See you, Madam, Thank you very much
-- ok, See you, Thanks
-- See you, , Thank you
-- Thank you so much. I will contact you again. Bye
-- ok, Thanks, Talk to you later
-- Bye-bye, Sir, Thanks so much
-- Thank you. We will be in touch. Talk to you later
-- Goodbye, Bro, Thanks for helping me
-- See you, Dude, Thanks so much
-- Goodbye, Francis, Thanks a lot
-- Bye-bye, Sir, Many thanks
-- ok, Thank you very much, Chat with you later
-- Thanks a lot. We will be in touch. Chat with you later
-- Bye, Bro, Many thanks
-- Thank you so much. I will contact you again. See you
-- Byebye, Sir, Thanks very much
-- Have a great evening
-- Bye, Francis, Thank you so much
-- Chat with you later, Dude, Thanks
-- Thanks for helping. We will be in touch. Bye-bye
-- Goodbye, Dude, Many thanks
-- Chat with you later, Sir, Thank you
-- ok, Goodbye, Thanks for your help
-- Thank you so much. I will be in touch. Seeya
-- ok, Thanks for your help, See you
-- Thank you. I will contact you again
-- Seeya, Madam, Thank you
-- See you, Sir, Thanks very much
-- Thank you. I will contact you again. Chat with you later
-- See you, Bro, Thanks very much
-- Many thanks. I will contact you again. Talk later
-- Talk later, Dude, Thanks so much
-- Talk later, Francis, Thanks for helping me
-- ok, Goodbye, Thank you very much
-- Thanks very much. I will be in touch. Byebye
-- ok, Thanks a lot, Goodbye
-- Chat with you later, Madam, Thank you so much
-- Goodbye, Dude, Thank you
-- Thank you. I will be in touch. See you
-- Chat with you later, Sir, Thank you very much
-- Bye-bye, Dude, Thanks so much
-- See you, Bro, Thank you
-- Thanks a lot. I will be in touch. Seeya
-- Byebye, Francis, Thanks for the help
-- Seeya, Dude, Thanks
-- Thanks a lot. We will be in touch. Goodbye
-- ok, Bye-bye, Thank you
-- ok, Thank you, Seeya
-- Goodbye, Dude, Thank you very much
-- Thanks so much. We will be in touch. Chat with you later
-- Byebye, Bro, Thanks for your help
-- Goodbye, Sir, Thanks for the help
-- Thank you. I will be in touch. Talk to you later
-- Thank you very much. We will be in touch. Talk to you later
-- ok, Thanks a lot
-- Bye, Dude, Thank you very much
-- ok, Thanks for the help, Byebye
-- Thanks so much. I will be in touch
-- See you, Dude, Thank you
-- Byebye, Francis, Thanks so much
-- Bye-bye, Sir, Thank you very much
-- Seeya, , Thanks so much
-- Thank you very much. We will be in touch. Bye-bye
-- Bye, Bro, Thanks so much
-- ok, Many thanks, Byebye
-- Goodbye, Madam, Thank you very much
-- Goodbye, Sir, Many thanks
-- Thank you so much. I will contact you again. Byebye
-- Bye-bye, Francis, Thank you
-- Goodbye, Sir, Thank you
-- Have a nice evening
-- Goodbye, Dude, Thanks so much
-- ok, See you, Thank you
-- ok, Thanks a lot, Chat with you later
-- Thanks. I will contact you again. Bye-bye
-- Bye-bye, Dude, Thanks very much
-- Talk later, Dude, Thank you so much
-- Thanks. I will contact you again. Chat with you later
-- Chat with you later, Bro, Thank you
-- Thank you very much. I will contact you again. See you
-- ok, Bye, Thank you so much
-- Talk later, Dude, Thanks very much
-- ok, Thank you so much, Goodbye
-- Chat with you later, Madam, Thanks so much
-- Talk later, , Thanks
-- Thank you so much. We will be in touch. Byebye
-- Talk to you later, Dude, Thank you
-- Wish you a nice afternoon
-- Thank you very much. We will be in touch. Seeya
-- Talk to you later, , Thanks for helping me
-- Talk to you later, Sir, Thanks for helping
-- ok, Many thanks, Talk to you later
-- Bye-bye, Bro, Thanks very much
-- ok, Talk to you later, Thanks so much
-- Thank you so much. I will be in touch. Talk later
-- See you, Bro, Thanks a lot
-- Bye-bye, Dude, Thanks
-- Talk to you later, Francis, Thanks a lot
-- Thank you very much. We will be in touch. Goodbye
-- Talk to you later, Madam, Thanks a lot
-- Many thanks. We will be in touch. Chat with you later
-- Talk to you later, Sir, Thank you
-- ok, Chat with you later, Thanks a lot
-- Bye-bye, , Thanks a lot
-- Seeya, Bro, Thank you
-- Thank you so much. I will be in touch. See you
-- I hope you'll have a great evening
-- Thanks so much. I will be in touch. Bye
-- Goodbye, Bro, Many thanks
-- Thanks for helping me. I will be in touch. Talk to you later
-- Bye
-- ok, Bye
-- Thank you very much. We will be in touch
-- See you, Sir, Thanks a lot
-- Talk later, Madam, Thanks for helping
-- Talk to you later, , Many thanks
-- See you, , Thanks a lot
-- Thank you very much. I will contact you again. Goodbye
-- Thanks a lot. I will contact you again. Bye-bye
-- Goodbye, Sir, Thank you so much
-- ok, Thanks so much, Bye
-- ok, Chat with you later, Thank you very much
-- Wish you a good time
-- Many thanks. I will be in touch. Chat with you later
-- Bye-bye, Madam, Thank you very much
-- Talk later, Sir, Thank you so much
-- Goodbye, Madam, Thank you
-- Thanks so much. I will contact you again. Seeya
-- Seeya, Sir, Thanks so much
-- Many thanks. I will contact you again. Talk to you later
-- ok, Byebye, Thanks very much
-- Bye, Dude, Thanks very much
-- Seeya, Dude, Thank you very much
-- Thanks very much. I will be in touch. Bye-bye
-- Byebye, Sir, Thank you
-- Many thanks. We will be in touch. Bye
-- Talk to you later, Dude, Many thanks
-- See you, , Thanks very much
-- ok, Chat with you later, Thanks
-- Thanks for helping. We will be in touch. Chat with you later
-- Thanks a lot. I will be in touch
-- I wish you a great evening
-- ok, Thanks very much
-- ok, Thanks, Goodbye
-- Chat with you later, Bro, Thank you so much
-- Thanks so much. I will contact you again. Talk later
-- Bye-bye, , Many thanks
-- ok, Talk later, Thanks a lot
-- Goodbye, , Thanks for your help
-- ok, Thanks very much, Seeya
-- Goodbye, Sir, Thanks very much
-- Thank you. We will be in touch. Byebye
-- Chat with you later, Francis, Thanks very much
-- Seeya, Dude, Thanks so much
-- Thank you. I will be in touch. Chat with you later
-- Talk later, Sir, Many thanks
-- I hope you'll have a great afternoon
-- Chat with you later, Dude, Thanks very much
-- Talk later, Madam, Thank you
-- Many thanks. I will contact you again. Bye
-- ok, See you, Thanks for helping me
-- ok, Thanks so much, Bye-bye
-- Bye-bye, Sir, Thank you
-- Thanks a lot. I will contact you again. See you
-- Talk later, Francis, Thanks
-- Goodbye, Francis, Thanks
-- See you, Sir, Thanks so much
-- Talk later, , Thanks for your help
-- Seeya, , Thanks
-- Thanks. I will be in touch. Chat with you later
-- Have a good afternoon
-- Thanks a lot. I will contact you again. Goodbye
-- Seeya, Madam, Thanks very much
-- ok, Goodbye, Thanks very much
-- Thanks very much. I will contact you again. Seeya
-- Talk later, Madam, Thanks so much
-- Chat with you later, Dude, Thank you so much
-- Thanks for your help. I will be in touch. Goodbye
-- Seeya, Bro, Thank you very much
-- Thanks a lot. I will contact you again. Seeya
-- Bye-bye, Bro, Thanks a lot
-- Chat with you later, Dude, Thanks so much
-- Talk later, , Thanks very much
-- ok, Seeya, Thanks so much
-- Many thanks. I will contact you again. Seeya
-- ok, Thanks very much, Bye
-- Byebye, Madam, Thanks
-- Thanks so much. We will be in touch. Bye
-- Bye-bye, , Thanks for helping
-- See you, Bro, Thanks for your help
-- Chat with you later, Madam, Thanks very much
-- Thanks. We will be in touch. Talk to you later
-- Goodbye, Madam, Thanks
-- Thanks for helping. I will contact you again. Goodbye
-- ok, Talk later, Thank you so much
-- ok, Thanks a lot, Talk later
-- Thanks for the help. We will be in touch
-- Chat with you later, Sir, Thank you so much
-- Seeya, Francis, Thanks so much
-- Many thanks. I will contact you again. Chat with you later
-- Goodbye, Francis, Thank you so much
-- Talk later, Bro, Many thanks
-- ok, Thank you very much, Bye
-- Talk to you later, Bro, Thanks for your help
-- Bye-bye, Bro, Thank you
-- Talk to you later, Francis, Thank you
-- ok, Talk to you later, Thanks very much
-- ok, Thanks a lot, Bye
-- Talk later, Dude, Thanks
-- Thanks. I will contact you again. Seeya
-- Bye-bye, Madam, Thanks
-- Talk to you later, , Thanks for helping
-- Bye, Francis, Thank you very much
-- I hope you'll have a good afternoon
-- ok, Thanks for helping me, Bye
-- I will contact you again
+- Thanks a lot. We will be in touch. Seeya
+- ok, Bye, Thanks
 - ok, Talk later
-- Talk to you later, Sir, Many thanks
-- Thank you so much. I will contact you again. Bye-bye
-- Byebye, Sir, Thanks for helping
-- Thanks for helping. We will be in touch. Bye
-- See you, Dude, Thanks very much
-- ok, Thanks, See you
-- Bye-bye, Francis, Thank you very much
-- Thanks for the help. I will contact you again. See you
-- Byebye, , Thank you so much
-- Goodbye, Bro, Thank you so much
-- Thank you very much. I will be in touch. Chat with you later
-- ok, Thank you very much, See you
-- Thank you so much. We will be in touch. Seeya
-- Talk later, Sir, Thanks very much
-- Bye, , Thank you so much
-- Thanks a lot. I will contact you again
-- ok, Chat with you later, Thanks very much
-- Thanks very much. I will contact you again. See you
-- ok, Thanks, Talk later
-- See you, Madam, Thank you
-- Bye, Bro, Thanks for the help
-- Thanks so much. We will be in touch. Talk later
-- Goodbye, Bro, Thanks so much
-- See you, , Thanks for helping me
-- Thanks for your help. We will be in touch. Bye-bye
-- Seeya, Bro, Thanks very much
-- Thank you very much. I will be in touch. Byebye
-- See you, Bro, Many thanks
-- Thank you so much. I will be in touch. Bye-bye
-- Bye-bye, Bro, Thank you very much
-- Talk later, , Thank you
-- Thanks. I will be in touch. Talk later
-- ok, Thanks for helping, Goodbye
-- Thanks very much. I will contact you again. Byebye
-- Thanks. I will be in touch. Bye
+- I will contact you again
+- ok, Thanks a lot, Talk later
+- Chat with you later
+- ok, Thanks
 - Wish you a great afternoon
-- Talk to you later, Bro, Thanks a lot
-- Bye-bye, Francis, Thanks for helping me
-- Thanks so much. I will be in touch. Talk later
-- Byebye, Madam, Thank you
-- Chat with you later, Madam, Thanks a lot
-- Thanks very much. I will be in touch. Chat with you later
-- See you, Madam, Thanks for helping me
-- Byebye, Bro, Thank you very much
-- ok, Chat with you later, Thanks so much
-- ok, Thank you very much, Talk later
-- I wish you a nice evening
-- Byebye, Bro, Thank you
-- Thanks very much. I will be in touch. Goodbye
-- Thanks for your help. I will contact you again. Bye-bye
-- See you, Madam, Thanks
-- See you, Madam, Many thanks
-- Talk to you later, , Thanks
-- Talk to you later, Sir, Thanks so much
-- Many thanks. I will be in touch. Talk to you later
-- Talk later, Bro, Thank you
-- Chat with you later, Francis, Thanks for the help
-- Bye-bye, Bro, Thanks so much
-- ok, Thank you so much, Talk to you later
-- Thank you very much. I will be in touch
-- Wish you a good evening
-- ok, Many thanks
-- Goodbye, Madam, Thanks for helping me
-- Thanks so much. We will be in touch. Talk to you later
-- Thank you. We will be in touch. Talk later
-- Talk to you later, Madam, Thanks so much
-- Thanks so much. I will be in touch. Chat with you later
-- Bye-bye, Dude, Thank you so much
-- ok, See you, Thanks for helping
-- Byebye, Bro, Thanks very much
-- Chat with you later, Madam, Thanks for helping me
-- Thanks. I will contact you again. Talk to you later
-- Talk later, Bro, Thanks so much
-- Bye-bye, Sir, Thanks very much
-- Thanks for your help. I will contact you again. Bye
-- Have a great time
-- ok, Thank you very much, Seeya
-- Bye, Sir, Thanks so much
-- ok, Bye, Thank you very much
-- Goodbye, Bro, Thanks very much
-- Thanks very much. We will be in touch. Bye
-- Talk later, Sir, Thanks
-- Bye, , Thanks very much
-- Talk to you later, Sir, Thank you very much
-- ok, Thanks for helping me, Chat with you later
-- Many thanks. I will contact you again
-- Thanks a lot. I will be in touch. Byebye
-- Wish you a nice time
-- Thanks very much. I will contact you again. Bye-bye
-- ok, Bye-bye, Thanks
-- Bye, , Many thanks
-- ok, Thank you so much, Talk later
-- Thanks a lot. We will be in touch. Bye
-- Goodbye, Francis, Thanks very much
-- Thanks a lot. I will contact you again. Chat with you later
-- ok, Talk to you later, Thank you so much
-- ok, Thank you, Chat with you later
-- Thanks so much. I will be in touch. Seeya
-- Bye, Francis, Thank you
-- Chat with you later, Francis, Thank you
-- Have a nice day
-- Seeya, Dude, Thanks very much
-- Thanks. I will be in touch. Byebye
-- Seeya, Sir, Thanks a lot
-- ok, Thank you so much, Bye-bye
-- Bye-bye, Sir, Thank you so much
-- Thanks so much. I will contact you again
-- Thanks for helping. I will contact you again. Chat with you later
-- Byebye, Dude, Thanks a lot
-- Goodbye, Dude, Thanks for the help
-- Thank you. We will be in touch. Chat with you later
-- Talk to you later, , Thank you so much
+- Thanks for helping me. I will contact you again
+- Talk to you later, Dude, Thanks for helping me
+- Chat with you later, Francis, Thanks a lot
+- Chat with you later, , Thank you
+- Thanks. I will be in touch. Talk later
+- Chat with you later, Dude, Many thanks
 - Thank you. I will contact you again. Seeya
-- Bye-bye, Madam, Thanks so much
-- Thanks. I will be in touch. See you
-- Seeya, Sir, Thank you so much
-- ok, Thanks so much, Talk later
-- Talk to you later, Sir, Thanks very much
-- Byebye, Madam, Thanks a lot
+- See you, Bro, Thanks for helping me
+- Bye-bye, Dude, Thank you very much
+- ok, Thank you very much, See you
+- Thanks. I will contact you again. Goodbye
+- Talk to you later, Madam, Many thanks
+- ok, Talk to you later, Thank you so much
+- Seeya, Francis, Thanks a lot
+- Thanks so much. We will be in touch. Bye
+- Bye, Sir, Thanks a lot
+- Talk to you later, Francis, Many thanks
+- Bye-bye, Madam, Thank you very much
+- Thanks for the help. I will be in touch. Bye
+- Have a good time
+- Bye, Francis, Thanks for helping me
+- ok, Byebye, Thanks so much
+- Talk to you later, Bro, Thanks very much
+- Thanks for your help. I will be in touch. Bye-bye
+- ok, Thanks very much, Bye-bye
+- Bye, , Many thanks
+- Thanks for your help. We will be in touch. Seeya
+- See you, , Thank you very much
+- Seeya, Dude, Thanks for helping me
+- Thank you very much. We will be in touch. Talk to you later
+- Seeya, Madam, Thanks so much
+- Bye, Dude, Thank you very much
+- Bye, Bro, Thanks a lot
+- ok, Thanks so much, See you
+- ok, Byebye, Thanks
+- Thanks so much. I will be in touch. Chat with you later
+- Thanks. I will be in touch
+- Goodbye, Dude, Thanks
 - Thanks so much. I will be in touch. Bye-bye
-- Bye-bye, Sir, Thanks a lot
-- Bye-bye, Francis, Thanks so much
-- Goodbye, , Thanks for helping me
-- ok, Talk to you later, Thanks a lot
-- Chat with you later, Dude, Thank you
-- ok, Thank you so much
+- Talk to you later, Dude, Thank you so much
+- See you, Dude, Thanks so much
+- Have a good evening
+- Thanks for helping me. I will be in touch. Byebye
+- Bye, Sir, Thank you so much
+- Byebye, Sir, Thank you very much
+- ok, Chat with you later, Thank you very much
+- Thanks very much. We will be in touch. Seeya
+- ok, Thanks a lot, Seeya
+- See you, Sir, Thanks so much
+- Thanks a lot. I will contact you again. Goodbye
+- Seeya, Francis, Thank you very much
+- Talk later, Francis, Thanks very much
+- Thanks a lot. I will contact you again. Bye
+- Bye, , Thanks so much
+- See you, Bro, Thank you very much
+- ok, Thanks so much, Seeya
+- ok, See you, Thanks so much
+- Thanks a lot. We will be in touch. See you
+- Seeya, Dude, Thanks for the help
+- Talk later, Bro, Thank you
+- Chat with you later, Bro, Thank you
+- Thanks for the help. I will contact you again. Goodbye
+- Wish you a great time
+- Bye, Madam, Many thanks
+- Talk later, , Thank you very much
+- Thanks so much. We will be in touch. See you
+- Chat with you later, Sir, Thank you
+- Thank you. I will be in touch. Goodbye
+- ok, Thanks for helping me, See you
+- ok, Talk to you later, Thank you very much
+- Talk to you later, Madam, Thanks so much
+- Thanks a lot. We will be in touch
+- Seeya, Dude, Thank you so much
+- Thank you so much. I will contact you again. Seeya
+- Goodbye, Sir, Thank you very much
+- Bye-bye, Madam, Thanks so much
+- Byebye, Madam, Thanks
+- Thanks. We will be in touch. Bye-bye
+- Goodbye, Francis, Thank you very much
+- Thanks very much. I will be in touch. Talk later
+- ok, Byebye, Many thanks
+- Chat with you later, Dude, Thanks very much
+- ok, Thanks a lot, Bye
+- Byebye, Dude, Thank you very much
+- Have a great night
+- Seeya, , Thanks for helping
+- Byebye, Bro, Thanks very much
+- Thanks for helping. We will be in touch. Goodbye
+- Byebye, Dude, Many thanks
+- Chat with you later, Madam, Thanks for helping
+- Thank you so much. I will be in touch. Chat with you later
+- ok, Goodbye, Thanks a lot
+- ok, Thanks for helping me, Bye
+- Goodbye, Bro, Thanks very much
+- Seeya, Francis, Thanks for the help
+- Thanks for the help. I will be in touch. Bye-bye
 - Seeya, Dude, Thank you
-- Thank you very much. I will be in touch. Bye-bye
-- Bye, Sir, Thank you very much
+- Bye, Bro, Thank you very much
+- Thanks so much. We will be in touch. Byebye
+- Talk to you later, Madam, Thank you very much
+- Byebye, Dude, Thank you so much
+- I wish you a good night
+- See you, Madam, Many thanks
+- ok, Goodbye, Thanks for helping
+- Thanks very much. We will be in touch
+- ok, Thanks very much, Talk to you later
+- Chat with you later, Sir, Thank you very much
+- Chat with you later, Dude, Thanks for helping me
+- Thank you very much. I will contact you again. Talk to you later
+- Bye-bye, Dude, Thank you so much
+- Thanks for the help. I will contact you again. See you
+- Talk later, Dude, Thanks very much
+- See you, Bro, Thanks so much
+- ok, Thank you very much, Talk to you later
+- ok, Seeya, Thank you so much
+- Goodbye, , Thanks
+- Thanks so much. I will be in touch. Byebye
+- Talk to you later, Sir, Thank you very much
+- Bye, , Thanks very much
+- Thanks for helping me. I will contact you again. See you
+- Talk later, Francis, Many thanks
+- See you, Dude, Thanks for your help
+- Thanks a lot. I will contact you again. See you
+- Wish you a great day
+- Goodbye, , Thanks so much
+- Thank you very much. We will be in touch. Byebye
+- ok, Thank you so much, Byebye
+- ok, Byebye, Thank you so much
+- Bye, Sir, Thanks
+- Seeya, Dude, Thanks a lot
+- Thank you very much. We will be in touch. Talk later
+- Talk to you later, Sir, Thanks for helping me
+- Talk later, Dude, Thanks a lot
+- Thank you very much. I will be in touch. Goodbye
+- Chat with you later, Dude, Thank you very much
+- Thank you so much. I will be in touch
+- Byebye
+- See you, , Thank you
+- Thank you very much. I will be in touch. See you
+- ok, Chat with you later, Thank you
+- Chat with you later, Madam, Thank you
+- Thank you very much. I will contact you again. Seeya
+- Chat with you later, Francis, Thanks so much
+- Goodbye, Dude, Many thanks
+- Goodbye, , Thanks for helping
+- Thanks. I will contact you again. Chat with you later
+- Bye-bye, Dude, Thanks
+- ok, Thanks so much, Byebye
+- Byebye, Dude, Thanks
+- Thanks very much. We will be in touch. See you
+- ok, Bye, Thank you
+- Talk to you later, Bro, Many thanks
+- Thanks a lot. I will contact you again. Bye-bye
+- Talk to you later, Bro, Thanks
+- Talk to you later, , Thanks
+- Thanks. I will be in touch. Chat with you later
+- See you, Sir, Thanks a lot
+- Byebye, Madam, Thank you so much
+- ok, Goodbye, Thanks for helping me
+- Goodbye, Bro, Thanks so much
+- Thanks very much. We will be in touch. Bye-bye
+- Talk to you later, , Many thanks
+- See you, Francis, Thanks a lot
+- Have a nice time
+- Talk to you later, Dude, Thanks a lot
+- Seeya, , Thank you so much
+- Thank you. I will contact you again. Byebye
+- Seeya, Bro, Thanks so much
+- Chat with you later, , Thanks for the help
+- Thanks. We will be in touch
+- ok, Thank you so much, Seeya
+- Thank you so much. I will contact you again. Goodbye
+- ok, Goodbye, Thanks
+- Talk later, Sir, Thanks so much
+- Talk to you later, Sir, Many thanks
+- Thanks so much. We will be in touch. Chat with you later
+- Seeya, Bro, Thanks very much
+- Thanks very much. I will contact you again. Chat with you later
+- Bye-bye, Dude, Many thanks
+- Talk to you later, , Thanks so much
+- Talk later, Madam, Thanks a lot
+- Thank you very much. I will be in touch. Byebye
+- ok, Thank you so much, Talk later
+- ok, See you, Thank you so much
+- Bye, , Thank you very much
+- Chat with you later, , Many thanks
+- Thank you very much. I will contact you again. Talk later
+- Talk to you later, Francis, Thanks very much
+- Many thanks. We will be in touch. Talk later
+- Talk later, Bro, Thanks very much
+- Seeya, , Thanks a lot
+- Chat with you later, Madam, Thanks a lot
+- ok, Thank you very much, Byebye
+- Thanks a lot. I will be in touch. See you
+- Talk to you later, Francis, Thank you so much
+- Thanks for the help. I will contact you again. Bye-bye
+- Chat with you later, , Thanks very much
+- Bye, Madam, Thanks a lot
+- Thanks a lot. I will be in touch. Talk later
+- Bye, , Thanks a lot
+- Many thanks. We will be in touch
+- Thanks very much. We will be in touch. Byebye
+- Wish you a nice evening
+- ok, Bye-bye, Many thanks
+- Byebye, Bro, Thanks for helping
+- ok, Thanks a lot
+- Bye, Madam, Thanks very much
+- Thanks. I will be in touch. Bye
+- Seeya, Dude, Many thanks
+- Bye-bye, Francis, Thanks very much
+- Thanks very much. I will contact you again. Talk to you later
+- Talk later, Madam, Thank you very much
+- Byebye, Sir, Thank you so much
+- ok, Thanks so much, Bye
+- ok, Talk later, Thank you
+- Thanks a lot. I will be in touch. Talk to you later
+- Bye-bye, Francis, Thanks for your help
+- Talk later, Madam, Thank you so much
+- Byebye, Madam, Thank you very much
+- Thank you. I will contact you again. See you
+- Chat with you later, Bro, Thank you very much
+- ok, Thanks so much, Bye-bye
+- Thanks so much. I will be in touch. Goodbye
+- ok, Goodbye, Thank you
+- Talk to you later, Dude, Thank you
+- Bye-bye, Dude, Thank you
+- See you, Bro, Thank you so much
+- Thanks very much. I will be in touch. Chat with you later
+- Talk later, Francis, Thanks for the help
+- See you, Dude, Thanks very much
+- Thanks. I will contact you again. Seeya
+- ok, Thanks so much, Talk later
+- Thanks very much. I will be in touch
+- Byebye, Sir, Thanks
+- Goodbye, Sir, Many thanks
+- Goodbye, Sir, Thank you
+- See you, Madam, Thanks so much
+- Have a great evening
+- Thanks a lot. We will be in touch. Talk later
+- Talk to you later, Madam, Thanks very much
+- Talk later, Bro, Thanks for helping
+- ok, See you, Thanks a lot
+- ok, Thank you, Bye
+- Thanks very much. We will be in touch. Talk to you later
+- Chat with you later, Dude, Thank you so much
+- Seeya, Madam, Thanks a lot
+- Thanks for helping me. We will be in touch. Talk later
+- Bye, Francis, Many thanks
+- Chat with you later, Sir, Thanks for helping
+- Thanks a lot. I will contact you again. Talk to you later
+- Seeya, Madam, Thank you so much
+- Bye-bye, Sir, Thanks a lot
+- Thank you so much. I will be in touch. Seeya
+- ok, Seeya, Thanks
+- See you, , Thanks a lot
+- Bye, , Thanks for your help
+- Thanks. We will be in touch. See you
+- I wish you a great afternoon
+- Seeya, , Thanks for helping me
+- Thank you very much. I will contact you again. Bye-bye
+- Goodbye, Bro, Thank you
+- ok, Seeya
+- Thanks so much. I will be in touch
+- Thank you. I will be in touch. See you
+- See you, Madam, Thanks very much
+- Talk later
+- ok, Talk later, Thanks so much
+- ok, Thanks for your help, Talk later
+- Byebye, Madam, Thanks so much
+- Talk to you later, Sir, Thanks
+- Many thanks. We will be in touch. Bye-bye
+- See you, , Thanks
+- Talk later, Dude, Thanks
+- Thanks a lot. We will be in touch. Talk to you later
+- ok, Thanks a lot, See you
+- ok, Bye, Thanks so much
+- Goodbye, Dude, Thanks for helping
+- I wish you a great evening
+- Bye-bye, Bro, Many thanks
+- Talk later, , Thank you
+- Talk later, Sir, Thanks for the help
+- Thanks for the help. I will be in touch. Talk to you later
+- Goodbye, Francis, Thank you
+- ok, Goodbye, Thanks for your help
+- Seeya, Bro, Many thanks
+- Thanks a lot. We will be in touch. Bye
+- See you, Dude, Thanks for the help
+- Thank you. I will be in touch. Chat with you later
+- See you, Sir, Thanks for the help
+- Talk later, , Thanks
+- ok, Thank you very much
+- Thank you. I will contact you again. Goodbye
+- Goodbye, Francis, Thanks a lot
+- ok, Goodbye, Thanks so much
+- I wish you a good day
+- See you, Bro, Many thanks
+- Thanks. I will be in touch. Seeya
+- Chat with you later, Dude, Thanks
+- Chat with you later, , Thanks so much
+- Thanks. I will be in touch. Byebye
+- See you, Sir, Many thanks
+- ok, See you, Thank you very much
+- ok, Many thanks, Goodbye
+- Thank you so much. We will be in touch. Chat with you later
+- Seeya, Madam, Thank you very much
+- Bye-bye, Francis, Thank you so much
+- Thanks very much. We will be in touch. Goodbye
+- Thank you. I will contact you again. Chat with you later
+- Wish you a nice time
+- ok, Byebye, Thank you very much
+- Bye, , Thanks
+- Thanks so much. I will contact you again. Bye
+- See you, Sir, Thanks for helping
+- Talk later, Sir, Thanks very much
+- See you, , Many thanks
+- Thanks a lot. I will be in touch. Bye-bye
+- Byebye, Sir, Thanks a lot
+- ok, Talk later, Thank you very much
+- Thanks so much. I will contact you again. See you
+- ok, Thank you so much, Goodbye
+- Chat with you later, Francis, Many thanks
+- Goodbye, Sir, Thanks a lot
+- Thank you so much. I will be in touch. Talk to you later
+- Talk to you later, Bro, Thank you very much
+- Wish you a nice afternoon
+- Talk to you later, Francis, Thanks for the help
+- Thanks a lot. I will contact you again. Byebye
+- Seeya, Sir, Thanks very much
+- Talk later, Francis, Thank you so much
+- Thanks so much. I will contact you again. Chat with you later
+- ok, Thank you, Seeya
+- Bye, Dude, Many thanks
+- Thanks. I will contact you again. Talk to you later
+- Byebye, , Thanks so much
+- Bye, Francis, Thank you very much
+- Byebye, , Thank you very much
+- ok, Thanks for your help, Chat with you later
+- Byebye, , Thank you
+- Bye-bye, , Thank you very much
+- Thanks. I will be in touch. See you
+- Seeya, Bro, Thank you
+- ok, Seeya, Many thanks
+- Thank you. I will be in touch
+- Thank you so much. I will contact you again. Talk to you later
+- Goodbye, Francis, Thanks for the help
+- See you, Francis, Thanks
+- Thank you very much. We will be in touch. Seeya
+- Chat with you later, Dude, Thanks a lot
+- Bye-bye, Madam, Thanks
+- Thank you so much. I will be in touch. Bye-bye
+- Chat with you later, Bro, Thank you so much
+- Talk later, Sir, Thanks
+- ok, Thanks a lot, Bye-bye
+- ok, See you, Thank you
+- Thanks for helping. I will be in touch. Byebye
+- Talk to you later, Francis, Thanks
+- I wish you a nice evening
+- Thank you. I will be in touch. Talk later
+- Talk later, Francis, Thanks for helping
+- Seeya, Sir, Thank you very much
+- Thank you. I will contact you again. Talk to you later
+- Thanks very much. I will contact you again. Bye-bye
+- ok, Thanks for helping me, Seeya
+- Talk to you later, Dude, Thanks
+- Bye, Francis, Thanks a lot
+- Talk to you later, Francis, Thank you
+- Thanks a lot. I will contact you again. Chat with you later
+- ok, Chat with you later, Thanks so much
+- Goodbye
+- Bye-bye, , Thanks a lot
+- Many thanks. I will be in touch
+- ok, Talk to you later
+- ok, Many thanks, See you
+- I hope you'll have a good evening
+- Seeya, Sir, Thanks so much
+- Bye-bye, Madam, Thank you
+- Thanks very much. I will contact you again. Seeya
+- Talk to you later, Bro, Thank you so much
+- ok, Thanks, Goodbye
+- ok, Talk later, Thanks very much
+- Thank you so much. We will be in touch. Byebye
+- Talk later, Madam, Many thanks
+- Thanks very much. I will be in touch. Goodbye
+- Goodbye, Bro, Thank you so much
+- Seeya, Madam, Many thanks
+- Chat with you later, Sir, Thanks so much
+- Thanks very much. I will be in touch. Bye
+- See you, Dude, Many thanks
+- Bye, Madam, Thanks for helping
+- ok, Thanks very much, Chat with you later
+- Seeya, Dude, Thank you very much
+- Many thanks. I will be in touch. Talk later
+- See you, Bro, Thanks for the help
+- Seeya, , Thank you
+- ok, Many thanks, Talk to you later
+- ok, Goodbye, Thank you very much
+- Thanks so much. We will be in touch
+- Thank you. We will be in touch. Chat with you later
+- Chat with you later, Francis, Thank you so much
+- Thank you so much. I will be in touch. See you
+- Many thanks. We will be in touch. Byebye
+- See you, Francis, Thank you
+- Thanks for helping. I will contact you again. Chat with you later
+- Bye-bye, Sir, Thank you
+- Thanks so much. I will be in touch. Talk later
+- Bye, Dude, Thanks for your help
+- ok, Thanks, Bye
+- Thank you so much. I will be in touch. Byebye
+- Thanks so much. I will be in touch. Bye
+- Goodbye, Francis, Many thanks
+- Bye-bye, Bro, Thanks a lot
+- Byebye, Francis, Thanks a lot
+- Goodbye, Sir, Thanks so much
+- Thanks a lot. I will be in touch. Goodbye
+- Thank you very much. I will contact you again
+- ok, Byebye, Thank you
+- Bye, , Thank you so much
+- Bye, Sir, Many thanks
+- Byebye, Bro, Many thanks
+- Thanks for helping me. I will contact you again. Chat with you later
+- ok, Talk to you later, Thanks for helping
+- Goodbye, Madam, Thank you so much
+- See you, Madam, Thanks a lot
+- Many thanks. I will be in touch. Chat with you later
+- Bye-bye, Bro, Thanks for your help
+- Many thanks. I will contact you again. Goodbye
+- Talk later, Sir, Thank you so much
+- Thank you. We will be in touch. Talk to you later
+- ok, Thanks a lot, Talk to you later
+- Chat with you later, Bro, Thanks a lot
+- Goodbye, Sir, Thanks
+- Thanks for helping me. I will contact you again. Bye-bye
+- Chat with you later, Bro, Thanks for helping
+- Thanks for helping. We will be in touch. Talk later
+- Byebye, Francis, Thank you so much
+- Chat with you later, , Thanks
+- ok, Many thanks
+- I hope you'll have a nice time
+- Thanks so much. I will contact you again
+- ok, Bye, Many thanks
+- ok, Thank you very much, Bye-bye
+- Bye, Sir, Thanks so much
+- Thanks for helping me. We will be in touch. Talk to you later
+- Bye-bye, Madam, Thanks very much
+- Thanks a lot. I will be in touch. Seeya
+- Talk later, , Thank you so much
+- ok, See you, Thanks for the help
+- ok, Thanks for helping, See you
+- Thank you. I will be in touch. Seeya
+- Goodbye, , Thank you so much
+- Talk to you later, Dude, Thank you very much
+- Thank you very much. I will be in touch. Seeya
+- Bye, Francis, Thanks so much
+- Have a nice day
+- See you, Madam, Thanks for helping me
+- ok, Many thanks, Bye
+- ok, Talk to you later, Thanks so much
+- See you, Sir, Thank you
+- Thanks so much. I will contact you again. Bye-bye
+- Goodbye, Dude, Thank you so much
+- Seeya, Sir, Many thanks
+- Thanks a lot. We will be in touch. Bye-bye
+- Goodbye, , Many thanks
+- See you, Dude, Thank you
+- Thank you so much. I will contact you again
+- Seeya
+- ok, Goodbye, Thanks very much
+- ok, Chat with you later
+- Thanks for helping. We will be in touch. Byebye
+- ok, Thank you, Goodbye
+- Byebye, Sir, Thanks for helping
+- Thanks very much. We will be in touch. Chat with you later
+- I wish you a good afternoon
+- Byebye, Madam, Thanks for helping me
+- Thank you very much. I will be in touch. Talk later
+- Goodbye, Madam, Thank you very much
+- Bye, Dude, Thanks
+- See you, Sir, Thanks for helping me
+- Talk later, , Many thanks
+- Have a nice afternoon
+- See you, Madam, Thanks for your help
+- Seeya, Sir, Thanks a lot
+- Thanks for helping me. We will be in touch
+- ok, Thanks very much, Byebye
+- ok, Goodbye, Thank you so much
+- Thanks very much. I will be in touch. Byebye
+- See you, Dude, Thanks a lot
+- Chat with you later, Francis, Thanks
+- Thanks for helping me. I will be in touch. Goodbye
+- Talk to you later, Bro, Thanks for helping me
+- ok, Chat with you later, Thanks
+- Thank you so much. We will be in touch. See you
 
 ## intent:greet
-- Good afternoon, how are you? My name is [Laura](name)
-- Good evening, you're speaking to [Umut](name). i am an intern at [ABC Corp](company)
-- Hey
-- Good afternoon, I am [Mrs. Jennifer Hutchinson](name)
-- Good morning, how are you?
-- Hi, you're speaking to [Mrs. Jennifer Hutchinson](name). I work as a clerk at [ABC Corp](company)
-- Good morning, I am [Mr Muller](name). i am in an internship at [ABC Corp](company)
-- Good evening, my name is [Mark](name). I work as an administrative assistant at [ACME](company)
-- Hi, I am [Laura](name). i work for [ACME](company)
-- Good afternoon, I am [Mergim](name). i work for [ABC Corp](company)
-- Good evening, I am [Florina Sabath](name). i am an intern at [ACME](company)
-- Good morning, I am [Umut](name). I'm doing an apprenticeship at [ACME](company)
-- Good afternoon, this is [Laura](name). I work as an administrative assistant at [ACME](company)
-- Good morning, you're speaking to [Christina](name). I'm an apprentice at [ABC Corp](company)
-- Hi, how is it going? This is [Jennifer Hutchinson](name)
-- Good evening, I am [Florina Sabath](name). i am in an internship at [ABC Corp](company)
-- Hey, you're speaking to [Mergim](name). i work for [ACME](company)
-- Hi, my name is [Jennifer](name). I work as a clerk at [ACME](company)
-- Hi, I am [Mrs Hutchinson](name). I'm an apprentice at [ABC Corp](company)
-- Hi, my name is [Mr. Mark Muller](name). I work as an administrative assistant at [ABC Corp](company)
-- Good evening, you're speaking to [Mrs. Jennifer Hutchinson](name). I work as a clerk at [ABC Corp](company)
-- Hello, you're speaking to [Mr Muller](name). I work as a commercial assistant at [ACME](company)
-- Hi, I am [Jennifer Hutchinson](name). I work as a commercial assistant at [ACME](company)
-- Good evening, how are you? My name is [Jennifer](name)
-- Good morning, this is [Mrs. Jennifer Hutchinson](name)
-- Good evening, I am [Laura](name). i work for [ABC Corp](company)
-- Hi, you're speaking to [Christina](name). i am in an internship at [ABC Corp](company)
-- Good afternoon, this is [Mergim](name). I'm an apprentice at [ACME](company)
-- Good evening, my name is [Mrs Hutchinson](name). I am doing an internship at [ABC Corp](company)
-- Good morning, you're speaking to [Florina Sabath](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Hi, my name is [Mark Muller](name). I work as a commercial assistant at [ACME](company)
-- Good afternoon, I am [Mark Muller](name). I work as an administrative assistant at [ACME](company)
-- Good afternoon, this is [Mr Muller](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Hello, I am [Mrs Hutchinson](name). i work for [ABC Corp](company)
-- Hello, how are you? My name is [Christina](name)
-- Hi, this is [Mark Muller](name). I work as a clerk at [ABC Corp](company)
-- Good afternoon, this is [Christina](name). i work for [ACME](company)
-- Hello, my name is [Mr Muller](name). I'm an apprentice at [ACME](company)
-- Good morning, you're speaking to [Jennifer Hutchinson](name). I work as a clerk at [ABC Corp](company)
-- Good morning, this is [Jennifer](name). I'm doing an apprenticeship at [ACME](company)
-- Hey, my name is [Mrs Hutchinson](name). i am in an internship at [ABC Corp](company)
-- Hello, this is [Mr Muller](name). I work as an administrative assistant at [ACME](company)
-- Hi, I am [Laura](name). I'm an apprentice at [ABC Corp](company)
-- Hello, my name is [Christina](name). i am in an internship at [ACME](company)
-- Good morning, I am [Laura](name)
-- Hey, how is it going? You're speaking to [Mrs. Jennifer Hutchinson](name)
-- Hey, my name is [Mergim](name). I work as a clerk at [ABC Corp](company)
-- Good afternoon, this is [Mark](name). i am in an internship at [ABC Corp](company)
-- Good morning, I am [Jennifer Hutchinson](name). i work for [ACME](company)
-- Good morning, this is [Mr. Mark Muller](name). I work as a clerk at [ABC Corp](company)
-- Good afternoon, this is [Florina Sabath](name). i work for [ACME](company)
-- Hello, this is [Mr. Mark Muller](name). i am in an internship at [ACME](company)
-- Good afternoon, this is [Jennifer](name). i am in an internship at [ABC Corp](company)
-- Good afternoon, this is [Mr Muller](name). I'm doing an apprenticeship at [ACME](company)
-- Good evening, my name is [Mrs. Jennifer Hutchinson](name). I'm an apprentice at [ACME](company)
-- Good evening, how are you? You're speaking to [Mergim](name)
-- Good evening, you're speaking to [Mr Muller](name). I work as a commercial assistant at [ACME](company)
-- Hi, you're speaking to [Florina Sabath](name). I'm an apprentice at [ABC Corp](company)
-- Good morning, this is [Florina Sabath](name). I am doing an internship at [ABC Corp](company)
-- Good evening, I am [Umut](name). i am in an internship at [ABC Corp](company)
-- Good morning, my name is [Mark Muller](name). I work as a clerk at [ABC Corp](company)
-- Hello, my name is [Mark](name). I work as an administrative assistant at [ACME](company)
-- Good morning, you're speaking to [Laura](name). i am in an internship at [ABC Corp](company)
-- Good evening, my name is [Mark](name). I am doing an internship at [ABC Corp](company)
-- Good evening, this is [Mr Muller](name)
-- Hey, how is it going? You're speaking to [Laura](name)
-- Hello, you're speaking to [Mergim](name). I work as a clerk at [ABC Corp](company)
-- Good evening, this is [Umut](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Good morning, my name is [Laura](name). I work as a commercial assistant at [ACME](company)
-- Good evening, my name is [Mergim](name). i work for [ABC Corp](company)
-- Hello, my name is [Jennifer Hutchinson](name). i work for [ACME](company)
-- Hey, I am [Mr Muller](name). i am an intern at [ACME](company)
-- Good afternoon, this is [Mrs. Jennifer Hutchinson](name). i am in an internship at [ACME](company)
-- Hey, my name is [Jennifer](name). I work as an administrative assistant at [ACME](company)
-- Hey, my name is [Mr Muller](name). i work for [ABC Corp](company)
-- Hello, my name is [Mrs. Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
-- Good evening, how is it going? You're speaking to [Mark Muller](name)
-- Good morning, this is [Florina Sabath](name). i am an intern at [ACME](company)
-- Hi, this is [Mergim](name). I'm doing an apprenticeship at [ACME](company)
-- Good morning, you're speaking to [Umut](name). I'm doing an apprenticeship at [ACME](company)
-- Good morning, you're speaking to [Jennifer](name). I work as an administrative assistant at [ABC Corp](company)
-- Good afternoon, you're speaking to [Mark](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Good evening, my name is [Florina Sabath](name). I'm an apprentice at [ACME](company)
-- Good evening, my name is [Mr. Mark Muller](name). i work for [ABC Corp](company)
-- Hey, you're speaking to [Florina Sabath](name). I am doing an internship at [ACME](company)
-- Hey, I am [Mrs Hutchinson](name). i am in an internship at [ABC Corp](company)
-- Hello, how is it going? I am [Jennifer](name)
-- Hey, you're speaking to [Mark](name)
-- Hey, I am [Jennifer](name). I'm an apprentice at [ACME](company)
-- Good morning, I am [Mark](name). I work as a clerk at [ACME](company)
-- Hi, I am [Jennifer Hutchinson](name). I work as an administrative assistant at [ABC Corp](company)
-- Hello, you're speaking to [Mark Muller](name). I work as a clerk at [ABC Corp](company)
-- Hello, I am [Jennifer](name). I work as an administrative assistant at [ACME](company)
-- Good morning, my name is [Umut](name). I am doing an internship at [ABC Corp](company)
-- Hi, you're speaking to [Christina](name). i am an intern at [ACME](company)
-- Hey, this is [Laura](name). i work for [ABC Corp](company)
-- Hi, you're speaking to [Mr Muller](name). I'm doing an apprenticeship at [ACME](company)
-- Hi, how is it going? You're speaking to [Jennifer Hutchinson](name)
-- Hi, I am [Umut](name). I work as a clerk at [ACME](company)
-- Good afternoon, this is [Jennifer Hutchinson](name). i am in an internship at [ACME](company)
-- Good morning, I am [Mergim](name). I am doing an internship at [ABC Corp](company)
-- Hey, this is [Mr. Mark Muller](name). i am in an internship at [ACME](company)
-- Hey, I am [Christina](name). I'm an apprentice at [ACME](company)
-- Hello, my name is [Christina](name). I am doing an internship at [ABC Corp](company)
-- Good evening, you're speaking to [Mergim](name). I work as a clerk at [ABC Corp](company)
-- Hey, I am [Mark](name). i am in an internship at [ABC Corp](company)
-- Hello, my name is [Mark](name). i work for [ABC Corp](company)
-- Good evening, how is it going? You're speaking to [Mrs Hutchinson](name)
-- Hey, I am [Mrs. Jennifer Hutchinson](name)
-- Hello, I am [Mr. Mark Muller](name). I work as a commercial assistant at [ACME](company)
-- Good evening, my name is [Laura](name). I am doing an internship at [ACME](company)
-- Good morning, my name is [Umut](name). I work as a commercial assistant at [ABC Corp](company)
-- Hi, this is [Florina Sabath](name). I work as an administrative assistant at [ABC Corp](company)
-- Good evening, you're speaking to [Umut](name). I'm an apprentice at [ABC Corp](company)
-- Hi, you're speaking to [Mark Muller](name). I work as a commercial assistant at [ACME](company)
-- Hello, this is [Mark Muller](name). I work as an administrative assistant at [ABC Corp](company)
-- Good morning, this is [Laura](name). i work for [ABC Corp](company)
-- Good morning, I am [Mark Muller](name). i am in an internship at [ACME](company)
-- Hey, how are you? This is [Mergim](name)
-- Good afternoon, my name is [Mergim](name). i am an intern at [ABC Corp](company)
-- Hey, I am [Mr. Mark Muller](name). i am in an internship at [ABC Corp](company)
-- Good morning, this is [Mrs Hutchinson](name). I'm an apprentice at [ABC Corp](company)
-- Hey, this is [Jennifer](name). I work as an administrative assistant at [ACME](company)
-- Good afternoon, I am [Mr. Mark Muller](name). I work as a clerk at [ACME](company)
-- Hey, you're speaking to [Laura](name). I am doing an internship at [ACME](company)
-- Hey, I am [Mark](name). I work as an administrative assistant at [ABC Corp](company)
-- Good morning, this is [Umut](name). i am an intern at [ACME](company)
-- Good evening, how are you? You're speaking to [Umut](name)
-- Good afternoon, my name is [Mrs. Jennifer Hutchinson](name)
-- Hey, I am [Mrs Hutchinson](name). I work as a commercial assistant at [ACME](company)
-- Hi, I am [Umut](name). i work for [ABC Corp](company)
-- Hey, you're speaking to [Mr Muller](name). i work for [ACME](company)
-- Hey, I am [Mergim](name). I am doing an internship at [ACME](company)
-- Good afternoon, my name is [Florina Sabath](name). I work as a commercial assistant at [ABC Corp](company)
-- Hello, this is [Mr. Mark Muller](name). i am an intern at [ACME](company)
-- Good evening, you're speaking to [Jennifer Hutchinson](name). i work for [ACME](company)
-- Hello, I am [Laura](name). I work as a clerk at [ABC Corp](company)
-- Hey, this is [Mr Muller](name). I work as an administrative assistant at [ACME](company)
-- Hey, how is it going? You're speaking to [Mr Muller](name)
-- Hi, this is [Christina](name). I'm an apprentice at [ABC Corp](company)
-- Hi, I am [Mergim](name). i am an intern at [ACME](company)
-- Good evening, I am [Mark Muller](name). I'm doing an apprenticeship at [ACME](company)
-- Hello, you're speaking to [Mrs Hutchinson](name). i am in an internship at [ABC Corp](company)
-- Hi, you're speaking to [Mergim](name). i work for [ABC Corp](company)
-- Good afternoon, my name is [Mrs. Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
-- Hello, this is [Christina](name). i am in an internship at [ABC Corp](company)
-- Good evening, my name is [Mrs Hutchinson](name). i am an intern at [ABC Corp](company)
-- Hi, this is [Mark](name). i work for [ABC Corp](company)
-- Good afternoon, I am [Laura](name). I'm an apprentice at [ACME](company)
-- Good morning, how are you? You're speaking to [Florina Sabath](name)
-- Hello, my name is [Florina Sabath](name)
-- Good morning, my name is [Florina Sabath](name). I'm an apprentice at [ACME](company)
-- Hey, I am [Mark](name). i work for [ACME](company)
-- Good morning, you're speaking to [Umut](name). I work as a clerk at [ACME](company)
-- Good evening, this is [Jennifer Hutchinson](name). i am in an internship at [ABC Corp](company)
-- Good afternoon, I am [Mark Muller](name). I work as a commercial assistant at [ACME](company)
-- Good evening, my name is [Umut](name). I work as a clerk at [ABC Corp](company)
-- Hey, this is [Mrs Hutchinson](name). i work for [ABC Corp](company)
-- Good evening, how are you? This is [Christina](name)
-- Good afternoon, you're speaking to [Mr Muller](name). I work as an administrative assistant at [ABC Corp](company)
-- Good morning, you're speaking to [Mr. Mark Muller](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Hello, this is [Jennifer](name). I work as an administrative assistant at [ACME](company)
-- Hello, this is [Jennifer](name). i work for [ACME](company)
-- Good afternoon, I am [Mr Muller](name). I'm an apprentice at [ACME](company)
-- Hey, my name is [Mark Muller](name). I work as an administrative assistant at [ABC Corp](company)
-- Good afternoon, my name is [Christina](name). I work as a clerk at [ACME](company)
-- Good evening, you're speaking to [Mergim](name). i am an intern at [ABC Corp](company)
-- Hi, I am [Mr Muller](name). i am in an internship at [ACME](company)
-- Good evening, I am [Mark Muller](name). I'm an apprentice at [ACME](company)
-- Good morning, this is [Laura](name)
-- Good afternoon, this is [Jennifer Hutchinson](name). I work as a clerk at [ACME](company)
-- Hi, this is [Mark](name). i am an intern at [ABC Corp](company)
-- Good afternoon, this is [Mrs. Jennifer Hutchinson](name). I am doing an internship at [ACME](company)
-- Good morning, this is [Laura](name). i am in an internship at [ABC Corp](company)
-- Hi, you're speaking to [Jennifer](name). I am doing an internship at [ABC Corp](company)
-- Good evening, I am [Jennifer](name). I'm an apprentice at [ABC Corp](company)
-- Good morning, you're speaking to [Jennifer](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Hello, you're speaking to [Mark](name). I am doing an internship at [ABC Corp](company)
-- Hey, how is it going? This is [Laura](name)
-- Good afternoon, this is [Jennifer](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Good evening, my name is [Christina](name). i am an intern at [ABC Corp](company)
-- Hello, this is [Laura](name). I'm doing an apprenticeship at [ACME](company)
-- Good evening, I am [Mark](name). I work as a clerk at [ABC Corp](company)
-- Good morning, this is [Mrs. Jennifer Hutchinson](name). I work as a clerk at [ABC Corp](company)
-- Hello, you're speaking to [Jennifer](name). I work as a commercial assistant at [ABC Corp](company)
-- Good afternoon, this is [Mr Muller](name). I work as a commercial assistant at [ABC Corp](company)
-- Hey, you're speaking to [Mrs Hutchinson](name). i am an intern at [ACME](company)
-- Good afternoon, you're speaking to [Christina](name). I am doing an internship at [ABC Corp](company)
-- Hi, this is [Jennifer](name). I'm an apprentice at [ACME](company)
-- Good afternoon, how are you? My name is [Jennifer Hutchinson](name)
-- Hello, you're speaking to [Christina](name)
-- Good evening, I am [Florina Sabath](name). I work as an administrative assistant at [ABC Corp](company)
-- Good afternoon, my name is [Mark Muller](name). I work as a commercial assistant at [ACME](company)
-- Good evening, this is [Jennifer Hutchinson](name). I am doing an internship at [ACME](company)
-- Hi, I am [Christina](name). I'm an apprentice at [ABC Corp](company)
-- Good afternoon, my name is [Mark Muller](name). I am doing an internship at [ABC Corp](company)
-- Hello, my name is [Mr Muller](name). I am doing an internship at [ABC Corp](company)
-- Good evening, my name is [Mergim](name). I'm an apprentice at [ABC Corp](company)
-- Good evening, you're speaking to [Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
-- Good evening, this is [Jennifer Hutchinson](name). i am an intern at [ACME](company)
-- Hello, how are you? I am [Jennifer Hutchinson](name)
-- Good afternoon, my name is [Umut](name). I work as a commercial assistant at [ACME](company)
-- Good afternoon, you're speaking to [Mr Muller](name). i work for [ACME](company)
-- Hello, I am [Mark Muller](name). i work for [ACME](company)
-- Good afternoon, I am [Umut](name). i am in an internship at [ACME](company)
-- Hi, I am [Mrs Hutchinson](name). i am in an internship at [ABC Corp](company)
-- Hey, I am [Mark](name). I am doing an internship at [ABC Corp](company)
-- Good evening, my name is [Umut](name). I am doing an internship at [ABC Corp](company)
-- Good evening, my name is [Mrs. Jennifer Hutchinson](name). I'm doing an apprenticeship at [ACME](company)
-- Good evening, you're speaking to [Christina](name)
-- Hey, how are you? I am [Christina](name)
-- Hey, this is [Mrs. Jennifer Hutchinson](name). I am doing an internship at [ABC Corp](company)
-- Hi, I am [Jennifer Hutchinson](name). i am in an internship at [ACME](company)
-- Good afternoon, my name is [Laura](name). I work as an administrative assistant at [ACME](company)
-- Good afternoon, I am [Mark Muller](name). I am doing an internship at [ACME](company)
-- Good afternoon, you're speaking to [Mrs Hutchinson](name). I am doing an internship at [ACME](company)
-- Good morning, you're speaking to [Christina](name). I work as a commercial assistant at [ACME](company)
-- Good morning, my name is [Mrs. Jennifer Hutchinson](name). I'm an apprentice at [ACME](company)
-- Good morning, my name is [Mrs Hutchinson](name). I work as an administrative assistant at [ACME](company)
-- Hey, this is [Mergim](name). I work as an administrative assistant at [ABC Corp](company)
-- Hi, this is [Mark](name). I work as a commercial assistant at [ABC Corp](company)
-- Hello, how is it going? You're speaking to [Mrs. Jennifer Hutchinson](name)
-- Hello, I am [Florina Sabath](name). I work as a commercial assistant at [ABC Corp](company)
-- Hi, you're speaking to [Umut](name). I work as a commercial assistant at [ABC Corp](company)
-- Hello, you're speaking to [Mr. Mark Muller](name). I work as a clerk at [ABC Corp](company)
-- Good morning, you're speaking to [Mark Muller](name). I am doing an internship at [ACME](company)
-- Hi, my name is [Mr Muller](name). I am doing an internship at [ABC Corp](company)
-- Hi, my name is [Jennifer Hutchinson](name). I'm an apprentice at [ABC Corp](company)
-- Good afternoon, my name is [Mark](name). I work as an administrative assistant at [ABC Corp](company)
-- Hi, this is [Christina](name). I work as a clerk at [ACME](company)
-- Good afternoon, my name is [Mergim](name)
-- Hey, this is [Mark](name). I work as a clerk at [ABC Corp](company)
-- Good morning, this is [Mrs. Jennifer Hutchinson](name). i am an intern at [ACME](company)
-- Hey, this is [Mr Muller](name). i am in an internship at [ACME](company)
-- Good evening, my name is [Laura](name). i am in an internship at [ABC Corp](company)
-- Hey, this is [Mrs Hutchinson](name). i am in an internship at [ACME](company)
-- Hi, I am [Mr. Mark Muller](name). I work as a clerk at [ABC Corp](company)
-- Hi, this is [Umut](name). I work as an administrative assistant at [ACME](company)
-- Good morning, this is [Christina](name). i am an intern at [ACME](company)
-- Hey, I am [Mergim](name). I am doing an internship at [ABC Corp](company)
-- Good afternoon, I am [Mark Muller](name). i am in an internship at [ABC Corp](company)
-- Good evening, how is it going? You're speaking to [Umut](name)
-- Good afternoon, this is [Mark](name). I work as a commercial assistant at [ACME](company)
-- Hi, you're speaking to [Mrs Hutchinson](name). i work for [ABC Corp](company)
-- Good evening, I am [Mark](name). I am doing an internship at [ABC Corp](company)
-- Good evening, this is [Jennifer](name). I'm an apprentice at [ACME](company)
-- Hey, you're speaking to [Laura](name). I work as a clerk at [ACME](company)
-- Hey, this is [Mark Muller](name). I am doing an internship at [ACME](company)
-- Good afternoon, my name is [Mark Muller](name). I work as a commercial assistant at [ABC Corp](company)
-- Hello, this is [Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
-- Hello, this is [Christina](name). I work as a commercial assistant at [ABC Corp](company)
-- Hi, how is it going? This is [Florina Sabath](name)
-- Good afternoon, I am [Florina Sabath](name)
-- Hey, my name is [Umut](name). i am in an internship at [ACME](company)
-- Good morning, my name is [Mr. Mark Muller](name). I'm an apprentice at [ABC Corp](company)
-- Good evening, you're speaking to [Jennifer](name). i am in an internship at [ABC Corp](company)
-- Hello, I am [Mergim](name). i am an intern at [ABC Corp](company)
-- Good afternoon, my name is [Mark](name). i am in an internship at [ACME](company)
-- Hi, you're speaking to [Mrs Hutchinson](name). I'm an apprentice at [ACME](company)
-- Hello, you're speaking to [Mr. Mark Muller](name). i am in an internship at [ACME](company)
-- Hello, my name is [Florina Sabath](name). i work for [ABC Corp](company)
-- Good afternoon, how is it going? My name is [Mrs. Jennifer Hutchinson](name)
-- Good evening, this is [Mark Muller](name). I'm doing an apprenticeship at [ACME](company)
-- Hey, this is [Jennifer](name). I'm doing an apprenticeship at [ACME](company)
-- Good morning, my name is [Mark Muller](name). I'm an apprentice at [ACME](company)
-- Good afternoon, this is [Mrs Hutchinson](name). I'm an apprentice at [ACME](company)
-- Hey, my name is [Mark](name). I work as a commercial assistant at [ABC Corp](company)
-- Good afternoon, this is [Florina Sabath](name). i am in an internship at [ACME](company)
-- Hey, you're speaking to [Mr Muller](name). I'm an apprentice at [ACME](company)
-- Good afternoon, I am [Christina](name). i am in an internship at [ABC Corp](company)
-- Good morning, this is [Jennifer Hutchinson](name). I am doing an internship at [ABC Corp](company)
-- Hey, this is [Mergim](name)
-- Hi, this is [Mrs Hutchinson](name). I work as a clerk at [ACME](company)
-- Good evening, how are you? My name is [Mr. Mark Muller](name)
-- Hi, my name is [Mark](name). I am doing an internship at [ABC Corp](company)
-- Hi, you're speaking to [Mr Muller](name). I work as an administrative assistant at [ACME](company)
-- Hi, this is [Mr. Mark Muller](name). i work for [ACME](company)
-- Good evening, this is [Mrs. Jennifer Hutchinson](name). I'm an apprentice at [ACME](company)
-- Good afternoon, my name is [Laura](name). i am in an internship at [ABC Corp](company)
-- Hey, this is [Jennifer](name). I work as a clerk at [ACME](company)
-- Good afternoon, I am [Christina](name). I work as an administrative assistant at [ACME](company)
-- Hi, this is [Mr. Mark Muller](name). I work as an administrative assistant at [ACME](company)
-- Good evening, how is it going? I am [Laura](name)
-- Good evening, this is [Florina Sabath](name). I work as a clerk at [ABC Corp](company)
-- Hi, I am [Mergim](name). i am an intern at [ABC Corp](company)
-- Good evening, you're speaking to [Jennifer Hutchinson](name). I work as an administrative assistant at [ABC Corp](company)
-- Hi, this is [Florina Sabath](name). i am an intern at [ABC Corp](company)
-- Good evening, this is [Mrs. Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
-- Hey, I am [Umut](name). I am doing an internship at [ABC Corp](company)
-- Good afternoon, you're speaking to [Jennifer](name). I work as a commercial assistant at [ACME](company)
-- Good evening, my name is [Mrs. Jennifer Hutchinson](name). I work as an administrative assistant at [ABC Corp](company)
-- Good evening, how is it going? You're speaking to [Jennifer](name)
-- Hello, this is [Mark Muller](name)
-- Good morning, I am [Mark](name). I work as a commercial assistant at [ACME](company)
-- Hey, I am [Mrs Hutchinson](name). I'm an apprentice at [ABC Corp](company)
-- Hi, you're speaking to [Mr Muller](name). I work as a clerk at [ACME](company)
-- Hi, you're speaking to [Jennifer](name). I work as a clerk at [ACME](company)
-- Good evening, I am [Jennifer](name). I'm an apprentice at [ACME](company)
-- Good morning, this is [Mark](name). i am in an internship at [ABC Corp](company)
-- Hey, you're speaking to [Mr Muller](name). I work as a clerk at [ACME](company)
-- Good morning, my name is [Mark Muller](name). i am in an internship at [ACME](company)
-- Good evening, how are you? You're speaking to [Jennifer Hutchinson](name)
-- Hi, my name is [Mrs Hutchinson](name). i am in an internship at [ACME](company)
-- Good morning, this is [Florina Sabath](name). I'm an apprentice at [ABC Corp](company)
-- Hey, my name is [Jennifer](name). I work as a commercial assistant at [ACME](company)
-- Hey, this is [Mr Muller](name). I'm doing an apprenticeship at [ACME](company)
-- Good afternoon, I am [Christina](name). i work for [ABC Corp](company)
-- Hi, my name is [Mrs Hutchinson](name). I'm doing an apprenticeship at [ACME](company)
-- Good morning, my name is [Laura](name). I'm an apprentice at [ACME](company)
-- Good evening, my name is [Florina Sabath](name). i am an intern at [ABC Corp](company)
-- Good evening, my name is [Mergim](name). I'm doing an apprenticeship at [ACME](company)
-- Hey, how is it going? This is [Mr Muller](name)
-- Hello, I am [Mr. Mark Muller](name)
-- Good afternoon, you're speaking to [Mrs Hutchinson](name). I work as a commercial assistant at [ACME](company)
-- Hey, my name is [Jennifer](name). I work as an administrative assistant at [ABC Corp](company)
-- Good morning, I am [Umut](name). i am an intern at [ACME](company)
-- Hello, this is [Jennifer Hutchinson](name). i am in an internship at [ABC Corp](company)
-- Good morning, you're speaking to [Mrs Hutchinson](name). I'm an apprentice at [ACME](company)
-- Hey, my name is [Jennifer Hutchinson](name). I'm an apprentice at [ABC Corp](company)
-- Hey, you're speaking to [Mrs. Jennifer Hutchinson](name). I work as an administrative assistant at [ACME](company)
-- Good afternoon, I am [Umut](name). I work as a commercial assistant at [ABC Corp](company)
-- Hi, you're speaking to [Christina](name). I work as a commercial assistant at [ABC Corp](company)
-- Hi, how is it going? I am [Mrs. Jennifer Hutchinson](name)
-- Good morning, you're speaking to [Jennifer](name). I am doing an internship at [ABC Corp](company)
-- Good evening, this is [Laura](name). i work for [ACME](company)
-- Hello, my name is [Mr Muller](name). I work as an administrative assistant at [ACME](company)
-- Hey, you're speaking to [Mr Muller](name). i am an intern at [ACME](company)
-- Hello, this is [Mark Muller](name). I work as a clerk at [ACME](company)
-- Good afternoon, you're speaking to [Mrs. Jennifer Hutchinson](name). i am in an internship at [ABC Corp](company)
-- Good afternoon, this is [Mergim](name). i am in an internship at [ACME](company)
-- Hi, you're speaking to [Mark Muller](name). I work as an administrative assistant at [ACME](company)
-- Good evening, you're speaking to [Mark Muller](name)
-- Hi, how is it going? My name is [Jennifer Hutchinson](name)
-- Hello, you're speaking to [Jennifer Hutchinson](name). i work for [ACME](company)
-- Good morning, my name is [Jennifer Hutchinson](name). I work as a clerk at [ACME](company)
-- Good evening, I am [Laura](name). I am doing an internship at [ACME](company)
-- Hey, you're speaking to [Mergim](name). i am in an internship at [ABC Corp](company)
-- Hello, this is [Mergim](name). I'm an apprentice at [ABC Corp](company)
-- Good morning, my name is [Mrs. Jennifer Hutchinson](name). i am in an internship at [ACME](company)
-- Hello, this is [Christina](name). I work as a clerk at [ACME](company)
-- Good morning, my name is [Mr Muller](name). I'm doing an apprenticeship at [ACME](company)
-- Hey, how are you? I am [Mr Muller](name)
-- Good evening, my name is [Jennifer Hutchinson](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Hey, my name is [Mrs Hutchinson](name). i am an intern at [ACME](company)
-- Hey, this is [Mr Muller](name). I work as a commercial assistant at [ACME](company)
-- Good evening, this is [Jennifer](name). i work for [ABC Corp](company)
-- Good morning, you're speaking to [Jennifer](name). i am in an internship at [ABC Corp](company)
-- Hi, this is [Mrs. Jennifer Hutchinson](name). i work for [ACME](company)
-- Good morning, this is [Mr. Mark Muller](name). I work as an administrative assistant at [ABC Corp](company)
-- Hi, this is [Mrs. Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
-- Hello, this is [Umut](name). i am an intern at [ABC Corp](company)
-- Hi, I am [Mrs Hutchinson](name). I am doing an internship at [ABC Corp](company)
-- Good evening, my name is [Jennifer Hutchinson](name)
-- Hello, how are you? This is [Jennifer Hutchinson](name)
-- Good morning, you're speaking to [Christina](name). i am an intern at [ABC Corp](company)
-- Good afternoon, this is [Mr Muller](name). I am doing an internship at [ACME](company)
-- Hello, you're speaking to [Mergim](name). I am doing an internship at [ABC Corp](company)
-- Good evening, this is [Umut](name). I work as a commercial assistant at [ABC Corp](company)
-- Good morning, this is [Mark](name). I work as a commercial assistant at [ABC Corp](company)
-- Good afternoon, you're speaking to [Jennifer](name). I'm doing an apprenticeship at [ACME](company)
-- Hey, I am [Christina](name). I work as a commercial assistant at [ABC Corp](company)
-- Hello, how are you? You're speaking to [Mr Muller](name)
-- Good morning, this is [Jennifer](name). i work for [ABC Corp](company)
-- Good afternoon, you're speaking to [Mark](name). i am in an internship at [ACME](company)
-- Hi, my name is [Mrs. Jennifer Hutchinson](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Hey, my name is [Mrs Hutchinson](name). i am an intern at [ABC Corp](company)
-- Good afternoon, my name is [Jennifer Hutchinson](name). I work as an administrative assistant at [ABC Corp](company)
-- Good evening, my name is [Christina](name). I work as a commercial assistant at [ACME](company)
-- Good afternoon, I am [Jennifer](name). I am doing an internship at [ABC Corp](company)
-- Good morning, this is [Mr. Mark Muller](name). i am an intern at [ACME](company)
-- Hey, this is [Mr Muller](name). i am an intern at [ABC Corp](company)
-- Hello, how are you? I am [Mrs. Jennifer Hutchinson](name)
-- Good evening, my name is [Mrs Hutchinson](name)
-- Good afternoon, I am [Mr. Mark Muller](name). I'm an apprentice at [ABC Corp](company)
-- Hi, you're speaking to [Mr. Mark Muller](name). i work for [ACME](company)
-- Good afternoon, this is [Laura](name). I'm an apprentice at [ACME](company)
-- Good afternoon, you're speaking to [Christina](name). i am an intern at [ABC Corp](company)
-- Hey, my name is [Jennifer](name). i work for [ABC Corp](company)
-- Hi, this is [Mr. Mark Muller](name). I am doing an internship at [ACME](company)
-- Good evening, my name is [Mrs. Jennifer Hutchinson](name). i am an intern at [ACME](company)
-- Good afternoon, this is [Jennifer](name). I am doing an internship at [ABC Corp](company)
-- Good morning, you're speaking to [Mrs. Jennifer Hutchinson](name). i am in an internship at [ACME](company)
-- Hey, how is it going? I am [Laura](name)
-- Hey, you're speaking to [Jennifer](name). I'm doing an apprenticeship at [ACME](company)
-- Hey, my name is [Laura](name). I am doing an internship at [ABC Corp](company)
-- Hello, this is [Mr. Mark Muller](name). I work as a clerk at [ACME](company)
-- Hi, this is [Umut](name). I work as a commercial assistant at [ACME](company)
-- Hey, my name is [Mark](name). I work as a commercial assistant at [ACME](company)
-- Good morning, I am [Christina](name). i am in an internship at [ACME](company)
-- Good morning, my name is [Jennifer](name). I work as a commercial assistant at [ABC Corp](company)
-- Hey, you're speaking to [Christina](name). I'm an apprentice at [ABC Corp](company)
-- Hey, this is [Christina](name). i work for [ABC Corp](company)
-- Hi, how is it going? This is [Mrs Hutchinson](name)
-- Good morning, you're speaking to [Mark](name)
-- Good morning, I am [Mr Muller](name). i am an intern at [ABC Corp](company)
-- Hi, you're speaking to [Laura](name). I am doing an internship at [ACME](company)
-- Good afternoon, this is [Umut](name). I work as an administrative assistant at [ACME](company)
-- Hello, you're speaking to [Christina](name). i work for [ACME](company)
-- Good afternoon, you're speaking to [Mrs Hutchinson](name). i am in an internship at [ACME](company)
-- Good morning, I am [Umut](name). I work as a clerk at [ACME](company)
-- Good evening, you're speaking to [Mark](name). I work as an administrative assistant at [ABC Corp](company)
-- Good morning, how is it going? This is [Mergim](name)
-- Good morning, you're speaking to [Jennifer](name). I work as a clerk at [ABC Corp](company)
-- Good evening, I am [Jennifer](name). I work as a clerk at [ACME](company)
-- Good evening, I am [Umut](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Hey, I am [Mrs. Jennifer Hutchinson](name). i work for [ABC Corp](company)
-- Hello, I am [Mrs Hutchinson](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Hello, my name is [Mr. Mark Muller](name). i work for [ABC Corp](company)
-- Hi, this is [Mergim](name). i am in an internship at [ACME](company)
-- Good evening, this is [Mr Muller](name). I work as a commercial assistant at [ABC Corp](company)
-- Good morning, I am [Mrs Hutchinson](name). I'm doing an apprenticeship at [ACME](company)
-- Good evening, I am [Mrs. Jennifer Hutchinson](name)
-- Hi, how is it going? My name is [Umut](name)
-- Hey, my name is [Laura](name). i am an intern at [ABC Corp](company)
-- Hello, you're speaking to [Mr Muller](name). I work as a clerk at [ABC Corp](company)
-- Hi, this is [Mark Muller](name). i am an intern at [ABC Corp](company)
-- Good evening, I am [Umut](name). i work for [ABC Corp](company)
-- Hello, this is [Mark](name). i work for [ACME](company)
-- Good afternoon, this is [Jennifer](name). I work as a commercial assistant at [ACME](company)
-- Hi, I am [Mark](name). I work as a clerk at [ABC Corp](company)
-- Good afternoon, you're speaking to [Mark](name). I work as an administrative assistant at [ACME](company)
-- Good afternoon, my name is [Christina](name). i am in an internship at [ABC Corp](company)
-- Good evening, how are you? My name is [Florina Sabath](name)
-- Good afternoon, you're speaking to [Jennifer Hutchinson](name). I work as an administrative assistant at [ABC Corp](company)
-- Hi, you're speaking to [Umut](name). I'm an apprentice at [ACME](company)
-- Hello, I am [Mark](name). i am an intern at [ACME](company)
-- Hello, this is [Florina Sabath](name). I work as a clerk at [ABC Corp](company)
-- Good morning, this is [Laura](name). I work as a clerk at [ACME](company)
-- Good morning, you're speaking to [Mrs Hutchinson](name). I am doing an internship at [ACME](company)
-- Good afternoon, this is [Umut](name). I work as a commercial assistant at [ACME](company)
-- Hi, my name is [Mrs Hutchinson](name). i am an intern at [ABC Corp](company)
-- Hey, how are you? My name is [Mrs. Jennifer Hutchinson](name)
-- Hey, this is [Mark](name)
-- Good evening, my name is [Jennifer](name). I work as an administrative assistant at [ABC Corp](company)
-- Hi, I am [Umut](name). i am in an internship at [ACME](company)
-- Good evening, you're speaking to [Mrs. Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
-- Good morning, you're speaking to [Mark Muller](name). I work as an administrative assistant at [ABC Corp](company)
-- Hi, this is [Mark Muller](name). i am in an internship at [ACME](company)
-- Good evening, this is [Mr Muller](name). I work as an administrative assistant at [ABC Corp](company)
-- Good evening, you're speaking to [Jennifer Hutchinson](name). i work for [ABC Corp](company)
-- Hello, my name is [Florina Sabath](name). I work as a commercial assistant at [ACME](company)
-- Hey, you're speaking to [Mrs Hutchinson](name). I'm doing an apprenticeship at [ACME](company)
-- Hey, my name is [Mr Muller](name). I work as a clerk at [ABC Corp](company)
-- Hey, my name is [Jennifer Hutchinson](name). I'm an apprentice at [ACME](company)
-- Good evening, I am [Mrs. Jennifer Hutchinson](name). i am an intern at [ACME](company)
-- Good afternoon, my name is [Laura](name). I work as a commercial assistant at [ACME](company)
-- Good afternoon, my name is [Mr Muller](name). I work as a clerk at [ABC Corp](company)
-- Good evening, my name is [Florina Sabath](name). I work as a clerk at [ACME](company)
-- Good evening, this is [Laura](name). I'm an apprentice at [ABC Corp](company)
-- Good evening, this is [Mr Muller](name). i work for [ABC Corp](company)
-- Hey, this is [Mr. Mark Muller](name). I work as a clerk at [ABC Corp](company)
-- Good evening, I am [Umut](name). i am in an internship at [ACME](company)
-- Hi, I am [Mrs. Jennifer Hutchinson](name)
-- Hi, how is it going? I am [Jennifer](name)
-- Hey, this is [Umut](name). i am an intern at [ABC Corp](company)
-- Hi, my name is [Mark](name). I'm doing an apprenticeship at [ABC Corp](company)
-- Good morning, this is [Mergim](name). I'm an apprentice at [ACME](company)
-- Hey, you're speaking to [Florina Sabath](name). I work as a clerk at [ACME](company)
-- Good afternoon, you're speaking to [Mr Muller](name). I work as a clerk at [ABC Corp](company)
-- Hello, this is [Jennifer](name). i am an intern at [ACME](company)
-- Good evening, this is [Christina](name). I'm an apprentice at [ABC Corp](company)
-- Good morning, how are you? You're speaking to [Laura](name)
-- Hi, this is [Mrs Hutchinson](name). i am in an internship at [ABC Corp](company)
-- Good afternoon, you're speaking to [Umut](name). i am in an internship at [ACME](company)
-- Hi, this is [Mergim](name). I am doing an internship at [ABC Corp](company)
-- Hey, this is [Mr. Mark Muller](name). i am in an internship at [ABC Corp](company)
-- Hey, my name is [Christina](name). i work for [ABC Corp](company)
-- Good morning, my name is [Mrs. Jennifer Hutchinson](name). i work for [ACME](company)
-- Good evening, you're speaking to [Mark](name). i work for [ABC Corp](company)
-- Good afternoon, you're speaking to [Christina](name). I work as a commercial assistant at [ABC Corp](company)
-- Hi, I am [Jennifer](name). i am an intern at [ACME](company)
+- Hi, how are you?
+- Good morning, I am [Mrs. Jennifer Hutchinson](name)
+- Good afternoon
 - Hey, how are you? This is [Jennifer Hutchinson](name)
-- Hello, my name is [Mark](name)
-- Hey, I am [Umut](name). I am doing an internship at [ACME](company)
-- Hello, this is [Mark](name). I'm an apprentice at [ABC Corp](company)
+- Hi, I am [Laura](name). i am an intern at [ACME](company)
+- Good morning, this is [Mark](name). i work for [ACME](company)
+- Good evening, I am [Christina](name). i work for [ABC Corp](company)
+- Hello, you're speaking to [Laura](name). I am doing an internship at [ABC Corp](company)
+- Hi, I am [Mrs Hutchinson](name). i am in an internship at [ABC Corp](company)
+- Hey, my name is [Jennifer Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Good evening, this is [Mrs Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
+- Hi, I am [Jennifer](name). I work as a commercial assistant at [ABC Corp](company)
+- Hey, you're speaking to [Mergim](name). I work as an administrative assistant at [ACME](company)
+- Good evening, my name is [Mr Muller](name). I am doing an internship at [ACME](company)
+- Good morning, how are you? You're speaking to [Florina Sabath](name)
+- Good evening, this is [Mrs. Jennifer Hutchinson](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Hey, you're speaking to [Mergim](name). I work as a clerk at [ACME](company)
+- Good afternoon, I am [Florina Sabath](name). i am an intern at [ABC Corp](company)
+- Good afternoon, I am [Laura](name). I'm an apprentice at [ABC Corp](company)
+- Hey, I am [Mrs Hutchinson](name). i work for [ACME](company)
+- Hello, my name is [Mr Muller](name). i am in an internship at [ABC Corp](company)
+- Hello, this is [Mark Muller](name). I work as a clerk at [ACME](company)
+- Good afternoon, you're speaking to [Mark Muller](name). i am in an internship at [ABC Corp](company)
+- Hi, how are you? I am [Umut](name)
+- Good morning, my name is [Mark](name)
+- Good evening, my name is [Mark Muller](name). I work as an administrative assistant at [ABC Corp](company)
+- Hello, this is [Umut](name). I am doing an internship at [ABC Corp](company)
+- Hello, my name is [Mark Muller](name). I work as a commercial assistant at [ACME](company)
+- Good evening, this is [Laura](name). i am an intern at [ABC Corp](company)
+- Hey, this is [Jennifer](name). I'm doing an apprenticeship at [ACME](company)
+- Good morning, this is [Laura](name). I am doing an internship at [ACME](company)
+- Hello, my name is [Christina](name). I work as an administrative assistant at [ABC Corp](company)
+- Good afternoon, you're speaking to [Florina Sabath](name). I work as a clerk at [ACME](company)
+- Good morning, this is [Jennifer Hutchinson](name). i am in an internship at [ACME](company)
+- Good afternoon, this is [Mrs Hutchinson](name). I am doing an internship at [ABC Corp](company)
+- Good evening, how is it going? My name is [Mark](name)
+- Hey, I am [Umut](name). i work for [ABC Corp](company)
+- Good morning, this is [Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
+- Good morning, this is [Florina Sabath](name). I am doing an internship at [ACME](company)
+- Good evening, this is [Mrs Hutchinson](name). I am doing an internship at [ABC Corp](company)
+- Good morning, I am [Christina](name). i am an intern at [ABC Corp](company)
+- Good evening, my name is [Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
+- Hi, I am [Mr. Mark Muller](name). I'm an apprentice at [ABC Corp](company)
+- Hi, you're speaking to [Mrs. Jennifer Hutchinson](name). i am in an internship at [ABC Corp](company)
+- Good morning, how is it going? This is [Mrs. Jennifer Hutchinson](name)
+- Hello, this is [Mrs. Jennifer Hutchinson](name)
+- Good afternoon, my name is [Mr Muller](name). I am doing an internship at [ACME](company)
+- Hey, I am [Mr Muller](name). I'm an apprentice at [ABC Corp](company)
+- Hey, you're speaking to [Mergim](name). I am doing an internship at [ACME](company)
+- Hi, this is [Laura](name). I work as a clerk at [ABC Corp](company)
+- Good afternoon, my name is [Mrs. Jennifer Hutchinson](name). I'm doing an apprenticeship at [ACME](company)
+- Good evening, my name is [Mr Muller](name). I'm an apprentice at [ACME](company)
+- Good afternoon, I am [Mrs Hutchinson](name). i am an intern at [ACME](company)
+- Hey, you're speaking to [Mark](name). I'm an apprentice at [ABC Corp](company)
+- Good morning, this is [Mr Muller](name). i am in an internship at [ABC Corp](company)
+- Good evening, how are you? You're speaking to [Laura](name)
+- Good afternoon, you're speaking to [Mark](name). I work as an administrative assistant at [ACME](company)
+- Hi, this is [Jennifer Hutchinson](name). I'm an apprentice at [ACME](company)
+- Good morning, my name is [Mrs. Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
+- Hello, this is [Jennifer](name). I'm doing an apprenticeship at [ACME](company)
+- Good evening, this is [Mr Muller](name). I'm doing an apprenticeship at [ACME](company)
+- Good afternoon, I am [Mergim](name). I work as an administrative assistant at [ABC Corp](company)
+- Hi, this is [Mrs. Jennifer Hutchinson](name). I work as an administrative assistant at [ACME](company)
+- Hello, I am [Laura](name). i am in an internship at [ACME](company)
+- Good morning, you're speaking to [Mr Muller](name). I work as a clerk at [ACME](company)
+- Hey, this is [Mark](name). I'm an apprentice at [ACME](company)
+- Hi, my name is [Mrs Hutchinson](name)
+- Good evening, how is it going? This is [Mark Muller](name)
+- Good morning, this is [Jennifer](name). I am doing an internship at [ACME](company)
+- Good afternoon, my name is [Jennifer](name). I work as a clerk at [ACME](company)
+- Hello, I am [Christina](name). I'm doing an apprenticeship at [ACME](company)
+- Hello, you're speaking to [Jennifer](name). i am an intern at [ABC Corp](company)
+- Good evening, this is [Mark](name). i work for [ABC Corp](company)
+- Good morning, this is [Mr. Mark Muller](name). i am in an internship at [ABC Corp](company)
+- Good evening, you're speaking to [Mrs Hutchinson](name). i am an intern at [ACME](company)
+- Good afternoon, you're speaking to [Umut](name). I work as an administrative assistant at [ACME](company)
+- Good evening, my name is [Umut](name). I work as an administrative assistant at [ACME](company)
+- Good morning, how is it going? I am [Mergim](name)
+- Hi, this is [Mr. Mark Muller](name). i work for [ACME](company)
+- Good evening, I am [Mrs. Jennifer Hutchinson](name). I am doing an internship at [ABC Corp](company)
+- Good afternoon, my name is [Mark](name). I'm doing an apprenticeship at [ACME](company)
+- Good evening, my name is [Mrs Hutchinson](name). i work for [ABC Corp](company)
+- Hello, my name is [Mr Muller](name). i work for [ABC Corp](company)
+- Hey, you're speaking to [Laura](name). i am in an internship at [ABC Corp](company)
+- Good evening, my name is [Mr. Mark Muller](name). I'm an apprentice at [ABC Corp](company)
+- Hi, you're speaking to [Florina Sabath](name)
+- Hey, how are you? I am [Mrs. Jennifer Hutchinson](name)
+- Good afternoon, this is [Mr Muller](name). I'm doing an apprenticeship at [ACME](company)
+- Hello, you're speaking to [Florina Sabath](name). I am doing an internship at [ABC Corp](company)
+- Hi, my name is [Mergim](name). I'm doing an apprenticeship at [ACME](company)
+- Good afternoon, my name is [Mr Muller](name). I work as a clerk at [ABC Corp](company)
+- Good morning, I am [Mr. Mark Muller](name). i am in an internship at [ACME](company)
+- Hi, my name is [Jennifer](name). I work as a commercial assistant at [ACME](company)
+- Good morning, this is [Mr Muller](name). i am an intern at [ABC Corp](company)
+- Hi, I am [Umut](name). i am an intern at [ACME](company)
+- Hi, you're speaking to [Jennifer](name). i am in an internship at [ACME](company)
+- Hi, how is it going? My name is [Mr Muller](name)
+- Hey, this is [Umut](name). I work as an administrative assistant at [ABC Corp](company)
+- Hello, I am [Mrs Hutchinson](name). I work as a clerk at [ABC Corp](company)
+- Hello, you're speaking to [Mark](name). I work as an administrative assistant at [ABC Corp](company)
+- Hi, I am [Mark Muller](name). I work as an administrative assistant at [ABC Corp](company)
+- Good afternoon, my name is [Mr. Mark Muller](name). I am doing an internship at [ABC Corp](company)
+- Good evening, this is [Mr Muller](name). I work as an administrative assistant at [ACME](company)
+- Hello, my name is [Mark](name). I am doing an internship at [ABC Corp](company)
+- Hey, my name is [Jennifer](name). I work as a clerk at [ACME](company)
+- Good morning, you're speaking to [Umut](name)
+- Good evening, how are you? My name is [Mr. Mark Muller](name)
+- Hello, I am [Florina Sabath](name). I work as a commercial assistant at [ACME](company)
+- Hi, you're speaking to [Mergim](name). i work for [ABC Corp](company)
+- Good afternoon, I am [Mrs. Jennifer Hutchinson](name). i am an intern at [ACME](company)
+- Good evening, I am [Mark Muller](name). i work for [ABC Corp](company)
+- Hey, I am [Mrs Hutchinson](name). I work as a clerk at [ACME](company)
+- Good morning, you're speaking to [Christina](name). I work as an administrative assistant at [ABC Corp](company)
+- Hi, this is [Jennifer](name). I work as a commercial assistant at [ABC Corp](company)
+- Hi, I am [Florina Sabath](name). I work as an administrative assistant at [ABC Corp](company)
+- Good afternoon, I am [Laura](name). i am an intern at [ACME](company)
+- Good evening, my name is [Mr. Mark Muller](name). i am an intern at [ABC Corp](company)
+- Hey, how are you? My name is [Florina Sabath](name)
+- Good morning, this is [Mrs Hutchinson](name). I am doing an internship at [ACME](company)
+- Good morning, you're speaking to [Mr Muller](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Hi, my name is [Mr Muller](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good evening, my name is [Florina Sabath](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good morning, I am [Mr. Mark Muller](name). I work as a clerk at [ABC Corp](company)
+- Hey, this is [Florina Sabath](name). I work as an administrative assistant at [ACME](company)
+- Good afternoon, this is [Christina](name). i am in an internship at [ACME](company)
+- Good afternoon, you're speaking to [Mergim](name). I work as a clerk at [ABC Corp](company)
+- Good morning, how is it going? This is [Mrs Hutchinson](name)
+- Good afternoon, this is [Jennifer Hutchinson](name)
+- Good evening, this is [Mrs. Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
+- Hello, my name is [Christina](name). I'm an apprentice at [ACME](company)
+- Good morning, my name is [Christina](name). i work for [ABC Corp](company)
+- Hi, I am [Mrs Hutchinson](name). I am doing an internship at [ABC Corp](company)
+- Hey, my name is [Jennifer](name). i am an intern at [ABC Corp](company)
+- Hey, I am [Christina](name). I'm an apprentice at [ABC Corp](company)
+- Hi, I am [Mark](name). i am an intern at [ACME](company)
+- Good afternoon, my name is [Jennifer Hutchinson](name). I work as an administrative assistant at [ABC Corp](company)
+- Hello, this is [Mrs Hutchinson](name). I work as a clerk at [ACME](company)
+- Hey, I am [Mr Muller](name). I am doing an internship at [ABC Corp](company)
+- Hey, how is it going? My name is [Mr Muller](name)
+- Good afternoon, my name is [Mergim](name). i am in an internship at [ABC Corp](company)
+- Good afternoon, this is [Jennifer Hutchinson](name). i am an intern at [ACME](company)
+- Hello, my name is [Laura](name). i work for [ACME](company)
+- Hello, this is [Mr. Mark Muller](name). I'm an apprentice at [ABC Corp](company)
+- Good morning, this is [Mr Muller](name). I work as a commercial assistant at [ABC Corp](company)
+- Hello, you're speaking to [Mergim](name). I work as a commercial assistant at [ACME](company)
+- Good afternoon, you're speaking to [Mr Muller](name). i am in an internship at [ABC Corp](company)
+- Good morning, I am [Laura](name). i am in an internship at [ABC Corp](company)
+- Good afternoon, I am [Mr. Mark Muller](name)
+- Good morning, you're speaking to [Mark](name). I am doing an internship at [ACME](company)
+- Hello, how is it going? I am [Mark](name)
+- Hello, you're speaking to [Jennifer Hutchinson](name). I work as an administrative assistant at [ACME](company)
+- Hello, I am [Mergim](name). i work for [ACME](company)
+- Good afternoon, you're speaking to [Mrs. Jennifer Hutchinson](name). I am doing an internship at [ACME](company)
+- Hi, I am [Jennifer Hutchinson](name). I work as an administrative assistant at [ACME](company)
+- Good morning, I am [Mark](name). i am in an internship at [ABC Corp](company)
+- Good evening, my name is [Umut](name). I work as an administrative assistant at [ABC Corp](company)
+- Good morning, I am [Mrs. Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
+- Good morning, I am [Mr Muller](name). I work as a clerk at [ACME](company)
+- Hi, this is [Jennifer](name). I'm an apprentice at [ACME](company)
+- Good morning, how is it going? I am [Mr Muller](name)
+- Hi, you're speaking to [Mark](name). i work for [ACME](company)
+- Good evening, my name is [Mr Muller](name). i am in an internship at [ACME](company)
+- Hello, I am [Mrs. Jennifer Hutchinson](name). I work as a commercial assistant at [ACME](company)
+- Hey, you're speaking to [Jennifer](name). I am doing an internship at [ACME](company)
+- Hello, I am [Mark Muller](name). i am an intern at [ABC Corp](company)
+- Hello, you're speaking to [Jennifer Hutchinson](name). I work as a clerk at [ACME](company)
+- Good afternoon, you're speaking to [Florina Sabath](name). i work for [ACME](company)
+- Good evening, you're speaking to [Florina Sabath](name). i am an intern at [ACME](company)
+- Good afternoon, I am [Mrs Hutchinson](name). I work as an administrative assistant at [ACME](company)
+- Good morning, how are you? My name is [Umut](name)
+- Good morning, you're speaking to [Mrs. Jennifer Hutchinson](name)
+- Good morning, my name is [Jennifer Hutchinson](name). i am in an internship at [ABC Corp](company)
+- Hello, this is [Mr Muller](name). I work as a commercial assistant at [ABC Corp](company)
+- Hi, you're speaking to [Christina](name). i am in an internship at [ABC Corp](company)
+- Good afternoon, this is [Mrs. Jennifer Hutchinson](name). I work as a commercial assistant at [ACME](company)
+- Good evening, my name is [Jennifer Hutchinson](name). I work as an administrative assistant at [ACME](company)
+- Hello, this is [Mergim](name). i am in an internship at [ACME](company)
+- Hey, my name is [Mr. Mark Muller](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Hello, you're speaking to [Umut](name). I work as a clerk at [ABC Corp](company)
+- Good morning, you're speaking to [Mergim](name). i am in an internship at [ACME](company)
+- Good morning, how are you? You're speaking to [Mergim](name)
+- Good evening, my name is [Umut](name). i am in an internship at [ABC Corp](company)
+- Good morning, you're speaking to [Jennifer](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good afternoon, this is [Jennifer](name). i am an intern at [ABC Corp](company)
+- Hey, my name is [Umut](name). I am doing an internship at [ABC Corp](company)
+- Good morning, I am [Laura](name). I work as an administrative assistant at [ACME](company)
+- Hello, I am [Mergim](name). I'm an apprentice at [ACME](company)
+- Good afternoon, you're speaking to [Umut](name). I'm an apprentice at [ACME](company)
+- Hi, I am [Florina Sabath](name). I'm doing an apprenticeship at [ACME](company)
+- Good afternoon, you're speaking to [Mark Muller](name). i work for [ABC Corp](company)
+- Hi, this is [Mr Muller](name)
+- Hello, how are you? You're speaking to [Jennifer Hutchinson](name)
+- Hey, I am [Umut](name). I work as a clerk at [ACME](company)
+- Good morning, my name is [Mark](name). i am in an internship at [ABC Corp](company)
+- Good afternoon, I am [Mark](name). I work as a clerk at [ACME](company)
+- Hi, this is [Mr Muller](name). I'm doing an apprenticeship at [ACME](company)
+- Hi, my name is [Mr Muller](name). i am an intern at [ACME](company)
+- Good afternoon, you're speaking to [Mergim](name). I'm an apprentice at [ABC Corp](company)
+- Good morning, you're speaking to [Mark Muller](name). i am in an internship at [ABC Corp](company)
+- Good evening, this is [Jennifer Hutchinson](name). I am doing an internship at [ABC Corp](company)
+- Good morning, my name is [Umut](name). I work as a clerk at [ABC Corp](company)
+- Hi, I am [Mrs Hutchinson](name). I work as a clerk at [ABC Corp](company)
+- Hi, I am [Mergim](name). i work for [ABC Corp](company)
+- Hey, I am [Jennifer](name). i work for [ABC Corp](company)
+- Hey, you're speaking to [Mark Muller](name). i am in an internship at [ABC Corp](company)
+- Good afternoon, my name is [Mark](name). I work as a commercial assistant at [ACME](company)
+- Good evening, I am [Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
+- Hi, this is [Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
+- Hi, my name is [Laura](name). i work for [ACME](company)
+- Hello, my name is [Mergim](name)
+- Hi, how are you? This is [Jennifer](name)
+- Hello, you're speaking to [Christina](name). I work as an administrative assistant at [ABC Corp](company)
+- Hey, I am [Mrs. Jennifer Hutchinson](name). i work for [ACME](company)
+- Hey, this is [Jennifer](name). i work for [ABC Corp](company)
+- Hi, you're speaking to [Jennifer Hutchinson](name). I'm doing an apprenticeship at [ACME](company)
+- Good evening, this is [Jennifer](name). i work for [ABC Corp](company)
+- Good afternoon, I am [Jennifer](name). I am doing an internship at [ACME](company)
+- Hello, I am [Mrs Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Good evening, how are you? My name is [Mark Muller](name)
+- Hi, you're speaking to [Florina Sabath](name). I work as a commercial assistant at [ABC Corp](company)
+- Good afternoon, my name is [Mergim](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good morning, I am [Jennifer](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good afternoon, my name is [Mrs Hutchinson](name). I work as a commercial assistant at [ACME](company)
+- Good morning, this is [Mark](name). i am in an internship at [ABC Corp](company)
+- Hi, my name is [Mergim](name). I work as a clerk at [ACME](company)
+- Good evening, this is [Florina Sabath](name). I am doing an internship at [ABC Corp](company)
+- Hey, my name is [Mrs. Jennifer Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Good morning, you're speaking to [Mark](name)
+- Hello, how are you? You're speaking to [Mrs. Jennifer Hutchinson](name)
+- Good afternoon, this is [Mark](name). I work as a clerk at [ACME](company)
+- Hey, I am [Mergim](name). i work for [ACME](company)
+- Hey, my name is [Mrs. Jennifer Hutchinson](name). I work as a commercial assistant at [ACME](company)
+- Good afternoon, my name is [Jennifer Hutchinson](name). I work as a clerk at [ACME](company)
+- Good morning, you're speaking to [Mrs Hutchinson](name). I work as a clerk at [ABC Corp](company)
+- Hi, you're speaking to [Jennifer Hutchinson](name). I work as an administrative assistant at [ACME](company)
+- Hi, my name is [Laura](name). I work as a commercial assistant at [ABC Corp](company)
+- Hey, my name is [Mr Muller](name). i work for [ACME](company)
+- Good afternoon, this is [Jennifer Hutchinson](name). i work for [ACME](company)
+- Hi, you're speaking to [Mark](name). I work as an administrative assistant at [ABC Corp](company)
+- Good morning, how are you? My name is [Mr. Mark Muller](name)
+- Good evening, this is [Jennifer](name). i am in an internship at [ABC Corp](company)
+- Hey, you're speaking to [Mrs. Jennifer Hutchinson](name). I work as a commercial assistant at [ACME](company)
+- Hey, you're speaking to [Mr. Mark Muller](name). I'm doing an apprenticeship at [ACME](company)
+- Hey, this is [Mark](name). i work for [ACME](company)
+- Good evening, I am [Laura](name). I work as a clerk at [ABC Corp](company)
+- Hi, I am [Umut](name). I work as an administrative assistant at [ABC Corp](company)
+- Hey, I am [Mr Muller](name). i am in an internship at [ABC Corp](company)
+- Hi, I am [Laura](name)
+- Hello, this is [Laura](name). I am doing an internship at [ABC Corp](company)
+- Hey, how is it going? I am [Mergim](name)
+- Good morning, you're speaking to [Laura](name). I work as a clerk at [ABC Corp](company)
+- Hey, I am [Mergim](name). i am in an internship at [ABC Corp](company)
+- Hello, I am [Mergim](name). i am an intern at [ACME](company)
+- Hello, this is [Mr Muller](name). I am doing an internship at [ABC Corp](company)
+- Hey, you're speaking to [Mr. Mark Muller](name). i work for [ABC Corp](company)
+- Good morning, I am [Mergim](name). I'm doing an apprenticeship at [ACME](company)
+- Good morning, this is [Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
+- Good evening, you're speaking to [Laura](name). I work as a commercial assistant at [ACME](company)
+- Hello, how is it going? This is [Laura](name)
+- Hey, this is [Mrs. Jennifer Hutchinson](name). I work as a clerk at [ABC Corp](company)
+- Hey, my name is [Laura](name). I'm doing an apprenticeship at [ACME](company)
+- Hi, I am [Mark](name). I work as a clerk at [ABC Corp](company)
+- Hello, my name is [Mrs Hutchinson](name). i work for [ABC Corp](company)
+- Good evening, my name is [Jennifer](name). I work as a commercial assistant at [ACME](company)
+- Hey, I am [Laura](name). I work as a commercial assistant at [ABC Corp](company)
+- Hi, I am [Mr. Mark Muller](name). i am in an internship at [ABC Corp](company)
+- Hi, you're speaking to [Mrs Hutchinson](name). i am in an internship at [ACME](company)
+- Good morning, this is [Jennifer](name)
+- Hi, how are you? My name is [Jennifer Hutchinson](name)
+- Hi, my name is [Umut](name). I work as an administrative assistant at [ABC Corp](company)
+- Good evening, this is [Mrs Hutchinson](name). I work as a clerk at [ACME](company)
+- Good evening, you're speaking to [Mark](name). i am an intern at [ACME](company)
+- Hello, you're speaking to [Umut](name). I work as an administrative assistant at [ACME](company)
+- Hi, my name is [Laura](name). I work as an administrative assistant at [ABC Corp](company)
+- Hello, you're speaking to [Florina Sabath](name). I'm an apprentice at [ABC Corp](company)
+- Hey, this is [Florina Sabath](name). I'm an apprentice at [ABC Corp](company)
+- Hello, I am [Jennifer](name). I am doing an internship at [ACME](company)
+- Good afternoon, my name is [Jennifer](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good afternoon, how are you? This is [Laura](name)
+- Hello, you're speaking to [Mr Muller](name). I work as a clerk at [ACME](company)
+- Hello, I am [Umut](name). i am an intern at [ABC Corp](company)
+- Hello, this is [Jennifer Hutchinson](name). i am an intern at [ACME](company)
+- Good afternoon, this is [Mark](name). i am an intern at [ACME](company)
+- Good evening, this is [Mr. Mark Muller](name). I am doing an internship at [ABC Corp](company)
+- Hello, this is [Mark](name). I work as a clerk at [ACME](company)
+- Hi, this is [Mark](name). I'm doing an apprenticeship at [ACME](company)
+- Good morning, my name is [Christina](name). i am an intern at [ABC Corp](company)
+- Hello, my name is [Mark Muller](name). I'm an apprentice at [ACME](company)
+- Hello, how is it going? You're speaking to [Umut](name)
+- Hi, you're speaking to [Mark Muller](name). I work as a clerk at [ABC Corp](company)
+- Hey, you're speaking to [Christina](name)
+- Hello, my name is [Jennifer](name). I work as a clerk at [ABC Corp](company)
+- Hi, you're speaking to [Jennifer Hutchinson](name). I work as a clerk at [ABC Corp](company)
+- Good morning, I am [Umut](name). I work as a clerk at [ACME](company)
+- Hey, this is [Mark Muller](name). I work as a clerk at [ACME](company)
+- Hey, this is [Mr. Mark Muller](name). I'm an apprentice at [ACME](company)
+- Hello, you're speaking to [Mark Muller](name). i work for [ABC Corp](company)
+- Good afternoon, this is [Laura](name). i work for [ABC Corp](company)
+- Good evening, you're speaking to [Mr. Mark Muller](name). I'm an apprentice at [ACME](company)
+- Hello, I am [Laura](name). I work as a clerk at [ACME](company)
+- Hi, how is it going? I am [Mrs. Jennifer Hutchinson](name)
+- Hi, I am [Jennifer](name). I work as an administrative assistant at [ABC Corp](company)
+- Good evening, you're speaking to [Mrs. Jennifer Hutchinson](name). i am an intern at [ACME](company)
+- Hey, you're speaking to [Mrs Hutchinson](name). I work as a commercial assistant at [ACME](company)
+- Hey, this is [Florina Sabath](name). i work for [ABC Corp](company)
+- Good evening, you're speaking to [Jennifer](name). i am in an internship at [ACME](company)
+- Hi, this is [Christina](name). i am in an internship at [ABC Corp](company)
+- Good afternoon, this is [Florina Sabath](name). I work as a commercial assistant at [ABC Corp](company)
+- Good afternoon, my name is [Jennifer](name). i am an intern at [ACME](company)
+- Hey, how are you? This is [Mrs Hutchinson](name)
+- Good evening, my name is [Mark](name). I am doing an internship at [ABC Corp](company)
+- Hey, my name is [Mr. Mark Muller](name). I work as a clerk at [ABC Corp](company)
+- Hello, you're speaking to [Florina Sabath](name). I work as an administrative assistant at [ACME](company)
+- Good evening, you're speaking to [Jennifer Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Good afternoon, my name is [Laura](name). i am in an internship at [ACME](company)
+- Hi, this is [Jennifer](name). i work for [ACME](company)
+- Hey, my name is [Mergim](name). I work as a clerk at [ACME](company)
+- Hey, you're speaking to [Mrs Hutchinson](name). i am an intern at [ABC Corp](company)
+- Hi, you're speaking to [Laura](name). I work as an administrative assistant at [ACME](company)
+- Hey, you're speaking to [Jennifer Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Good morning, my name is [Florina Sabath](name). I work as a clerk at [ABC Corp](company)
+- Hello, I am [Florina Sabath](name). i am in an internship at [ACME](company)
+- Good evening, you're speaking to [Laura](name). i am an intern at [ABC Corp](company)
+- Good morning, my name is [Mrs Hutchinson](name). i am an intern at [ACME](company)
+- Good morning, my name is [Mergim](name). I work as a commercial assistant at [ABC Corp](company)
+- Hey, you're speaking to [Florina Sabath](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Hi, this is [Mark Muller](name). i am an intern at [ABC Corp](company)
+- Hey, how are you? You're speaking to [Jennifer Hutchinson](name)
+- Good evening, I am [Mr Muller](name)
+- Hi, my name is [Mrs Hutchinson](name). i am an intern at [ABC Corp](company)
+- Good morning, this is [Umut](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Hey, I am [Mark](name). i am in an internship at [ABC Corp](company)
+- Good morning, this is [Laura](name). I'm doing an apprenticeship at [ACME](company)
+- Good morning, you're speaking to [Christina](name). I work as a clerk at [ABC Corp](company)
+- Good evening, my name is [Mrs Hutchinson](name). I am doing an internship at [ABC Corp](company)
+- Hi, you're speaking to [Jennifer Hutchinson](name). i work for [ABC Corp](company)
+- Hey, this is [Mark Muller](name). I work as an administrative assistant at [ABC Corp](company)
+- Good afternoon, my name is [Laura](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good evening, my name is [Laura](name). i am an intern at [ABC Corp](company)
+- Hello, how is it going? I am [Mrs Hutchinson](name)
+- Hi, I am [Mark Muller](name). i am in an internship at [ACME](company)
+- Good afternoon, I am [Christina](name). I work as a commercial assistant at [ACME](company)
+- Hello, this is [Umut](name). I work as an administrative assistant at [ABC Corp](company)
+- Hey, I am [Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
+- Hello, my name is [Mr. Mark Muller](name). I work as an administrative assistant at [ACME](company)
+- Hi, my name is [Christina](name). I'm an apprentice at [ACME](company)
+- Hi, this is [Jennifer Hutchinson](name). I work as a clerk at [ABC Corp](company)
+- Hello, my name is [Umut](name)
+- Hello, how is it going? My name is [Mark](name)
+- Hello, you're speaking to [Mr. Mark Muller](name). I work as a clerk at [ABC Corp](company)
+- Hi, this is [Umut](name). I'm an apprentice at [ACME](company)
+- Hi, you're speaking to [Mrs Hutchinson](name). I am doing an internship at [ABC Corp](company)
+- Good morning, you're speaking to [Jennifer](name). I'm an apprentice at [ABC Corp](company)
+- Good evening, I am [Florina Sabath](name). i am an intern at [ACME](company)
+- Good morning, my name is [Mergim](name). I work as a clerk at [ACME](company)
+- Good afternoon, this is [Mrs. Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
+- Good afternoon, how are you? You're speaking to [Mergim](name)
+- Hi, I am [Mark](name). i work for [ABC Corp](company)
+- Hi, my name is [Mark Muller](name). i work for [ABC Corp](company)
+- Hello, I am [Mrs. Jennifer Hutchinson](name). I work as a clerk at [ABC Corp](company)
+- Good morning, I am [Christina](name). I'm an apprentice at [ACME](company)
+- Hello, my name is [Mr Muller](name). I am doing an internship at [ACME](company)
+- Good evening, this is [Jennifer Hutchinson](name). i am in an internship at [ACME](company)
+- Good morning, my name is [Mr Muller](name). i am an intern at [ACME](company)
+- Good evening, you're speaking to [Laura](name). I'm an apprentice at [ABC Corp](company)
+- Good afternoon, you're speaking to [Mr Muller](name). i work for [ACME](company)
+- Good afternoon, how are you? You're speaking to [Jennifer Hutchinson](name)
+- Hi, this is [Mergim](name)
+- Hello, you're speaking to [Jennifer Hutchinson](name). i work for [ABC Corp](company)
+- Hey, I am [Laura](name). I work as a commercial assistant at [ACME](company)
+- Good morning, my name is [Mrs Hutchinson](name). i am in an internship at [ABC Corp](company)
+- Hello, my name is [Mrs. Jennifer Hutchinson](name). I work as a clerk at [ACME](company)
+- Hi, you're speaking to [Florina Sabath](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good evening, my name is [Laura](name). I work as a clerk at [ABC Corp](company)
+- Good evening, my name is [Mrs Hutchinson](name). I'm an apprentice at [ACME](company)
+- Hi, I am [Florina Sabath](name). i am an intern at [ACME](company)
+- Hello, how is it going? My name is [Mr Muller](name)
+- Good afternoon, my name is [Christina](name). I work as a clerk at [ACME](company)
+- Hi, I am [Florina Sabath](name). I'm an apprentice at [ACME](company)
+- Good evening, I am [Umut](name). I'm doing an apprenticeship at [ACME](company)
+- Good evening, you're speaking to [Mark Muller](name). i am in an internship at [ABC Corp](company)
+- Hello, you're speaking to [Mark](name). I'm doing an apprenticeship at [ACME](company)
+- Good morning, my name is [Mr. Mark Muller](name). I work as a clerk at [ABC Corp](company)
+- Hey, you're speaking to [Laura](name). I'm an apprentice at [ACME](company)
+- Hi, my name is [Mrs. Jennifer Hutchinson](name). I work as a commercial assistant at [ACME](company)
+- Hello, how is it going? This is [Mrs. Jennifer Hutchinson](name)
+- Good evening, my name is [Mr. Mark Muller](name)
+- Good morning, this is [Umut](name). I work as a clerk at [ABC Corp](company)
+- Hello, this is [Mrs. Jennifer Hutchinson](name). I'm doing an apprenticeship at [ACME](company)
+- Good evening, this is [Mrs. Jennifer Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Good evening, you're speaking to [Mark](name). I am doing an internship at [ACME](company)
+- Good afternoon, this is [Umut](name). i am in an internship at [ABC Corp](company)
+- Good afternoon, my name is [Mrs Hutchinson](name). I'm doing an apprenticeship at [ACME](company)
+- Hey, you're speaking to [Jennifer](name). i am an intern at [ABC Corp](company)
+- Good afternoon, my name is [Mark](name). I work as a clerk at [ACME](company)
+- Hey, my name is [Mrs. Jennifer Hutchinson](name). i work for [ACME](company)
+- Good morning, you're speaking to [Mergim](name). I work as a commercial assistant at [ACME](company)
+- Hey, how are you? You're speaking to [Mark Muller](name)
+- Good afternoon, my name is [Jennifer Hutchinson](name). I work as a clerk at [ABC Corp](company)
+- Good afternoon, I am [Jennifer](name). I work as a clerk at [ACME](company)
+- Good evening, you're speaking to [Mr. Mark Muller](name). I work as an administrative assistant at [ABC Corp](company)
+- Good evening, this is [Mrs Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Good morning, I am [Mr. Mark Muller](name). I work as a commercial assistant at [ACME](company)
+- Hi, you're speaking to [Jennifer](name). I am doing an internship at [ABC Corp](company)
+- Hey, my name is [Laura](name). I work as an administrative assistant at [ABC Corp](company)
+- Good afternoon, you're speaking to [Mrs Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Good evening, this is [Mark Muller](name)
+- Good evening, how are you? I am [Christina](name)
+- Hi, you're speaking to [Jennifer](name). I am doing an internship at [ACME](company)
+- Hello, you're speaking to [Mark](name). i am in an internship at [ABC Corp](company)
+- Hey, you're speaking to [Christina](name). I'm an apprentice at [ACME](company)
+- Good evening, I am [Florina Sabath](name). i work for [ABC Corp](company)
+- Hi, my name is [Mrs. Jennifer Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Good afternoon, this is [Jennifer Hutchinson](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good morning, you're speaking to [Florina Sabath](name). i am an intern at [ABC Corp](company)
+- Good evening, you're speaking to [Mrs Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Good evening, my name is [Umut](name). I'm an apprentice at [ABC Corp](company)
+- Hey, how are you? This is [Mr Muller](name)
+- Hey, I am [Mrs Hutchinson](name). i am an intern at [ABC Corp](company)
+- Good afternoon, my name is [Mr. Mark Muller](name). I work as an administrative assistant at [ABC Corp](company)
+- Hi, I am [Laura](name). i am in an internship at [ABC Corp](company)
+- Hello, you're speaking to [Florina Sabath](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Hello, this is [Mergim](name). I work as a commercial assistant at [ABC Corp](company)
+- Hey, I am [Mr. Mark Muller](name). I am doing an internship at [ACME](company)
+- Hello, my name is [Umut](name). I work as a clerk at [ACME](company)
+- Good evening, you're speaking to [Mr Muller](name). I work as an administrative assistant at [ACME](company)
+- Hi, how is it going? My name is [Mergim](name)
+- Good evening, my name is [Mrs. Jennifer Hutchinson](name)
+- Good morning, I am [Jennifer Hutchinson](name). I work as a commercial assistant at [ABC Corp](company)
+- Good evening, my name is [Umut](name). I'm an apprentice at [ACME](company)
+- Hello, my name is [Jennifer](name). I work as a commercial assistant at [ABC Corp](company)
+- Hey, you're speaking to [Mergim](name). i am an intern at [ABC Corp](company)
+- Good afternoon, you're speaking to [Mrs Hutchinson](name). i am in an internship at [ABC Corp](company)
+- Hey, I am [Mrs Hutchinson](name). I'm an apprentice at [ABC Corp](company)
+- Hello, this is [Florina Sabath](name). i am in an internship at [ABC Corp](company)
+- Hello, my name is [Mrs. Jennifer Hutchinson](name). I work as an administrative assistant at [ABC Corp](company)
+- Hi, how is it going? My name is [Mrs. Jennifer Hutchinson](name)
+- Good evening, my name is [Florina Sabath](name). I work as an administrative assistant at [ACME](company)
+- Good morning, I am [Christina](name). I work as a clerk at [ABC Corp](company)
+- Good morning, I am [Umut](name). I work as a commercial assistant at [ACME](company)
+- Hello, I am [Umut](name). I work as a commercial assistant at [ABC Corp](company)
+- Good afternoon, you're speaking to [Mark](name). I work as a commercial assistant at [ABC Corp](company)
+- Hello, my name is [Jennifer](name). i work for [ABC Corp](company)
+- Hi, I am [Mr. Mark Muller](name). I work as an administrative assistant at [ABC Corp](company)
+- Good evening, I am [Florina Sabath](name). I work as a clerk at [ACME](company)
+- Hi, my name is [Umut](name)
+- Good evening, this is [Jennifer Hutchinson](name). i am an intern at [ACME](company)
+- Good evening, this is [Jennifer](name). I work as a clerk at [ABC Corp](company)
+- Good afternoon, this is [Mr Muller](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good morning, you're speaking to [Mrs Hutchinson](name). I work as an administrative assistant at [ACME](company)
+- Good morning, I am [Mergim](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good afternoon, this is [Jennifer Hutchinson](name). I am doing an internship at [ABC Corp](company)
+- Good morning, I am [Laura](name). i am in an internship at [ACME](company)
+- Hello, I am [Jennifer](name). i am an intern at [ACME](company)
+- Good evening, this is [Mrs Hutchinson](name). i am in an internship at [ACME](company)
+- Hey, you're speaking to [Florina Sabath](name). I'm an apprentice at [ACME](company)
+- Good afternoon, I am [Mr. Mark Muller](name). I work as a commercial assistant at [ABC Corp](company)
+- Good morning, my name is [Umut](name). I work as a clerk at [ACME](company)
+- Hey, I am [Mark Muller](name). I am doing an internship at [ABC Corp](company)
+- Hey, you're speaking to [Christina](name). I work as an administrative assistant at [ABC Corp](company)
+- Good morning, my name is [Florina Sabath](name). i work for [ABC Corp](company)
 - Hi, my name is [Mark](name). I work as an administrative assistant at [ACME](company)
-- Good evening, my name is [Jennifer Hutchinson](name). i am in an internship at [ACME](company)
-- Good afternoon, my name is [Laura](name). I am doing an internship at [ABC Corp](company)
-- Good evening, this is [Mark Muller](name). I am doing an internship at [ABC Corp](company)
-- Good evening, you're speaking to [Mr. Mark Muller](name). i am an intern at [ABC Corp](company)
-- Hello, this is [Mark Muller](name). i am in an internship at [ABC Corp](company)
-- Good evening, this is [Umut](name). I am doing an internship at [ACME](company)
-- Hey, you're speaking to [Mark](name). I'm doing an apprenticeship at [ACME](company)
-- Hi, how are you? This is [Mark Muller](name)
-- Good evening, I am [Florina Sabath](name). I work as a commercial assistant at [ABC Corp](company)
-- Good evening, I am [Mrs. Jennifer Hutchinson](name). i am an intern at [ABC Corp](company)
-- Hello, you're speaking to [Mergim](name). I work as an administrative assistant at [ACME](company)
-- Hello, my name is [Jennifer](name). i am in an internship at [ABC Corp](company)
-- Good morning, this is [Mark](name). I am doing an internship at [ABC Corp](company)
-- Hi, you're speaking to [Florina Sabath](name). I work as a clerk at [ABC Corp](company)
-- Good afternoon, my name is [Christina](name). i work for [ABC Corp](company)
-- Good morning, this is [Mr. Mark Muller](name). I work as a commercial assistant at [ABC Corp](company)
-- Hi, how are you? My name is [Laura](name)
-- Good evening, I am [Jennifer](name)
-- Hey, you're speaking to [Mrs Hutchinson](name). I work as an administrative assistant at [ACME](company)
-- Hi, this is [Jennifer Hutchinson](name). i work for [ABC Corp](company)
-- Hello, I am [Mr. Mark Muller](name). I work as an administrative assistant at [ACME](company)
-- Good afternoon, this is [Florina Sabath](name). I'm an apprentice at [ABC Corp](company)
+- Hello, my name is [Laura](name). I work as an administrative assistant at [ACME](company)
+- Good afternoon, I am [Mrs Hutchinson](name). I work as a clerk at [ABC Corp](company)
+- Hi, how is it going? You're speaking to [Jennifer](name)
+- Good afternoon, you're speaking to [Mrs. Jennifer Hutchinson](name)
+- Good morning, you're speaking to [Jennifer](name). I work as an administrative assistant at [ACME](company)
+- Good morning, this is [Mark](name). I work as an administrative assistant at [ACME](company)
+- Hello, my name is [Jennifer](name). i am in an internship at [ACME](company)
+- Hello, you're speaking to [Mrs. Jennifer Hutchinson](name). I am doing an internship at [ABC Corp](company)
+- Good morning, you're speaking to [Mr. Mark Muller](name). I work as a commercial assistant at [ABC Corp](company)
+- Hey, my name is [Mr Muller](name). I work as a commercial assistant at [ACME](company)
+- Good evening, this is [Mark Muller](name). I work as a commercial assistant at [ACME](company)
+- Good afternoon, how is it going? I am [Mergim](name)
+- Hey, you're speaking to [Mark](name). i work for [ACME](company)
+- Good afternoon, my name is [Mergim](name). I am doing an internship at [ACME](company)
+- Hello, you're speaking to [Florina Sabath](name). i work for [ACME](company)
+- Hello, my name is [Christina](name). I work as a commercial assistant at [ACME](company)
+- Hey, my name is [Jennifer](name). I am doing an internship at [ABC Corp](company)
+- Good afternoon, this is [Mr Muller](name). I'm an apprentice at [ABC Corp](company)
+- Good evening, I am [Mrs. Jennifer Hutchinson](name). I work as an administrative assistant at [ABC Corp](company)
+- Hi, you're speaking to [Mr Muller](name). I'm doing an apprenticeship at [ABC Corp](company)
+- Good evening, I am [Mark](name). I work as a commercial assistant at [ACME](company)
+- Good afternoon, this is [Laura](name). i am an intern at [ACME](company)
+- Good evening, how are you? You're speaking to [Umut](name)
+- Good morning, you're speaking to [Mrs Hutchinson](name)
+- Hey, my name is [Mr. Mark Muller](name). i work for [ABC Corp](company)
+- Hey, you're speaking to [Mrs. Jennifer Hutchinson](name). I work as an administrative assistant at [ACME](company)
+- Good evening, my name is [Jennifer](name). i work for [ABC Corp](company)
+- Good evening, I am [Laura](name). I'm doing an apprenticeship at [ACME](company)
+- Hi, you're speaking to [Christina](name). i am an intern at [ACME](company)
+- Good afternoon, you're speaking to [Mrs Hutchinson](name). i am an intern at [ABC Corp](company)
+- Hi, this is [Mr. Mark Muller](name). i am an intern at [ABC Corp](company)
 - Good evening, my name is [Mrs Hutchinson](name). i work for [ACME](company)
-- Hey, you're speaking to [Mr. Mark Muller](name). I work as an administrative assistant at [ACME](company)
+- Good evening, how are you? My name is [Jennifer Hutchinson](name)
+- Hi, I am [Jennifer](name). I'm an apprentice at [ABC Corp](company)
+- Good evening, this is [Christina](name). I work as a clerk at [ACME](company)
+- Good morning, this is [Laura](name). I work as a clerk at [ACME](company)
+- Good afternoon, you're speaking to [Jennifer](name). i am an intern at [ACME](company)
+- Hey, my name is [Jennifer](name). I work as a clerk at [ABC Corp](company)
 
 ## intent:provide_booking_date
-- The event takes place [at 19:00](time) on the @[date?]
-- It is for [29.8.2019](date) [at 16:00](time)
-- It is for [at 15:00](time) on the @[date?]
-- Is the location available [at 10 in the morning](time) on the @[date?]
-- The event is next month
-- Is the venue available for [6th of November 2018](date) [at 10 in the morning](time)
-- The time of the event is [at 15.00](time) on the @[date?]
-- we want to book the place for the [24th of Mar 2018](date) [at 6](time)
-- The date of the event is the [21th of August 2018](date) [at 23:00](time)
-- Could I get the room [at 7 o'clock](time) on the @[date?]
-- The event is happening [at 3 in the afternoon](time) on the [23 November 2020](date)
-- Can we book the place for the [27/5/2019](date) [at 23.00](time)
-- I need to reserve the venue for the [6th of December 2018](date) [at 23.00](time)
-- I'd like to book the location for [23/7/2019](date) [at 16.00](time)
-- Could we get the location for the [7.2.2018](date) [at 3 in the afternoon](time)
-- we'd like to have the venue on [23.8.2019](date) [during the day](time)
-- we would like to get the location on the [31-8-2018](date) [at 11 in the morning](time)
-- I would like to get the venue for [4th of Jan 2019](date) [at 8 in the morning](time)
-- Can I book the room on the [13 Mar 2020](date) [at 13.00](time)
-- Would it be possible to get the location for [18/10/2019](date) [at night](time)
-- Can I get the place for [2 June 2018](date) [at night](time)
-- Is it possible to get the location for [22th Dec 2019](date) [in the afternoon](time)
-- I need to get the location for the [4/1/2018](date)
-- I want to have the location for the [28-4-2019](date) [at 6 in the evening](time)
-- Could we get the place for [5th of November 2020](date) [at 20.00](time)
-- Can I book the room for [20 Jul 2020](date) [at 19:00](time)
-- Could we have the room on the [27.10.2018](date) [at 1 in the afternoon](time)
-- we would like to get the location for the [26.4.2018](date) [at 15:00](time)
-- we need to book the room for [12 May 2018](date) [at 1 in the afternoon](time)
-- Is it possible to have the place for the [31/11/2018](date) [at 10 in the morning](time)
-- I want to have the location for [24 April 2020](date) [at 2 in the afternoon](time)
-- we need to reserve the venue for [9.6.2019](date) [in the evening](time)
-- Can I get the venue for the [24.9.2018](date) [at 22:00](time)
-- we'd like to have the place for [1 of December 2019](date) [at 22.00](time)
-- Is it possible to reserve the room on the [25-1-2020](date) [at 19.00](time)
-- we need to reserve the venue for [10th Jun 2019](date) [at 11 in the morning](time)
-- we want to have the location for the [5th November 2020](date) [at 20:00](time)
-- I want to get the location on [23 Sep 2020](date) [at 16.00](time)
-- Can we reserve the venue for the [7 Apr 2019](date) [during the day](time)
-- Is it possible to reserve the location for the [13.6.2020](date) [at 14.00](time)
-- we want to book the location for [2.10.2019](date) [at 4 in the afternoon](time)
-- I would like to get the room on [13-2-2019](date) [at 8 in the morning](time)
-- Is it possible to get the location on the [30th of Nov 2019](date) [during the day](time)
-- The event is going to be [at 19.00](time) [18 February 2019](date)
-- I need to get the place on [8-7-2020](date) [at 14:00](time)
-- Can I reserve the venue for the [17-4-2018](date) [at 24:00](time)
-- I would like to reserve the room for the [8th of May 2020](date) [at 13:00](time)
-- we want to get the location on [19/1/2019](date) [at 7 in the evening](time)
-- Is it possible to have the venue on the [18th of Aug 2019](date) [at 2 in the afternoon](time)
-- Is it possible to have the venue on [13-8-2018](date) [at 8 in the morning](time)
-- Is it possible to get the room on the [15 of Apr 2020](date) [at 7 in the evening](time)
-- Would it be possible to get the venue for [2.6.2020](date) [at night](time)
-- Can we reserve the room on [30th June 2018](date) [at 16:00](time)
-- we'd like to get the room for [5-1-2019](date) [at 5 in the evening](time)
-- we want to get the room for the [18th of February 2019](date) [at 3 in the afternoon](time)
-- Would it be possible to have the location for the [22-12-2019](date) [at 5 o'clock](time)
-- Is it possible to reserve the location on [27th Mar 2018](date) [at 11 in the morning](time)
-- Can we have the place on [16.1.2018](date) [at 7 in the evening](time)
-- Can I book the venue on the [4/1/2020](date) [at 11 in the morning](time)
-- Could we get the location on the [13th Nov 2018](date) [at 10 p.m.](time)
-- I would like to have the place for the [10th May 2018](date) [at 15.00](time)
-- I would like to book the room on the [25th of Mar 2019](date) [at 10 in the morning](time)
-- Is it possible to get the place on [4-10-2020](date) [at 7 in the evening](time)
-- Is it possible to book the venue on the [28 Dec 2020](date) [at 18.00](time)
-- Would it be possible to book the venue for [17th Dec 2019](date) [at 18:00](time)
-- Is it possible to reserve the room for the [21th of Sep 2019](date) [at 9 in the morning](time)
-- Can I get the location on the [20 of Jun 2019](date) [at 16.00](time)
-- Is the room available on the [11-6-2018](date) [at noon](time)
-- Can I have the venue for the [27-5-2018](date) [at noon](time)
-- we would like to book the location on the [21-3-2020](date) [at 22.00](time)
-- Is it possible to have the venue for the [22.5.2018](date) [at 18.00](time)
-- Could I have the location on the [4th Apr 2018](date) [at 8 in the morning](time)
-- I need to have the place on [3/9/2020](date) [at 8 in the morning](time)
-- Is it possible to get the room for the [25/9/2018](date) [at 16.00](time)
-- Would it be possible to book the venue for the [2/3/2019](date) [at 7 o'clock](time)
-- I'd like to book the place on [13th of July 2018](date) [at 5 in the evening](time)
-- Could I have the venue for the [15 June 2018](date) [at night](time)
-- The networking event will take place [in the afternoon](time) [17th of Feb 2019](date)
-- I want to reserve the location for the [19 of September 2020](date) [at 4 in the afternoon](time)
-- I need to have the room on the [30 May 2019](date) [at 5 in the evening](time)
-- I need to reserve the room on [10-12-2020](date) [at 10 in the morning](time)
-- Would it be possible to have the venue for the [24/10/2019](date) [at 17.00](time)
-- Would it be possible to get the room on [10 Feb 2020](date) [at 10 in the morning](time)
-- Could we reserve the venue on [24.6.2020](date) [during the day](time)
-- we want to reserve the place on the [11th September 2020](date) [at 11 in the morning](time)
-- we would like to get the place for the [14th of November 2018](date) [at night](time)
-- we want to have the venue on the [4.2.2020](date) [at 15:00](time)
-- I would like to book the place on the [23 May 2020](date) [at 10 in the morning](time)
-- Can I book the location for the [17th Mar 2019](date) [at 10 o'clock](time)
-- Can we have the place for the [25 February 2020](date) [at 22:00](time)
-- Can we book the location for the [19.9.2020](date) [at 18.00](time)
-- we'd like to get the location on the [2 May 2019](date) [at 1 in the afternoon](time)
-- Is it possible to reserve the place on the [5-10-2020](date) [at 12 am](time)
-- we'd like to get the venue on the [30-3-2019](date) [in the morning](time)
-- we would like to get the location for the [6.5.2020](date) [at 3 in the afternoon](time)
-- Could I reserve the location on the [3/12/2020](date) [in the morning](time)
-- Could I get the venue on [21.1.2020](date) [at 21.00](time)
-- I need to get the venue for [22 Feb 2019](date) [at 3 in the afternoon](time)
-- Would it be possible to get the room for the [16 Jul 2019](date) [at 10 in the morning](time)
-- I would like to reserve the venue on [9.1.2020](date) [at 3 in the afternoon](time)
-- Could we get the location for [26 Aug 2018](date) [at 14.00](time)
-- Would it be possible to book the place on the [11th Jun 2020](date) [at 6 in the evening](time)
-- Would it be possible to get the room for [7 of May 2018](date) [at 20.00](time)
-- Would it be possible to get the place for the [31.9.2018](date) [at 19:00](time)
-- I need to reserve the room for [6th of January 2018](date) [at noon](time)
-- Is it possible to have the room on the [20.10.2018](date) [at 5 in the evening](time)
-- I need to book the place on [25 Nov 2018](date) [at 7 in the evening](time)
-- Could we get the room on [11.7.2018](date) [at 8 o'clock](time)
-- I'd like to have the room on the [17th of Oct 2018](date) [at 8 in the morning](time)
-- we need to have the location on the [6th September 2018](date) [at night](time)
-- The networking event will be [at night](time) on the [4 February 2019](date)
-- I need to get the room for [1 January 2020](date) [in the evening](time)
-- Is it possible to get the room on [13/9/2019](date) [at 11 in the morning](time)
-- Would it be possible to have the venue for [25th Dec 2018](date) [at 8 a.m.](time)
-- we want to book the place on [21-9-2019](date) [at 21:00](time)
-- Would it be possible to book the room on the [29-4-2019](date) [in the evening](time)
-- I need to book the place for the [10/3/2020](date) [in the evening](time)
-- we would like to reserve the room for the [13th of May 2019](date) [at 13.00](time)
-- Can I reserve the room on the [17th of August 2018](date) [at 20:00](time)
-- I want to get the location for the [14 of January 2020](date) [in the afternoon](time)
-- we'd like to get the location on [9 of November 2018](date) [at 17:00](time)
-- I'd like to book the venue for [22th of February 2019](date) [at 2 in the afternoon](time)
-- Can we get the venue on the [22th Feb 2020](date) [at 11 in the morning](time)
-- Would it be possible to have the venue for [17-6-2018](date) [at 14.00](time)
-- I need to reserve the place on the [12.4.2018](date) [at 24.00](time)
-- we need to reserve the room on [8-10-2019](date) [at 21:00](time)
-- It's for [14 March 2018](date) [at 19.00](time)
-- Is the venue available on [11 of Feb 2018](date) [at 8 in the morning](time)
-- Can I book the place for the [7/3/2020](date) [at 23.00](time)
-- Is it possible to reserve the location on the [1.11.2020](date) [at 6 in the evening](time)
-- I want to get the room on [24 of March 2020](date) [at 2 in the afternoon](time)
-- Can we reserve the location for [26/1/2018](date) [at 13:00](time)
-- we'd like to reserve the venue on the [7/3/2018](date) [at 1 in the afternoon](time)
-- I would like to get the location for [27/6/2019](date) [at 10 am](time)
-- I need to book the room on [16th of Aug 2019](date) [at 6](time)
-- we'd like to have the venue for the [24-9-2018](date) [at 23.00](time)
-- we want to book the location for the [16 Dec 2020](date) [at 3](time)
-- Could we reserve the location for the [4-4-2020](date) [during the day](time)
-- I want to reserve the venue for [19 Jul 2020](date) [at noon](time)
-- Can we have the venue on the [26th of Feb 2019](date) [in the evening](time)
-- Would it be possible to get the place on the [8 July 2019](date) [at noon](time)
-- Is it possible to book the location on [12.2.2019](date) [at 19.00](time)
-- we want to get the room on [18th of May 2019](date) [at 20.00](time)
-- we want to have the location on [25 Nov 2020](date) [at 18.00](time)
-- Can I book the room for the [19/3/2019](date) [at 6 in the evening](time)
-- Can we book the venue for [19.12.2020](date) [at 14:00](time)
-- The event is happening [at 4 in the afternoon](time) [9th of March 2018](date)
-- I want to get the venue for the [29-10-2019](date) [at noon](time)
-- Could we have the venue for [12 Mar 2018](date) [at 22.00](time)
-- Can we get the location for the [8 June 2019](date) [at 10 in the morning](time)
-- Could we have the place for the [25 October 2018](date) [at 14.00](time)
-- we would like to reserve the place on [3/8/2020](date) [at night](time)
-- Could I get the venue on [28/3/2020](date) [at 2 in the afternoon](time)
-- I'd like to reserve the room on the [14th Mar 2019](date) [at 3](time)
-- Is it possible to book the room on the [16.7.2018](date)
-- Can I book the room for [13/2/2018](date) [in the afternoon](time)
-- I want to book the room for [14th February 2018](date) [at 24:00](time)
-- Would it be possible to book the place on [2nd of Dec 2019](date) [at 3 a.m.](time)
-- we'd like to get the place on the [2nd of March 2018](date) [at 17.00](time)
-- Can we book the room for the [19 of Mar 2020](date) [at 11 in the morning](time)
-- we'd like to get the venue for [21.1.2019](date) [at night](time)
-- I would like to reserve the venue on [7th September 2018](date) [at 24.00](time)
-- Is it possible to book the room for [19-2-2019](date) [at 23:00](time)
-- I would like to reserve the venue for [11th Jan 2020](date) [in the afternoon](time)
-- we would like to get the venue on the [12.9.2018](date) [in the afternoon](time)
-- Can we have the place for [25.5.2018](date) [at 4 o'clock](time)
-- Can we book the venue for the [2-12-2018](date) [at 16.00](time)
-- Can I have the room for the [22.2.2018](date) [at 2 in the afternoon](time)
-- Can we reserve the location on the [5 May 2018](date) [at noon](time)
-- Is it possible to have the place for the [17/3/2020](date) [at 2 in the afternoon](time)
-- Is it possible to book the room for the [6th March 2019](date) [at 14.00](time)
-- Would it be possible to have the venue for the [6th April 2020](date)
-- we need to get the venue for the [23th Mar 2018](date) [at 2 in the afternoon](time)
-- Could I book the venue on the [22 Aug 2020](date) [at 12 o'clock](time)
-- we'd like to have the room on [9th January 2020](date) [at 20.00](time)
-- Is it possible to reserve the venue on [28/2/2019](date) [at 14:00](time)
-- we want to book the location on [31-6-2019](date) [at 5 p.m.](time)
-- Can I get the room for the [25.7.2019](date)
-- Could we reserve the location on [4 October 2018](date) [at 8 in the morning](time)
-- The networking event will take place [at 22.00](time) on the [12-4-2019](date)
-- Would it be possible to book the room for [20 July 2020](date) [at 21.00](time)
-- Could we have the location for the [19-10-2020](date) [at 6 in the evening](time)
-- Is it possible to book the location on the [1st of July 2019](date) [in the evening](time)
-- I want to have the location on [11 of December 2020](date) [at 2 o'clock](time)
-- Can we have the place on the [25 Mar 2019](date) [at 3 in the afternoon](time)
-- Would it be possible to reserve the place for the [18/2/2018](date) [at 8 in the morning](time)
-- Is the room available for [20-4-2018](date) [in the evening](time)
-- we need to book the venue on [24-8-2018](date) [during the day](time)
-- I need to reserve the venue for the [5 Aug 2019](date) [at 6 in the evening](time)
-- I would like to reserve the venue on the [28th of August 2019](date) [at 24:00](time)
-- we'd like to get the venue for [25 September 2020](date) [at 23.00](time)
-- Would it be possible to have the venue for [4th March 2019](date) [in the morning](time)
-- Can we have the place on [24.12.2020](date) [at 20:00](time)
-- I want to get the room for [4-1-2018](date) [in the evening](time)
-- Would it be possible to book the room for the [27 May 2019](date) [at noon](time)
-- I would like to get the room on [4/1/2020](date) [at 13:00](time)
-- Could we reserve the room on [1st of May 2020](date) [at 2 pm](time)
-- Can I reserve the room on [5 December 2018](date)
-- we need to book the place on [4th November 2018](date) [at 17:00](time)
-- Would it be possible to book the room for the [23/9/2018](date) [at 3 pm](time)
-- we would like to get the room on [14 Oct 2018](date) [at 10 o'clock](time)
-- I need to get the place for [11th Jan 2020](date) [at 2 in the afternoon](time)
-- we want to book the location on the [6 May 2019](date) [at 13:00](time)
-- we would like to have the place on the [11/5/2019](date) [at night](time)
-- Could we reserve the place on the [17-11-2019](date) [at 18.00](time)
-- Would it be possible to reserve the room for the [19th December 2020](date) [in the evening](time)
-- I want to have the venue for [1 of April 2019](date) [at 4 o'clock](time)
-- Would it be possible to get the location on the [23-6-2020](date) [at 1 in the afternoon](time)
-- we want to book the location on [5th of February 2019](date) [at 7 in the evening](time)
-- I'd like to have the location for the [10th Jul 2018](date)
-- Can I reserve the location on the [19/7/2019](date) [at 24.00](time)
-- Is it possible to have the location on [5/12/2019](date) [at 4 in the afternoon](time)
-- I need to have the place on [23-5-2019](date) [at noon](time)
-- The networking event is taking place [at 5 in the evening](time) [5th of Sep 2020](date)
-- Is it possible to have the venue on the [28 Sep 2018](date) [at 5 in the evening](time)
-- Can I get the venue for [5 June 2018](date) [at 12 am](time)
-- Is it possible to have the location on the [24 of Feb 2020](date) [at 5 in the evening](time)
-- Would it be possible to book the room for the [26-2-2018](date) [at 4 in the afternoon](time)
-- we need to book the location on the [24th Aug 2019](date) [at 6 in the evening](time)
-- Can I reserve the place for the [23th May 2019](date) [at 7 o'clock](time)
-- Is it possible to book the location for the [26th of Dec 2018](date) [at 5 in the evening](time)
-- we would like to reserve the place for the [3-4-2020](date) [at 7 p.m.](time)
-- we need to have the location on the [30 Dec 2019](date) [at 17:00](time)
-- I need to get the venue on [12-9-2019](date)
-- I want to reserve the room on the [10-1-2019](date) [at 18:00](time)
-- Can we have the place for the [2 April 2018](date) [at 2 in the afternoon](time)
-- Is it possible to have the location on the [1st of Aug 2018](date) [at 2 in the afternoon](time)
-- Is it possible to reserve the place on [3rd January 2020](date) [at 17:00](time)
-- Is it possible to have the room for [17 May 2019](date) [during the day](time)
-- Would it be possible to reserve the place for the [30-12-2020](date) [at 2 in the afternoon](time)
-- Is it possible to get the venue for the [31.12.2019](date) [during the day](time)
-- I need to have the room for the [4.6.2019](date) [at 20:00](time)
-- Could I have the location for [31/9/2019](date) [at 11 in the morning](time)
-- Is it possible to get the location on the [14 Aug 2018](date) [at 8 in the morning](time)
-- I would like to get the venue on the [9/5/2019](date) [at 14.00](time)
-- we want to book the venue for the [6th of Dec 2018](date) [at 7 in the evening](time)
-- Could we book the room on the [25/11/2018](date) [at 20:00](time)
-- Is it possible to get the location on [15 May 2019](date) [at 19.00](time)
-- I'd like to book the location on [19 Mar 2020](date) [at 5 in the evening](time)
-- Would it be possible to get the location for [13 Jul 2018](date) [in the afternoon](time)
-- we want to have the room for the [28 Mar 2019](date) [at 20:00](time)
-- Can we have the location for [22th of April 2020](date) [at 4 in the afternoon](time)
-- I need to have the room for the [14 of December 2020](date) [at 14.00](time)
-- Could I reserve the location for the [25.5.2018](date)
-- It's for the [24 of Jan 2020](date) [in the morning](time)
-- Could I get the venue for [27-10-2019](date) [at 18:00](time)
-- Is the venue available on [29-12-2019](date) [at 3 in the afternoon](time)
-- I'd like to book the location on the [3rd Apr 2018](date) [at 8 in the morning](time)
-- The networking event is going to be [at 5 in the evening](time) on the [24.11.2019](date)
-- Can I book the location on [7/12/2019](date) [at 15:00](time)
-- Can I have the room on [19 of October 2019](date) [at 5 o'clock](time)
-- we want to have the place for [16/4/2019](date)
-- Could we reserve the location for [13 Apr 2019](date) [in the morning](time)
-- I would like to have the room on [23th of Apr 2020](date) [during the day](time)
-- Would it be possible to have the location for the [25th of May 2018](date) [at 2 in the afternoon](time)
-- Could I reserve the room for the [10 December 2019](date) [at 20.00](time)
-- I need to reserve the venue for [12/11/2020](date) [at 23:00](time)
-- I want to book the place on the [18th September 2019](date) [at 17:00](time)
-- Would it be possible to reserve the location for [11 Apr 2019](date) [at 24.00](time)
-- Would it be possible to reserve the location on [14/4/2020](date) [at 6 in the evening](time)
-- I would like to have the room for [29-3-2019](date) [at 3 a.m.](time)
-- I need to get the room for the [8 Sep 2018](date) [at 6 in the evening](time)
-- Would it be possible to book the location on [13-4-2020](date) [at 6 in the evening](time)
-- Could I reserve the place for [8 Apr 2019](date) [at 2 o'clock](time)
-- I would like to reserve the place on [1 of August 2018](date) [at 8 in the morning](time)
-- we need to reserve the place for [3rd May 2020](date) [at 13.00](time)
-- we'd like to get the location on the [18 of May 2019](date) [at 1 in the afternoon](time)
-- Is it possible to get the room for the [1 January 2020](date) [at 24:00](time)
-- Is it possible to have the location on the [20 October 2018](date) [at noon](time)
-- Could we book the room on the [26.12.2020](date) [in the morning](time)
-- we need to have the room for [30/7/2019](date) [at 24:00](time)
-- I would like to book the place for the [17th February 2020](date) [at 21:00](time)
-- Would it be possible to have the venue on [22th of Feb 2019](date) [at night](time)
-- we'd like to get the room for [5 of November 2019](date) [at 16:00](time)
-- Can I have the venue on the [1 August 2019](date) [at 21:00](time)
-- Can I reserve the location for [18 of September 2020](date) [at 3 in the afternoon](time)
-- I'd like to reserve the venue on [6 Mar 2018](date) [at 4 in the afternoon](time)
-- Would it be possible to get the venue for the [10th October 2018](date) [during the day](time)
-- I want to reserve the place on [31st January 2019](date) [in the morning](time)
-- Is it possible to reserve the place on the [5/7/2018](date) [at 16:00](time)
-- we want to get the venue for the [17 February 2018](date) [at 11 in the morning](time)
-- Is it possible to book the venue on [22th Aug 2018](date) [at 15:00](time)
-- The event takes place [at 13:00](time) [1.9.2020](date)
-- I would like to reserve the place for the [10th Feb 2019](date) [during the day](time)
-- Can I have the room for [18/11/2018](date) [at 15:00](time)
-- Could we get the room for [21th December 2018](date) [at 9 in the morning](time)
-- Is it possible to book the room for the [3rd of Sep 2018](date) [at 15:00](time)
-- we'd like to reserve the room on [27.4.2018](date) [at 15:00](time)
-- we need to reserve the place on [20th February 2018](date) [at noon](time)
-- Would it be possible to reserve the place on the [8th of February 2018](date) [at 20.00](time)
-- Is it possible to reserve the location for [6 November 2019](date) [at 10 in the morning](time)
-- Is it possible to get the place on the [23/6/2020](date) [at 22:00](time)
-- I need to get the room for the [17/10/2019](date) [at 24:00](time)
-- I would like to book the place on [27 of July 2019](date) [at 1 in the afternoon](time)
-- we would like to reserve the room for [30.12.2020](date) [at 22.00](time)
-- Could I reserve the room on [18th May 2018](date) [at 17:00](time)
-- we want to reserve the room on [10.4.2020](date) [at 21:00](time)
-- I would like to book the location for [4 of Nov 2020](date) [in the evening](time)
-- Would it be possible to have the location for [21 Aug 2018](date) [at 21:00](time)
-- Would it be possible to have the venue for the [5/7/2020](date) [at 22.00](time)
-- Is it possible to have the venue on the [28th of January 2018](date) [in the morning](time)
-- I want to get the venue for the [4th Dec 2020](date) [at 5 in the evening](time)
-- I would like to have the venue for [31.10.2019](date) [at 9 in the morning](time)
-- Would it be possible to get the room for the [2-11-2018](date) [at 17.00](time)
-- Would it be possible to book the venue for the [6.7.2018](date) [at 3 in the afternoon](time)
-- Is the location available for the [24.12.2018](date) [at 1 in the afternoon](time)
-- I need to get the location on the [29.9.2018](date) [at 14.00](time)
-- Would it be possible to get the place for the [26 of October 2018](date) [at night](time)
-- Is it possible to get the location on [10th of June 2020](date) [at noon](time)
-- Is it possible to reserve the location on the [25-5-2020](date) [at noon](time)
-- I want to get the place for [23th Jan 2019](date) [at 12 p.m.](time)
-- I need to reserve the location on the [13-10-2018](date) [at 4 in the afternoon](time)
-- we'd like to get the venue on the [24 Dec 2019](date) [at 13.00](time)
-- we want to reserve the place on the [24 of July 2020](date) [at 22:00](time)
-- I want to book the venue on [10 October 2019](date) [at 23.00](time)
-- I would like to book the place for the [13/11/2020](date) [at 2 in the afternoon](time)
-- The event takes place [at 11 in the morning](time) [22th of Mar 2019](date)
-- Would it be possible to have the location on the [16/10/2018](date) [at 19.00](time)
-- Is it possible to get the room on [25/9/2018](date) [at 24.00](time)
-- I want to reserve the room on [27th of Oct 2019](date) [at 23:00](time)
-- we need to get the place for [26 May 2020](date) [at 13.00](time)
-- Could we get the place for the [8/4/2018](date) [at 11 in the morning](time)
-- we want to have the location on the [31-10-2019](date) [at 24:00](time)
-- Would it be possible to book the room on the [7th of Aug 2019](date) [at 4 in the afternoon](time)
-- I'd like to book the location for [25/9/2018](date) [at 24:00](time)
-- Can I reserve the room for the [14th November 2019](date) [at 14.00](time)
-- Is it possible to get the room on [2 of February 2019](date) [at 21:00](time)
-- we'd like to book the location for the [14/5/2018](date) [at 2 in the afternoon](time)
-- I'd like to reserve the venue for the [20 Dec 2019](date) [at 19.00](time)
-- I want to book the venue for the [8-2-2018](date) [during the day](time)
-- I need to get the location for the [11 August 2019](date) [at 7 in the evening](time)
-- I would like to have the place on [1st of January 2018](date) [at 22.00](time)
-- we want to have the venue on [16.7.2020](date) [at 2 in the afternoon](time)
-- Can we reserve the room for [20.5.2018](date) [at 6 in the evening](time)
-- I want to book the place on the [29 January 2020](date) [in the morning](time)
-- Can I get the place for [17-1-2018](date) [at 11 in the morning](time)
-- we want to get the place on the [4th of December 2019](date) [at 13.00](time)
-- Would it be possible to book the venue for [12/7/2018](date) [at 8 in the morning](time)
-- Could we book the location for [22th of Feb 2018](date) [at 19:00](time)
-- we want to get the venue for [6 January 2019](date) [at night](time)
-- Is it possible to reserve the venue for the [28/3/2019](date) [at 16:00](time)
-- I'd like to book the venue for the [11 Aug 2019](date) [at 17.00](time)
-- we want to book the location for [16 May 2019](date) [at 15.00](time)
-- we want to reserve the room on [12.6.2019](date) [at 3 o'clock](time)
-- I need to get the place for the [4.6.2020](date) [in the evening](time)
-- Could I get the location for [11th Jun 2020](date)
-- Could we have the room for the [8th Mar 2019](date) [at 9 in the morning](time)
-- Is it possible to have the place on the [19/5/2018](date) [at 21.00](time)
-- Is it possible to book the location on the [26 October 2020](date) [at 7](time)
-- The event is taking place [at noon](time) [10-3-2019](date)
-- Could we get the place on the [4.9.2020](date) [at 7](time)
-- Would it be possible to book the place on [3 May 2020](date) [at 20.00](time)
-- I need to reserve the location for [9th Jul 2019](date) [at 4 in the afternoon](time)
-- Could we get the venue for [21th of May 2020](date) [in the afternoon](time)
-- Can we book the place for the [15th Aug 2019](date) [at noon](time)
-- I need to have the location for the [4/4/2020](date) [at 7 in the evening](time)
-- we want to have the venue for [31/8/2019](date) [in the afternoon](time)
-- Would it be possible to book the room on the [19 Nov 2018](date) [at 2 p.m.](time)
-- we would like to get the place for [26 May 2019](date) [at night](time)
-- Can we get the place for the [19-9-2018](date) [at 3 in the afternoon](time)
-- Can we have the location for [7th of August 2019](date) [at 23.00](time)
-- we need to book the room on [17-3-2019](date) [at 13:00](time)
-- Can I reserve the place on [7 October 2019](date) [at 20:00](time)
-- Is the place available for the [16/7/2019](date) [at night](time)
-- The reservation is for the [2 of November 2020](date) [at 7 in the evening](time)
-- we need to book the room on the [12/2/2020](date) [at 7 in the evening](time)
-- I want to have the venue on [13/8/2019](date) [at 9 in the morning](time)
-- Can I get the place on the [24/10/2020](date) [at 11 in the morning](time)
-- Could we book the room for [10th May 2019](date) [at 10 in the morning](time)
-- we would like to get the location on [22/7/2018](date) [at 5 in the evening](time)
-- I'd like to book the venue for [15-5-2019](date) [at 1 a.m.](time)
-- I want to get the place for [4.12.2019](date) [in the morning](time)
-- Can we book the room on [16 of Mar 2020](date) [at 9 in the morning](time)
-- I want to have the room for the [23 December 2018](date) [at 9 o'clock](time)
-- Would it be possible to reserve the venue on [31st of May 2018](date) [at 19.00](time)
-- I would like to have the place for [3rd November 2019](date) [at 11 in the morning](time)
-- Is it possible to reserve the venue for [29 August 2019](date) [at 14.00](time)
-- we would like to reserve the location for the [11 of May 2018](date) [at 21:00](time)
-- I'd like to book the location for the [16 Dec 2020](date) [at 18.00](time)
-- Would it be possible to book the room on [12th of October 2019](date) [at 17:00](time)
-- Can we book the room on [4 Nov 2020](date) [at night](time)
-- Can we book the place for [2-10-2018](date) [at 10 in the morning](time)
-- Can I have the room for [26 April 2019](date) [at 10 o'clock](time)
-- Would it be possible to book the room on the [31st Jun 2018](date) [at 14:00](time)
-- The networking event takes place [at 11 in the morning](time) [29th June 2020](date)
-- Would it be possible to get the venue on the [19 of March 2019](date) [at 19:00](time)
-- we'd like to get the venue on [9 Jun 2020](date) [at 3 in the afternoon](time)
-- I'd like to reserve the place for the [28-5-2019](date) [at 5 in the evening](time)
-- we'd like to reserve the venue on the [11th of May 2020](date) [at 1 in the afternoon](time)
-- Is it possible to reserve the venue on the [22 of May 2020](date) [in the afternoon](time)
-- I want to have the place for the [13.6.2018](date) [at 14.00](time)
-- we want to book the place for [3rd Jan 2018](date) [at 16.00](time)
-- I need to reserve the place on the [21/10/2019](date) [at 7 in the evening](time)
-- I would like to reserve the venue for [3.12.2019](date) [at 6 in the evening](time)
-- we need to have the venue for [18 of Jul 2020](date) [at 16.00](time)
-- I would like to get the venue on [17-11-2020](date) [at 23:00](time)
-- Could we have the venue for [21.2.2020](date) [in the evening](time)
-- we need to reserve the room on [19.8.2019](date) [at 17:00](time)
-- I'd like to get the venue for the [17 November 2020](date) [during the day](time)
-- Would it be possible to have the venue on the [16th of Jul 2019](date) [at 21.00](time)
-- we would like to book the place for [2 March 2019](date) [at 16:00](time)
-- we want to have the room for [30 October 2020](date) [at 16:00](time)
-- Would it be possible to get the place on the [4-6-2018](date) [at 6 in the evening](time)
-- Could we book the place for [20 Dec 2019](date) [at 1 in the afternoon](time)
-- we want to have the place on the [27th May 2018](date) [at 5 in the evening](time)
-- we want to have the venue for the [16-8-2020](date)
-- Can I get the venue for [12th August 2019](date) [at 18.00](time)
-- Is it possible to have the room for the [25.3.2018](date) [at 15.00](time)
-- I need to book the place for the [30th May 2019](date) [at 8 in the morning](time)
-- Would it be possible to reserve the venue for the [8th March 2020](date) [at 16:00](time)
-- I need to get the place for [28th of Jan 2018](date) [at night](time)
-- we want to have the venue on the [10th Jan 2019](date) [at 1 p.m.](time)
-- Could I get the place for [20.6.2019](date) [at 24.00](time)
-- Could we book the location for [26 May 2019](date) [at 4 in the afternoon](time)
-- Could I get the place for [7 June 2020](date) [at night](time)
-- Is it possible to have the room for the [23 Aug 2019](date) [at 20:00](time)
-- Can I reserve the venue on [19.12.2020](date) [at 4 am](time)
-- Would it be possible to get the location for the [5th of Apr 2020](date) [at 15:00](time)
-- The networking event is happening [at 10 in the morning](time) [2 October 2018](date)
-- I want to have the room for [18th of August 2020](date) [at noon](time)
-- I need to book the location for the [18 Jan 2019](date) [at 16.00](time)
-- we would like to get the location for [22 of November 2019](date)
-- I'd like to have the location on [8/8/2020](date) [at 23.00](time)
-- we would like to reserve the place on [28-12-2019](date) [at 5 in the evening](time)
-- Is the venue available for [24-7-2019](date) [at 7 in the evening](time)
-- I need to reserve the place on [11.2.2019](date) [at 18:00](time)
-- I need to have the venue on [4 Aug 2020](date) [at 19.00](time)
-- Can I book the room on the [26th of April 2018](date) [at 22:00](time)
-- we'd like to have the place for the [29th of Jan 2020](date) [at 13:00](time)
-- we would like to have the location for the [8 Feb 2019](date) [at 14:00](time)
-- Could I book the place for the [14th April 2020](date) [in the afternoon](time)
-- Could I reserve the place for the [19th October 2020](date) [at 22.00](time)
-- Is it possible to have the room on [12 Sep 2019](date) [at 21.00](time)
-- I'd like to book the room on [9 May 2019](date) [at 14:00](time)
-- Is it possible to reserve the place on [19 September 2019](date) [at 16.00](time)
-- Is it possible to book the venue for the [18th of Jun 2020](date) [at 5 am](time)
-- I need to book the venue on the [2.5.2018](date) [at 1 o'clock](time)
-- Would it be possible to reserve the location for [26 Jan 2018](date)
-- we'd like to reserve the location on [4.5.2018](date) [at 10 in the morning](time)
-- I would like to have the venue on [11 Jun 2020](date) [at noon](time)
-- I would like to reserve the room for the [9 of Feb 2019](date) [during the day](time)
-- Is it possible to get the place for [30 Jan 2020](date) [at 11 in the morning](time)
-- I would like to book the place on [5 June 2018](date) [at 1 in the afternoon](time)
-- I would like to reserve the venue on [10-7-2018](date) [at 9 in the morning](time)
-- Is it possible to reserve the room for the [18th Apr 2020](date) [at 4 in the afternoon](time)
-- Could I get the location on [5th of October 2019](date) [at 6 in the evening](time)
-- Is it possible to get the venue on the [7/8/2020](date) [at 2 in the afternoon](time)
-- we want to get the location for the [11th of July 2019](date) [at 1 pm](time)
-- Is it possible to book the location on [27/3/2020](date) [in the morning](time)
-- I'd like to have the venue on [25th of January 2020](date) [at 9 o'clock](time)
-- Would it be possible to have the venue for [4th of Dec 2018](date) [at 14:00](time)
-- Would it be possible to have the venue for [7th Sep 2019](date) [at 2 in the afternoon](time)
-- The event is taking place [at 16.00](time) [3rd of Sep 2020](date)
-- Can I reserve the location on [18/1/2020](date) [at 6 pm](time)
-- we want to book the room for [10 of Oct 2019](date) [in the morning](time)
-- Would it be possible to reserve the room for the [31st of Jun 2018](date) [at 6 in the evening](time)
-- Could I have the place for [2nd January 2020](date) [at noon](time)
-- Could I have the location for [25th May 2018](date) [at noon](time)
-- Could we have the venue for the [27 of January 2020](date) [at 6 in the evening](time)
-- I need to book the venue for [9-9-2018](date) [at 6 in the evening](time)
-- Can I reserve the place for [23.11.2020](date) [in the afternoon](time)
-- we want to get the place on [15th of January 2019](date) [at 10 in the morning](time)
-- Is it possible to have the location on the [1 Oct 2020](date) [at 10 in the morning](time)
-- I'd like to reserve the room for [12th of Jul 2018](date) [in the morning](time)
-- Can I get the room on the [17th October 2018](date) [at 15:00](time)
-- I want to have the room on the [19-6-2018](date) [at 2](time)
-- I'd like to book the location on [27 of August 2020](date) [at 3 in the afternoon](time)
-- we'd like to have the venue on the [30-12-2019](date) [at 22.00](time)
-- I need to reserve the location on the [30/6/2019](date)
-- Is it possible to book the place on the [9 Jun 2018](date) [at 10 in the morning](time)
-- Is it possible to have the venue on [20.2.2018](date) [at 20:00](time)
-- I want to have the location on the [2/10/2018](date) [in the evening](time)
-- Could we book the place for the [3 Jan 2019](date) [at 4 p.m.](time)
-- we would like to get the venue on [9.2.2020](date) [at 12 o'clock](time)
-- I need to reserve the room on [15 Apr 2019](date)
-- I want to book the venue for the [29th of May 2018](date) [at 22.00](time)
-- I need to book the location for [4-5-2019](date) [at 18.00](time)
-- Can I book the place on [16-3-2018](date) [at 20.00](time)
-- we want to reserve the place for the [5-5-2019](date) [at 21.00](time)
-- I want to book the venue on the [1.5.2020](date) [at 14:00](time)
-- I would like to get the venue on the [10th Aug 2020](date) [at 21.00](time)
-- Is it possible to book the venue for the [23.6.2020](date)
-- Is the location available for [7th Jan 2019](date) [at 2 in the afternoon](time)
-- The reservation is for [7/5/2019](date) [in the morning](time)
-- The date of the event is the [18th of Nov 2018](date) [at 22.00](time)
-- I want to have the place on the [21/1/2020](date) [at 23:00](time)
-- I want to have the place on the [30 of July 2020](date) [at 6 in the evening](time)
-- Could we have the place on [24/1/2018](date) [at 2 in the afternoon](time)
-- The networking event will take place [at 8 in the morning](time) on the [5 of July 2019](date)
-- Would it be possible to book the location on the [1/4/2019](date) [at 13:00](time)
-- Would it be possible to have the place on the [21/12/2018](date) [at 1 in the afternoon](time)
-- Would it be possible to book the venue on [19th Aug 2019](date) [at 4 in the afternoon](time)
-- Could we reserve the room on the [14 Jun 2019](date) [in the morning](time)
-- I'd like to have the venue on [21-1-2020](date) [at 16:00](time)
-- I want to have the location for the [1st of Jul 2019](date) [at 22:00](time)
-- I would like to book the place on [12.2.2018](date) [at 24:00](time)
-- I'd like to have the location on [25/9/2018](date) [at 23:00](time)
-- we would like to book the place on [14 April 2018](date) [at 7 in the evening](time)
-- I need to book the place on the [3.7.2020](date) [at 14.00](time)
-- I need to get the place on the [25.6.2018](date) [at 1 in the afternoon](time)
+- The time of the event is [at 20:00](time) on the @[date?]
+- The event is going to be [at 7 in the evening](time) on the @[date?]
+- It is for [in the afternoon](time) on the @[date?]
+- Is the venue available on the [24 Nov 2018](date)
+- Is the place available [at 17.00](time) on the @[date?]
+- The event will be next month
+- Could I reserve the place [at 16:00](time) on the @[date?]
+- The date of the event is [4-9-2020](date) [at 5 in the evening](time)
+- The reservation is for the [5/4/2018](date) [at 20.00](time)
+- Can we get the room on [14.2.2019](date) [in the afternoon](time)
+- The networking event will take place [at 16:00](time) [8 of Jul 2020](date)
+- Is it possible to have the location on the [8-10-2019](date) [at 13:00](time)
+- Can we get the room for the [24.3.2020](date) [at 23.00](time)
+- we need to get the room on the [12.12.2019](date) [at night](time)
+- Can we have the location on the [18.2.2020](date) [at 5 in the evening](time)
+- Can we reserve the place on the [29.10.2020](date) [at 6](time)
+- I'd like to get the room on [30th Mar 2018](date) [at 22:00](time)
+- Would it be possible to have the venue on the [23th Mar 2020](date) [at 16.00](time)
+- I want to get the venue for [30 of April 2019](date) [at 22.00](time)
+- I need to book the place for the [29th of Jun 2018](date) [at 21:00](time)
+- we need to have the place for [13th of October 2020](date) [at 2 in the afternoon](time)
+- we need to get the place for the [24th February 2018](date) [in the afternoon](time)
+- Would it be possible to get the location for the [25-1-2018](date) [at 4 in the afternoon](time)
+- Can we book the location on [7.11.2018](date) [at 8 in the morning](time)
+- we need to book the place for [17-11-2020](date) [at 16.00](time)
+- Could we book the location on the [2-11-2019](date) [at 17:00](time)
+- Is it possible to get the location on [29-5-2018](date) [in the evening](time)
+- we need to reserve the place on [27 September 2020](date) [at noon](time)
+- I want to have the location for [4 April 2020](date) [at 10 in the morning](time)
+- we would like to reserve the place for the [6th August 2018](date) [at 10 in the morning](time)
+- Is it possible to reserve the room for the [6 of January 2018](date) [at 5 pm](time)
+- I would like to book the room for the [20th May 2020](date) [at noon](time)
+- we would like to book the location for the [15-4-2019](date) [at 10 in the morning](time)
+- we need to have the location on [10/7/2019](date) [at 22.00](time)
+- Could I book the room on [12-2-2019](date) [at noon](time)
+- Could we book the room for [10th Sep 2018](date) [at 1 in the afternoon](time)
+- Is it possible to have the venue for the [3-9-2018](date) [at 8 in the morning](time)
+- Could we get the place on [26th Jun 2018](date) [in the afternoon](time)
+- we'd like to get the venue for [8th of Feb 2019](date) [at 8 in the morning](time)
+- Is it possible to reserve the venue on the [10-4-2018](date) [at 5 in the evening](time)
+- we need to get the place on [12 Apr 2019](date) [at 17:00](time)
+- Would it be possible to get the venue for [3-11-2018](date) [at noon](time)
+- Would it be possible to reserve the venue for [27th Nov 2019](date) [at night](time)
+- The event is [at 23.00](time) on the [31st May 2019](date)
+- Can I book the room for [15/5/2019](date) [at 3 in the afternoon](time)
+- Can I get the location for [29-11-2018](date) [at 16.00](time)
+- we want to book the room for the [3rd of June 2018](date) [at 22:00](time)
+- we need to get the location on [9th September 2018](date) [at 9 in the morning](time)
+- we'd like to reserve the room for [7.10.2020](date) [in the morning](time)
+- Could we reserve the room on [17th of Sep 2020](date) [at 4 in the afternoon](time)
+- I would like to have the venue on the [18th January 2019](date) [at 14.00](time)
+- I want to reserve the place for the [14/5/2019](date) [at 1 in the afternoon](time)
+- we would like to get the venue for the [4 Sep 2019](date) [at 16.00](time)
+- Is it possible to get the room for the [2.1.2019](date) [at 24:00](time)
+- we'd like to have the location for [15-4-2018](date) [at 10 in the morning](time)
+- we'd like to get the location for [1st of Dec 2019](date) [at 10 in the morning](time)
+- I'd like to reserve the location for the [16 of June 2019](date) [at noon](time)
+- Would it be possible to get the venue for the [27/9/2019](date) [at 12](time)
+- Could we book the place on the [25/9/2020](date) [at 3 in the afternoon](time)
+- Would it be possible to reserve the location on the [2.12.2019](date) [at 13:00](time)
+- Can I reserve the venue on the [25 April 2018](date) [at 21:00](time)
+- I need to book the place for the [21th of Mar 2020](date) [at 14.00](time)
+- we need to have the location for [4th of Sep 2018](date) [during the day](time)
+- Could I reserve the room for [4 of July 2019](date) [at 2 in the afternoon](time)
+- Can we have the room for [5th February 2020](date) [at 10 in the morning](time)
+- Could we get the place for [21 of April 2020](date) [at 13:00](time)
+- Could I have the venue on the [2.6.2019](date) [at 20:00](time)
+- Can we book the location for [12/3/2020](date) [at 2 in the afternoon](time)
+- Is the place available on [9 of Apr 2018](date) [at 21.00](time)
+- we want to reserve the place for [30/4/2019](date) [at noon](time)
+- I would like to have the place for the [25 Jun 2019](date) [at 23:00](time)
+- we want to book the place for [8-8-2019](date) [at 19:00](time)
+- Would it be possible to book the room for the [14th of Feb 2020](date) [at 16:00](time)
+- Is it possible to book the room for the [3 January 2020](date) [at 9 in the morning](time)
+- we'd like to get the venue on [3-2-2019](date) [at 11 in the morning](time)
+- we want to get the room for [11-12-2019](date) [during the day](time)
+- we want to get the venue for [14/3/2020](date) [at 13.00](time)
+- The networking event is going to be [at 6 in the evening](time) [1.12.2019](date)
+- Could we reserve the place on the [15 January 2019](date) [at 16:00](time)
+- Would it be possible to reserve the room for the [16th May 2019](date) [at 24.00](time)
+- Would it be possible to have the place for the [25/10/2020](date) [at 7 in the evening](time)
+- Would it be possible to reserve the place for the [21 July 2018](date) [in the evening](time)
+- I would like to have the room for [21 Aug 2018](date) [at 20:00](time)
+- we would like to get the room for [26th February 2019](date) [at 12](time)
+- I would like to reserve the venue for the [14 of April 2020](date) [at 2 a.m.](time)
+- Could we reserve the location for the [6/3/2020](date) [at 20.00](time)
+- we want to reserve the place on the [18 May 2018](date) [at 4 in the afternoon](time)
+- Would it be possible to get the room for the [30th Feb 2020](date) [at 1 in the afternoon](time)
+- Can we get the place on [20.4.2020](date) [at 8 in the morning](time)
+- Could I have the location for the [15 August 2020](date) [at 8 in the morning](time)
+- we need to have the place on the [15 of September 2019](date) [at 20.00](time)
+- we need to book the location for the [6th Dec 2020](date) [at night](time)
+- Could we get the location for [3.8.2018](date)
+- I need to book the room for the [28 June 2019](date) [at 7 in the evening](time)
+- Can we book the room for the [26.3.2020](date) [at 13.00](time)
+- Can we reserve the venue for the [10th of November 2019](date) [at night](time)
+- we would like to get the venue on the [19-6-2020](date) [at 19:00](time)
+- we want to book the place for the [6.7.2020](date) [at 9 in the morning](time)
+- Can I have the venue for the [15.4.2020](date) [in the evening](time)
+- Could we reserve the venue on the [20.2.2019](date) [at 2 in the afternoon](time)
+- Is it possible to get the venue for [30 January 2018](date) [at 22.00](time)
+- I want to get the venue on the [29.2.2020](date) [at night](time)
+- we want to reserve the room on [13th Mar 2018](date) [at 22:00](time)
+- Could I book the place for [17 June 2020](date) [at 7 in the evening](time)
+- Can we get the location on the [14.10.2019](date) [at 23.00](time)
+- I want to book the venue on the [9.10.2018](date)
+- Can we reserve the location on [4 March 2019](date) [at 16.00](time)
+- Would it be possible to have the location for [26 Apr 2018](date) [at 4 in the afternoon](time)
+- Would it be possible to have the room on [3 August 2019](date) [at noon](time)
+- Is it possible to have the venue on the [7-8-2018](date) [at 2 pm](time)
+- The networking event is taking place [during the day](time) [24/10/2018](date)
+- I need to book the location for the [22th Oct 2019](date) [at 15.00](time)
+- Would it be possible to book the place for [1 Jan 2018](date) [at 12 pm](time)
+- I would like to book the place on [17/8/2019](date) [at 16:00](time)
+- I need to reserve the location for [30th of Feb 2020](date) [at 21.00](time)
+- Would it be possible to get the place on the [21 Apr 2018](date) [at 17:00](time)
+- Is it possible to have the venue on the [6 of June 2019](date) [at 2 p.m.](time)
+- I'd like to get the location for the [30 Apr 2018](date) [at 14.00](time)
+- we need to reserve the place on [13/4/2018](date) [at 7 in the evening](time)
+- we'd like to reserve the location on the [23 Sep 2018](date) [at 16:00](time)
+- Can I book the location on the [17 Oct 2020](date) [at 6 pm](time)
+- I want to reserve the room on the [5 June 2018](date) [at 11](time)
+- we need to book the place on [17/7/2019](date) [at 15.00](time)
+- Would it be possible to get the location for the [29/8/2020](date) [at noon](time)
+- I want to book the place for [19th of September 2018](date) [in the afternoon](time)
+- Can I reserve the location on the [2 September 2019](date) [in the evening](time)
+- The reservation is for [22th February 2020](date) [at 3 o'clock](time)
+- Is the location available on the [15/2/2020](date) [at 9 in the morning](time)
+- Would it be possible to get the location for the [5 January 2019](date) [at 11 in the morning](time)
+- we need to get the place on the [19/5/2020](date) [at 6 a.m.](time)
+- Can we have the room for [23.7.2020](date) [at 2 pm](time)
+- Would it be possible to reserve the place on [14 Jul 2019](date) [at 5 in the evening](time)
+- Is it possible to get the room on [8.1.2018](date) [at 5 in the evening](time)
+- we would like to have the place on [22.6.2019](date) [at 3 in the afternoon](time)
+- Could we get the room on the [23 of May 2019](date) [at 18:00](time)
+- Would it be possible to get the location for the [25.12.2018](date) [in the evening](time)
+- I would like to book the location on [6 of Apr 2020](date) [at 6](time)
+- Is it possible to book the room on the [10-11-2020](date) [at 17:00](time)
+- I would like to get the place on [28.12.2019](date) [at 4 in the afternoon](time)
+- I'd like to get the place on the [6-5-2018](date) [at noon](time)
+- we need to reserve the venue on the [12th March 2019](date) [at 7 in the evening](time)
+- we want to reserve the venue on the [31 Dec 2019](date) [during the day](time)
+- we'd like to book the venue on the [28-5-2018](date) [at 13.00](time)
+- Is it possible to book the location for [27-12-2018](date) [at 24.00](time)
+- Could I book the place on the [31 Jul 2018](date) [at 9 p.m.](time)
+- we would like to book the room for the [12 October 2018](date) [at 10 in the morning](time)
+- The event takes place [at 13:00](time) on the [14 March 2020](date)
+- I'd like to book the location for the [17/2/2019](date) [at 2 in the afternoon](time)
+- Could we get the location for [28 October 2019](date) [at 23:00](time)
+- Would it be possible to have the place for [11th of March 2019](date) [at 24.00](time)
+- I'd like to get the place for the [31st May 2019](date) [at 6 in the evening](time)
+- we want to reserve the room on [29/2/2020](date) [at 12 am](time)
+- Could I have the place on [8-1-2020](date) [at 23.00](time)
+- I would like to book the venue on [19 of Apr 2019](date) [in the evening](time)
+- Can we get the place for [27 September 2020](date) [at 5 in the evening](time)
+- I would like to have the room for the [1 May 2020](date) [in the afternoon](time)
+- we would like to reserve the location on [25th of May 2019](date) [at 17:00](time)
+- Is it possible to book the place for the [13/2/2018](date) [at 24.00](time)
+- I want to get the venue on the [15.9.2018](date) [at 8 o'clock](time)
+- Could I book the room for the [26/1/2020](date) [at 20.00](time)
+- Could we reserve the place for [29th of Apr 2018](date) [at 7 in the evening](time)
+- we want to get the location on [27th Aug 2020](date) [at noon](time)
+- Would it be possible to get the venue for [11th of Jun 2018](date) [at 16:00](time)
+- we need to get the place for the [30th of May 2019](date) [at 13.00](time)
+- Could I have the location for the [27th Mar 2020](date) [in the afternoon](time)
+- we want to reserve the place for [19/10/2020](date) [at 22:00](time)
+- Can I book the room for [2 Apr 2018](date) [at 9 in the morning](time)
+- we'd like to have the location on the [14.9.2020](date) [at 2 in the afternoon](time)
+- Is it possible to reserve the room for the [3 November 2020](date) [at 11 in the morning](time)
+- Can I get the place on the [24/6/2018](date) [at 8 pm](time)
+- I would like to book the venue on [29-4-2020](date) [in the afternoon](time)
+- we need to get the place on the [24th Oct 2020](date) [during the day](time)
+- Would it be possible to get the room for [15/4/2020](date) [at 24.00](time)
+- Can we book the place on the [25th of Aug 2019](date) [at 2 p.m.](time)
+- Would it be possible to reserve the location for [25/9/2018](date) [at 22:00](time)
+- Is it possible to get the location for [12.11.2018](date) [at 3 in the afternoon](time)
+- I want to reserve the location for the [8/3/2018](date) [at 13:00](time)
+- I need to have the place on the [31 May 2020](date) [at 12 pm](time)
+- Could I book the location on the [16/7/2018](date) [at 14.00](time)
+- The networking event is happening [at 4 in the afternoon](time) on the [19th of Nov 2019](date)
+- Is it possible to have the venue on the [7 of Oct 2020](date) [at 9 am](time)
+- Can we get the place on [6th November 2019](date) [at 1 in the afternoon](time)
+- Can we reserve the venue on the [7 February 2019](date) [at 19:00](time)
+- we would like to reserve the venue for [5.4.2020](date) [at 6 in the evening](time)
+- we want to reserve the place on [10 Jul 2018](date) [at 16.00](time)
+- we would like to reserve the venue on the [4.12.2020](date) [in the morning](time)
+- Is it possible to book the place for the [30-9-2018](date) [at 1 in the afternoon](time)
+- Is the venue available for [15 July 2020](date)
+- Can I book the room on [20th December 2019](date) [at 11 in the morning](time)
+- Would it be possible to have the place for the [27 of Apr 2020](date) [at 7 in the evening](time)
+- I need to get the location on [11 Jun 2018](date) [at 10 in the morning](time)
+- Could we reserve the venue on [21-4-2019](date) [at 1 a.m.](time)
+- Is it possible to get the room on the [18-10-2019](date) [at 2 p.m.](time)
+- Could we get the place for the [8th of Nov 2019](date) [at night](time)
+- Would it be possible to get the room on [31-4-2020](date) [at 9](time)
+- we would like to book the location for [15 of June 2019](date) [at 3](time)
+- Is it possible to reserve the room for the [11/8/2019](date) [during the day](time)
+- Can I have the place on the [1 of February 2020](date) [at 8 in the morning](time)
+- I'd like to get the room on the [28 Sep 2018](date) [in the afternoon](time)
+- Is it possible to get the place for [3rd of Mar 2018](date) [at 10 in the morning](time)
+- we want to have the location for the [25 January 2018](date) [at 17.00](time)
+- I would like to get the room on the [24-10-2018](date) [in the morning](time)
+- Is it possible to have the venue for the [12.3.2018](date) [at 7 in the evening](time)
+- I need to reserve the place on [5th May 2020](date)
+- I would like to get the venue for [15 Jul 2018](date) [at 16:00](time)
+- Can we reserve the room on [5 June 2020](date) [at 18:00](time)
+- Can I get the room for [27th Apr 2019](date) [at 4 in the afternoon](time)
+- Would it be possible to book the room on [1/5/2020](date) [at 17:00](time)
+- Can I book the location on the [23 October 2020](date) [at 6 in the evening](time)
+- Would it be possible to have the room on [25.1.2019](date) [at night](time)
+- we would like to reserve the location for the [22th January 2020](date) [at 22:00](time)
+- we want to book the place on the [6th of Feb 2018](date) [in the evening](time)
+- I want to get the venue on the [10 Oct 2019](date) [at 13:00](time)
+- The networking event is [at 3 in the afternoon](time) on the [13th of Nov 2020](date)
+- we need to book the room for [25.6.2020](date) [in the afternoon](time)
+- Is it possible to book the location for [17th of Jun 2018](date) [at noon](time)
+- we would like to have the place on [10-8-2018](date) [at 20:00](time)
+- I'd like to have the location for [14-4-2018](date) [at 1 in the afternoon](time)
+- I need to book the venue for the [9th February 2020](date) [at 20:00](time)
+- Would it be possible to reserve the venue on [20 September 2018](date) [at 24.00](time)
+- I want to book the place for [3/2/2020](date) [at 13:00](time)
+- Would it be possible to have the place on the [19 January 2020](date) [at 21:00](time)
+- Would it be possible to reserve the location on [21/4/2020](date) [at 15:00](time)
+- I want to get the venue on the [12th September 2020](date) [at 18.00](time)
+- we would like to reserve the place on [9.1.2019](date) [in the evening](time)
+- we'd like to get the location on [25/6/2020](date) [at 3 in the afternoon](time)
+- we need to get the location on the [20-3-2018](date) [in the afternoon](time)
+- I need to have the place on the [21th December 2019](date) [at 10 in the morning](time)
+- Could we have the location on the [15-1-2020](date) [at 24:00](time)
+- I'd like to get the place for [29-5-2018](date) [at 7 in the evening](time)
+- I would like to have the location for the [7/1/2018](date) [at 23.00](time)
+- we want to have the place for the [6-12-2020](date) [at 3 in the afternoon](time)
+- I would like to get the venue on the [19th of September 2020](date) [at 8 in the morning](time)
+- I need to book the venue on [6 June 2020](date) [at noon](time)
+- we would like to book the room for [6 May 2020](date)
+- Would it be possible to have the location for the [9 Jun 2020](date) [at 9 in the morning](time)
+- we would like to have the venue for the [15.4.2019](date) [at 14.00](time)
+- Could I get the place on the [9.10.2020](date) [at 18.00](time)
+- Is it possible to get the location for [31 of Oct 2019](date) [at 7 in the evening](time)
+- Is it possible to have the location on the [17th April 2020](date) [at 15:00](time)
+- I need to book the venue on the [3rd April 2020](date) [in the evening](time)
+- we would like to reserve the location for [24/8/2020](date) [at 17:00](time)
+- I need to get the location on [1-8-2020](date) [at 20.00](time)
+- I need to reserve the room on [25.11.2019](date) [at 22:00](time)
+- The booking is for [18/5/2019](date) [at 10 in the morning](time)
+- Is the venue available on the [25th of Nov 2019](date) [at noon](time)
+- Would it be possible to have the venue on [29 Aug 2019](date) [during the day](time)
+- Can I book the venue for the [24.12.2018](date) [at 19.00](time)
+- The event will be [in the evening](time) on the [24 of Jul 2019](date)
+- Could we reserve the venue for the [5/7/2018](date) [at 19:00](time)
+- Would it be possible to get the venue for the [31.9.2020](date) [at 6 a.m.](time)
+- I want to get the place on the [25 Sep 2019](date) [during the day](time)
+- I would like to have the venue on the [19th September 2020](date) [at 4 in the afternoon](time)
+- we need to reserve the place on [15/12/2018](date)
+- I need to book the room on the [11-7-2019](date) [at 4 in the afternoon](time)
+- Can I have the place for the [1.2.2019](date) [at 7 in the evening](time)
+- Could we reserve the venue on [16.1.2019](date) [in the morning](time)
+- Would it be possible to reserve the place for [23 Sep 2018](date) [at 15:00](time)
+- Can I have the room for [16-11-2019](date) [at 11 in the morning](time)
+- Can we get the location for the [4th of Oct 2020](date) [at 8 in the morning](time)
+- we need to book the room for the [3rd of Dec 2018](date) [at 23.00](time)
+- I'd like to book the place for the [15 February 2020](date) [at 14.00](time)
+- I want to get the venue for [3rd February 2018](date) [at 22:00](time)
+- I need to reserve the location on [8-8-2019](date) [at 20:00](time)
+- Can I reserve the location on [10th of Feb 2018](date) [during the day](time)
+- I need to have the venue on [4th Feb 2018](date) [at 1 in the afternoon](time)
+- Would it be possible to book the venue on the [27th May 2019](date) [at 23.00](time)
+- we need to have the location on the [20 May 2018](date) [at 24:00](time)
+- Is it possible to get the place for the [3-6-2020](date) [at 4 in the afternoon](time)
+- Is it possible to get the room on [6/7/2019](date) [at 16:00](time)
+- we want to book the location on [19 Jul 2020](date) [at 8 in the morning](time)
+- I need to have the place on the [30th of October 2020](date) [at 8 o'clock](time)
+- we would like to get the location for [16th April 2020](date) [at 8 in the morning](time)
+- we need to have the room on [16th Nov 2019](date) [at 14.00](time)
+- Could I get the location on the [8th of Jul 2018](date) [at 23.00](time)
+- we want to reserve the location on the [17th July 2018](date) [at 3 p.m.](time)
+- I need to book the venue on [15/3/2019](date) [at 5 in the evening](time)
+- I would like to reserve the location for [7.11.2019](date) [at 19:00](time)
+- I want to get the venue on the [27th Jan 2018](date) [at 1 p.m.](time)
+- we need to get the room on [20-2-2019](date) [at 14:00](time)
+- I need to book the room on the [28th of September 2019](date) [at 18.00](time)
+- I would like to get the location for the [22.8.2018](date) [in the evening](time)
+- The networking event will be [at 3 in the afternoon](time) on the [8 of Jul 2018](date)
+- Can I reserve the location on [8th Feb 2018](date) [at 4 in the afternoon](time)
+- Would it be possible to reserve the venue for the [26 Feb 2018](date) [at 22:00](time)
+- Is it possible to have the location for [26/10/2018](date) [at 6 in the evening](time)
+- I would like to get the location for the [27.6.2020](date) [at 9 in the morning](time)
+- Could we reserve the venue for the [12th Feb 2019](date) [at noon](time)
+- we want to reserve the room on the [29.12.2019](date) [at 13.00](time)
+- we would like to book the room for [6 May 2020](date) [at 23:00](time)
+- I'd like to get the location on [20th of Apr 2019](date) [at 20:00](time)
+- Could I get the place on [14-9-2020](date) [at 15.00](time)
+- we'd like to have the venue for [8/11/2020](date) [at night](time)
+- we'd like to have the place for the [9 Aug 2020](date) [at 10 o'clock](time)
+- we would like to book the place on [9/9/2019](date) [at 10 in the morning](time)
+- I would like to reserve the place on the [19th of Oct 2020](date) [at 9 in the morning](time)
+- we need to have the venue on [24 of April 2018](date) [at 17:00](time)
+- I would like to reserve the room on [16th Feb 2018](date) [at 3 in the afternoon](time)
+- Can we get the location for [28th March 2019](date) [at 2 in the afternoon](time)
+- I'd like to have the venue for [29 of June 2018](date) [at 5 in the evening](time)
+- I need to have the location on the [14 September 2020](date) [at 5 in the evening](time)
+- Could I book the venue on [30-8-2019](date) [at 7 in the evening](time)
+- Can we reserve the place for the [11-6-2019](date) [at night](time)
+- Is it possible to reserve the place on [23-4-2018](date) [at 14:00](time)
+- Could I book the room on the [30/12/2020](date) [at 5 in the evening](time)
+- Is the location available on [16.2.2018](date) [at 14.00](time)
+- we'd like to reserve the room for [5 January 2019](date) [at 8 in the morning](time)
+- we'd like to book the place on the [3/6/2018](date) [at 12 o'clock](time)
+- Can I reserve the location on [17 October 2018](date) [in the evening](time)
+- we'd like to have the venue on [22th May 2020](date) [at 24.00](time)
+- we would like to reserve the location on [31st April 2019](date) [at 13:00](time)
+- I'd like to get the venue for the [12-1-2019](date) [at noon](time)
+- Can I have the location on [21th May 2019](date) [at 6 in the evening](time)
+- Could I get the venue for [12th of Oct 2020](date) [at 17.00](time)
+- I want to get the location on [9-6-2020](date) [at 16.00](time)
+- we would like to have the venue for the [24 Mar 2020](date) [at 2 in the afternoon](time)
+- The event will be [at 7 in the evening](time) [27 of Jun 2019](date)
+- Could I reserve the place for [13th Jan 2018](date) [at 9 in the morning](time)
+- Would it be possible to reserve the venue for [14 May 2018](date) [at 7 in the evening](time)
+- Can I book the location on [8.6.2018](date) [at 6 in the evening](time)
+- Is it possible to reserve the place on [31 Sep 2018](date) [at 19.00](time)
+- Could I get the room on [16 May 2018](date) [at 18.00](time)
+- Could I have the location for the [19 Oct 2018](date) [at 20:00](time)
+- I'd like to get the venue on [29th of Aug 2018](date) [at 15:00](time)
+- Could we reserve the location on the [21/9/2018](date) [at 3](time)
+- Can we have the venue for [3/10/2019](date) [in the afternoon](time)
+- I would like to have the venue for [5-12-2018](date) [at 1 in the afternoon](time)
+- we want to book the place on the [9/1/2019](date) [at 7 in the evening](time)
+- Is it possible to have the location on [13.9.2018](date) [at 20:00](time)
+- Is it possible to have the room for the [4-7-2018](date) [at 7 in the evening](time)
+- I would like to book the room for the [8 of Feb 2019](date) [at 6 in the evening](time)
+- Could we book the place for the [7-1-2019](date)
+- we want to reserve the place on the [16/2/2018](date) [at 13:00](time)
+- we'd like to reserve the room for the [20/12/2018](date) [during the day](time)
+- Can I book the venue on the [15th December 2019](date) [at 20:00](time)
+- we would like to book the location for the [31st of Aug 2018](date) [at 15.00](time)
+- I would like to reserve the venue on the [13-1-2019](date) [in the afternoon](time)
+- I'd like to get the place for [21th of November 2018](date) [at 11 in the morning](time)
+- we want to have the place for the [2 of Jan 2019](date) [at 15:00](time)
+- Is it possible to book the room on [2-10-2018](date) [at 18.00](time)
+- I need to book the room on the [27th Jul 2018](date) [at 7 o'clock](time)
+- we need to have the room for the [2-12-2018](date) [at 2 in the afternoon](time)
+- Is it possible to have the place on the [17 April 2020](date) [at 21:00](time)
+- we need to have the place for the [24 Mar 2020](date) [at 19.00](time)
+- we need to book the room for the [4 Oct 2018](date) [at 14.00](time)
+- Could we have the place for [8-6-2018](date) [in the afternoon](time)
+- Is it possible to book the location for the [4.1.2020](date) [at 22.00](time)
+- we need to have the location on [24th April 2019](date) [at 18:00](time)
+- Could we reserve the venue for the [3 Mar 2019](date) [at 11 in the morning](time)
+- The networking event is taking place [at 8 in the morning](time) on the [1-1-2020](date)
+- I would like to book the place for [17-10-2018](date) [at 6 in the evening](time)
+- I need to have the venue for [23/5/2019](date) [at 19.00](time)
+- we want to have the place for the [23.1.2020](date) [at 24.00](time)
+- we want to get the location on [4th of Nov 2019](date) [at 15:00](time)
+- we want to have the room on the [27th June 2020](date) [at 21.00](time)
+- Can I book the location on the [1.1.2019](date) [at 1 in the afternoon](time)
+- Could I have the location for [28/10/2018](date) [at 14.00](time)
+- Can I reserve the location for the [1.3.2019](date) [at 5 in the evening](time)
+- we need to book the place on the [7 May 2019](date) [at 1 in the afternoon](time)
+- Would it be possible to book the location for the [22th Nov 2019](date) [during the day](time)
+- we need to reserve the location for [5 of September 2019](date) [at 4 in the afternoon](time)
+- we need to get the venue on the [14th March 2020](date) [at 8 in the morning](time)
+- we need to reserve the room on [21-5-2018](date) [at 3](time)
+- Is the place available for the [7 of November 2019](date) [at 21.00](time)
+- The reservation is for the [14-4-2020](date) [at 2 in the afternoon](time)
+- we'd like to book the venue for [13th of Jan 2020](date) [at 17.00](time)
+- we want to reserve the location for [24/6/2019](date) [at 20:00](time)
+- we'd like to have the location on the [30th of Jan 2019](date) [at 23:00](time)
+- Can we get the place on the [13 Aug 2019](date) [at 16.00](time)
+- Could we book the location on the [4.1.2020](date) [at 10 pm](time)
+- we need to reserve the room on [16 of Oct 2020](date) [at 5 in the evening](time)
+- Would it be possible to book the place on [17.8.2018](date) [at 24:00](time)
+- I would like to book the place for [12 of Nov 2019](date) [at 9 in the morning](time)
+- Can we get the venue for the [14th March 2020](date) [at 9 in the morning](time)
+- Is it possible to book the location for [21th Jun 2019](date) [at 12 o'clock](time)
+- Would it be possible to have the venue on [13 June 2019](date) [at 16.00](time)
+- we'd like to reserve the venue for the [13 of Jan 2020](date) [at 6 in the evening](time)
+- Can we book the location for [10 Sep 2020](date) [at noon](time)
+- I'd like to book the place for [5 Jan 2020](date) [at 24.00](time)
+- we would like to get the room on the [25th Dec 2020](date) [at 4 in the afternoon](time)
+- Can we get the venue on [6/10/2020](date) [at noon](time)
+- Would it be possible to have the room on [28th of Oct 2020](date) [at 17:00](time)
+- Is it possible to have the location on [3.11.2019](date) [at 7 in the evening](time)
+- I'd like to get the room on [15 August 2018](date) [at noon](time)
+- The networking event takes place [at 6 in the evening](time) [9-2-2019](date)
+- Can I reserve the venue for [3-8-2018](date) [at 19:00](time)
+- we want to get the room on [3rd of Dec 2020](date) [at 24.00](time)
+- Would it be possible to reserve the place on the [4-11-2018](date) [at 1 in the afternoon](time)
+- Could I have the room on [24th Jun 2020](date) [at 18.00](time)
+- we need to get the location for the [8th of Aug 2020](date) [at 22.00](time)
+- we would like to book the location on [9th of Oct 2020](date) [at 8 in the morning](time)
+- we need to get the room on [4th of December 2020](date) [at 19:00](time)
+- Can we book the room on [20/11/2020](date) [in the afternoon](time)
+- we'd like to have the room for the [26.5.2020](date) [at 20.00](time)
+- Would it be possible to have the venue on the [5 of Nov 2020](date) [at 11 o'clock](time)
+- we want to have the venue for the [24/10/2020](date) [at 5 in the evening](time)
+- Would it be possible to have the location on [29/7/2018](date)
+- we want to have the venue on the [3.2.2020](date) [at noon](time)
+- we would like to book the room on [14th December 2018](date) [at 17:00](time)
+- Can we book the room for the [12th of Nov 2020](date) [at 17:00](time)
+- Can we have the place for the [10th of Jun 2020](date) [at 11 in the morning](time)
+- we would like to reserve the place on [10 Nov 2020](date) [at 5 am](time)
+- I would like to have the venue on [19/8/2018](date) [at 22:00](time)
+- we want to book the location on the [11.4.2020](date) [at 18:00](time)
+- Would it be possible to get the place for [18 June 2019](date) [at 5 in the evening](time)
+- Can we reserve the room for the [3rd May 2019](date) [in the morning](time)
+- we would like to get the location for the [31-4-2019](date) [at 20.00](time)
+- Could we book the place on [13-3-2020](date) [during the day](time)
+- Could I get the room for [30-8-2018](date) [at 8 in the morning](time)
+- I would like to get the place on [16 May 2019](date) [at 16:00](time)
+- we need to get the venue on [25 of May 2018](date) [in the morning](time)
+- Is it possible to reserve the place for the [6/7/2019](date) [at 2 in the afternoon](time)
+- we would like to reserve the location on the [2nd of August 2020](date) [at 2 in the afternoon](time)
+- Would it be possible to get the venue on [21.6.2019](date) [at 6 in the evening](time)
+- I would like to reserve the room on [10 Jan 2019](date) [in the morning](time)
+- I need to get the place for the [9-11-2020](date) [at noon](time)
+- Is it possible to book the location on the [21-7-2019](date) [at 9 in the morning](time)
+- I need to book the place for [27-8-2018](date) [at 2 in the afternoon](time)
+- The event is happening [at 6 in the evening](time) on the [23.10.2019](date)
+- Is it possible to book the place for [17/6/2018](date) [at 5 in the evening](time)
+- I want to reserve the place for [6 May 2019](date) [at 16.00](time)
+- Could I get the room on the [29/12/2018](date) [at 8 in the morning](time)
+- we want to get the place for the [19th of January 2020](date) [at 17:00](time)
+- Is the place available on the [11th Dec 2019](date) [at 5 in the evening](time)
+- Can we reserve the room for [17th Feb 2019](date) [at 10 a.m.](time)
+- Would it be possible to book the venue for the [18 Jun 2018](date) [during the day](time)
+- Could we get the room for the [23-8-2019](date) [during the day](time)
+- we need to get the place for [25th Feb 2020](date) [at 6 in the evening](time)
+- we'd like to reserve the room on the [28th of Dec 2019](date) [at 15:00](time)
+- I want to reserve the venue on [11th Dec 2018](date) [at 4 pm](time)
+- I need to reserve the place on [15 Sep 2018](date) [in the evening](time)
+- Is it possible to get the venue for the [27-3-2019](date) [at 18.00](time)
+- Would it be possible to reserve the place for [16th September 2020](date) [at 22:00](time)
+- we need to book the location on the [13-3-2018](date) [in the afternoon](time)
+- we want to have the location for [13-11-2018](date) [at 10 in the morning](time)
+- we'd like to book the place on the [11 Aug 2018](date) [at 23.00](time)
+- I'd like to reserve the venue for [2nd Sep 2018](date) [at 24:00](time)
+- Is it possible to get the venue on the [29.9.2019](date) [at 17.00](time)
+- Could I get the room for [25 Jan 2020](date) [at 2 in the afternoon](time)
+- Could I have the place for [7-3-2018](date) [at 20:00](time)
+- Is it possible to get the venue for the [29-2-2019](date) [at 18.00](time)
+- Could we have the place for the [22-1-2018](date) [at 8 in the morning](time)
+- we need to reserve the venue on the [12 April 2020](date) [at 23.00](time)
+- Would it be possible to have the place for [12-6-2020](date) [at 9 in the morning](time)
+- I'd like to reserve the room on the [6 Mar 2019](date) [at 14.00](time)
+- Is it possible to get the place on [29 May 2019](date) [in the morning](time)
+- I need to reserve the location for the [31/2/2020](date) [at 8 in the morning](time)
+- Could we have the location on the [3.9.2018](date) [at 4 o'clock](time)
+- I would like to book the venue on the [29 of December 2019](date) [at 9 in the morning](time)
+- we need to book the venue on [8 July 2019](date) [at 8](time)
+- Can I reserve the location on the [23 Sep 2020](date) [at 13.00](time)
+- Could we book the room for the [13/5/2018](date) [at 9 in the morning](time)
+- The event will be [at 6 in the evening](time) [9/6/2020](date)
+- Could I reserve the room for [18.11.2019](date) [at 5 pm](time)
+- we want to get the place on the [28th of November 2019](date) [at 11 in the morning](time)
+- we want to have the place for [28/3/2018](date) [in the afternoon](time)
+- we want to reserve the room for the [21.3.2020](date)
+- Could we reserve the room for the [30-10-2020](date) [at 10 in the morning](time)
+- I want to reserve the location for [8.7.2020](date) [at 16.00](time)
+- Could I book the place for the [17.5.2018](date)
+- Can I have the venue on the [6th of Aug 2020](date) [at 6 in the evening](time)
+- I would like to have the place for [10.3.2019](date) [at 14:00](time)
+- Could I get the venue on [9-11-2020](date) [at 24:00](time)
+- we'd like to get the location on [29th Dec 2019](date) [during the day](time)
+- Can I get the room on [11 December 2018](date) [at 11 pm](time)
+- we want to book the room on [27.10.2019](date) [at 4 in the afternoon](time)
+- Would it be possible to book the place for the [18th of Jun 2019](date) [at 11 o'clock](time)
+- Can I get the room on [24/12/2020](date) [at 9 in the morning](time)
+- Can we book the location on [2nd Dec 2020](date) [at noon](time)
+- Could we have the place on the [25 Oct 2020](date) [at noon](time)
+- we need to book the room for the [27/5/2020](date) [at 9 in the morning](time)
+- Can we book the location on [26 May 2019](date) [at 13:00](time)
+- we want to book the place on the [29th July 2020](date) [at 7 in the evening](time)
+- Is it possible to reserve the venue for the [27.9.2018](date) [at 8 in the morning](time)
+- Can I have the location for [14-4-2019](date) [at 18:00](time)
+- Would it be possible to have the venue for the [4.2.2019](date) [at 13.00](time)
+- I want to get the location for [14-1-2018](date) [at 22:00](time)
+- Would it be possible to book the place on the [4th of August 2020](date) [at 8 a.m.](time)
+- we'd like to book the place on the [8-10-2018](date) [at 23.00](time)
+- Would it be possible to book the place for the [10 Dec 2018](date) [at 13.00](time)
+- Can we reserve the venue for [7th June 2018](date) [at 17.00](time)
+- The date of the event is [30.6.2020](date) [at 8 in the morning](time)
+- The reservation is for the [19/5/2020](date) [at night](time)
+- Is the place available for the [26.1.2019](date) [at 10 in the morning](time)
+- we would like to have the room for [15.11.2020](date) [at 14.00](time)
+- we need to have the venue for the [25/8/2019](date) [at 3 in the afternoon](time)
+- we'd like to get the place for the [30-5-2018](date) [during the day](time)
+- we would like to get the room for the [16-4-2020](date) [at 17.00](time)
+- The networking event will be [at noon](time) on the [26 Jun 2018](date)
+- Could I get the venue on the [13th October 2019](date) [at 24:00](time)
+- Can we get the location on the [12 of July 2019](date) [in the afternoon](time)
+- we need to book the venue for the [1 of Jan 2019](date) [in the morning](time)
+- we would like to reserve the location for the [23-11-2019](date) [in the afternoon](time)
+- Can we have the location on [30 of May 2020](date) [at 16.00](time)
+- we want to book the venue on the [11 Mar 2020](date) [at 13:00](time)
+- we'd like to have the venue on [4th August 2018](date) [at 24.00](time)
+- I need to get the place for [29-10-2019](date) [at 4 in the afternoon](time)
+- Would it be possible to have the room for [4 Jul 2018](date) [at 20.00](time)
+- we'd like to book the venue for [5th Dec 2020](date) [at 13.00](time)
+- we would like to book the location for the [28th May 2018](date) [at 20:00](time)
 
 ## intent:provide_budget
-- We have a max of maximum Fr. [1'400](budget)
-- I have [1,400](budget) Euros
-- The cost should be at most CHF [1000](budget)
-- Our limit is [1200](budget).-
-- It can't cost over $[500](budget)
-- It can't cost over [1000](budget) Euros
-- We have a limit of no more than Fr. [600](budget)
-- We can pay at most $[1400](budget)
-- I can pay at most [1'500](budget) Swiss francs
-- The cost should be no more than GBP [1200](budget)
-- The limit is [1500](budget) Pounds
-- Our maximum is £[1000](budget)
-- Our budget is Fr. [800](budget)
-- It cannot cost more than [1'400](budget) Dollars
-- The cost should be maximum [1400](budget) francs
-- I can spend maximum £[800](budget)
-- It must be under CHF [1500](budget)
-- I have [700](budget).-
-- The cost should be maximum CHF [1'500](budget)
-- We have [1200](budget) francs
-- The cost should be at most USD [1000](budget)
-- We can pay no more than €[1'200](budget)
-- Our max is [900](budget) Pounds
-- I have CHF [1200](budget)
-- It cannot cost over [700](budget) Pounds
-- It can't cost over $[1200](budget)
-- It must be under Fr. [1,000](budget)
-- I can pay at most [1500](budget) Dollars
-- It must be under [1400](budget) Pounds
-- We have a limit of maximum CHF [800](budget)
-- I have a limit of max [1200](budget).-
-- It cannot cost more than USD [700](budget)
-- It can't cost more than €[1500](budget)
-- The cost should be maximum [900](budget) Dollars
-- It needs to be under Fr. [1'200](budget)
-- I can pay £[1500](budget)
-- I can pay maximum [800](budget) francs
-- It can't cost more than GBP [1'400](budget)
-- It can't cost over [1'400](budget) Dollars
-- I have $[1200](budget)
-- The cost should be maximum Fr. [1,200](budget)
-- We have a max of [1'500](budget) Dollars
-- It cannot cost over [1,200](budget) Pounds
-- I can pay CHF [1400](budget)
-- I can pay maximum CHF [1,200](budget)
-- We have a budget of at most [1500](budget).-
-- We have a limit of £[500](budget)
-- Our maximum is [1,400](budget) Dollars
-- The cost should be no more than USD [1,200](budget)
-- It can't cost over £[1,200](budget)
-- The budget is [600](budget) Swiss francs
-- We have CHF [1500](budget)
-- I can spend max [1'400](budget) Euros
-- We have €[600](budget)
-- The cost should be at most USD [1'400](budget)
-- The budget is [1200](budget) Dollars
-- I have $[1500](budget)
-- We can pay no more than CHF [900](budget)
-- I can pay max [1000](budget).-
-- It cannot cost over CHF [1'000](budget)
-- I have a limit of no more than [1500](budget) francs
-- We have [700](budget) Pounds
-- It has to be under GBP [1,200](budget)
-- The cost should be max €[1200](budget)
-- We can pay at most [800](budget) francs
-- The cost should be maximum CHF [700](budget)
-- We can pay max [1200](budget) Pounds
-- It cannot cost more than £[1200](budget)
-- The cost should be at most CHF [1200](budget)
-- It can't cost more than [1400](budget) Swiss francs
-- The cost should be no more than CHF [500](budget)
-- It should be under £[1400](budget)
-- We have a limit of [1200](budget).-
-- It has to be under GBP [1,400](budget)
-- I have [1400](budget) Dollars
-- We have a max of no more than [600](budget) francs
-- The limit is CHF [1'500](budget)
-- We have €[700](budget)
-- The cost should be no more than [800](budget) Dollars
-- We have USD [1200](budget)
-- I can pay at most [1200](budget) Dollars
-- We can spend £[1,200](budget)
-- It cannot cost more than CHF [1200](budget)
-- The max is [800](budget) Dollars
-- We can pay no more than [1,500](budget) Swiss francs
-- It needs to be under [1000](budget).-
-- The budget is CHF [1,400](budget)
-- I have £[1'500](budget)
-- I have USD [1,500](budget)
-- It has to be below [1400](budget) Dollars
-- I have Fr. [1'000](budget)
-- It cannot cost over €[500](budget)
-- I have [1200](budget) francs
-- It cannot cost over USD [1'500](budget)
-- I have [1000](budget) francs
-- Our max is €[1'500](budget)
-- We can spend maximum CHF [600](budget)
-- We can pay maximum [1'400](budget) Euros
-- I can pay at most [1'000](budget) Swiss francs
-- I can pay maximum CHF [1200](budget)
-- I have a budget of no more than CHF [700](budget)
-- We have a budget of no more than [1'000](budget).-
-- The cost should be no more than [1200](budget) francs
-- It cannot cost more than GBP [1,200](budget)
-- We can pay max €[1'200](budget)
-- It cannot cost more than [1,500](budget) francs
-- It cannot cost more than Fr. [700](budget)
-- The limit is [1,400](budget) Dollars
-- The max is €[800](budget)
-- We can spend max GBP [1000](budget)
-- It can't cost over [1'500](budget) Dollars
-- It cannot cost more than [700](budget) Pounds
-- The cost should be at most £[1200](budget)
-- It cannot cost over Fr. [1,200](budget)
-- We can pay CHF [1,400](budget)
-- We have a budget of at most [1400](budget).-
-- I have [1,000](budget) Dollars
-- It cannot cost more than CHF [1,200](budget)
-- The limit is €[500](budget)
-- The maximum is [1000](budget) Dollars
-- We can pay no more than GBP [1,500](budget)
-- Our limit is [1,400](budget) Pounds
-- We have a limit of maximum £[1'400](budget)
-- We have USD [1000](budget)
-- We can pay at most [1'400](budget) Dollars
-- It cannot cost over [1000](budget) Pounds
-- It should be under [1,000](budget).-
-- Our limit is CHF [1400](budget)
-- It cannot cost more than CHF [1'200](budget)
-- We can spend max €[700](budget)
-- It should be under [600](budget) Euros
-- It should be under USD [1200](budget)
-- I can pay at most €[1'500](budget)
-- We have [1000](budget) Dollars
-- We have GBP [900](budget)
-- It has to be under [1200](budget) Swiss francs
-- The budget is $[1500](budget)
-- We have GBP [1500](budget)
-- The limit is [1400](budget) Pounds
-- The maximum is [700](budget) Euros
-- I have a budget of at most [700](budget).-
-- It can't cost more than USD [700](budget)
-- The limit is CHF [1500](budget)
-- We have a max of maximum £[1'200](budget)
-- I can spend maximum [1'500](budget) Euros
-- We can pay no more than Fr. [1'000](budget)
-- The max is £[1000](budget)
-- It has to be under [1400](budget) Pounds
-- It cannot cost over CHF [1'200](budget)
-- We can spend maximum [1'200](budget) Euros
-- The budget is $[1200](budget)
-- I have CHF [1400](budget)
-- I can pay max [1'500](budget) Pounds
-- We can pay [800](budget).-
-- I can pay maximum [1,200](budget) Euros
-- The maximum is $[800](budget)
-- It can't cost over CHF [1400](budget)
-- Our max is CHF [600](budget)
-- Our limit is [1,200](budget) Pounds
-- It cannot cost over CHF [1,500](budget)
-- I can pay no more than $[700](budget)
-- It can't cost over [1'200](budget) francs
-- I can pay Fr. [700](budget)
-- The budget is [900](budget) francs
-- It has to be below $[1000](budget)
-- I have a max of maximum USD [1,400](budget)
-- The maximum is [700](budget) Dollars
-- It can't cost over GBP [1200](budget)
-- Our limit is $[1500](budget)
-- The budget is [1'200](budget) Dollars
-- The maximum is [1'200](budget).-
-- The budget is CHF [1,200](budget)
-- It has to be below [800](budget) Dollars
-- I have a limit of maximum Fr. [1500](budget)
-- It can't cost over £[1'500](budget)
-- The max is [1200](budget) Pounds
-- It can't cost over Fr. [900](budget)
-- It needs to be below [1500](budget) Pounds
-- It needs to be under €[1,500](budget)
-- I have USD [1,200](budget)
-- It cannot cost more than [1,500](budget) Euros
-- Our budget is GBP [1'000](budget)
-- I can pay max £[1,000](budget)
-- I can pay at most [500](budget).-
-- We can pay at most [1200](budget) Dollars
-- The cost should be maximum CHF [1500](budget)
-- It needs to be under [1500](budget) Dollars
-- It cannot cost over Fr. [1,500](budget)
-- We have a max of no more than €[1000](budget)
-- I have [700](budget) Pounds
-- I can pay Fr. [1'500](budget)
-- Our limit is [1,200](budget) Dollars
-- It cannot cost more than €[1500](budget)
-- We can pay max Fr. [1'000](budget)
-- The budget is [1400](budget) francs
-- The max is CHF [1200](budget)
-- The budget is [1000](budget) Euros
-- I can pay no more than GBP [1'200](budget)
-- It cannot cost more than £[1,500](budget)
-- The cost should be no more than [1500](budget).-
-- Our max is [1400](budget) Swiss francs
-- It cannot cost more than USD [1,500](budget)
-- It cannot cost more than $[900](budget)
-- We can spend [1000](budget) Dollars
-- It cannot cost over Fr. [1,000](budget)
-- It should be under [500](budget) Euros
-- We can spend at most £[1500](budget)
-- It needs to be below USD [1'500](budget)
-- We can pay max [1'500](budget) Pounds
-- It can't cost over [900](budget) Pounds
-- It must be under [1000](budget).-
-- I have CHF [1,400](budget)
-- We have a budget of at most $[1,000](budget)
-- I have a max of no more than Fr. [1000](budget)
-- The max is [1'200](budget) Pounds
-- Our budget is GBP [1,000](budget)
-- I can spend at most £[1500](budget)
-- It cannot cost more than [1,500](budget) Pounds
-- I can pay max CHF [1'400](budget)
-- The cost should be at most £[1000](budget)
-- I can pay maximum CHF [1'200](budget)
-- It can't cost more than [1200](budget) Dollars
-- We can pay USD [1500](budget)
-- It cannot cost more than CHF [1'000](budget)
-- Our limit is €[1,200](budget)
-- I have a max of maximum [600](budget).-
-- We have a max of [1,400](budget) Pounds
-- I can spend no more than [1,200](budget) Dollars
-- It cannot cost over USD [1200](budget)
-- I have $[1,400](budget)
-- I have a maximum of no more than [1200](budget) Swiss francs
-- The budget is GBP [1400](budget)
-- It can't cost over [1400](budget) Euros
-- It cannot cost over €[900](budget)
-- I have Fr. [1,200](budget)
-- I have a maximum of [1'500](budget) Dollars
-- The cost should be at most CHF [900](budget)
-- It has to be under [1,400](budget).-
-- It cannot cost more than £[1'000](budget)
-- We can spend at most CHF [1200](budget)
-- It should be below [1200](budget) Dollars
-- The maximum is [1500](budget) Dollars
-- It can't cost over USD [600](budget)
-- I can pay €[1400](budget)
-- We have a maximum of no more than [500](budget) Pounds
-- We have a maximum of Fr. [1,200](budget)
-- We have [1000](budget) Pounds
-- It cannot cost over $[500](budget)
-- Our max is Fr. [1000](budget)
-- We can pay at most [1400](budget) Swiss francs
-- The cost should be maximum [1500](budget).-
-- It can't cost more than £[1'200](budget)
-- The max is CHF [800](budget)
-- The max is [1400](budget) francs
-- It can't cost over Fr. [1400](budget)
-- It has to be below [1,000](budget) francs
-- The cost should be maximum USD [1,500](budget)
-- The cost should be maximum $[1,200](budget)
-- It can't cost more than [1,200](budget) Euros
-- We have a max of at most CHF [1400](budget)
-- The cost should be maximum $[1'400](budget)
-- It can't cost more than CHF [1500](budget)
-- Our limit is [1500](budget) Dollars
-- It cannot cost over [1'200](budget).-
-- I have a max of €[500](budget)
-- The cost should be no more than Fr. [1,000](budget)
-- It cannot cost more than [1'400](budget) Swiss francs
-- Our limit is CHF [1,200](budget)
-- I have a budget of no more than [1'500](budget) Pounds
-- It cannot cost more than CHF [900](budget)
-- It has to be below €[1'400](budget)
-- We have a limit of [1000](budget) Dollars
-- It can't cost over Fr. [1,400](budget)
-- The budget is [1200](budget) Euros
+- The budget is CHF [1,500](budget)
+- I can pay at most $[1000](budget)
+- We have GBP [1200](budget)
+- I can spend no more than [1,000](budget).-
+- I have [1'400](budget) Pounds
+- I can pay at most [1400](budget) Dollars
+- I can pay maximum GBP [1,400](budget)
 - I can pay maximum £[1000](budget)
-- The maximum is CHF [1400](budget)
-- The max is [1,000](budget) Euros
-- The maximum is CHF [800](budget)
-- The cost should be maximum [500](budget) Euros
-- I can pay no more than €[1400](budget)
-- I can pay no more than USD [1'200](budget)
-- Our maximum is [1'000](budget).-
-- I can pay at most [1000](budget) Euros
-- I can spend max Fr. [1'500](budget)
-- I have a limit of [800](budget) Pounds
-- It must be under CHF [1400](budget)
-- The budget is [1'400](budget) Pounds
-- I can pay no more than €[600](budget)
-- Our maximum is GBP [1000](budget)
-- I can spend maximum [1,500](budget) Swiss francs
-- I can pay no more than $[1'500](budget)
-- We can pay at most [700](budget) Euros
-- I can spend CHF [800](budget)
-- It should be under [1200](budget).-
-- I have a budget of max CHF [1400](budget)
-- Our maximum is [1400](budget) francs
-- We can pay CHF [1'400](budget)
-- We have €[1'200](budget)
-- We can pay no more than CHF [600](budget)
-- The limit is [700](budget) Pounds
-- We have a max of no more than £[700](budget)
-- The limit is USD [1,000](budget)
-- I can pay maximum [1,400](budget) Pounds
-- We can pay no more than [1000](budget) Pounds
-- It can't cost over CHF [600](budget)
-- We can pay at most €[1200](budget)
-- It cannot cost over [1,000](budget).-
-- I have a budget of at most USD [500](budget)
-- I have USD [700](budget)
-- The limit is £[1'500](budget)
-- It needs to be under [800](budget) Dollars
-- It can't cost more than GBP [500](budget)
-- We can pay maximum [1,200](budget) Pounds
-- The budget is £[800](budget)
-- It cannot cost more than CHF [500](budget)
-- We can pay at most [1,400](budget) Dollars
-- I have a limit of at most Fr. [1500](budget)
-- The cost should be at most [800](budget) Pounds
-- I can spend max CHF [1'000](budget)
-- The cost should be maximum $[1'000](budget)
-- Our budget is [1,400](budget).-
-- The cost should be at most [1,400](budget) Dollars
-- We have a maximum of at most Fr. [1400](budget)
-- We can pay maximum £[1200](budget)
-- The max is [1400](budget) Dollars
-- I have GBP [500](budget)
-- I can pay maximum [1500](budget) Euros
-- Our maximum is €[1500](budget)
-- We can pay no more than CHF [1,200](budget)
-- The maximum is [600](budget) Dollars
-- The maximum is CHF [1'200](budget)
-- It cannot cost more than $[1200](budget)
-- We can pay maximum CHF [600](budget)
-- We can pay maximum [700](budget) Dollars
-- It can't cost over [1,400](budget).-
-- I can pay max [700](budget) Pounds
-- I have a maximum of at most USD [600](budget)
-- The max is €[1'500](budget)
-- We can pay at most [700](budget) Dollars
-- I can spend maximum Fr. [1'200](budget)
-- It should be under [500](budget) Swiss francs
-- The limit is £[1500](budget)
-- I have [1000](budget) Pounds
-- The limit is CHF [900](budget)
-- It can't cost more than Fr. [1'400](budget)
-- It cannot cost more than $[1,200](budget)
-- It needs to be below [1000](budget).-
-- The cost should be at most [1'000](budget) Dollars
-- The maximum is [1'200](budget) Euros
-- I have Fr. [1500](budget)
-- It should be under €[1200](budget)
-- The cost should be at most [1400](budget) Euros
-- The cost should be no more than USD [1000](budget)
-- It cannot cost more than [600](budget) francs
-- Our limit is $[1200](budget)
-- It cannot cost more than Fr. [1,200](budget)
-- I have a budget of [1200](budget) Swiss francs
-- I have a limit of max CHF [1,200](budget)
-- The cost should be no more than [1,000](budget) Euros
-- The cost should be max £[1200](budget)
-- We can pay at most [700](budget).-
-- I can pay maximum [1'200](budget) Euros
-- The cost should be maximum Fr. [1200](budget)
-- The cost should be maximum €[700](budget)
-- The maximum is [500](budget) Pounds
-- Our maximum is Fr. [1400](budget)
-- We have a budget of no more than [600](budget) Dollars
+- I have a limit of no more than [1200](budget) Dollars
+- The cost should be no more than CHF [1200](budget)
+- The limit is [1,400](budget) Pounds
+- The cost should be no more than €[1,200](budget)
+- It must be under GBP [800](budget)
+- We have [1000](budget) Euros
+- It must be under CHF [600](budget)
+- Our limit is USD [1400](budget)
+- It should be under [1400](budget) Dollars
+- The limit is $[1'000](budget)
+- It can't cost more than [800](budget).-
+- I can pay at most [1'000](budget) Pounds
+- I have USD [1,400](budget)
+- The max is £[1'200](budget)
+- It can't cost over [500](budget) Pounds
+- It can't cost over Fr. [600](budget)
+- Our max is [1200](budget) Dollars
+- The cost should be no more than £[1'500](budget)
+- It should be below Fr. [1,000](budget)
+- It cannot cost more than [1400](budget) Pounds
+- We have $[1400](budget)
+- It has to be below [1'500](budget) Dollars
+- It cannot cost over [1'500](budget).-
+- I have GBP [1500](budget)
+- It must be below CHF [1000](budget)
+- We can pay no more than [1200](budget) Euros
+- The maximum is USD [1,500](budget)
+- We can spend £[900](budget)
+- We can spend no more than [1400](budget) Euros
+- The maximum is CHF [1,500](budget)
+- The cost should be maximum [700](budget) Dollars
+- It must be below €[1,400](budget)
+- It cannot cost more than GBP [1400](budget)
+- It cannot cost over [1,400](budget) francs
+- The cost should be maximum [1,400](budget).-
+- Our maximum is $[1200](budget)
+- I have a budget of CHF [1,400](budget)
+- We can pay Fr. [1'000](budget)
+- It needs to be below [900](budget) Dollars
+- Our max is [1,500](budget) Pounds
+- It should be under CHF [1'400](budget)
+- I can spend no more than €[1500](budget)
+- We can pay [700](budget) Euros
+- It should be below CHF [1200](budget)
+- It should be under [500](budget) Euros
+- It cannot cost more than €[1,400](budget)
+- I can spend Fr. [1,500](budget)
+- I have a limit of max [1500](budget) francs
+- The cost should be at most [1400](budget).-
+- It can't cost over €[500](budget)
+- Our budget is CHF [1,400](budget)
+- Our budget is CHF [1'000](budget)
+- It needs to be under [1200](budget) Euros
+- I have [1200](budget) Swiss francs
+- The limit is CHF [1000](budget)
+- It can't cost over $[700](budget)
+- We can spend no more than [1,500](budget) Swiss francs
+- I can pay no more than GBP [1400](budget)
+- We can spend no more than [1'000](budget) Euros
+- We can pay max €[1400](budget)
+- The budget is USD [1,500](budget)
+- We have [1'000](budget) Swiss francs
+- It cannot cost over CHF [1400](budget)
+- I have a budget of max [1'400](budget) Swiss francs
+- Our limit is CHF [500](budget)
+- We can pay €[1'200](budget)
+- The budget is [1400](budget).-
+- We have a limit of no more than [1,400](budget) Euros
+- It should be below GBP [1,200](budget)
+- The budget is £[1'200](budget)
+- The cost should be maximum [1400](budget) Dollars
+- Our limit is CHF [1,400](budget)
+- The cost should be no more than [1'500](budget) francs
+- We can pay max £[800](budget)
+- I can pay no more than Fr. [1400](budget)
+- We can spend max [1200](budget) Dollars
+- We can pay at most [900](budget) Pounds
+- It should be below [700](budget).-
+- It needs to be below Fr. [1'000](budget)
+- The budget is €[1'000](budget)
+- It has to be under CHF [1,400](budget)
+- Our maximum is [1000](budget) Euros
+- I can pay CHF [1,200](budget)
+- It can't cost more than £[800](budget)
+- We can pay max [600](budget) Pounds
+- It has to be below Fr. [1'500](budget)
+- We can pay [800](budget) Dollars
+- We can pay no more than €[1,500](budget)
+- I can pay USD [700](budget)
+- It cannot cost more than [1000](budget) Dollars
+- I have a budget of max CHF [1,000](budget)
+- Our limit is [1000](budget) Pounds
+- Our limit is [1'000](budget).-
+- We have a budget of max $[1500](budget)
+- It can't cost over USD [1200](budget)
+- It can't cost more than [1200](budget) Pounds
+- We can spend no more than Fr. [1'200](budget)
+- Our maximum is $[1,000](budget)
+- The maximum is [600](budget) Swiss francs
+- It can't cost more than Fr. [1'000](budget)
+- It should be under [1,500](budget) Pounds
+- It cannot cost more than £[1'200](budget)
+- It can't cost more than USD [600](budget)
+- The cost should be max [1,200](budget) Dollars
+- It cannot cost more than [1500](budget) Swiss francs
+- The cost should be at most CHF [1000](budget)
+- It cannot cost more than [1200](budget).-
+- It cannot cost over €[900](budget)
+- I can pay no more than Fr. [1'500](budget)
+- We have a max of at most [1'000](budget) Euros
+- Our budget is Fr. [1,400](budget)
+- The limit is £[1200](budget)
+- It cannot cost over [1'500](budget) Euros
+- We have a limit of CHF [1,500](budget)
+- It can't cost over [1'200](budget) Pounds
+- We have $[800](budget)
+- Our limit is GBP [600](budget)
+- It needs to be below [1,200](budget) Dollars
+- It cannot cost more than [1000](budget) Euros
+- I can spend no more than CHF [1000](budget)
+- Our maximum is €[1,000](budget)
+- We have a budget of at most [700](budget).-
+- The max is Fr. [1,500](budget)
+- I can spend no more than [1'400](budget) Euros
+- The cost should be maximum GBP [1'400](budget)
+- The budget is £[1500](budget)
+- Our budget is [1,500](budget) Swiss francs
+- I can pay no more than [800](budget) Dollars
+- We can spend at most €[600](budget)
+- I can spend no more than USD [1,500](budget)
+- I have [1'500](budget) francs
+- We can spend max Fr. [1000](budget)
 - I have £[800](budget)
-- I can pay max Fr. [800](budget)
-- The cost should be at most [1'000](budget) Pounds
-- We can spend maximum [1,400](budget) Dollars
-- We have CHF [600](budget)
-- It must be under Fr. [1400](budget)
-- It has to be under [1500](budget).-
-- The cost should be no more than [1000](budget) francs
-- We have a limit of maximum Fr. [1,500](budget)
-- It should be below £[1400](budget)
-- I have [500](budget) Euros
-- It cannot cost over Fr. [800](budget)
-- We have a maximum of maximum £[1,400](budget)
-- We have a max of maximum CHF [1000](budget)
-- I have [1500](budget) Swiss francs
-- Our max is [600](budget).-
-- We can pay maximum £[1000](budget)
-- I can pay no more than [1500](budget) Pounds
-- We can pay no more than CHF [500](budget)
-- It has to be below Fr. [800](budget)
-- It cannot cost over GBP [1500](budget)
-- It can't cost more than $[1'200](budget)
-- I have a max of at most [800](budget) Euros
-- The cost should be maximum CHF [500](budget)
-- We can spend no more than [900](budget) Swiss francs
-- The maximum is £[800](budget)
-- I can pay max USD [900](budget)
-- Our budget is [1'500](budget) Swiss francs
-- It can't cost over [1200](budget) Swiss francs
-- It can't cost over CHF [800](budget)
-- It can't cost more than CHF [600](budget)
-- We have a limit of at most €[500](budget)
-- Our max is [700](budget) francs
-- I can pay at most CHF [1400](budget)
-- We can pay £[1200](budget)
-- I have [700](budget) Swiss francs
-- It cannot cost more than USD [1,400](budget)
-- The limit is [800](budget) Pounds
-- The cost should be at most $[1'400](budget)
-- It should be below GBP [1500](budget)
-- Our maximum is [1000](budget) francs
-- Our max is CHF [1'500](budget)
-- It can't cost more than GBP [1'000](budget)
-- The max is [1400](budget).-
-- The budget is [1400](budget) Euros
-- It should be under €[1'000](budget)
-- Our max is [1500](budget) Euros
-- The cost should be no more than £[1'000](budget)
-- I have a limit of max [1500](budget) Pounds
-- I can pay GBP [1'000](budget)
-- It can't cost more than [1000](budget) Dollars
-- We can pay at most $[1000](budget)
-- We can pay max USD [1,000](budget)
-- The budget is [1,000](budget) Dollars
-- It cannot cost over [500](budget).-
-- I have CHF [1'200](budget)
-- It can't cost more than [500](budget) Pounds
-- I can pay max GBP [1000](budget)
-- It needs to be below $[1200](budget)
-- It cannot cost over [600](budget) Euros
-- It cannot cost more than Fr. [1400](budget)
-- We have a max of maximum €[900](budget)
-- Our budget is [1400](budget) Pounds
-- We have a budget of CHF [800](budget)
-- It must be under [1'400](budget) Euros
-- We have $[600](budget)
-- I have a maximum of max GBP [800](budget)
-- We can spend [1'200](budget) Pounds
-- It can't cost over CHF [1000](budget)
-- I have a budget of no more than [1200](budget).-
-- Our max is GBP [1,200](budget)
-- I have €[1000](budget)
-- I have [600](budget) Dollars
-- It can't cost more than [1500](budget) Pounds
-- It can't cost more than $[1400](budget)
-- It must be below [1'400](budget) Swiss francs
-- We have Fr. [1,500](budget)
-- The cost should be no more than [1200](budget) Swiss francs
-- It can't cost over €[1400](budget)
-- The cost should be at most USD [1'200](budget)
-- It can't cost over [1500](budget) Euros
-- I have a max of CHF [1'200](budget)
-- I have CHF [1'400](budget)
-- The max is [1000](budget).-
-- I can pay no more than €[700](budget)
-- The cost should be max [1,200](budget) Euros
-- It can't cost more than [1400](budget) Euros
-- It cannot cost over Fr. [500](budget)
-- It needs to be below $[1'500](budget)
-- It should be below [1,500](budget) Euros
-- It can't cost more than USD [800](budget)
-- It can't cost over [1,200](budget) Pounds
-- We have €[1000](budget)
+- The cost should be maximum [1,400](budget) Dollars
+- I have [1500](budget).-
+- I have CHF [1400](budget)
+- We have a budget of no more than [600](budget) Dollars
+- I can pay max USD [1'400](budget)
+- The cost should be at most €[1,200](budget)
+- The cost should be no more than [1,200](budget) francs
+- I can pay Fr. [600](budget)
+- The budget is [1000](budget) Euros
+- I have a max of at most $[1'500](budget)
+- I can pay USD [1'200](budget)
+- It cannot cost over [1200](budget) Euros
+- It cannot cost over [1000](budget).-
+- It must be below GBP [700](budget)
+- I can pay at most [1000](budget) francs
+- I can pay at most $[1,500](budget)
+- The cost should be maximum [1'400](budget) Swiss francs
+- It cannot cost over Fr. [1'400](budget)
+- I have $[700](budget)
+- The cost should be maximum [1'000](budget) Euros
+- The cost should be no more than Fr. [500](budget)
+- We can pay maximum [500](budget) Dollars
+- It cannot cost more than €[600](budget)
+- Our limit is Fr. [1,000](budget)
+- It must be under [1,400](budget) francs
+- I can spend max CHF [1,400](budget)
+- Our max is $[1'400](budget)
+- The limit is [600](budget) Euros
+- The cost should be maximum CHF [1500](budget)
+- We can pay at most [1'400](budget).-
+- The cost should be no more than [1,000](budget) Pounds
+- We can pay maximum USD [1000](budget)
+- I can spend max €[1000](budget)
+- I can pay no more than [1,400](budget) francs
+- The cost should be maximum GBP [1500](budget)
+- We can pay [700](budget) Pounds
+- We have a budget of at most €[1500](budget)
+- It cannot cost over Fr. [1000](budget)
+- We have a limit of [600](budget) Swiss francs
+- It has to be below [1'000](budget) francs
+- It has to be under $[1500](budget)
+- We have CHF [900](budget)
+- The cost should be no more than [600](budget).-
+- It cannot cost more than USD [1'200](budget)
+- Our maximum is [600](budget) francs
+- The cost should be no more than USD [1200](budget)
+- It must be below £[1'500](budget)
+- The limit is [1,000](budget) Euros
+- It cannot cost more than CHF [1,000](budget)
+- I can pay at most [1,000](budget) Euros
+- The max is €[1200](budget)
 - We can pay at most Fr. [1200](budget)
-- The cost should be max $[600](budget)
-- We have a budget of GBP [1'200](budget)
-- The cost should be no more than [500](budget).-
-- We can pay maximum CHF [1400](budget)
-- I can pay [700](budget) Swiss francs
-- It cannot cost over [1,500](budget) Euros
-- The cost should be maximum CHF [1000](budget)
-- It needs to be below $[1'000](budget)
-- We can pay no more than [1,400](budget) Euros
-- We have a limit of Fr. [1200](budget)
-- I can spend no more than [1200](budget) francs
-- It must be below $[1,400](budget)
-- We have a budget of no more than Fr. [1,400](budget)
-- Our max is [800](budget) Pounds
-- I have a maximum of no more than [900](budget) francs
-- It can't cost more than CHF [1400](budget)
-- It should be below Fr. [1400](budget)
-- The cost should be max £[1400](budget)
-- It cannot cost over [1'000](budget).-
-- It can't cost more than [600](budget) Swiss francs
-- We have a budget of maximum CHF [1'400](budget)
-- I can pay [1000](budget) Swiss francs
-- I can pay max Fr. [1'000](budget)
-- The max is [600](budget) Dollars
-- I can spend no more than $[900](budget)
-- We can spend no more than Fr. [1,000](budget)
-- The cost should be at most [1,400](budget) Pounds
-- It can't cost more than $[1,000](budget)
-- It has to be under [1400](budget).-
-- I can spend USD [600](budget)
-- We have a budget of at most [1500](budget) Pounds
-- I have a max of at most [1500](budget) Pounds
-- The maximum is Fr. [1400](budget)
-- Our maximum is $[500](budget)
-- The budget is [1'200](budget) Euros
-- The max is Fr. [1200](budget)
-- We can spend [1,400](budget) Pounds
-- It cannot cost more than USD [1500](budget)
-- We have [1400](budget) Dollars
+- We have a max of maximum [1500](budget) Dollars
+- We can pay at most £[600](budget)
+- We can spend at most USD [1'500](budget)
+- I can pay at most [1,400](budget).-
+- I can pay max [500](budget) Swiss francs
+- It should be under CHF [1200](budget)
+- Our limit is [900](budget) Dollars
+- I have Fr. [1,400](budget)
+- It cannot cost over €[800](budget)
+- We can pay [1'400](budget) Dollars
+- The max is GBP [600](budget)
+- It can't cost more than [1,500](budget) Dollars
+- It can't cost more than €[1,400](budget)
+- It has to be below USD [1,000](budget)
+- I have [600](budget) Pounds
+- We have a maximum of no more than Fr. [800](budget)
+- Our maximum is €[1500](budget)
+- It cannot cost over [1,500](budget).-
+- It can't cost over CHF [600](budget)
+- We have a budget of [1200](budget) francs
+- It cannot cost over [1'400](budget) francs
+- Our maximum is GBP [1000](budget)
+- I can pay no more than [1000](budget) Pounds
+- I can spend Fr. [1000](budget)
+- It cannot cost over [1500](budget) Dollars
+- We have a max of max $[500](budget)
+- It needs to be under USD [1'200](budget)
+- It cannot cost over [1'400](budget) Pounds
+- The cost should be at most CHF [1200](budget)
+- I have a limit of [1,200](budget) francs
+- The cost should be no more than $[1,500](budget)
+- We have a maximum of max Fr. [1,200](budget)
+- We have [1,400](budget).-
+- We can spend max [1,000](budget) Dollars
+- We have a maximum of maximum Fr. [1500](budget)
+- We have a budget of at most €[1200](budget)
+- It should be under [1000](budget) Euros
+- We have CHF [500](budget)
+- I can pay maximum [1200](budget) Dollars
+- I have $[600](budget)
+- We can spend maximum GBP [1200](budget)
+- It should be below [800](budget) Euros
+- It can't cost over [1000](budget).-
+- We can pay CHF [900](budget)
+- Our max is CHF [1,000](budget)
+- The cost should be maximum [1200](budget) Euros
+- We have $[1'400](budget)
+- I can spend at most [600](budget) francs
+- It can't cost more than USD [1200](budget)
+- I can pay €[1000](budget)
+- We have [500](budget) Dollars
+- It must be below Fr. [800](budget)
+- I can spend [1,000](budget) Pounds
+- We have £[600](budget)
+- It can't cost more than CHF [1'400](budget)
+- The max is [800](budget) Pounds
+- It cannot cost over [800](budget) Dollars
+- It cannot cost over CHF [1500](budget)
+- The budget is [1,000](budget).-
+- It cannot cost over GBP [1500](budget)
+- It cannot cost more than $[1,200](budget)
+- It has to be below [1000](budget) Euros
+- The cost should be max GBP [1'400](budget)
+- I have a max of maximum £[1,000](budget)
+- It can't cost more than [1,500](budget) Euros
+- It needs to be below CHF [1500](budget)
+- We have [1,500](budget) Swiss francs
+- The cost should be at most €[1,500](budget)
+- The budget is GBP [500](budget)
+- It must be under [1'000](budget) Pounds
+- It cannot cost over $[800](budget)
+- I have CHF [600](budget)
+- I can spend at most CHF [1200](budget)
+- I have a maximum of at most [600](budget).-
+- The cost should be at most [1'400](budget) francs
+- I can pay max [1'400](budget) Dollars
+- We can pay no more than GBP [1'200](budget)
+- It must be under £[1,500](budget)
+- We have a maximum of maximum [1'000](budget) Dollars
+- It can't cost over USD [1000](budget)
+- It can't cost more than [1'200](budget) Dollars
+- It must be below $[1500](budget)
+- The cost should be at most GBP [600](budget)
+- We have [1'200](budget) Pounds
+- Our max is USD [1'200](budget)
+- We have a maximum of at most CHF [1'000](budget)
+- I can pay maximum [1500](budget) Euros
+- I can pay maximum [1200](budget).-
+- Our maximum is £[1,200](budget)
+- Our limit is [800](budget) Dollars
+- The max is GBP [1,200](budget)
+- The cost should be maximum €[600](budget)
+- We have a maximum of maximum [1400](budget) Pounds
+- The maximum is CHF [1400](budget)
+- We can pay maximum [1400](budget) Euros
+- It can't cost more than £[1200](budget)
+- It has to be under CHF [1000](budget)
+- I can pay no more than [1200](budget) Swiss francs
+- Our limit is USD [1'200](budget)
+- It cannot cost more than $[1,500](budget)
+- It can't cost over [700](budget).-
+- Our max is CHF [700](budget)
+- The max is [1'500](budget) Swiss francs
+- Our limit is GBP [1200](budget)
+- It can't cost over [500](budget) Swiss francs
+- It cannot cost more than USD [1200](budget)
+- The max is [1200](budget) Euros
+- Our budget is £[1,200](budget)
+- I can spend no more than GBP [700](budget)
+- We can spend maximum [1500](budget) Dollars
+- The cost should be at most [1'400](budget) Swiss francs
+- It cannot cost more than [1'000](budget).-
+- We can pay $[1,000](budget)
+- We can pay no more than Fr. [1'000](budget)
+- The cost should be no more than [1'500](budget) Euros
+- Our maximum is USD [1000](budget)
+- The cost should be max $[1000](budget)
+- I have a max of at most [1400](budget) Swiss francs
+- We have GBP [1400](budget)
+- It can't cost more than [700](budget) Dollars
+- It can't cost more than $[1200](budget)
+- I can pay CHF [1'500](budget)
+- We have [600](budget) Swiss francs
+- We have a limit of CHF [1'400](budget)
+- It can't cost more than [1200](budget).-
+- I have a max of USD [1500](budget)
+- I have a budget of max £[1500](budget)
+- It can't cost over [500](budget) Euros
+- We can pay maximum GBP [1000](budget)
+- It should be under $[600](budget)
+- It cannot cost over [800](budget) Euros
+- It cannot cost over Fr. [1,400](budget)
+- The cost should be no more than [1000](budget) Swiss francs
+- It should be under €[900](budget)
+- It can't cost over CHF [1,400](budget)
+- The budget is [600](budget) Dollars
+- The maximum is [1'000](budget) Swiss francs
+- I have a max of max CHF [1'400](budget)
+- The limit is [1'000](budget).-
+- We have USD [1400](budget)
+- It cannot cost more than €[800](budget)
+- The max is [1,500](budget) Pounds
+- We have a budget of max USD [1500](budget)
+- It can't cost more than €[1,500](budget)
+- We can pay maximum [1,500](budget) Euros
+- It can't cost over Fr. [1000](budget)
+- I can pay no more than [1,500](budget) Dollars
+- We can pay no more than £[1'400](budget)
+- We have CHF [1,200](budget)
+- We have a budget of no more than [1200](budget) Dollars
+- It needs to be below [1500](budget) francs
+- We have CHF [1'500](budget)
+- Our maximum is GBP [1200](budget)
+- We can pay at most $[1500](budget)
+- Our max is CHF [600](budget)
+- The cost should be at most $[700](budget)
+- The budget is [1500](budget) Pounds
+- We can spend max GBP [1000](budget)
+- I can spend no more than [1,000](budget) Pounds
+- I have £[1500](budget)
+- It can't cost more than USD [1'400](budget)
+- Our max is [1'200](budget) Swiss francs
+- I have [1,000](budget) Euros
+- I can spend €[1,500](budget)
+- It can't cost more than CHF [700](budget)
+- It can't cost over [1400](budget).-
+- It has to be under USD [1400](budget)
+- We have [1,400](budget) Pounds
+- The budget is USD [500](budget)
+- We have $[1200](budget)
+- We can spend max [1'500](budget) Dollars
+- It needs to be under [1,200](budget) Swiss francs
+- The cost should be no more than $[500](budget)
+- I can pay maximum USD [1,000](budget)
+- I can spend at most [1'400](budget) Swiss francs
+- The limit is USD [1400](budget)
+- It must be under CHF [1,200](budget)
+- We can spend no more than $[1,400](budget)
+- It can't cost over [1'000](budget).-
+- I have a budget of maximum [1'200](budget) Swiss francs
+- Our limit is [1'400](budget) Euros
+- We have a maximum of at most Fr. [1,500](budget)
+- It cannot cost more than £[1,000](budget)
+- I have [1,000](budget) Dollars
+- Our maximum is CHF [1,200](budget)
+- It needs to be below [1'500](budget) Pounds
+- The cost should be max £[1200](budget)
+- It can't cost over USD [1400](budget)
+- It must be under [1000](budget) Swiss francs
+- It can't cost more than [1400](budget) Dollars
+- The budget is Fr. [800](budget)
+- We have a maximum of no more than CHF [500](budget)
+- I have a maximum of maximum $[1400](budget)
+- The cost should be maximum [500](budget).-
+- Our limit is [1'200](budget) Euros
+- I have a max of max USD [1200](budget)
+- I have a maximum of max £[1400](budget)
+- The max is [500](budget) Euros
+- The cost should be max Fr. [800](budget)
+- The cost should be at most [1,000](budget) Dollars
+- It can't cost more than £[1,500](budget)
+- It cannot cost over GBP [1'200](budget)
+- The maximum is [1200](budget) Dollars
+- Our max is CHF [1'400](budget)
+- It must be below £[1000](budget)
+- Our budget is GBP [1200](budget)
+- We can pay at most [1,400](budget) Pounds
+- I can pay at most [1400](budget) francs
+- Our maximum is Fr. [1,000](budget)
+- I have €[1'400](budget)
+- The limit is [1000](budget) Dollars
+- It must be under CHF [1400](budget)
+- The max is [1,400](budget) Dollars
+- We have a budget of at most $[1'500](budget)
+- It cannot cost more than GBP [600](budget)
+- I can spend no more than [1500](budget) Euros
+- Our maximum is [1,000](budget) Dollars
+- It cannot cost over $[1'400](budget)
+- It should be below CHF [1500](budget)
+- We can spend maximum [1400](budget).-
+- The max is CHF [1000](budget)
+- The limit is [700](budget) Pounds
+- We can spend max USD [1500](budget)
+- Our max is €[1,200](budget)
+- Our budget is [1400](budget) Dollars
+- It should be below CHF [900](budget)
+- It cannot cost more than £[1500](budget)
+- We have GBP [1,000](budget)
+- I can spend at most [1000](budget) Pounds
+- I can spend [500](budget) Euros
+- It cannot cost more than CHF [1500](budget)
+- We have a budget of €[1000](budget)
+- I have a limit of USD [1,400](budget)
+- I have [1'000](budget) Euros
+- Our maximum is $[1'200](budget)
+- I have a budget of at most [1'400](budget) Dollars
+- We have a max of no more than USD [1000](budget)
+- I can pay [1000](budget) Dollars
+- It should be under €[1'000](budget)
+- Our limit is CHF [1200](budget)
+- The limit is [1,500](budget) Dollars
+- The cost should be max Fr. [700](budget)
+- I have a maximum of maximum [1,000](budget).-
+- I can pay maximum $[1'000](budget)
+- We can pay [600](budget) Swiss francs
+- I can spend at most CHF [1'400](budget)
+- It should be below [1400](budget) Dollars
+- We can pay GBP [500](budget)
+- Our limit is €[1,000](budget)
+- We can pay [1200](budget) francs
+- Our budget is Fr. [1200](budget)
+- It can't cost more than [1,000](budget) Euros
+- It has to be below £[1000](budget)
+- It needs to be below Fr. [800](budget)
+- It has to be below [1000](budget) Swiss francs
+- It cannot cost over €[1200](budget)
+- It cannot cost more than CHF [900](budget)
+- The cost should be max CHF [1,500](budget)
+- I can pay maximum [1400](budget).-
+- We have a budget of maximum [1,400](budget) Dollars
+- We have a budget of max [1,400](budget) Pounds
+- It can't cost more than USD [1'500](budget)
+- It has to be below $[1,000](budget)
+- The cost should be max CHF [1000](budget)
+- We can spend no more than [1,000](budget) Pounds
+- I can spend £[500](budget)
+- It must be below [1,000](budget) Dollars
+- Our max is [600](budget).-
+- The cost should be maximum €[1'000](budget)
+- I have [1400](budget) Dollars
+- Our budget is USD [900](budget)
+- We can pay no more than CHF [1400](budget)
+- It cannot cost more than [1000](budget) Swiss francs
+- We can spend at most CHF [1400](budget)
+- It must be under €[1,500](budget)
+- The cost should be at most [1000](budget) Pounds
+- The cost should be maximum USD [1,200](budget)
+- I have [1,400](budget) Dollars
+- It cannot cost over USD [500](budget)
+- We can spend [600](budget) Swiss francs
+- We can pay at most [700](budget).-
+- It can't cost more than CHF [500](budget)
+- It can't cost more than £[1'200](budget)
+- It needs to be under [1'000](budget) Pounds
+- It should be under [1'500](budget) francs
+- I can spend max GBP [900](budget)
+- Our max is £[500](budget)
+- It has to be below [500](budget) Pounds
+- It must be under USD [1400](budget)
+- We can pay max [1'400](budget) Swiss francs
+- I can pay $[1000](budget)
+- The budget is USD [1200](budget)
+- We can pay max [1,000](budget) Pounds
+- The budget is [1,200](budget).-
+- I can pay maximum CHF [1400](budget)
+- Our limit is $[1'400](budget)
+- It cannot cost over [1'000](budget) Swiss francs
+- We can spend max [700](budget) Euros
+- I have CHF [1000](budget)
+- Our maximum is €[1,500](budget)
+- The maximum is [1,000](budget) Euros
+- We have Fr. [1'000](budget)
+- Our budget is [1200](budget) francs
+- I can pay maximum €[1,000](budget)
+- I can pay USD [1'400](budget)
+- It has to be below [1400](budget) Pounds
+- The cost should be at most €[600](budget)
 
 ## intent:provide_name
-- [Mrs. Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- This is [Mark Muller](name)
-- I am [Mark Muller](name) i am an intern at [ACME](company)
-- My name is [Mark Muller](name) I'm doing an apprenticeship at [ACME](company)
-- I am [Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- This is [Mr muller](name) i am in an internship at [ABC COMPANY](company)
-- My name is [Ms. Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- My name is [Ms. Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
-- My name is [Mark Muller](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- I am [Mark](name) i am an intern at [ABC COMPANY](company)
-- My name is [Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- [Ms. Jennifer Hutchinson](name)
-- My name is [Jennifer](name) from [ACME](company)
-- My name is [Ms. Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- This is [Miss Hutchinson](name) i am in an internship at [ABC COMPANY](company)
-- I am [Mr muller](name) I am doing an internship at [ABC COMPANY](company)
-- [Jennifer](name) I work as a clerk at [ABC COMPANY](company)
-- I am [Jennifer Hutchinson](name) from [ACME](company)
-- I am [Jennifer](name) I work as a clerk at [ABC COMPANY](company)
-- This is [Mr. Mark Muller](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- This is [Mark](name) I work as an administrative assistant at [ABC COMPANY](company)
-- My name is [Mrs hutchinson](name) I'm an apprentice at [ACME](company)
-- This is [Mark Muller](name) from [ACME](company)
-- Yes, This is [Mrs hutchinson](name)
-- [Mrs hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- [Ms. Hutchinson](name) i am in an internship at [ACME](company)
-- I am [Ms. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
-- This is [Mark](name) I work as an administrative assistant at [ACME](company)
-- This is [Mark Muller](name) i work for [ABC COMPANY](company)
-- I am [Mark](name) I am doing an internship at [ACME](company)
-- This is [Mr. Mark Muller](name) I work as a commercial assistant at [ABC COMPANY](company)
-- [Mrs hutchinson](name) I'm an apprentice at [ACME](company)
-- This is [Ms. Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
-- I am [Mr. Mark Muller](name) i am in an internship at [ABC COMPANY](company)
-- This is [Mark](name)
-- I am [Ms. Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- My name is [Mark Muller](name) I work as a commercial assistant at [ACME](company)
-- I am [Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
-- [Ms. Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- [Mrs. Jennifer Hutchinson](name) i work for [ACME](company)
-- [Mark](name) i am in an internship at [ACME](company)
-- I am [Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
-- [Mark Muller](name) I work as an administrative assistant at [ACME](company)
-- My name is [Mr. Mark Muller](name) I work as an administrative assistant at [ACME](company)
-- Yes, I am [Ms. Hutchinson](name)
-- [Mrs. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- I am [Miss Hutchinson](name) I work as a commercial assistant at [ACME](company)
-- My name is [Mrs hutchinson](name) I am doing an internship at [ACME](company)
-- This is [Mrs. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
-- [Mr muller](name) I work as a commercial assistant at [ABC COMPANY](company)
-- This is [Mrs hutchinson](name) i work for [ACME](company)
-- This is [Ms. Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- My name is [Mrs hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- [Mrs hutchinson](name) i work for [ACME](company)
-- Yes, This is [Miss Hutchinson](name)
-- This is [Mark](name) I'm an apprentice at [ABC COMPANY](company)
-- I am [Ms. Hutchinson](name) I am doing an internship at [ACME](company)
-- This is [Ms. Hutchinson](name) i am an intern at [ACME](company)
-- My name is [Mark](name) I'm an apprentice at [ACME](company)
-- This is [Mr muller](name) I'm doing an apprenticeship at [ACME](company)
-- This is [Jennifer](name) I am doing an internship at [ACME](company)
-- My name is [Mark Muller](name) I work as a clerk at [ACME](company)
-- [Mark](name) I work as a clerk at [ACME](company)
-- [Ms. Hutchinson](name) from [ABC COMPANY](company)
-- I am [Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- [Ms. Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- Yes, This is [Jennifer](name)
-- [Ms. Hutchinson](name) I am doing an internship at [ACME](company)
-- My name is [Mr. Mark Muller](name) I am doing an internship at [ABC COMPANY](company)
-- This is [Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- My name is [Ms. Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- My name is [Miss Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- I am [Mr. Mark Muller](name) I work as a commercial assistant at [ABC COMPANY](company)
-- I am [Mr muller](name) I'm doing an apprenticeship at [ACME](company)
-- My name is [Mark Muller](name) I am doing an internship at [ACME](company)
-- I am [Miss Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- [Ms. Jennifer Hutchinson](name) i am an intern at [ACME](company)
-- Yes, [Ms. Jennifer Hutchinson](name)
-- This is [Jennifer](name) i am in an internship at [ABC COMPANY](company)
-- This is [Mark Muller](name) I work as a commercial assistant at [ABC COMPANY](company)
-- My name is [Mr muller](name) I work as an administrative assistant at [ACME](company)
-- I am [Mrs. Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
-- [Mark Muller](name) I work as a clerk at [ACME](company)
-- [Mrs. Jennifer Hutchinson](name) i am an intern at [ACME](company)
-- My name is [Ms. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
-- This is [Mrs hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- [Mrs. Jennifer Hutchinson](name) i work for [ABC COMPANY](company)
-- Yes, My name is [Mrs hutchinson](name)
-- [Mrs. Jennifer Hutchinson](name) i am in an internship at [ABC COMPANY](company)
-- I am [Mark](name) from [ACME](company)
-- This is [Ms. Hutchinson](name) i work for [ACME](company)
-- [Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
-- My name is [Mrs hutchinson](name) i am in an internship at [ACME](company)
-- I am [Mr. Mark Muller](name) I work as a clerk at [ABC COMPANY](company)
-- I am [Miss Hutchinson](name) i am in an internship at [ABC COMPANY](company)
-- This is [Jennifer](name) from [ABC COMPANY](company)
-- [Mr. Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
-- I am [Ms. Jennifer Hutchinson](name) i work for [ABC COMPANY](company)
-- [Ms. Jennifer Hutchinson](name) from [ACME](company)
-- My name is [Mrs hutchinson](name) i am an intern at [ABC COMPANY](company)
-- [Mr. Mark Muller](name) i am in an internship at [ABC COMPANY](company)
-- [Mark Muller](name) i work for [ABC COMPANY](company)
-- This is [Mrs. Jennifer Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
-- I am [Mrs hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
-- My name is [Jennifer](name) i work for [ACME](company)
-- [Mrs hutchinson](name) i am an intern at [ABC COMPANY](company)
-- I am [Jennifer Hutchinson](name) from [ABC COMPANY](company)
-- [Jennifer Hutchinson](name)
-- This is [Mr muller](name) I work as a commercial assistant at [ACME](company)
-- [Jennifer](name) i am an intern at [ABC COMPANY](company)
-- This is [Mr. Mark Muller](name) I work as a commercial assistant at [ACME](company)
-- I am [Jennifer](name) i work for [ACME](company)
-- My name is [Mrs hutchinson](name) from [ABC COMPANY](company)
-- I am [Jennifer](name) I'm doing an apprenticeship at [ACME](company)
-- My name is [Mrs hutchinson](name) I am doing an internship at [ABC COMPANY](company)
-- I am [Jennifer](name) I work as an administrative assistant at [ACME](company)
-- I am [Mrs. Jennifer Hutchinson](name) from [ACME](company)
-- [Mark](name) i work for [ACME](company)
-- My name is [Mrs hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- [Miss Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- [Mr muller](name) i am in an internship at [ACME](company)
-- My name is [Mrs. Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
-- My name is [Mr muller](name) I'm an apprentice at [ABC COMPANY](company)
-- This is [Jennifer](name) I am doing an internship at [ABC COMPANY](company)
-- This is [Ms. Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- This is [Jennifer Hutchinson](name) from [ABC COMPANY](company)
-- Yes, [Mrs. Jennifer Hutchinson](name)
-- I am [Mrs. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- [Jennifer](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- [Mr muller](name) i work for [ACME](company)
-- I am [Mrs. Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
-- [Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
-- My name is [Miss Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
-- I am [Miss Hutchinson](name) i am in an internship at [ACME](company)
-- This is [Ms. Hutchinson](name) from [ACME](company)
-- This is [Miss Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- Yes, This is [Mark](name)
-- My name is [Mr. Mark Muller](name) I am doing an internship at [ACME](company)
-- I am [Ms. Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- This is [Mr. Mark Muller](name) I'm doing an apprenticeship at [ACME](company)
-- [Miss Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- My name is [Mark](name) I work as an administrative assistant at [ABC COMPANY](company)
-- My name is [Mrs. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
-- This is [Mr. Mark Muller](name) I work as a clerk at [ABC COMPANY](company)
-- My name is [Ms. Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
-- [Jennifer](name) I work as an administrative assistant at [ACME](company)
-- [Mark Muller](name)
-- I am [Mrs. Jennifer Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- This is [Mrs hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- This is [Mrs. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- My name is [Jennifer Hutchinson](name) i am in an internship at [ACME](company)
-- My name is [Mr muller](name) I work as an administrative assistant at [ABC COMPANY](company)
-- I am [Mark Muller](name) i am in an internship at [ACME](company)
-- My name is [Miss Hutchinson](name) I work as a commercial assistant at [ACME](company)
-- My name is [Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
-- I am [Ms. Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- I am [Mark Muller](name) I work as a clerk at [ACME](company)
-- Yes, My name is [Mrs. Jennifer Hutchinson](name)
-- My name is [Mr muller](name) I'm an apprentice at [ACME](company)
-- This is [Mrs. Jennifer Hutchinson](name) from [ACME](company)
-- This is [Mrs. Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- This is [Mrs hutchinson](name) I am doing an internship at [ACME](company)
-- I am [Mr muller](name) i am in an internship at [ACME](company)
-- I am [Mark Muller](name) i work for [ABC COMPANY](company)
-- My name is [Mark](name) from [ACME](company)
-- [Miss Hutchinson](name) I work as a clerk at [ACME](company)
-- Yes, I am [Ms. Jennifer Hutchinson](name)
-- I am [Mr muller](name) I'm an apprentice at [ABC COMPANY](company)
-- [Mark Muller](name) i am an intern at [ACME](company)
-- This is [Mark Muller](name) I am doing an internship at [ACME](company)
-- This is [Mr muller](name) I work as a clerk at [ACME](company)
-- [Ms. Hutchinson](name) I'm an apprentice at [ACME](company)
-- I am [Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
-- This is [Mr muller](name) I'm an apprentice at [ABC COMPANY](company)
-- [Mr muller](name) from [ACME](company)
-- My name is [Ms. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- This is [Mark](name) I am doing an internship at [ABC COMPANY](company)
-- My name is [Jennifer Hutchinson](name)
-- I am [Mrs hutchinson](name) I'm an apprentice at [ACME](company)
-- My name is [Mrs hutchinson](name) i work for [ABC COMPANY](company)
-- I am [Ms. Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
-- I am [Ms. Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
-- I am [Mark Muller](name) I work as a commercial assistant at [ACME](company)
-- This is [Ms. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
-- This is [Miss Hutchinson](name) I work as a commercial assistant at [ACME](company)
-- Yes, My name is [Mark](name)
-- This is [Mrs. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- I am [Mr muller](name) I work as an administrative assistant at [ABC COMPANY](company)
-- This is [Mrs. Jennifer Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
-- This is [Miss Hutchinson](name) I am doing an internship at [ACME](company)
-- [Ms. Hutchinson](name) i work for [ABC COMPANY](company)
-- My name is [Mr. Mark Muller](name) I'm doing an apprenticeship at [ACME](company)
-- This is [Mrs hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
-- This is [Mark](name) I'm doing an apprenticeship at [ACME](company)
-- My name is [Jennifer](name) I am doing an internship at [ACME](company)
-- Yes, I am [Mrs hutchinson](name)
-- My name is [Ms. Hutchinson](name) i am an intern at [ACME](company)
-- This is [Mrs. Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
-- My name is [Ms. Jennifer Hutchinson](name) i am in an internship at [ABC COMPANY](company)
-- This is [Mrs. Jennifer Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- I am [Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- I am [Mrs. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
-- [Mr. Mark Muller](name) from [ACME](company)
-- My name is [Jennifer](name) I work as a clerk at [ACME](company)
-- My name is [Mr. Mark Muller](name)
-- This is [Ms. Hutchinson](name) i am an intern at [ABC COMPANY](company)
-- This is [Jennifer](name) I work as a commercial assistant at [ACME](company)
-- This is [Jennifer](name) I work as a commercial assistant at [ABC COMPANY](company)
-- [Ms. Jennifer Hutchinson](name) i am in an internship at [ACME](company)
-- [Mr muller](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- I am [Miss Hutchinson](name) from [ABC COMPANY](company)
-- I am [Mark](name) I am doing an internship at [ABC COMPANY](company)
-- My name is [Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- Yes, I am [Mr muller](name)
-- This is [Miss Hutchinson](name) i work for [ABC COMPANY](company)
-- I am [Mr muller](name) i am in an internship at [ABC COMPANY](company)
-- I am [Mrs hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- I am [Mrs hutchinson](name) from [ACME](company)
-- I am [Ms. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- This is [Mr. Mark Muller](name) I am doing an internship at [ACME](company)
-- I am [Mark](name) I'm an apprentice at [ABC COMPANY](company)
-- [Mark](name) i work for [ABC COMPANY](company)
-- I am [Mark Muller](name) I am doing an internship at [ACME](company)
-- Yes, This is [Ms. Hutchinson](name)
-- This is [Mr. Mark Muller](name) i am an intern at [ABC COMPANY](company)
-- I am [Ms. Hutchinson](name) I work as a commercial assistant at [ACME](company)
-- My name is [Jennifer](name) I work as an administrative assistant at [ACME](company)
-- [Mark Muller](name) I am doing an internship at [ABC COMPANY](company)
-- This is [Mr. Mark Muller](name) i work for [ABC COMPANY](company)
-- I am [Miss Hutchinson](name) from [ACME](company)
-- [Mr muller](name)
-- My name is [Mark Muller](name) from [ACME](company)
-- [Ms. Hutchinson](name) I work as a clerk at [ACME](company)
-- This is [Ms. Jennifer Hutchinson](name) i am in an internship at [ACME](company)
-- My name is [Ms. Hutchinson](name) I work as a clerk at [ACME](company)
-- I am [Mrs hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- [Mr. Mark Muller](name) i am in an internship at [ACME](company)
-- [Mark Muller](name) I work as a commercial assistant at [ACME](company)
-- This is [Ms. Hutchinson](name) i work for [ABC COMPANY](company)
-- Yes, This is [Mark Muller](name)
-- [Ms. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
-- My name is [Ms. Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- [Mark Muller](name) from [ACME](company)
-- This is [Mr. Mark Muller](name) I am doing an internship at [ABC COMPANY](company)
-- My name is [Mark Muller](name) I work as an administrative assistant at [ACME](company)
-- I am [Mr muller](name)
-- My name is [Mrs hutchinson](name) I work as a clerk at [ACME](company)
-- I am [Miss Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
-- I am [Ms. Jennifer Hutchinson](name) i am in an internship at [ACME](company)
-- I am [Ms. Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
-- I am [Mr muller](name) i am an intern at [ACME](company)
-- [Ms. Hutchinson](name) I work as a commercial assistant at [ACME](company)
-- I am [Jennifer](name) I work as a commercial assistant at [ACME](company)
-- Yes, My name is [Ms. Hutchinson](name)
-- I am [Jennifer](name) I am doing an internship at [ACME](company)
-- This is [Miss Hutchinson](name) I'm an apprentice at [ACME](company)
-- My name is [Jennifer Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- This is [Mr muller](name) i am an intern at [ACME](company)
-- I am [Miss Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
-- [Jennifer](name) I'm an apprentice at [ACME](company)
-- This is [Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
-- My name is [Ms. Jennifer Hutchinson](name) from [ACME](company)
-- Yes, I am [Miss Hutchinson](name)
-- I am [Ms. Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- I am [Mr muller](name) i work for [ABC COMPANY](company)
-- This is [Mr muller](name) I am doing an internship at [ABC COMPANY](company)
-- This is [Jennifer](name) I work as an administrative assistant at [ABC COMPANY](company)
-- This is [Mrs hutchinson](name) from [ABC COMPANY](company)
-- This is [Ms. Hutchinson](name) i am in an internship at [ABC COMPANY](company)
-- This is [Mark](name) from [ACME](company)
-- [Miss Hutchinson](name) i am an intern at [ABC COMPANY](company)
-- I am [Mr muller](name) from [ACME](company)
-- My name is [Ms. Hutchinson](name) i work for [ABC COMPANY](company)
-- Yes, My name is [Mark Muller](name)
-- This is [Mark](name) I work as a clerk at [ACME](company)
-- [Mrs hutchinson](name) from [ABC COMPANY](company)
-- [Ms. Hutchinson](name) i am an intern at [ACME](company)
-- I am [Mark](name) from [ABC COMPANY](company)
-- Yes, I am [Mark](name)
-- This is [Mrs hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- My name is [Mrs hutchinson](name) i am an intern at [ACME](company)
-- [Mr muller](name) I work as an administrative assistant at [ABC COMPANY](company)
-- My name is [Mark Muller](name) i am in an internship at [ABC COMPANY](company)
-- This is [Jennifer Hutchinson](name) i work for [ABC COMPANY](company)
-- My name is [Mark](name) I'm doing an apprenticeship at [ACME](company)
-- My name is [Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- This is [Mrs. Jennifer Hutchinson](name)
-- This is [Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
-- This is [Mrs. Jennifer Hutchinson](name) from [ABC COMPANY](company)
-- [Mr muller](name) I work as a commercial assistant at [ACME](company)
-- [Mrs hutchinson](name) I work as an administrative assistant at [ACME](company)
-- I am [Mrs. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- My name is [Mark Muller](name) I am doing an internship at [ABC COMPANY](company)
-- [Mark](name) I'm an apprentice at [ACME](company)
-- I am [Jennifer](name) i am an intern at [ACME](company)
-- My name is [Ms. Jennifer Hutchinson](name) i work for [ABC COMPANY](company)
-- [Mark Muller](name) i am in an internship at [ABC COMPANY](company)
-- This is [Ms. Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- [Mrs. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- My name is [Jennifer](name) I'm an apprentice at [ACME](company)
-- [Mark](name) I work as a clerk at [ABC COMPANY](company)
-- This is [Mrs hutchinson](name) i am an intern at [ACME](company)
-- [Jennifer](name) I work as an administrative assistant at [ABC COMPANY](company)
-- [Mr muller](name) from [ABC COMPANY](company)
-- I am [Mr muller](name) i work for [ACME](company)
-- My name is [Mrs. Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
-- My name is [Miss Hutchinson](name) from [ABC COMPANY](company)
-- [Miss Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
-- [Jennifer](name) from [ACME](company)
-- [Mark Muller](name) i am an intern at [ABC COMPANY](company)
-- This is [Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
-- [Mrs hutchinson](name) from [ACME](company)
-- [Jennifer Hutchinson](name) i am an intern at [ACME](company)
-- This is [Mark Muller](name) I'm doing an apprenticeship at [ACME](company)
-- I am [Mr. Mark Muller](name) i am in an internship at [ACME](company)
-- This is [Mark Muller](name) I'm an apprentice at [ABC COMPANY](company)
-- [Mr. Mark Muller](name) i am an intern at [ABC COMPANY](company)
-- My name is [Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
-- This is [Mark](name) I'm an apprentice at [ACME](company)
-- [Ms. Hutchinson](name) i am in an internship at [ABC COMPANY](company)
-- I am [Ms. Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
-- This is [Mr. Mark Muller](name) i work for [ACME](company)
-- I am [Miss Hutchinson](name) I am doing an internship at [ACME](company)
-- This is [Mark Muller](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- [Mr muller](name) I work as an administrative assistant at [ACME](company)
-- This is [Ms. Hutchinson](name) I am doing an internship at [ACME](company)
-- This is [Ms. Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
-- My name is [Mark](name) i am an intern at [ACME](company)
-- My name is [Mark](name) I am doing an internship at [ACME](company)
-- [Mr muller](name) i am an intern at [ACME](company)
-- This is [Mr. Mark Muller](name) i am an intern at [ACME](company)
-- I am [Mrs hutchinson](name)
-- [Ms. Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- My name is [Mark Muller](name) from [ABC COMPANY](company)
-- [Mr muller](name) i am in an internship at [ABC COMPANY](company)
-- My name is [Mark](name) i am in an internship at [ACME](company)
-- I am [Ms. Jennifer Hutchinson](name) i am an intern at [ACME](company)
-- I am [Mark](name) i work for [ABC COMPANY](company)
-- I am [Miss Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- My name is [Mr muller](name) I work as a commercial assistant at [ACME](company)
-- Yes, [Mrs hutchinson](name)
-- [Mr muller](name) I am doing an internship at [ABC COMPANY](company)
-- [Mark Muller](name) I'm doing an apprenticeship at [ACME](company)
-- [Mark Muller](name) I'm an apprentice at [ACME](company)
-- [Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
-- My name is [Mrs. Jennifer Hutchinson](name) i work for [ABC COMPANY](company)
-- I am [Jennifer Hutchinson](name)
-- This is [Miss Hutchinson](name) from [ACME](company)
-- This is [Miss Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- [Mr. Mark Muller](name) I work as a commercial assistant at [ACME](company)
-- My name is [Mr. Mark Muller](name) I'm an apprentice at [ABC COMPANY](company)
-- I am [Mark Muller](name) I'm doing an apprenticeship at [ACME](company)
-- This is [Jennifer](name) i work for [ACME](company)
-- I am [Mr. Mark Muller](name) from [ABC COMPANY](company)
-- I am [Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
-- Yes, [Mark](name)
-- [Jennifer](name) I work as a commercial assistant at [ACME](company)
-- My name is [Mr muller](name) i am in an internship at [ACME](company)
-- [Mark Muller](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- This is [Mrs. Jennifer Hutchinson](name) i work for [ACME](company)
-- My name is [Jennifer](name)
-- My name is [Mr. Mark Muller](name) I work as a clerk at [ACME](company)
-- My name is [Jennifer](name) I work as a commercial assistant at [ABC COMPANY](company)
-- This is [Ms. Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- [Ms. Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- My name is [Mrs hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- I am [Mrs. Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- This is [Mrs hutchinson](name) I work as a commercial assistant at [ACME](company)
-- I am [Jennifer](name) I work as an administrative assistant at [ABC COMPANY](company)
-- This is [Mrs. Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- I am [Ms. Jennifer Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
-- This is [Mr. Mark Muller](name)
-- My name is [Miss Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- This is [Ms. Jennifer Hutchinson](name) from [ACME](company)
-- My name is [Mark](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- [Mark](name) I work as a commercial assistant at [ACME](company)
-- I am [Ms. Hutchinson](name) from [ACME](company)
-- My name is [Jennifer](name) i am an intern at [ACME](company)
-- I am [Mark](name) i am an intern at [ACME](company)
-- I am [Mark Muller](name)
-- I am [Ms. Hutchinson](name) i am an intern at [ACME](company)
-- I am [Ms. Jennifer Hutchinson](name) i work for [ACME](company)
-- I am [Mrs. Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- This is [Mrs. Jennifer Hutchinson](name) i am an intern at [ACME](company)
-- I am [Ms. Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
-- [Mrs. Jennifer Hutchinson](name) from [ABC COMPANY](company)
-- My name is [Mark Muller](name) i work for [ABC COMPANY](company)
-- [Miss Hutchinson](name) from [ABC COMPANY](company)
-- My name is [Miss Hutchinson](name) i am an intern at [ABC COMPANY](company)
-- This is [Mr. Mark Muller](name) i am in an internship at [ACME](company)
-- This is [Jennifer Hutchinson](name)
-- [Mrs hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- I am [Miss Hutchinson](name) i work for [ACME](company)
-- [Mrs hutchinson](name) i am an intern at [ACME](company)
-- [Ms. Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
-- My name is [Jennifer Hutchinson](name) i am in an internship at [ABC COMPANY](company)
-- My name is [Mr. Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
-- Yes, I am [Jennifer](name)
-- [Mark](name) I am doing an internship at [ABC COMPANY](company)
-- This is [Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- [Mr. Mark Muller](name) I'm doing an apprenticeship at [ACME](company)
-- [Ms. Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
-- [Mrs hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
-- [Mr muller](name) I'm an apprentice at [ABC COMPANY](company)
-- [Miss Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- [Ms. Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- My name is [Mark](name) I work as a clerk at [ABC COMPANY](company)
-- [Mr. Mark Muller](name) I work as a clerk at [ACME](company)
-- My name is [Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
-- I am [Mrs hutchinson](name) I work as a clerk at [ACME](company)
-- I am [Jennifer](name) from [ABC COMPANY](company)
-- This is [Mark](name) I work as a commercial assistant at [ABC COMPANY](company)
-- [Mrs. Jennifer Hutchinson](name) i am in an internship at [ACME](company)
-- My name is [Mrs. Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
-- [Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
-- [Mr. Mark Muller](name) from [ABC COMPANY](company)
-- My name is [Mr. Mark Muller](name) I'm an apprentice at [ACME](company)
-- [Mr muller](name) I'm doing an apprenticeship at [ACME](company)
-- My name is [Ms. Hutchinson](name) i work for [ACME](company)
-- This is [Jennifer](name) I'm an apprentice at [ACME](company)
-- [Ms. Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
-- This is [Jennifer Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
-- I am [Mr. Mark Muller](name)
-- I am [Ms. Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- [Miss Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
-- I am [Mr. Mark Muller](name) I am doing an internship at [ACME](company)
-- I am [Jennifer](name) I am doing an internship at [ABC COMPANY](company)
-- This is [Mr muller](name) I work as a clerk at [ABC COMPANY](company)
-- [Jennifer Hutchinson](name) i work for [ACME](company)
-- My name is [Ms. Hutchinson](name) i am in an internship at [ABC COMPANY](company)
-- [Mrs. Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
+- My name is [Ms. Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- Yes, I am [Mr. Mark Muller](name)
 - I am [Mark](name) I work as a clerk at [ACME](company)
-- My name is [Ms. Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
-- My name is [Mr muller](name) I'm doing an apprenticeship at [ACME](company)
-- This is [Jennifer](name) I'm an apprentice at [ABC COMPANY](company)
-- Yes, [Mr. Mark Muller](name)
-- This is [Mrs hutchinson](name) I work as an administrative assistant at [ACME](company)
-- I am [Mark Muller](name) i am an intern at [ABC COMPANY](company)
-- [Jennifer](name) I'm doing an apprenticeship at [ACME](company)
-- This is [Mark](name) I am doing an internship at [ACME](company)
-- This is [Jennifer Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- This is [Mrs hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- My name is [Mr muller](name) i work for [ACME](company)
-- My name is [Miss Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- I am [Jennifer](name)
-- [Jennifer](name) from [ABC COMPANY](company)
-- This is [Jennifer](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- This is [Ms. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- My name is [Miss Hutchinson](name) i am in an internship at [ACME](company)
-- This is [Ms. Jennifer Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
-- This is [Mark Muller](name) from [ABC COMPANY](company)
-- I am [Mark](name) I work as a commercial assistant at [ACME](company)
-- I am [Ms. Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
-- [Jennifer Hutchinson](name) i am in an internship at [ABC COMPANY](company)
-- This is [Mark Muller](name) I work as a clerk at [ABC COMPANY](company)
-- [Ms. Jennifer Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
-- [Mrs. Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
-- This is [Mark Muller](name) i am an intern at [ABC COMPANY](company)
-- I am [Ms. Hutchinson](name)
-- [Jennifer](name) i work for [ABC COMPANY](company)
-- My name is [Miss Hutchinson](name) I'm an apprentice at [ACME](company)
-- I am [Mrs. Jennifer Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
-- I am [Miss Hutchinson](name) I work as a clerk at [ACME](company)
-- I am [Mrs hutchinson](name) i am an intern at [ACME](company)
-- This is [Mrs. Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
-- My name is [Mr muller](name) I work as a clerk at [ACME](company)
-- This is [Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
-- I am [Mr. Mark Muller](name) i work for [ACME](company)
-- I am [Mrs. Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
-- [Mr. Mark Muller](name) i work for [ABC COMPANY](company)
-- This is [Mr muller](name) I work as an administrative assistant at [ABC COMPANY](company)
-- [Ms. Hutchinson](name)
-- My name is [Miss Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
-- My name is [Mark](name) I work as a commercial assistant at [ACME](company)
-- This is [Ms. Jennifer Hutchinson](name) i work for [ABC COMPANY](company)
-- I am [Jennifer Hutchinson](name) i work for [ACME](company)
-- [Mark](name) i am an intern at [ACME](company)
-- Yes, I am [Mrs. Jennifer Hutchinson](name)
-- [Ms. Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
-- My name is [Mr. Mark Muller](name) from [ACME](company)
-- [Jennifer](name) I am doing an internship at [ACME](company)
-- [Ms. Jennifer Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
-- This is [Mark](name) I'm doing an apprenticeship at [ABC COMPANY](company)
-- This is [Mrs hutchinson](name) I work as a clerk at [ACME](company)
-- My name is [Jennifer](name) I work as a commercial assistant at [ACME](company)
-- This is [Mrs hutchinson](name)
-- My name is [Jennifer](name) i am an intern at [ABC COMPANY](company)
-- This is [Mr muller](name) I am doing an internship at [ACME](company)
-- This is [Mr. Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
-- I am [Jennifer](name) i am in an internship at [ABC COMPANY](company)
-- This is [Mark Muller](name) i am in an internship at [ABC COMPANY](company)
-- This is [Miss Hutchinson](name) I work as an administrative assistant at [ACME](company)
-- I am [Mr muller](name) I work as a clerk at [ACME](company)
-- I am [Mrs. Jennifer Hutchinson](name) i work for [ACME](company)
-- My name is [Mark Muller](name) i am in an internship at [ACME](company)
+- My name is [Mr. Mark Muller](name) i am in an internship at [ABC COMPANY](company)
+- My name is [Mrs. Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- This is [Mrs. Jennifer Hutchinson](name) from [ACME](company)
+- I am [Mrs hutchinson](name) I work as a commercial assistant at [ACME](company)
 - My name is [Miss Hutchinson](name) i work for [ABC COMPANY](company)
-- Yes, [Jennifer Hutchinson](name)
-- My name is [Ms. Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- This is [Mr. Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
+- My name is [Ms. Jennifer Hutchinson](name) i work for [ACME](company)
+- My name is [Ms. Jennifer Hutchinson](name) i am an intern at [ACME](company)
+- My name is [Mr. Mark Muller](name) I work as a commercial assistant at [ABC COMPANY](company)
+- [Mark](name)
+- I am [Mrs. Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- My name is [Jennifer](name) from [ABC COMPANY](company)
+- [Mrs. Jennifer Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
+- My name is [Mrs. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- [Mr. Mark Muller](name) I'm an apprentice at [ACME](company)
+- I am [Jennifer](name) I'm doing an apprenticeship at [ACME](company)
+- I am [Mr. Mark Muller](name) I work as a clerk at [ACME](company)
+- I am [Ms. Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- [Mr muller](name) I'm doing an apprenticeship at [ACME](company)
+- [Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- Yes, This is [Jennifer](name)
+- [Mrs hutchinson](name) i am an intern at [ACME](company)
+- My name is [Mrs hutchinson](name) I'm an apprentice at [ACME](company)
+- This is [Mr. Mark Muller](name) I work as a clerk at [ABC COMPANY](company)
+- [Mark Muller](name) I'm an apprentice at [ABC COMPANY](company)
+- I am [Mrs hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- [Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- This is [Mrs. Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- This is [Mark Muller](name) i am in an internship at [ACME](company)
+- Yes, My name is [Jennifer](name)
+- [Ms. Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- My name is [Jennifer](name) I am doing an internship at [ACME](company)
+- My name is [Mark Muller](name) I am doing an internship at [ACME](company)
+- I am [Mr. Mark Muller](name) I am doing an internship at [ABC COMPANY](company)
+- [Mr. Mark Muller](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- My name is [Ms. Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- I am [Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- This is [Mr muller](name) I am doing an internship at [ACME](company)
+- My name is [Ms. Hutchinson](name) i am an intern at [ACME](company)
+- My name is [Mrs. Jennifer Hutchinson](name)
+- My name is [Mr. Mark Muller](name) from [ACME](company)
+- This is [Mr. Mark Muller](name) I work as a clerk at [ACME](company)
+- [Miss Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- [Mark Muller](name) I'm doing an apprenticeship at [ACME](company)
+- This is [Mr. Mark Muller](name) I am doing an internship at [ACME](company)
+- This is [Mrs. Jennifer Hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- My name is [Jennifer](name) from [ACME](company)
+- I am [Mrs hutchinson](name) i work for [ABC COMPANY](company)
+- My name is [Ms. Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
+- [Ms. Hutchinson](name) I am doing an internship at [ACME](company)
+- This is [Ms. Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- This is [Mark Muller](name) I work as a commercial assistant at [ABC COMPANY](company)
+- My name is [Mrs hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- This is [Miss Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- This is [Ms. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- This is [Mrs hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- This is [Ms. Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- This is [Mrs hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- I am [Miss Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- My name is [Mark](name) i am an intern at [ABC COMPANY](company)
+- I am [Ms. Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
+- Yes, My name is [Ms. Jennifer Hutchinson](name)
+- [Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
+- I am [Ms. Hutchinson](name) i work for [ACME](company)
+- I am [Jennifer Hutchinson](name) i am in an internship at [ACME](company)
+- My name is [Mark Muller](name) from [ACME](company)
+- [Mrs. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
+- This is [Mr. Mark Muller](name) from [ACME](company)
+- [Mr muller](name) I'm an apprentice at [ABC COMPANY](company)
+- This is [Mrs. Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
+- My name is [Mark](name) I am doing an internship at [ACME](company)
+- Yes, I am [Mark](name)
+- [Mark Muller](name) i am an intern at [ABC COMPANY](company)
+- This is [Ms. Jennifer Hutchinson](name) from [ABC COMPANY](company)
+- [Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
+- I am [Jennifer](name) I work as a commercial assistant at [ACME](company)
+- I am [Miss Hutchinson](name) I work as a clerk at [ACME](company)
+- I am [Mr muller](name) I work as a clerk at [ACME](company)
+- My name is [Jennifer](name) I work as an administrative assistant at [ACME](company)
+- [Mark Muller](name) I work as an administrative assistant at [ACME](company)
+- [Mr muller](name)
+- This is [Jennifer Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- My name is [Miss Hutchinson](name) from [ABC COMPANY](company)
+- [Mark Muller](name) from [ABC COMPANY](company)
+- My name is [Mr muller](name) I'm an apprentice at [ABC COMPANY](company)
+- I am [Mark](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- My name is [Miss Hutchinson](name) I work as a clerk at [ACME](company)
+- I am [Mark Muller](name)
+- I am [Mrs. Jennifer Hutchinson](name) i work for [ABC COMPANY](company)
+- My name is [Miss Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- [Mrs hutchinson](name) I work as a clerk at [ACME](company)
+- I am [Mr muller](name) from [ACME](company)
+- I am [Miss Hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- This is [Miss Hutchinson](name) from [ABC COMPANY](company)
+- My name is [Mark](name) I work as a clerk at [ABC COMPANY](company)
+- My name is [Jennifer](name) i am in an internship at [ABC COMPANY](company)
+- [Miss Hutchinson](name) I work as a clerk at [ACME](company)
+- Yes, [Mark Muller](name)
+- This is [Ms. Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- I am [Ms. Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- This is [Mark](name) i work for [ACME](company)
+- [Jennifer](name) i work for [ABC COMPANY](company)
+- My name is [Mrs. Jennifer Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
+- [Mrs hutchinson](name) i work for [ACME](company)
+- [Ms. Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
+- [Jennifer Hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- [Mrs. Jennifer Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- I am [Jennifer Hutchinson](name)
+- I am [Mr. Mark Muller](name) i work for [ACME](company)
+- [Mrs. Jennifer Hutchinson](name) i am in an internship at [ACME](company)
+- This is [Mark Muller](name) i am an intern at [ACME](company)
+- My name is [Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- [Mark](name) I am doing an internship at [ACME](company)
+- This is [Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- This is [Miss Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- My name is [Miss Hutchinson](name) I'm an apprentice at [ACME](company)
+- My name is [Ms. Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- [Miss Hutchinson](name)
+- This is [Ms. Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- I am [Jennifer](name) i am an intern at [ABC COMPANY](company)
+- [Mrs. Jennifer Hutchinson](name) i work for [ACME](company)
+- My name is [Mrs hutchinson](name) i am in an internship at [ACME](company)
+- My name is [Mrs. Jennifer Hutchinson](name) i am an intern at [ACME](company)
+- This is [Mr. Mark Muller](name) i work for [ABC COMPANY](company)
+- [Miss Hutchinson](name) i am an intern at [ACME](company)
+- [Mr. Mark Muller](name) I work as a commercial assistant at [ABC COMPANY](company)
+- I am [Miss Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- I am [Ms. Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- This is [Ms. Jennifer Hutchinson](name)
+- This is [Mrs. Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- My name is [Mark](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- I am [Mr muller](name) i am in an internship at [ABC COMPANY](company)
+- My name is [Jennifer](name) I work as a clerk at [ABC COMPANY](company)
+- This is [Mrs hutchinson](name) I work as a commercial assistant at [ACME](company)
+- [Ms. Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- This is [Miss Hutchinson](name) from [ACME](company)
+- Yes, This is [Ms. Jennifer Hutchinson](name)
+- My name is [Ms. Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- [Jennifer](name) I am doing an internship at [ABC COMPANY](company)
+- I am [Jennifer](name) I work as a commercial assistant at [ABC COMPANY](company)
+- [Ms. Hutchinson](name) I work as a clerk at [ACME](company)
+- [Ms. Jennifer Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
+- This is [Ms. Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
+- [Mr. Mark Muller](name) i am in an internship at [ABC COMPANY](company)
+- My name is [Miss Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- This is [Ms. Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- My name is [Mrs. Jennifer Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- My name is [Mr muller](name) I work as a clerk at [ABC COMPANY](company)
+- This is [Mrs. Jennifer Hutchinson](name)
+- [Mrs. Jennifer Hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- [Mrs hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- This is [Mrs. Jennifer Hutchinson](name) i work for [ACME](company)
+- My name is [Mark Muller](name) i work for [ACME](company)
+- This is [Miss Hutchinson](name) I work as a clerk at [ACME](company)
+- This is [Mark Muller](name) i am an intern at [ABC COMPANY](company)
+- My name is [Mrs hutchinson](name) I am doing an internship at [ACME](company)
+- This is [Mr muller](name) I work as an administrative assistant at [ABC COMPANY](company)
+- Yes, This is [Mark Muller](name)
+- [Mark](name) I work as a clerk at [ACME](company)
+- [Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- [Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- My name is [Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
+- I am [Mrs. Jennifer Hutchinson](name) i am in an internship at [ACME](company)
+- I am [Jennifer Hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- I am [Mrs hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- My name is [Mark](name) I'm an apprentice at [ACME](company)
+- My name is [Jennifer](name) i work for [ABC COMPANY](company)
+- [Ms. Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- My name is [Ms. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
+- Yes, [Ms. Jennifer Hutchinson](name)
+- [Mr muller](name) i am an intern at [ABC COMPANY](company)
+- My name is [Ms. Hutchinson](name) I am doing an internship at [ACME](company)
+- My name is [Jennifer Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- [Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- This is [Mr muller](name) I'm doing an apprenticeship at [ACME](company)
+- This is [Miss Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- My name is [Jennifer](name) I work as a commercial assistant at [ACME](company)
+- [Ms. Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- Yes, [Ms. Hutchinson](name)
+- This is [Ms. Jennifer Hutchinson](name) i work for [ACME](company)
+- My name is [Ms. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- My name is [Miss Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
+- I am [Ms. Jennifer Hutchinson](name) from [ACME](company)
+- My name is [Mr muller](name) I work as a clerk at [ACME](company)
+- My name is [Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- This is [Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- This is [Mark Muller](name) I work as a commercial assistant at [ACME](company)
+- My name is [Mr muller](name) I'm doing an apprenticeship at [ACME](company)
+- This is [Mrs hutchinson](name) i am in an internship at [ACME](company)
+- I am [Mark Muller](name) I'm an apprentice at [ACME](company)
+- This is [Mark](name) from [ABC COMPANY](company)
+- This is [Mr. Mark Muller](name) I'm an apprentice at [ACME](company)
+- This is [Ms. Hutchinson](name) i am in an internship at [ACME](company)
+- [Jennifer Hutchinson](name) i work for [ABC COMPANY](company)
+- I am [Ms. Hutchinson](name)
+- This is [Mark](name) I am doing an internship at [ABC COMPANY](company)
+- My name is [Mr muller](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- My name is [Ms. Jennifer Hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- [Mrs hutchinson](name) from [ACME](company)
+- This is [Jennifer](name) I work as a clerk at [ABC COMPANY](company)
+- I am [Ms. Jennifer Hutchinson](name) i am in an internship at [ACME](company)
+- I am [Mrs hutchinson](name) I'm an apprentice at [ACME](company)
+- I am [Mark](name) I work as a commercial assistant at [ABC COMPANY](company)
+- My name is [Ms. Jennifer Hutchinson](name)
+- This is [Miss Hutchinson](name) i am an intern at [ACME](company)
+- I am [Ms. Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
+- I am [Mark](name) I work as an administrative assistant at [ABC COMPANY](company)
+- I am [Ms. Hutchinson](name) from [ACME](company)
+- I am [Mrs hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- I am [Mr muller](name) I'm an apprentice at [ABC COMPANY](company)
+- This is [Miss Hutchinson](name) i work for [ACME](company)
+- This is [Ms. Hutchinson](name)
+- This is [Mark](name) from [ACME](company)
+- My name is [Jennifer](name) i work for [ACME](company)
+- I am [Mark Muller](name) i am an intern at [ACME](company)
+- This is [Ms. Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- My name is [Mrs hutchinson](name) i am an intern at [ABC COMPANY](company)
+- I am [Mr muller](name) i work for [ABC COMPANY](company)
+- This is [Jennifer](name) I work as a clerk at [ACME](company)
+- I am [Miss Hutchinson](name) i work for [ABC COMPANY](company)
+- My name is [Ms. Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
+- [Miss Hutchinson](name) i am in an internship at [ACME](company)
+- My name is [Jennifer Hutchinson](name) from [ABC COMPANY](company)
+- My name is [Mrs hutchinson](name) I work as a commercial assistant at [ACME](company)
 - My name is [Mark Muller](name) I'm an apprentice at [ABC COMPANY](company)
-- [Ms. Jennifer Hutchinson](name) from [ABC COMPANY](company)
+- [Miss Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- [Mark](name) from [ABC COMPANY](company)
+- [Mrs. Jennifer Hutchinson](name)
+- My name is [Mr. Mark Muller](name) I work as a clerk at [ABC COMPANY](company)
+- [Mr. Mark Muller](name) i am an intern at [ACME](company)
+- I am [Jennifer](name) i work for [ACME](company)
+- This is [Miss Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- [Mr muller](name) I work as a commercial assistant at [ABC COMPANY](company)
+- This is [Mr muller](name) I am doing an internship at [ABC COMPANY](company)
+- This is [Miss Hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- This is [Miss Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
+- [Mark Muller](name) I'm an apprentice at [ACME](company)
+- I am [Mark Muller](name) I work as a clerk at [ACME](company)
+- I am [Mr muller](name) I am doing an internship at [ACME](company)
+- My name is [Jennifer Hutchinson](name) i work for [ACME](company)
+- [Mrs hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- Yes, My name is [Mrs. Jennifer Hutchinson](name)
+- I am [Mrs. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- [Mark Muller](name) from [ACME](company)
+- I am [Mrs. Jennifer Hutchinson](name) I am doing an internship at [ACME](company)
+- This is [Mrs hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- I am [Mark Muller](name) I work as a commercial assistant at [ACME](company)
+- My name is [Mrs hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
+- My name is [Mrs. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- I am [Mr. Mark Muller](name)
+- [Mark](name) I work as an administrative assistant at [ACME](company)
+- This is [Mrs. Jennifer Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- I am [Miss Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- My name is [Mr. Mark Muller](name) i work for [ACME](company)
+- I am [Mr muller](name) i am an intern at [ABC COMPANY](company)
+- [Mark Muller](name) i am in an internship at [ACME](company)
+- I am [Miss Hutchinson](name) i work for [ACME](company)
+- [Miss Hutchinson](name) I'm an apprentice at [ACME](company)
+- This is [Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
+- This is [Jennifer Hutchinson](name) i am an intern at [ACME](company)
+- My name is [Mr. Mark Muller](name) i am in an internship at [ACME](company)
+- I am [Mrs hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- This is [Jennifer Hutchinson](name) i work for [ACME](company)
+- This is [Mrs hutchinson](name) i am an intern at [ABC COMPANY](company)
+- Yes, [Miss Hutchinson](name)
+- This is [Mr. Mark Muller](name) i am an intern at [ABC COMPANY](company)
+- My name is [Mr. Mark Muller](name) i am an intern at [ACME](company)
+- [Mrs. Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- My name is [Mark](name) I work as a commercial assistant at [ABC COMPANY](company)
+- I am [Miss Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- My name is [Mr muller](name) from [ABC COMPANY](company)
+- This is [Ms. Hutchinson](name) i work for [ABC COMPANY](company)
+- My name is [Mark](name) I work as a clerk at [ACME](company)
+- [Mrs hutchinson](name) from [ABC COMPANY](company)
+- This is [Mrs hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- [Ms. Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- [Mark Muller](name) i am an intern at [ACME](company)
+- This is [Mr. Mark Muller](name) I'm doing an apprenticeship at [ACME](company)
+- [Miss Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- I am [Ms. Hutchinson](name) i work for [ABC COMPANY](company)
+- [Ms. Hutchinson](name)
+- This is [Jennifer](name) i work for [ABC COMPANY](company)
+- I am [Ms. Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- This is [Mrs. Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- I am [Mark Muller](name) i am an intern at [ABC COMPANY](company)
+- This is [Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- [Mark Muller](name) I work as a clerk at [ABC COMPANY](company)
+- This is [Mr. Mark Muller](name)
+- I am [Ms. Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- [Mr. Mark Muller](name) i work for [ACME](company)
+- I am [Jennifer](name) I am doing an internship at [ABC COMPANY](company)
+- My name is [Mrs hutchinson](name) i work for [ABC COMPANY](company)
+- [Mark Muller](name) I work as a commercial assistant at [ACME](company)
+- My name is [Mrs hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- [Mark](name) I'm an apprentice at [ABC COMPANY](company)
+- This is [Jennifer](name) I'm an apprentice at [ACME](company)
+- My name is [Mark](name) i am in an internship at [ACME](company)
+- This is [Miss Hutchinson](name) i am in an internship at [ACME](company)
+- My name is [Ms. Hutchinson](name) I'm an apprentice at [ACME](company)
+- I am [Mr muller](name) i am in an internship at [ACME](company)
+- My name is [Mrs. Jennifer Hutchinson](name) from [ACME](company)
+- This is [Jennifer](name)
+- My name is [Jennifer](name) i am an intern at [ACME](company)
+- [Mr muller](name) I work as a clerk at [ACME](company)
+- [Mrs hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- This is [Jennifer](name) I work as an administrative assistant at [ABC COMPANY](company)
+- This is [Jennifer](name) I'm doing an apprenticeship at [ACME](company)
+- I am [Mark Muller](name) I am doing an internship at [ABC COMPANY](company)
+- I am [Mark Muller](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- My name is [Ms. Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- My name is [Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- This is [Mr. Mark Muller](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- I am [Mrs. Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- This is [Mark Muller](name) I work as a clerk at [ACME](company)
+- I am [Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- I am [Mrs hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- I am [Miss Hutchinson](name) from [ABC COMPANY](company)
+- This is [Jennifer](name) i am in an internship at [ABC COMPANY](company)
+- [Mr muller](name) i am an intern at [ACME](company)
+- This is [Mr. Mark Muller](name) I'm an apprentice at [ABC COMPANY](company)
+- [Mark Muller](name)
+- [Mr muller](name) from [ACME](company)
+- This is [Jennifer](name) I work as an administrative assistant at [ACME](company)
+- My name is [Mark](name) I work as a commercial assistant at [ACME](company)
+- I am [Mark](name) I'm an apprentice at [ABC COMPANY](company)
+- [Ms. Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- [Mrs. Jennifer Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- My name is [Mrs hutchinson](name) I work as an administrative assistant at [ACME](company)
+- I am [Jennifer](name) I work as a clerk at [ABC COMPANY](company)
+- [Jennifer](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- This is [Mrs hutchinson](name) i work for [ACME](company)
+- I am [Ms. Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- [Ms. Hutchinson](name) i am an intern at [ACME](company)
+- This is [Mr. Mark Muller](name) I work as an administrative assistant at [ACME](company)
+- My name is [Mark Muller](name) I work as a commercial assistant at [ACME](company)
+- My name is [Mark](name) I work as an administrative assistant at [ACME](company)
+- I am [Mr. Mark Muller](name) I work as a commercial assistant at [ACME](company)
+- [Mr muller](name) I work as a commercial assistant at [ACME](company)
+- [Jennifer](name) I'm an apprentice at [ABC COMPANY](company)
+- I am [Ms. Hutchinson](name) I'm an apprentice at [ACME](company)
+- I am [Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
+- I am [Mr muller](name)
+- [Jennifer Hutchinson](name) i am in an internship at [ACME](company)
+- This is [Mr. Mark Muller](name) I am doing an internship at [ABC COMPANY](company)
+- My name is [Mark](name) from [ABC COMPANY](company)
+- [Mr muller](name) i am in an internship at [ABC COMPANY](company)
+- This is [Mr. Mark Muller](name) i am an intern at [ACME](company)
+- This is [Ms. Jennifer Hutchinson](name) from [ACME](company)
+- [Mr. Mark Muller](name) I work as a clerk at [ABC COMPANY](company)
+- I am [Mark](name)
+- I am [Mrs. Jennifer Hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- [Jennifer](name) I work as a commercial assistant at [ABC COMPANY](company)
+- My name is [Ms. Jennifer Hutchinson](name) from [ACME](company)
+- I am [Mr muller](name) I work as an administrative assistant at [ABC COMPANY](company)
+- This is [Mr. Mark Muller](name) i am in an internship at [ABC COMPANY](company)
+- My name is [Ms. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- [Ms. Jennifer Hutchinson](name)
+- I am [Ms. Jennifer Hutchinson](name) from [ABC COMPANY](company)
+- My name is [Mrs hutchinson](name) from [ACME](company)
+- [Mrs. Jennifer Hutchinson](name) i am an intern at [ACME](company)
+- This is [Mark](name) I'm doing an apprenticeship at [ACME](company)
+- This is [Mark](name) i am an intern at [ABC COMPANY](company)
+- My name is [Miss Hutchinson](name) I am doing an internship at [ACME](company)
+- [Mark](name) I am doing an internship at [ABC COMPANY](company)
+- [Jennifer](name) I work as a commercial assistant at [ACME](company)
+- This is [Ms. Hutchinson](name) I work as a clerk at [ACME](company)
+- I am [Ms. Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
+- This is [Miss Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- I am [Mark](name) I work as a commercial assistant at [ACME](company)
+- [Jennifer](name) i am an intern at [ACME](company)
+- Yes, This is [Mrs hutchinson](name)
+- [Mrs. Jennifer Hutchinson](name) from [ACME](company)
+- My name is [Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
+- I am [Mrs. Jennifer Hutchinson](name) i work for [ACME](company)
+- I am [Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
+- My name is [Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- [Mark](name) I work as a commercial assistant at [ACME](company)
+- My name is [Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
+- This is [Jennifer Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
+- [Jennifer](name) i am an intern at [ABC COMPANY](company)
+- This is [Ms. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- [Ms. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
+- This is [Mr muller](name) from [ACME](company)
+- [Mark](name) i am in an internship at [ABC COMPANY](company)
+- My name is [Mrs. Jennifer Hutchinson](name) i work for [ABC COMPANY](company)
+- I am [Mrs. Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- [Mark](name) I work as an administrative assistant at [ABC COMPANY](company)
+- Yes, This is [Mark](name)
+- [Mark](name) i am an intern at [ABC COMPANY](company)
+- [Jennifer](name) i am in an internship at [ABC COMPANY](company)
+- This is [Ms. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
+- I am [Mrs hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- My name is [Mark Muller](name) I work as a clerk at [ACME](company)
+- [Jennifer](name) i work for [ACME](company)
+- Yes, [Mr. Mark Muller](name)
+- I am [Ms. Jennifer Hutchinson](name) i work for [ACME](company)
+- I am [Mr. Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
+- [Mark](name) i work for [ACME](company)
+- I am [Mrs hutchinson](name) from [ACME](company)
+- I am [Jennifer](name) I'm an apprentice at [ACME](company)
+- I am [Miss Hutchinson](name) from [ACME](company)
+- My name is [Mrs. Jennifer Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- My name is [Jennifer Hutchinson](name) I'm an apprentice at [ABC COMPANY](company)
+- Yes, I am [Mark Muller](name)
+- This is [Ms. Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- My name is [Ms. Jennifer Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- This is [Mr muller](name) I work as a commercial assistant at [ACME](company)
+- This is [Jennifer Hutchinson](name) i am in an internship at [ACME](company)
+- I am [Ms. Jennifer Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- This is [Jennifer Hutchinson](name)
+- This is [Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- I am [Mr muller](name) I work as an administrative assistant at [ACME](company)
+- My name is [Mr. Mark Muller](name) I work as a clerk at [ACME](company)
+- This is [Jennifer](name) I work as a commercial assistant at [ABC COMPANY](company)
+- [Jennifer Hutchinson](name) i work for [ACME](company)
+- Yes, This is [Mr muller](name)
+- This is [Mark Muller](name) i work for [ACME](company)
+- My name is [Mr muller](name) i am an intern at [ABC COMPANY](company)
+- My name is [Mr. Mark Muller](name) I work as an administrative assistant at [ABC COMPANY](company)
+- [Miss Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- [Ms. Hutchinson](name) from [ACME](company)
+- I am [Mrs. Jennifer Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- My name is [Mark](name) i am in an internship at [ABC COMPANY](company)
+- [Jennifer](name) I work as an administrative assistant at [ACME](company)
+- My name is [Mr muller](name)
+- My name is [Mrs. Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- This is [Ms. Hutchinson](name) from [ABC COMPANY](company)
+- I am [Mark](name) from [ACME](company)
+- [Miss Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- This is [Ms. Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- [Miss Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- Yes, This is [Mr. Mark Muller](name)
+- This is [Ms. Hutchinson](name) from [ACME](company)
+- [Ms. Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- This is [Ms. Hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- I am [Mrs hutchinson](name) I work as an administrative assistant at [ACME](company)
+- I am [Mr. Mark Muller](name) i am in an internship at [ACME](company)
+- [Mrs hutchinson](name) I am doing an internship at [ACME](company)
+- This is [Ms. Jennifer Hutchinson](name) I work as a commercial assistant at [ACME](company)
+- I am [Jennifer Hutchinson](name) from [ABC COMPANY](company)
+- My name is [Mark Muller](name) i am in an internship at [ACME](company)
+- This is [Ms. Hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- This is [Mr. Mark Muller](name) i work for [ACME](company)
+- [Mr muller](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- This is [Mrs hutchinson](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- I am [Mr. Mark Muller](name) I'm an apprentice at [ACME](company)
+- I am [Ms. Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- This is [Mr muller](name) i work for [ACME](company)
+- My name is [Ms. Jennifer Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- [Ms. Hutchinson](name) i work for [ACME](company)
+- [Jennifer](name) I am doing an internship at [ACME](company)
+- [Mrs hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- I am [Ms. Jennifer Hutchinson](name) i am an intern at [ACME](company)
+- [Mr muller](name) I work as a clerk at [ABC COMPANY](company)
+- I am [Mr muller](name) from [ABC COMPANY](company)
+- Yes, This is [Miss Hutchinson](name)
+- [Mrs. Jennifer Hutchinson](name) i am an intern at [ABC COMPANY](company)
+- My name is [Mrs hutchinson](name) I am doing an internship at [ABC COMPANY](company)
+- [Miss Hutchinson](name) I work as a clerk at [ABC COMPANY](company)
+- This is [Mr muller](name) from [ABC COMPANY](company)
+- This is [Jennifer](name) i work for [ACME](company)
+- This is [Ms. Jennifer Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- My name is [Mark](name) I am doing an internship at [ABC COMPANY](company)
+- My name is [Ms. Hutchinson](name) I work as a clerk at [ACME](company)
+- My name is [Mrs. Jennifer Hutchinson](name) i am in an internship at [ABC COMPANY](company)
+- [Mr. Mark Muller](name) I'm an apprentice at [ABC COMPANY](company)
+- [Ms. Jennifer Hutchinson](name) i am an intern at [ACME](company)
+- My name is [Mr muller](name) I am doing an internship at [ACME](company)
+- [Mrs hutchinson](name) I work as a commercial assistant at [ACME](company)
+- My name is [Jennifer Hutchinson](name) i work for [ABC COMPANY](company)
+- This is [Mr muller](name) I'm an apprentice at [ABC COMPANY](company)
+- This is [Jennifer](name) i am an intern at [ABC COMPANY](company)
+- This is [Ms. Hutchinson](name) I work as a commercial assistant at [ABC COMPANY](company)
+- My name is [Mr muller](name) I work as an administrative assistant at [ACME](company)
+- [Mr. Mark Muller](name) I work as a clerk at [ACME](company)
+- [Mr. Mark Muller](name)
+- I am [Mrs. Jennifer Hutchinson](name) I work as a clerk at [ACME](company)
+- [Mrs hutchinson](name) i am an intern at [ABC COMPANY](company)
+- [Miss Hutchinson](name) I work as an administrative assistant at [ACME](company)
+- This is [Mark](name) i work for [ABC COMPANY](company)
+- I am [Ms. Hutchinson](name) I'm doing an apprenticeship at [ACME](company)
+- My name is [Miss Hutchinson](name) I work as an administrative assistant at [ABC COMPANY](company)
+- I am [Miss Hutchinson](name)
+- My name is [Jennifer](name) I am doing an internship at [ABC COMPANY](company)
+- Yes, I am [Mrs. Jennifer Hutchinson](name)
+- This is [Mr muller](name) I work as a commercial assistant at [ABC COMPANY](company)
+- Yes, This is [Mrs. Jennifer Hutchinson](name)
+- I am [Jennifer](name) i am in an internship at [ABC COMPANY](company)
+- My name is [Mark Muller](name) I'm doing an apprenticeship at [ABC COMPANY](company)
+- I am [Jennifer](name) from [ACME](company)
+- [Ms. Jennifer Hutchinson](name) I'm an apprentice at [ACME](company)
+- [Mrs hutchinson](name) I work as an administrative assistant at [ACME](company)
+- I am [Mark](name) I am doing an internship at [ACME](company)
+- My name is [Ms. Jennifer Hutchinson](name) i work for [ABC COMPANY](company)
+- Yes, My name is [Mr. Mark Muller](name)
+- I am [Mrs. Jennifer Hutchinson](name) i am an intern at [ACME](company)
+- [Mr muller](name) i work for [ABC COMPANY](company)
 
 ## intent:provide_nr_of_people
-- [150](nr_of_people) persons
-- We're planning an event for [250](nr_of_people) guests
-- We need space for [150](nr_of_people) persons
-- We are expecting [150](nr_of_people) employees
-- We have a meeting with [200](nr_of_people)
-- We need a space for [150](nr_of_people) people
-- We're planning an event for [250](nr_of_people)
-- We planned for [250](nr_of_people) people
-- We planned for [250](nr_of_people) employees
-- We have a meeting with [250](nr_of_people) persons
-- The event will be for [150](nr_of_people) people
-- We planned for [150](nr_of_people) persons
-- We have to get a room for [200](nr_of_people) guests
-- We have to get a room for [150](nr_of_people) persons
-- [200](nr_of_people) persons
-- We have an event for [200](nr_of_people) people
-- We are expecting [150](nr_of_people) guests
-- We're planning an event for [200](nr_of_people) employees
-- The event will be for [200](nr_of_people) guests
-- We're planning an event for [200](nr_of_people) people
-- We planned for [150](nr_of_people) employees
-- We need space for [200](nr_of_people)
-- We are planning for [250](nr_of_people) persons
-- We need a venue for [150](nr_of_people) employees
-- We have to get a room for [250](nr_of_people) employees
-- We are planning for [250](nr_of_people) employees
-- We need a venue for [150](nr_of_people) persons
-- We need a event room for [150](nr_of_people) people
-- [250](nr_of_people) people
-- We're planning an event for [200](nr_of_people)
-- We need space for [200](nr_of_people) employees
-- We have an event for [200](nr_of_people)
-- We have an event for [250](nr_of_people) people
-- We have to get a room for [200](nr_of_people) people
-- We have to get a room for [200](nr_of_people) employees
-- We are expecting [250](nr_of_people) people
-- We're planning an event for [200](nr_of_people) persons
-- We have an event for [200](nr_of_people) employees
-- We are expecting [200](nr_of_people) guests
-- We're planning an event for [200](nr_of_people) guests
-- We're planning an event for [250](nr_of_people) employees
-- We have a meeting with [200](nr_of_people) guests
-- [150](nr_of_people) employees
-- We have a meeting with [150](nr_of_people) persons
-- We have to get a room for [150](nr_of_people) people
-- We are planning for [200](nr_of_people) guests
-- We need a room for [250](nr_of_people)
-- We planned for [200](nr_of_people) employees
-- We have to get a room for [150](nr_of_people)
-- We need a space for [150](nr_of_people) employees
-- The event will be for [250](nr_of_people) people
-- We need a location for [200](nr_of_people) employees
-- We need a space for [200](nr_of_people) persons
-- [250](nr_of_people) guests
-- The event will be for [250](nr_of_people)
-- We have to get a room for [150](nr_of_people) guests
-- We need a event room for [150](nr_of_people)
-- We're planning an event for [250](nr_of_people) persons
-- We need a meeting room for [250](nr_of_people)
-- We have an event for [150](nr_of_people)
-- We planned for [150](nr_of_people)
-- We have a meeting with [250](nr_of_people) people
-- We have to get a room for [250](nr_of_people) people
-- We are planning for [200](nr_of_people) persons
-- We're planning an event for [150](nr_of_people)
-- We need space for [250](nr_of_people) employees
-- The event will be for [250](nr_of_people) persons
-- The event will be for [200](nr_of_people)
-- We have an event for [250](nr_of_people)
-- We have an event for [200](nr_of_people) guests
-- We need space for [250](nr_of_people) persons
-- The event will be for [200](nr_of_people) persons
-- We need space for [150](nr_of_people) people
-- We have to get a room for [250](nr_of_people)
-- We have a meeting with [200](nr_of_people) people
-- We need space for [150](nr_of_people) guests
-- We are planning for [200](nr_of_people) employees
-- We planned for [200](nr_of_people) guests
-- We need space for [250](nr_of_people) people
-- We are planning for [150](nr_of_people) guests
-- We are planning for [150](nr_of_people) people
-- We're planning an event for [250](nr_of_people) people
-- We are expecting [250](nr_of_people) persons
-- We need a room for [200](nr_of_people) employees
-- The event will be for [150](nr_of_people)
-- We need a location for [150](nr_of_people) guests
-- We're planning an event for [150](nr_of_people) employees
-- We are planning for [150](nr_of_people)
-- We are expecting [150](nr_of_people) persons
-- We have a meeting with [250](nr_of_people) guests
-- We have a meeting with [150](nr_of_people) employees
-- We planned for [250](nr_of_people) persons
-- We have an event for [150](nr_of_people) persons
-- We have an event for [150](nr_of_people) people
-- We are planning for [200](nr_of_people) people
-- [150](nr_of_people) people
-- We need space for [250](nr_of_people) guests
-- The event will be for [200](nr_of_people) employees
-- We are expecting [250](nr_of_people) employees
-- We are planning for [250](nr_of_people)
-- We have an event for [150](nr_of_people) guests
-- We are planning for [150](nr_of_people) employees
-- [250](nr_of_people)
-- We have a meeting with [250](nr_of_people)
-- We need a meeting room for [250](nr_of_people) persons
-- We need space for [200](nr_of_people) guests
-- We're planning an event for [150](nr_of_people) people
-- We need a space for [200](nr_of_people)
-- [150](nr_of_people)
-- We need a event room for [200](nr_of_people) people
-- We're planning an event for [150](nr_of_people) persons
-- We have to get a room for [250](nr_of_people) persons
-- We have to get a room for [150](nr_of_people) employees
-- We have to get a room for [200](nr_of_people)
-- We need a location for [250](nr_of_people) persons
-- We need space for [250](nr_of_people)
-- We need a location for [150](nr_of_people)
-- We need a meeting room for [250](nr_of_people) guests
-- We planned for [250](nr_of_people) guests
-- The event will be for [250](nr_of_people) guests
-- We need a venue for [150](nr_of_people) people
-- [200](nr_of_people) guests
-- We need a space for [200](nr_of_people) guests
-- We have an event for [250](nr_of_people) employees
 - We are expecting [200](nr_of_people)
-- We need space for [150](nr_of_people)
-- We have a meeting with [200](nr_of_people) persons
-- We're planning an event for [150](nr_of_people) guests
-- We have to get a room for [250](nr_of_people) guests
-- [200](nr_of_people)
-- We need a location for [150](nr_of_people) employees
-- We need a space for [250](nr_of_people) people
-- We are expecting [200](nr_of_people) people
-- We are expecting [150](nr_of_people) people
-- We need a room for [200](nr_of_people)
-- We need a event room for [250](nr_of_people) people
-- We have an event for [250](nr_of_people) guests
-- We need a meeting room for [200](nr_of_people) people
-- We are expecting [150](nr_of_people)
-- We need a meeting room for [150](nr_of_people)
-- We have to get a room for [200](nr_of_people) persons
-- We planned for [150](nr_of_people) guests
-- We planned for [200](nr_of_people)
-- [250](nr_of_people) persons
-- We planned for [150](nr_of_people) people
-- We need a venue for [250](nr_of_people) persons
-- We need a location for [200](nr_of_people) people
-- We need a space for [150](nr_of_people) persons
-- We need a meeting room for [150](nr_of_people) employees
-- We have a meeting with [200](nr_of_people) employees
-- The event will be for [250](nr_of_people) employees
-- We need a venue for [250](nr_of_people) employees
-- We planned for [200](nr_of_people) persons
-- The event will be for [150](nr_of_people) guests
-- We have a meeting with [150](nr_of_people) guests
-- We are expecting [200](nr_of_people) employees
-- We are expecting [200](nr_of_people) persons
-- We have a meeting with [250](nr_of_people) employees
-- We are planning for [150](nr_of_people) persons
-- We have an event for [200](nr_of_people) persons
-- [200](nr_of_people) employees
-- The event will be for [150](nr_of_people) persons
-- We need space for [200](nr_of_people) people
-- We have an event for [250](nr_of_people) persons
-- We need a room for [200](nr_of_people) persons
-- We need a space for [250](nr_of_people) employees
-- We need a event room for [250](nr_of_people)
-- We are expecting [250](nr_of_people)
-- We have an event for [150](nr_of_people) employees
-- We need a event room for [150](nr_of_people) persons
-- We are planning for [200](nr_of_people)
-- The event will be for [150](nr_of_people) employees
-- We are expecting [250](nr_of_people) guests
-- We need a event room for [200](nr_of_people)
-- [250](nr_of_people) employees
-- We planned for [250](nr_of_people)
-- We are planning for [250](nr_of_people) people
-- We need a location for [150](nr_of_people) people
-- We need a event room for [200](nr_of_people) guests
-- We planned for [200](nr_of_people) people
-- We have a meeting with [150](nr_of_people)
 - [150](nr_of_people) guests
-- We need a room for [250](nr_of_people) people
+- We have an event for [200](nr_of_people) employees
+- We need space for [200](nr_of_people)
+- We planned for [250](nr_of_people)
+- We have to get a room for [200](nr_of_people) persons
+- We have a meeting with [200](nr_of_people) employees
+- We are expecting [200](nr_of_people) employees
+- We have a meeting with [200](nr_of_people)
+- The event will be for [200](nr_of_people) employees
+- The event will be for [150](nr_of_people) people
+- We are planning for [250](nr_of_people) persons
+- We have an event for [250](nr_of_people) persons
+- We're planning an event for [250](nr_of_people)
+- We have to get a room for [200](nr_of_people) guests
+- We need a space for [150](nr_of_people) employees
+- [150](nr_of_people) employees
+- We have an event for [150](nr_of_people)
+- We're planning an event for [150](nr_of_people) employees
+- We are expecting [200](nr_of_people) guests
+- We have to get a room for [200](nr_of_people)
+- We need space for [250](nr_of_people) employees
+- We're planning an event for [150](nr_of_people) persons
+- We are expecting [250](nr_of_people) employees
+- We are expecting [150](nr_of_people) people
+- We need space for [250](nr_of_people) people
+- We are expecting [150](nr_of_people) employees
+- We planned for [150](nr_of_people) people
+- We have an event for [200](nr_of_people) guests
+- [250](nr_of_people) people
+- We need a venue for [250](nr_of_people)
+- We need a event room for [200](nr_of_people) guests
+- We need a event room for [200](nr_of_people) persons
+- We're planning an event for [250](nr_of_people) persons
+- The event will be for [150](nr_of_people) persons
+- We planned for [200](nr_of_people) people
+- We have a meeting with [150](nr_of_people) guests
+- We are planning for [200](nr_of_people) guests
+- We planned for [150](nr_of_people)
 - We are planning for [250](nr_of_people) guests
-- We need space for [150](nr_of_people) employees
+- We need space for [250](nr_of_people)
+- We're planning an event for [200](nr_of_people)
+- [200](nr_of_people) guests
+- We need space for [250](nr_of_people) guests
+- The event will be for [150](nr_of_people)
+- We planned for [150](nr_of_people) employees
+- We need space for [150](nr_of_people) persons
+- We have to get a room for [250](nr_of_people) employees
+- We planned for [200](nr_of_people) persons
+- We are expecting [200](nr_of_people) persons
+- We have an event for [250](nr_of_people) guests
+- We are planning for [150](nr_of_people)
+- We have a meeting with [150](nr_of_people)
+- We need a room for [250](nr_of_people) guests
+- We are expecting [150](nr_of_people) persons
+- We have to get a room for [200](nr_of_people) employees
+- We have to get a room for [150](nr_of_people) people
+- [250](nr_of_people) persons
+- We are planning for [150](nr_of_people) persons
+- We have to get a room for [250](nr_of_people) people
+- We need space for [200](nr_of_people) guests
+- We need a event room for [150](nr_of_people) people
+- We're planning an event for [200](nr_of_people) persons
+- We need space for [200](nr_of_people) employees
+- We're planning an event for [150](nr_of_people) people
+- We planned for [250](nr_of_people) guests
+- We need space for [250](nr_of_people) persons
+- We need space for [150](nr_of_people) guests
+- We need a event room for [250](nr_of_people) guests
+- We are planning for [250](nr_of_people) people
+- We planned for [250](nr_of_people) people
+- [150](nr_of_people)
+- The event will be for [200](nr_of_people)
+- We need a space for [250](nr_of_people) persons
 - We need a location for [200](nr_of_people) persons
-- We need a meeting room for [200](nr_of_people) employees
-- We need a meeting room for [150](nr_of_people) persons
+- We are expecting [150](nr_of_people)
+- We planned for [150](nr_of_people) guests
+- We have a meeting with [250](nr_of_people)
+- We have an event for [150](nr_of_people) persons
+- The event will be for [200](nr_of_people) guests
 - [200](nr_of_people) people
-- We need a venue for [150](nr_of_people) guests
-- We need a venue for [250](nr_of_people) guests
-- We need a room for [150](nr_of_people) guests
-- We need a venue for [150](nr_of_people)
-- We need a meeting room for [200](nr_of_people) guests
-- The event will be for [200](nr_of_people) people
+- We planned for [200](nr_of_people) guests
+- We need space for [150](nr_of_people) employees
+- We're planning an event for [250](nr_of_people) guests
+- We planned for [200](nr_of_people)
+- We're planning an event for [150](nr_of_people)
+- We need a space for [250](nr_of_people) people
+- We need a room for [250](nr_of_people) employees
+- We need space for [200](nr_of_people) people
+- We need a space for [150](nr_of_people) people
+- The event will be for [200](nr_of_people) persons
+- [200](nr_of_people) persons
+- We have to get a room for [250](nr_of_people) persons
+- We are expecting [250](nr_of_people) people
+- We have an event for [250](nr_of_people) people
+- We have an event for [150](nr_of_people) employees
+- We are planning for [150](nr_of_people) people
+- We are expecting [200](nr_of_people) people
+- We have to get a room for [150](nr_of_people) guests
+- [150](nr_of_people) people
+- We're planning an event for [200](nr_of_people) employees
+- We have to get a room for [150](nr_of_people) employees
+- The event will be for [250](nr_of_people) guests
+- We planned for [150](nr_of_people) persons
+- We're planning an event for [150](nr_of_people) guests
+- We have to get a room for [150](nr_of_people)
+- We are expecting [250](nr_of_people) guests
+- We are expecting [250](nr_of_people)
+- [250](nr_of_people)
+- We have a meeting with [250](nr_of_people) guests
+- We planned for [200](nr_of_people) employees
+- We are expecting [250](nr_of_people) persons
+- We need a meeting room for [200](nr_of_people) people
+- We have a meeting with [150](nr_of_people) persons
+- We have a meeting with [250](nr_of_people) employees
+- We need a location for [150](nr_of_people) employees
+- We're planning an event for [250](nr_of_people) people
+- The event will be for [250](nr_of_people) persons
+- We're planning an event for [250](nr_of_people) employees
+- We have a meeting with [150](nr_of_people) people
+- We have a meeting with [200](nr_of_people) people
+- We are planning for [250](nr_of_people) employees
+- We need a venue for [250](nr_of_people) people
+- We need a venue for [150](nr_of_people) employees
+- We are planning for [200](nr_of_people) employees
+- We have an event for [200](nr_of_people) people
+- We have a meeting with [200](nr_of_people) guests
+- [200](nr_of_people) employees
+- We are planning for [150](nr_of_people) guests
+- We need a meeting room for [150](nr_of_people)
+- We need space for [150](nr_of_people) people
 - We need space for [200](nr_of_people) persons
-- We need a event room for [250](nr_of_people) employees
-- We need a room for [200](nr_of_people) guests
+- We need a space for [200](nr_of_people) guests
+- [200](nr_of_people)
+- We have an event for [150](nr_of_people) people
+- We need a room for [150](nr_of_people) persons
+- We planned for [250](nr_of_people) employees
+- We have a meeting with [250](nr_of_people) people
+- We are planning for [200](nr_of_people)
+- We need a location for [250](nr_of_people) guests
 - We need a space for [200](nr_of_people) employees
-- We need a location for [200](nr_of_people)
+- We need a venue for [150](nr_of_people)
+- We need a room for [250](nr_of_people) people
+- We are planning for [250](nr_of_people)
+- We have an event for [250](nr_of_people)
+- We're planning an event for [200](nr_of_people) people
+- We have a meeting with [250](nr_of_people) persons
+- We have an event for [200](nr_of_people)
+- We need a location for [250](nr_of_people) persons
+- We have an event for [250](nr_of_people) employees
+- The event will be for [150](nr_of_people) guests
+- We need a venue for [250](nr_of_people) persons
+- We need space for [150](nr_of_people)
+- We have to get a room for [250](nr_of_people)
+- We have to get a room for [200](nr_of_people) people
+- We have to get a room for [150](nr_of_people) persons
+- The event will be for [150](nr_of_people) employees
+- We need a room for [150](nr_of_people) guests
+- We have a meeting with [150](nr_of_people) employees
+- [250](nr_of_people) guests
+- We need a location for [200](nr_of_people) people
+- We have to get a room for [250](nr_of_people) guests
+- We are planning for [200](nr_of_people) people
+- The event will be for [200](nr_of_people) people
+- [250](nr_of_people) employees
+- We need a venue for [150](nr_of_people) guests
+- We need a event room for [200](nr_of_people) employees
+- We need a space for [200](nr_of_people) persons
+- We need a meeting room for [250](nr_of_people) persons
+- We need a location for [250](nr_of_people)
+- We are expecting [150](nr_of_people) guests
+- We planned for [250](nr_of_people) persons
+- We need a meeting room for [150](nr_of_people) guests
+- The event will be for [250](nr_of_people) people
+- We need a venue for [200](nr_of_people) guests
+- We are planning for [200](nr_of_people) persons
+- We are planning for [150](nr_of_people) employees
+- The event will be for [250](nr_of_people)
+- We need a event room for [150](nr_of_people) employees
+- We need a venue for [200](nr_of_people) employees
+- We're planning an event for [200](nr_of_people) guests
+- The event will be for [250](nr_of_people) employees
+- We need a meeting room for [150](nr_of_people) employees
+- We have an event for [150](nr_of_people) guests
+- We need a space for [250](nr_of_people)
+- We need a venue for [250](nr_of_people) employees
+- We need a room for [200](nr_of_people) guests
+- We need a venue for [200](nr_of_people)
+- We need a meeting room for [200](nr_of_people) employees
+- We have an event for [200](nr_of_people) persons
+- We need a venue for [200](nr_of_people) people
+- We need a meeting room for [250](nr_of_people) employees
+- We need a room for [200](nr_of_people) persons
+- We need a event room for [200](nr_of_people) people
+- We need a meeting room for [200](nr_of_people) guests
+- We need a space for [250](nr_of_people) employees
+- We need a room for [150](nr_of_people) employees
+- We need a location for [150](nr_of_people) persons
+- We need a event room for [150](nr_of_people)
+- We need a event room for [200](nr_of_people)
 
 ## intent:provide_preference
-- I think the [third](room) one meets our expectations
-- I like the [second](room) one
-- I prefer room [Gamma](room)
-- I guess the [third](room) choice meets our expectations
-- room [Beta](room) is okay
-- I think one [beta](room) would be what I've expected
-- I think choice [beta](room) is perfect
-- I think the [first](room) venue is the best possibility
-- I think room [beta](room) should be fine
-- I think possibility [gamma](room) the best one
-- I think the [third](room) possibility should be fine
-- I think venue [gamma](room) is the best one
-- choice [Beta](room) is what I'm looking for
-- I think the [third](room) possibility meets our expectations
-- I think one [alpha](room) should work
-- I guess room [beta](room) would be fine
-- I believe the [second](room) one is suitable
-- I believe one [beta](room) is the best possibility
-- I believe venue [gamma](room) is suitable
-- one [Alpha](room) seems what I was looking for
-- I think the [first](room) option works
-- I think the [third](room) one would be ideal
-- I guess venue [alpha](room) is what we're looking for
-- I think possibility [gamma](room) the best option
-- I think the [last](room) room would be what we expected
-- I guess choice [gamma](room) is suitable
-- I believe the [second](room) room should be fine
-- I think possibility [Alpha](room) should work
-- choice [beta](room) seems what I expected
-- I believe possibility [gamma](room) should work
-- I believe the [last](room) venue works
-- I think option [Beta](room) meets our expectations
-- I guess option [beta](room) should be fine
-- I believe the [last](room) one is the best venue
-- I think choice [gamma](room) meets our expectations
-- choice [beta](room) seems the best
-- I believe the [third](room) possibility the best
-- I guess one [alpha](room) is perfect
-- I believe the [second](room) one is the best option
-- I guess venue [Gamma](room) works
-- I think the [second](room) one should work
-- I think possibility [Alpha](room) should be fine
-- I think the [third](room) choice would be what I expected
-- I believe one [gamma](room) is suitable
-- room [gamma](room) seems ideal
-- I think venue [Beta](room) is the best possibility
-- I think the [first](room) option should work
-- I guess venue [Beta](room) is suitable
-- I believe the [last](room) room meets our expectations
-- I guess possibility [alpha](room) is what we need
-- I guess room [Gamma](room) is great
-- I guess the [third](room) room is the best one
-- [Gamma](room) seems perfect
-- I believe possibility [Gamma](room) would be ok
-- I guess the [last](room) option should work
-- I think choice [alpha](room) would be the best
-- I think venue [Beta](room) would be okay
-- I guess the [second](room) room should work
-- I guess the [last](room) one would be what we're looking for
-- I think choice [Alpha](room) is what we need
-- I think the [second](room) choice is suitable
-- option [alpha](room) is what we need
-- I believe venue [alpha](room) the best choice
-- I guess the [second](room) room works
-- I guess room [Beta](room) meets our expectations
-- I think possibility [gamma](room) is the best venue
-- I think the [last](room) possibility the best one
-- I guess one [Beta](room) is suitable
-- venue [Beta](room) is what I was looking for
-- I believe the [second](room) possibility should work
-- I believe option [alpha](room) is good
-- I think option [gamma](room) the best choice
-- I think the [second](room) option should work
-- I guess option [Alpha](room) should work
-- I think the [first](room) one is ideal
-- I guess choice [alpha](room) meets our expectations
-- I believe the [first](room) one the best choice
-- one [Gamma](room) is what we expected
-- I believe room [gamma](room) would be ok
-- I think the [second](room) venue is suitable
-- I guess choice [Beta](room) is perfect
-- I believe venue [Alpha](room) meets our expectations
-- I think the [last](room) one is what we're looking for
-- I think venue [Alpha](room) works
-- I think the [third](room) venue should be fine
-- one [Beta](room) seems what I'm looking for
-- I believe venue [beta](room) should work
-- I think option [beta](room) would be what I need
-- I guess the [second](room) venue would be ok
-- I think venue [beta](room) works
-- I think the [second](room) one would be what I've expected
-- I think one [Gamma](room) is the best option
-- I guess the [second](room) one should work
-- I believe option [beta](room) should work
-- I believe the [third](room) venue is the best possibility
-- one [Alpha](room) is good
-- I believe room [beta](room) should be fine
-- I believe the [last](room) venue is ideal
-- I believe possibility [Alpha](room) would be good
-- I think venue [Gamma](room) the best one
-- I guess the [first](room) choice meets our expectations
-- I think option [alpha](room) should work
-- choice [Alpha](room) is what I've expected
-- I think the [second](room) possibility meets our expectations
-- I guess venue [Alpha](room) is suitable
-- I think one [gamma](room) would be what we're looking for
-- I think the [last](room) option meets our expectations
-- I think choice [Alpha](room) should be fine
-- I think the [third](room) option would be what I need
+- I think venue [beta](room) would be perfect
+- I like the [third](room) one
+- I guess the [first](room) one would be the best
+- I like possibility [Beta](room)
+- I believe the [first](room) venue works
+- one [gamma](room) seems ok
+- I think possibility [beta](room) is suitable
+- I believe the [first](room) venue should work
 - I think choice [beta](room) is suitable
-- venue [gamma](room) seems ok
-- I guess possibility [Beta](room) is suitable
-- I think the [third](room) one is the best choice
-- I guess the [second](room) venue is the best one
-- I guess possibility [gamma](room) should be fine
-- I believe the [third](room) room meets our expectations
-- I think possibility [beta](room) is what I'm looking for
-- I guess possibility [Beta](room) would be what I'm looking for
-- I believe the [third](room) room should work
-- one [Alpha](room) is perfect
-- I think choice [alpha](room) the best venue
-- I think the [first](room) possibility is the best venue
-- I think one [gamma](room) should be fine
-- I guess the [first](room) room works
-- I believe possibility [Beta](room) works
-- I think one [beta](room) is the best choice
-- option [Alpha](room) is what we're looking for
-- I think the [second](room) venue works
-- I think venue [Gamma](room) the best choice
-- I guess the [third](room) one should be fine
-- I think the [first](room) possibility is suitable
-- I guess choice [Gamma](room) the best venue
-- I think room [beta](room) is suitable
-- I believe the [last](room) room the best choice
-- I guess choice [gamma](room) would be good
-- option [alpha](room) seems what I was looking for
-- I like [Alpha](room)
-- I guess the [first](room) possibility is suitable
-- I believe room [Alpha](room) meets our expectations
-- I believe room [Gamma](room) would be ideal
-- I think the [third](room) choice meets our expectations
-- I think venue [beta](room) is suitable
-- I guess the [last](room) option works
-- I think one [beta](room) should work
-- option [alpha](room) is what I'm looking for
-- I guess venue [Gamma](room) the best possibility
-- I believe the [last](room) one works
-- I think one [beta](room) is suitable
-- I guess the [first](room) one would be great
-- I believe the [second](room) one meets our expectations
-- I believe option [beta](room) is what I expected
-- I believe possibility [Alpha](room) is suitable
-- I believe the [last](room) option should work
-- possibility [gamma](room) seems good
-- I think possibility [Alpha](room) meets our expectations
-- I guess the [first](room) option works
-- I think venue [Gamma](room) is suitable
-- I guess room [alpha](room) the best possibility
-- I guess the [third](room) one is the best possibility
-- I think choice [beta](room) would be okay
-- option [alpha](room) seems ideal
-- I guess choice [alpha](room) works
-- I believe option [alpha](room) is suitable
-- I guess the [first](room) possibility the best option
-- I guess option [Beta](room) is what I'm looking for
-- I think possibility [gamma](room) is the best choice
-- I guess the [first](room) one should be fine
-- I guess the [second](room) possibility is suitable
-- room [alpha](room) is ok
-- I think venue [gamma](room) is the best
-- I think the [first](room) possibility should work
-- I guess venue [Beta](room) should work
-- I believe room [alpha](room) is the best
-- I guess the [third](room) possibility is the best possibility
-- I think room [gamma](room) is suitable
-- I believe the [second](room) option works
-- I believe one [Beta](room) meets our expectations
-- venue [alpha](room) is what I'm looking for
-- I believe venue [Gamma](room) would be perfect
-- I guess the [first](room) choice is okay
-- I believe choice [gamma](room) the best one
-- I guess the [first](room) venue meets our expectations
-- I think option [Beta](room) is the best option
-- I think room [Gamma](room) would be what we're looking for
-- I guess the [last](room) venue the best venue
-- I guess the [third](room) one the best possibility
-- choice [Alpha](room) seems perfect
-- I guess one [gamma](room) should be fine
-- I believe the [second](room) room would be okay
-- I think option [Gamma](room) should work
-- I believe the [third](room) option should work
-- I believe venue [Gamma](room) is suitable
-- I think choice [gamma](room) works
-- option [Beta](room) seems what I was looking for
-- I believe the [second](room) possibility would be the best
-- I guess choice [beta](room) would be what I expected
-- I think possibility [beta](room) would be ok
-- I believe the [last](room) venue is the best possibility
-- I guess room [Alpha](room) works
-- I think the [third](room) possibility is what I expected
-- I believe room [Beta](room) works
-- [Gamma](room) seems what I was looking for
-- I guess the [third](room) venue the best possibility
-- I think option [Beta](room) is suitable
-- I guess the [first](room) one would be ok
-- I think venue [Gamma](room) works
-- I guess the [second](room) venue is what I've expected
-- I believe venue [Gamma](room) is the best
-- I think choice [beta](room) meets our expectations
-- option [Alpha](room) seems what we need
-- I guess option [gamma](room) should work
-- I believe the [third](room) one should be fine
-- I think one [Beta](room) is suitable
-- I guess room [gamma](room) would be okay
-- I guess the [second](room) choice should be fine
-- I think the [first](room) one should be fine
-- possibility [gamma](room) is perfect
-- I think choice [alpha](room) works
-- I think the [last](room) one the best choice
-- I think venue [Gamma](room) is the best option
-- I think option [beta](room) is the best
-- I guess the [first](room) option is what we expected
-- I believe room [beta](room) works
-- venue [Alpha](room) is what I was looking for
-- I think option [Beta](room) should be fine
-- I guess the [third](room) choice works
-- I believe one [Alpha](room) is the best venue
-- I believe the [first](room) choice the best choice
-- I guess room [Alpha](room) is ok
-- room [Beta](room) is what we need
-- I think possibility [Beta](room) should work
-- I think the [last](room) one would be what I expected
-- I guess venue [gamma](room) should work
-- I believe the [third](room) option is suitable
-- I guess the [second](room) one is suitable
-- I guess choice [Beta](room) meets our expectations
-- I guess venue [Gamma](room) is ok
-- I believe the [second](room) choice should work
-- one [Beta](room) seems okay
-- I guess option [gamma](room) the best choice
-- I think the [third](room) one should be fine
-- I think option [Gamma](room) is suitable
-- I think room [Alpha](room) works
-- I guess the [second](room) room is the best venue
-- I believe venue [beta](room) would be fine
-- venue [alpha](room) seems what I've expected
-- I think the [second](room) choice should be fine
-- I guess possibility [Beta](room) should work
-- I guess choice [Gamma](room) works
-- I believe the [second](room) possibility the best one
-- I guess room [Alpha](room) should work
-- I guess venue [Alpha](room) meets our expectations
-- I guess the [second](room) one should be fine
-- I guess option [alpha](room) should be fine
-- one [gamma](room) is what we need
-- I think possibility [beta](room) is the best venue
-- I guess the [last](room) room would be what I was looking for
-- I guess room [Beta](room) should work
-- I believe one [beta](room) is suitable
-- I believe the [third](room) choice would be what I've expected
-- I guess venue [beta](room) would be what I was looking for
-- I like venue [beta](room)
-- room [alpha](room) seems what I expected
-- I guess option [Alpha](room) works
-- I guess possibility [gamma](room) the best choice
-- I believe the [first](room) venue is the best
-- I believe room [alpha](room) works
-- I believe the [last](room) one should be fine
-- I believe possibility [alpha](room) is the best
-- choice [Gamma](room) is what we expected
-- I guess one [alpha](room) is suitable
-- I believe the [last](room) venue is okay
-- I believe room [gamma](room) is the best
-- I believe one [alpha](room) should work
-- I guess the [third](room) possibility should be fine
-- [Beta](room) seems what I need
-- I believe the [last](room) possibility is suitable
-- I guess venue [alpha](room) should be fine
-- I believe the [first](room) choice the best venue
-- I think venue [Beta](room) is what I'm looking for
-- I think venue [Beta](room) meets our expectations
-- I think the [first](room) option is ok
-- I believe choice [beta](room) is what I expected
-- possibility [gamma](room) seems what we need
-- I think the [first](room) one is suitable
-- I believe the [first](room) option works
-- I guess venue [Beta](room) is the best possibility
-- I believe possibility [Beta](room) is what we expected
-- I think the [first](room) room works
-- I think choice [gamma](room) the best
-- I think choice [alpha](room) should be fine
-- I think the [second](room) venue meets our expectations
-- option [gamma](room) seems what I'm looking for
-- I guess possibility [gamma](room) meets our expectations
-- I guess the [last](room) venue works
-- I think option [gamma](room) should be fine
-- I believe the [first](room) room is okay
-- I think venue [Beta](room) works
-- I guess choice [Beta](room) is the best option
-- I believe the [third](room) room works
-- one [beta](room) is what I was looking for
-- I guess room [Beta](room) is suitable
-- I guess the [last](room) venue is good
-- I think room [gamma](room) is the best one
-- I guess room [Gamma](room) the best option
-- I believe the [third](room) venue is suitable
-- I think possibility [gamma](room) should be fine
-- I believe possibility [gamma](room) is great
-- I think the [last](room) room works
-- I guess room [Gamma](room) is the best choice
-- I guess choice [Beta](room) should work
-- I guess venue [gamma](room) is the best room
-- I believe the [first](room) possibility the best option
-- choice [alpha](room) seems what I was looking for
-- I believe option [gamma](room) would be what I need
-- I guess the [second](room) room should be fine
-- I think choice [gamma](room) is suitable
-- I guess the [second](room) room is suitable
-- I think the [last](room) one the best possibility
-- I guess venue [gamma](room) is the best one
-- I believe room [alpha](room) would be okay
-- I guess the [last](room) choice is what I'm looking for
-- [Alpha](room) seems what I need
-- I believe room [beta](room) is suitable
-- I believe option [gamma](room) is suitable
-- I guess the [first](room) one is the best possibility
-- I guess option [beta](room) meets our expectations
-- I think the [last](room) one works
-- I guess option [beta](room) is suitable
-- I guess one [Beta](room) is the best possibility
-- I think the [second](room) venue would be the best
-- option [alpha](room) seems what we need
-- I believe option [gamma](room) would be what I expected
-- I think the [last](room) option is the best option
-- I guess one [Gamma](room) works
-- I guess the [third](room) choice would be what I was looking for
-- I guess choice [gamma](room) is what I'm looking for
-- I believe choice [gamma](room) works
-- room [alpha](room) seems what I need
-- I think the [third](room) venue is okay
-- I think venue [beta](room) is ideal
-- I believe the [third](room) venue should be fine
-- I believe one [Alpha](room) the best one
-- I think the [third](room) one is suitable
-- choice [alpha](room) seems what we need
-- I think the [third](room) possibility should work
-- I believe choice [gamma](room) meets our expectations
-- I guess one [beta](room) is perfect
-- I believe one [Beta](room) should work
-- I believe possibility [Beta](room) would be what I expected
-- I believe the [third](room) one is the best one
-- option [gamma](room) is ok
-- I think choice [Beta](room) is perfect
-- I guess the [second](room) possibility is the best one
-- I guess one [gamma](room) is the best option
-- I think option [Gamma](room) the best choice
-- I believe the [last](room) possibility meets our expectations
-- I guess room [beta](room) works
-- option [alpha](room) is ideal
-- I think the [last](room) choice the best choice
-- I guess room [Alpha](room) is suitable
-- I guess option [alpha](room) is the best possibility
-- I think the [last](room) venue should work
-- I believe one [beta](room) would be what I need
-- I think the [second](room) one would be what I expected
-- I think option [Gamma](room) should be fine
-- room [Gamma](room) seems ideal
-- I believe the [last](room) one meets our expectations
-- I guess the [third](room) one the best
-- I believe room [Alpha](room) should work
-- I guess possibility [beta](room) the best room
-- I think the [second](room) one is the best possibility
-- I guess possibility [alpha](room) works
-- I believe the [third](room) possibility works
-- I believe option [gamma](room) would be ok
-- [Gamma](room) is perfect
-- I guess option [Beta](room) should work
-- I believe the [first](room) possibility works
-- I think option [Gamma](room) is the best choice
-- I believe one [gamma](room) should work
-- I guess choice [Alpha](room) is the best possibility
-- I think the [last](room) venue meets our expectations
-- I prefer venue [alpha](room)
-- venue [gamma](room) is what we're looking for
-- I guess one [Gamma](room) should be fine
-- I believe option [Alpha](room) the best one
-- I believe the [last](room) choice would be what I was looking for
-- I guess the [first](room) one the best choice
-- I think the [first](room) possibility works
-- I think choice [alpha](room) would be what I was looking for
-- venue [Alpha](room) seems what I'm looking for
-- I believe the [third](room) choice would be great
-- I believe room [alpha](room) should work
-- I think choice [Alpha](room) is suitable
-- I guess possibility [gamma](room) should work
-- I believe the [last](room) room works
-- I think option [gamma](room) meets our expectations
-- one [alpha](room) seems the best
-- I guess possibility [beta](room) works
-- I think the [third](room) option is the best choice
-- I guess option [Beta](room) should be fine
-- I guess the [last](room) one is suitable
-- I think the [first](room) one the best option
-- I guess possibility [alpha](room) is the best one
-- I believe choice [alpha](room) works
-- I guess the [first](room) possibility is what I need
-- I guess room [beta](room) is suitable
-- venue [alpha](room) seems what we expected
-- I believe the [first](room) room is the best venue
-- I think possibility [Gamma](room) works
-- I believe choice [beta](room) should work
-- I think the [last](room) possibility works
-- I guess room [Beta](room) is the best possibility
-- I guess the [second](room) possibility is the best choice
-- I think one [alpha](room) is the best possibility
-- venue [Alpha](room) seems perfect
-- I believe one [gamma](room) should be fine
-- I guess the [last](room) room works
-- I think one [Alpha](room) meets our expectations
-- I think the [first](room) one would be what I need
-- I believe venue [Gamma](room) should be fine
-- I guess the [third](room) one would be what I'm looking for
-- I guess possibility [alpha](room) should work
-- room [beta](room) is good
-- I believe the [first](room) one works
-- I think the [first](room) one meets our expectations
-- I guess option [Gamma](room) would be what I need
-- I think choice [beta](room) would be the best
-- I believe the [first](room) one should work
-- I think venue [gamma](room) meets our expectations
-- room [Gamma](room) seems what we expected
-- I guess the [third](room) venue should work
-- I believe one [Alpha](room) should be fine
-- I believe the [last](room) choice works
-- I think choice [Gamma](room) is suitable
-- I guess one [beta](room) the best
-- I think the [third](room) choice is great
-- I think the [first](room) one should work
-- possibility [Alpha](room) is what I'm looking for
-- I think option [beta](room) should be fine
-- I guess possibility [Gamma](room) the best room
-- I believe one [Alpha](room) is what I need
-- I guess the [second](room) choice meets our expectations
+- I believe the [last](room) venue would be what we're looking for
 - I think choice [Gamma](room) meets our expectations
-- choice [Alpha](room) is good
-- I guess the [second](room) choice is good
-- I guess venue [Gamma](room) is suitable
-- I believe option [Gamma](room) works
-- I guess room [gamma](room) meets our expectations
-- I believe the [third](room) possibility should work
-- I believe room [Gamma](room) meets our expectations
-- one [Beta](room) seems what I've expected
-- I think the [second](room) one would be what I was looking for
-- I think the [third](room) option is the best option
-- I believe venue [beta](room) meets our expectations
-- I think the [first](room) one is what we need
-- I believe one [Alpha](room) would be great
-- I guess the [last](room) venue is what we expected
-- option [Gamma](room) seems what I've expected
-- I believe venue [Gamma](room) should work
-- I guess the [first](room) room is okay
-- I guess venue [beta](room) should work
-- I believe one [Alpha](room) the best choice
-- I guess the [last](room) option is the best choice
-- I believe room [beta](room) would be what I'm looking for
-- I believe the [last](room) venue is suitable
-- option [beta](room) seems the best
-- I guess venue [beta](room) the best possibility
-- I guess the [first](room) possibility works
-- I believe the [second](room) one works
-- I believe option [Gamma](room) is suitable
-- I think one [Gamma](room) the best room
-- I believe the [second](room) choice is suitable
-- I guess one [alpha](room) is what I expected
-- possibility [Alpha](room) seems fine
-- I believe choice [beta](room) would be what I was looking for
-- I guess the [first](room) option is what I expected
-- I guess room [Gamma](room) the best one
-- I believe the [third](room) possibility is good
-- I believe choice [Beta](room) meets our expectations
-- I believe option [gamma](room) should work
-- I think the [first](room) room is suitable
-- one [Alpha](room) is the best
-- I believe choice [Alpha](room) the best room
-- I guess the [third](room) choice should work
-- I believe room [Alpha](room) would be the best
-- I believe venue [beta](room) is suitable
-- I think the [last](room) venue should be fine
+- I think venue [Alpha](room) is suitable
+- choice [Alpha](room) seems what we need
+- I think the [last](room) one meets our expectations
+- I believe choice [beta](room) the best choice
+- I guess the [second](room) option is what I need
+- I believe venue [Gamma](room) the best possibility
+- I believe room [alpha](room) is suitable
+- I believe the [first](room) possibility is ideal
+- I think one [gamma](room) should work
+- [alpha](room) seems what we're looking for
+- I guess the [first](room) one is what I was looking for
+- I guess the [third](room) venue is suitable
+- I believe venue [beta](room) is ideal
+- I think possibility [beta](room) the best
+- I guess the [second](room) room is ideal
+- I think option [gamma](room) should be fine
+- I believe the [first](room) room works
+- I think venue [alpha](room) should work
+- choice [Gamma](room) seems what I was looking for
+- I guess choice [Alpha](room) the best room
+- I believe the [second](room) one is suitable
+- I believe one [gamma](room) is the best
+- I believe the [last](room) possibility should work
+- I think one [Alpha](room) would be what I'm looking for
+- I think option [Gamma](room) would be what I was looking for
+- choice [gamma](room) seems what we're looking for
+- I believe the [first](room) option is suitable
+- I think choice [beta](room) would be ideal
+- I think the [last](room) one the best one
+- I guess choice [beta](room) should work
+- I believe the [last](room) venue meets our expectations
+- I believe room [beta](room) is the best one
+- I think the [third](room) possibility the best possibility
+- I guess option [Alpha](room) should work
+- choice [Beta](room) is ok
+- I think room [beta](room) would be what we need
+- I believe the [third](room) choice is perfect
+- I believe venue [beta](room) would be what I was looking for
+- I believe the [third](room) venue is the best option
+- I believe choice [Beta](room) the best possibility
+- I believe option [gamma](room) the best possibility
+- I think the [second](room) one meets our expectations
+- I think choice [Beta](room) the best
+- I guess the [last](room) option is the best possibility
+- I guess room [gamma](room) works
+- I think the [first](room) choice should be fine
+- I believe the [second](room) one would be what we're looking for
+- I think room [Beta](room) the best choice
+- I think venue [Beta](room) the best choice
+- I believe the [third](room) possibility should be fine
+- one [Gamma](room) seems okay
+- I guess one [Gamma](room) should work
+- I guess room [Alpha](room) meets our expectations
+- I guess the [third](room) possibility is suitable
+- I guess one [Alpha](room) meets our expectations
+- I believe the [last](room) choice the best room
+- I guess one [gamma](room) is the best room
+- one [beta](room) is great
+- I guess choice [gamma](room) should work
+- I believe the [third](room) one should be fine
+- I guess choice [gamma](room) should be fine
+- I think the [second](room) option should be fine
+- I guess option [Gamma](room) is what we're looking for
+- I guess the [second](room) choice is what I was looking for
+- I think the [third](room) one is suitable
+- I guess venue [gamma](room) would be good
+- one [alpha](room) is the best
+- I think possibility [Alpha](room) would be what I'm looking for
+- I think the [second](room) option is suitable
+- I guess choice [Beta](room) is the best
+- I believe room [alpha](room) works
 - I guess the [first](room) one meets our expectations
-- I believe room [gamma](room) should work
-- I guess the [second](room) venue should work
+- I guess venue [Alpha](room) is suitable
+- I think the [second](room) venue works
+- venue [Alpha](room) is what we're looking for
+- I guess room [alpha](room) the best venue
+- I guess the [first](room) possibility the best
+- I guess room [alpha](room) should be fine
+- I believe option [Gamma](room) is suitable
+- I think the [second](room) one works
+- I think room [Beta](room) works
+- I believe the [last](room) one should be fine
+- I guess possibility [gamma](room) meets our expectations
+- I believe the [second](room) one the best venue
+- one [alpha](room) is what I've expected
+- I believe choice [gamma](room) would be fine
+- I believe the [third](room) possibility works
+- I guess option [Alpha](room) works
+- I think possibility [Gamma](room) should work
+- I think the [third](room) room the best choice
+- I think room [gamma](room) the best option
+- [Beta](room) is what we're looking for
+- I believe the [third](room) venue should work
+- I think room [Gamma](room) should work
+- I think one [Alpha](room) should work
+- I think possibility [alpha](room) the best room
+- I think the [first](room) choice is suitable
+- I believe venue [beta](room) would be okay
+- room [gamma](room) is ok
+- I believe the [first](room) one the best option
+- I guess the [second](room) choice would be good
+- I believe one [beta](room) would be ideal
+- I guess venue [Gamma](room) should be fine
+- I guess the [first](room) choice is what we expected
+- I guess the [second](room) possibility is what we need
+- I believe venue [Gamma](room) meets our expectations
+- [gamma](room) is ok
+- I believe one [beta](room) is suitable
+- I guess the [third](room) one is suitable
+- I guess room [Beta](room) works
+- I guess the [last](room) possibility is ideal
+- I believe possibility [beta](room) is the best
+- I believe room [gamma](room) should be fine
+- room [beta](room) is what I expected
+- I believe the [first](room) possibility meets our expectations
+- I guess possibility [gamma](room) is ideal
+- I guess room [alpha](room) is what I was looking for
+- I think the [first](room) one works
+- I think venue [alpha](room) meets our expectations
+- I think the [last](room) choice is the best room
+- I like room [Gamma](room)
+- one [Gamma](room) seems good
+- I guess possibility [Beta](room) is suitable
+- I think the [first](room) option is the best choice
+- I think option [Alpha](room) is the best room
+- I think the [second](room) choice meets our expectations
 - I believe room [Gamma](room) should work
-- option [Alpha](room) is ideal
-- I believe possibility [Alpha](room) should be fine
+- I guess the [last](room) venue is good
+- I think option [Alpha](room) is what I expected
+- one [Beta](room) is okay
+- I believe possibility [alpha](room) is what I'm looking for
+- I think the [third](room) choice is suitable
+- I believe the [first](room) possibility should be fine
+- I think one [beta](room) should be fine
+- I guess one [gamma](room) is what we need
+- I believe the [last](room) possibility would be what I need
+- choice [Beta](room) seems what we expected
+- I guess option [beta](room) is the best possibility
+- I believe the [last](room) one meets our expectations
+- I believe option [Gamma](room) should work
+- I think venue [Gamma](room) would be ok
+- I believe the [first](room) room is suitable
+- I guess venue [Alpha](room) would be fine
+- venue [Beta](room) seems perfect
+- I guess the [third](room) choice is suitable
+- I think option [Alpha](room) should work
+- I guess option [gamma](room) is the best option
+- I think the [last](room) option is suitable
+- I believe venue [Alpha](room) the best
+- I guess the [first](room) choice should be fine
+- I guess option [alpha](room) works
+- I think the [last](room) one would be what we're looking for
+- room [gamma](room) is ideal
+- I believe one [Alpha](room) works
+- I believe the [first](room) choice would be what I'm looking for
+- I guess option [gamma](room) meets our expectations
+- I believe the [third](room) option works
+- I think venue [Beta](room) should work
+- I believe one [beta](room) the best room
+- I guess the [first](room) venue meets our expectations
+- I think choice [alpha](room) is the best choice
+- one [gamma](room) is what we need
 - I guess the [last](room) option is the best
-- I think room [alpha](room) is what I'm looking for
+- I believe room [alpha](room) should work
+- I guess choice [beta](room) works
+- I guess the [third](room) room works
+- I think choice [Alpha](room) should work
+- I think the [second](room) one is perfect
+- I think room [Alpha](room) meets our expectations
+- I guess the [third](room) option should be fine
+- choice [alpha](room) seems what we need
+- I guess possibility [beta](room) meets our expectations
+- I guess the [third](room) venue is what we expected
+- I believe choice [gamma](room) is the best
+- I believe the [third](room) choice should work
+- I guess option [Gamma](room) the best one
+- I guess venue [Beta](room) is what we're looking for
+- [Alpha](room) seems good
+- I believe the [first](room) choice should work
+- I think one [Alpha](room) works
+- I think the [first](room) room meets our expectations
+- I think choice [Beta](room) should be fine
+- I guess room [beta](room) the best choice
+- I guess the [last](room) option is the best venue
+- I guess possibility [alpha](room) is suitable
+- option [gamma](room) seems what I was looking for
+- I believe the [second](room) room the best possibility
+- I guess the [second](room) one is the best choice
+- I think option [Alpha](room) meets our expectations
+- I think the [third](room) one is what I was looking for
+- I believe option [alpha](room) is the best
+- I guess the [last](room) option the best one
+- I think one [Beta](room) is suitable
+- [Alpha](room) is ok
+- I think choice [Gamma](room) is what we need
+- I guess the [third](room) choice meets our expectations
+- I believe choice [gamma](room) should be fine
+- I believe the [third](room) possibility should work
+- I believe room [Beta](room) works
+- I believe possibility [beta](room) works
+- option [alpha](room) seems what we expected
+- I think one [alpha](room) meets our expectations
+- I believe choice [Gamma](room) is the best one
+- I believe the [third](room) venue is suitable
+- I guess venue [Alpha](room) is fine
+- I think the [second](room) option is what we expected
+- I believe room [Alpha](room) would be fine
+- choice [Gamma](room) seems perfect
+- I guess the [first](room) one is the best option
+- I guess choice [Gamma](room) the best option
+- I believe option [beta](room) would be what I need
+- I think the [first](room) room the best possibility
+- I believe possibility [beta](room) should be fine
+- I guess the [last](room) choice is the best choice
+- I believe one [gamma](room) is what I've expected
+- one [Alpha](room) seems ideal
+- I believe possibility [gamma](room) should be fine
+- I guess the [last](room) possibility should work
+- I believe option [Alpha](room) meets our expectations
+- I believe the [third](room) one is what I expected
+- I believe choice [gamma](room) meets our expectations
+- I believe the [second](room) option is the best
+- room [gamma](room) seems good
+- I believe venue [Gamma](room) works
+- I believe room [beta](room) meets our expectations
+- I guess the [second](room) venue would be what I'm looking for
+- I believe option [Gamma](room) works
+- I believe the [last](room) room is the best
+- I guess option [alpha](room) is perfect
+- choice [beta](room) seems what I expected
+- I guess the [second](room) option is suitable
+- I think one [alpha](room) should be fine
+- I guess venue [Beta](room) is the best venue
+- I think the [last](room) possibility should be fine
+- I believe venue [gamma](room) works
+- I think the [last](room) one would be fine
+- I believe the [third](room) venue should be fine
+- I think one [alpha](room) works
+- I believe one [alpha](room) is the best
+- possibility [Gamma](room) seems what I need
+- I think room [Gamma](room) is suitable
+- I believe the [last](room) choice meets our expectations
+- I guess possibility [alpha](room) should work
+- I guess venue [beta](room) is the best choice
+- I guess the [second](room) possibility meets our expectations
+- venue [alpha](room) is what we need
+- I prefer room [Beta](room)
+- I believe possibility [gamma](room) meets our expectations
+- I guess room [Alpha](room) would be the best
+- I believe the [third](room) one should work
+- I guess choice [alpha](room) is fine
+- I believe the [first](room) one the best room
+- I think venue [gamma](room) meets our expectations
+- venue [Gamma](room) is what I expected
+- I guess the [second](room) venue the best venue
+- I believe venue [alpha](room) is good
+- I believe the [second](room) option is what we expected
+- I guess room [Gamma](room) is the best possibility
+- I believe one [beta](room) works
+- one [beta](room) seems good
+- I guess the [second](room) choice is the best venue
+- I guess one [beta](room) should be fine
+- I guess the [last](room) option would be what we're looking for
+- I believe choice [beta](room) is the best choice
+- I believe room [Alpha](room) should work
+- I think the [third](room) possibility is suitable
+- I believe venue [Alpha](room) the best venue
+- venue [alpha](room) is what I need
+- I guess the [last](room) choice would be what we're looking for
+- I guess choice [Beta](room) is the best possibility
+- I guess the [second](room) one the best one
+- I believe one [Alpha](room) is the best choice
+- I believe the [third](room) venue would be what I'm looking for
+- I believe choice [beta](room) is what we need
+- I believe option [Alpha](room) is good
+- I guess the [first](room) option is suitable
+- possibility [Beta](room) seems what we need
+- I believe possibility [Alpha](room) is what I've expected
+- I believe the [second](room) venue is what we need
+- I guess possibility [gamma](room) is what I've expected
+- I believe the [third](room) room is suitable
+- I guess one [alpha](room) works
+- I guess room [alpha](room) is suitable
+- I guess the [last](room) room should be fine
+- venue [alpha](room) seems good
+- I guess choice [alpha](room) the best possibility
+- I think the [third](room) possibility meets our expectations
+- I believe venue [Beta](room) should work
+- I think option [Beta](room) is suitable
+- I guess the [first](room) choice is suitable
+- I believe venue [Beta](room) should be fine
+- option [Gamma](room) is what I need
+- I guess the [second](room) room the best
+- I think room [Gamma](room) is the best option
+- I guess venue [beta](room) is the best one
+- I believe the [third](room) one is suitable
+- I believe one [gamma](room) meets our expectations
+- I guess room [beta](room) should work
+- I believe the [second](room) choice should work
+- possibility [alpha](room) is fine
+- I guess option [alpha](room) is suitable
+- I guess the [first](room) room works
+- I think room [alpha](room) is suitable
+- I believe the [last](room) room is what I'm looking for
+- I guess the [third](room) one should be fine
+- I think possibility [Gamma](room) is great
+- I think the [second](room) possibility should be fine
+- option [Beta](room) is perfect
+- I think option [Beta](room) should work
+- I think choice [beta](room) is the best venue
+- I believe the [third](room) venue works
+- I think option [Alpha](room) the best one
+- I think the [first](room) one is ok
+- I guess the [first](room) option is the best choice
+- I believe one [beta](room) should be fine
+- one [beta](room) seems what I need
+- I guess possibility [gamma](room) is okay
+- I think the [second](room) venue should work
+- I believe room [Gamma](room) works
+- I believe the [second](room) option the best option
+- I believe option [gamma](room) the best choice
+- I guess the [first](room) one is the best venue
+- I guess one [Beta](room) is the best option
+- room [beta](room) is what I'm looking for
+- I think the [second](room) option should work
+- I guess choice [Alpha](room) should be fine
+- I guess the [third](room) venue should work
+- I guess possibility [Gamma](room) the best choice
+- I guess one [alpha](room) is suitable
+- I believe the [third](room) venue meets our expectations
+- I believe room [Beta](room) should work
+- room [Beta](room) is ideal
+- I believe the [last](room) option should work
+- I believe room [Beta](room) meets our expectations
+- I believe room [gamma](room) meets our expectations
+- I guess the [second](room) one the best room
+- I guess the [first](room) venue should work
+- I think option [Alpha](room) is the best option
+- I guess the [first](room) option the best possibility
+- I believe choice [Gamma](room) is the best choice
+- I guess one [beta](room) is the best room
+- I think venue [beta](room) is suitable
+- option [gamma](room) seems fine
+- I believe the [last](room) room would be what I'm looking for
+- I believe one [gamma](room) is fine
+- I believe the [third](room) possibility would be perfect
+- I believe choice [gamma](room) works
+- I guess choice [Alpha](room) works
+- I think one [Gamma](room) should be fine
+- [alpha](room) is what we're looking for
+- I believe the [second](room) one works
+- I guess possibility [Gamma](room) meets our expectations
+- I think the [second](room) room works
+- I guess room [gamma](room) would be what I've expected
+- I guess the [second](room) room is suitable
+- I guess possibility [gamma](room) is the best room
+- I guess venue [beta](room) the best venue
+- I think the [last](room) choice is what I need
+- choice [beta](room) is the best
+- I think possibility [Alpha](room) works
+- I think the [second](room) room is suitable
+- I think choice [Alpha](room) would be ideal
+- I guess the [first](room) room should be fine
+- I think venue [Gamma](room) should be fine
+- I think one [alpha](room) is what I'm looking for
+- I prefer choice [Beta](room)
+- one [Gamma](room) is what I was looking for
+- I believe venue [Alpha](room) works
+- I believe the [first](room) venue should be fine
+- I think choice [alpha](room) works
+- I believe the [last](room) one should work
+- I think one [alpha](room) is the best
+- I guess the [last](room) venue is the best room
+- I believe venue [beta](room) would be good
+- room [Gamma](room) seems great
+- I think the [first](room) venue would be what I'm looking for
+- I think possibility [Gamma](room) should be fine
+- I guess the [first](room) venue should be fine
+- I believe room [alpha](room) meets our expectations
+- I believe the [third](room) possibility would be what I need
+- one [gamma](room) is what I need
+- I believe possibility [Beta](room) the best room
+- I guess the [second](room) possibility works
+- I believe possibility [alpha](room) meets our expectations
+- I think venue [Beta](room) meets our expectations
+- I guess the [third](room) choice works
+- I believe the [first](room) one meets our expectations
+- I think choice [alpha](room) meets our expectations
+- I think the [first](room) venue is the best option
+- I think possibility [Alpha](room) is suitable
+- option [Alpha](room) seems what we're looking for
+- I guess one [Alpha](room) is the best one
+- I believe the [third](room) room meets our expectations
+- I believe option [beta](room) is the best option
+- I guess the [last](room) venue would be ideal
+- I think option [Alpha](room) the best venue
+- I think the [last](room) option is fine
+- I believe possibility [Beta](room) meets our expectations
+- venue [Beta](room) is what I was looking for
+- I guess room [Beta](room) would be perfect
+- I guess the [third](room) possibility should be fine
+- I believe room [beta](room) works
+- I believe option [Alpha](room) should be fine
+- I believe choice [Alpha](room) should be fine
+- option [beta](room) is what I was looking for
+- I guess the [second](room) venue is what we're looking for
+- I think choice [gamma](room) is suitable
+- I guess the [second](room) venue is what I need
+- I believe one [Beta](room) would be what I've expected
+- I guess room [gamma](room) is the best
+- I believe one [gamma](room) the best venue
+- venue [alpha](room) is good
+- I believe room [Beta](room) the best possibility
+- I guess the [last](room) choice should work
+- I guess choice [Beta](room) should work
+- I think the [last](room) possibility works
+- I think room [Alpha](room) should work
+- I guess the [last](room) venue would be what we're looking for
+- I guess the [second](room) one would be what I expected
+- I believe option [gamma](room) works
+- choice [gamma](room) is what I was looking for
+- I believe option [gamma](room) is suitable
+- I believe the [first](room) possibility works
+- I guess possibility [gamma](room) should be fine
+- I guess the [last](room) choice is the best option
+- I guess venue [alpha](room) is suitable
+- I guess one [alpha](room) should be fine
+- I believe the [second](room) option is the best room
+- choice [Beta](room) seems ideal
+- I think possibility [alpha](room) should be fine
+- I believe room [alpha](room) the best venue
+- I think the [first](room) possibility works
+- I believe option [Gamma](room) is perfect
+- I guess the [second](room) option meets our expectations
+- I believe venue [alpha](room) is what I'm looking for
+- venue [Alpha](room) seems what we need
+- I guess the [first](room) one is the best
+- I think venue [Gamma](room) would be what we expected
+- I think the [first](room) option the best option
+- I guess option [Alpha](room) should be fine
+- I guess the [second](room) one would be what I've expected
+- I think venue [Beta](room) is the best venue
+- I believe option [gamma](room) the best room
+- I believe the [last](room) choice is the best option
+- choice [alpha](room) seems what I expected
+- I guess room [alpha](room) meets our expectations
+- I guess the [second](room) option should work
+- I believe possibility [alpha](room) should be fine
 - I believe the [first](room) room should work
-- I believe choice [Gamma](room) would be ideal
-- I guess the [third](room) one is what we need
-- I guess venue [alpha](room) the best venue
+- I believe choice [gamma](room) is the best venue
+- I believe room [Alpha](room) would be what I'm looking for
+- I believe the [second](room) choice the best possibility
+- room [Beta](room) is what I expected
+- I believe choice [beta](room) is suitable
+- I guess choice [alpha](room) would be ideal
+- I think the [last](room) one the best venue
+- I think the [second](room) room the best room
+- I believe option [gamma](room) is okay
+- I believe the [second](room) one would be what I need
+- I guess room [Beta](room) is suitable
+- choice [Beta](room) seems good
+- I think the [third](room) possibility is the best possibility
+- I believe room [Beta](room) is the best option
+- I believe possibility [Alpha](room) the best possibility
+- I think the [third](room) room is ok
+- I think room [alpha](room) is the best possibility
+- I guess the [last](room) one is the best option
+- I guess choice [Alpha](room) is the best
+- venue [alpha](room) is what I've expected
+- I guess one [alpha](room) is the best room
+- I believe the [second](room) possibility would be what I need
+- I think room [gamma](room) is suitable
+- I guess the [first](room) choice works
+- I think venue [alpha](room) would be what we need
+- I guess possibility [Beta](room) would be what we need
+- I guess option [Gamma](room) the best possibility
+- possibility [beta](room) seems what we expected
+- I guess the [second](room) one meets our expectations
+- I believe option [alpha](room) is the best one
+- I think the [first](room) option meets our expectations
+- I think room [Beta](room) should be fine
+- I guess room [Gamma](room) should be fine
+- I believe venue [alpha](room) is what I was looking for
+- I believe the [first](room) one is the best choice
+- I guess the [last](room) one meets our expectations
+- I guess choice [beta](room) is suitable
+- venue [beta](room) is what I'm looking for
+- I prefer [Gamma](room)
+- I guess the [second](room) choice is the best option
 
 ## intent:provide_room
-- the [first](room)
-- I'm talking about [alpha](room)
-- I am talking about the [last](room)
-- I'm referring to [Alpha](room)
-- I am talking about the [first](room) room
+- I'm talking about the [first](room) room
+- [gamma](room)
+- I meant the [third](room) one
+- Give me details about [Alpha](room)
+- I'm talking about the [last](room) one
 - I meant room [Gamma](room)
-- I'm talking about the [third](room) one
-- I'm referring to [beta](room)
-- I am talking about the [second](room)
-- I'm talking about [Alpha](room)
-- I mean the [first](room) one
-- Tell me about [beta](room)
-- the [last](room)
-- [third](room) one
-- I mean the [third](room) one
-- I'm referring to [Gamma](room)
-- I am talking about the [second](room) one
-- I am talking about [Beta](room)
-- [third](room) room
-- I mean room [beta](room)
-- the [second](room) one
-- I meant the [first](room)
-- Give me details about [beta](room)
+- I am talking about the [last](room)
+- Tell me about [Beta](room)
+- I meant the [first](room) room
+- I'm referring to [alpha](room)
+- I mean the [third](room)
+- the [third](room) room
+- the [first](room) one
+- I mean room [Gamma](room)
 - I am talking about the [second](room) room
+- [Gamma](room)
+- [third](room) one
+- I meant room [Alpha](room)
+- [last](room) one
+- I mean room [Beta](room)
+- I am talking about the [third](room) one
+- I am talking about the [last](room) one
+- Give me details about [alpha](room)
+- I am talking about the [third](room) room
+- Give me details about [gamma](room)
+- I'm talking about the [third](room)
+- Tell me about [Alpha](room)
+- I mean the [third](room) one
+- I mean room [beta](room)
+- [second](room)
+- Let me know about [beta](room)
+- I mean the [first](room) room
+- [last](room)
+- I meant room [gamma](room)
+- I'm talking about the [second](room)
+- the [last](room)
+- Let me know about [Alpha](room)
+- I mean the [first](room) one
+- I'm talking about [alpha](room)
+- I'm referring to [gamma](room)
+- [beta](room)
+- Give me details about [Beta](room)
+- I meant the [first](room)
+- Tell me about [gamma](room)
+- I'm talking about [Alpha](room)
+- the [first](room)
+- Room [alpha](room)
+- [second](room) one
+- the [second](room) room
+- I am talking about [Alpha](room)
+- I am talking about the [first](room) room
+- I meant room [beta](room)
+- I mean the [last](room)
+- Room [gamma](room)
+- [first](room) room
+- I am talking about the [first](room)
+- [Alpha](room)
 - I'm talking about [Beta](room)
 - I meant the [second](room) one
-- Let me know about [beta](room)
-- I meant the [first](room) room
-- Give me details about [alpha](room)
-- I am talking about [beta](room)
-- I am talking about the [third](room) one
-- Give me details about [Alpha](room)
-- I mean the [last](room) room
-- I mean the [second](room) one
-- Room [Alpha](room)
-- I meant the [last](room) room
-- I'm referring to [alpha](room)
-- I mean the [second](room)
-- I meant room [gamma](room)
-- [first](room) room
-- [Gamma](room)
-- I'm talking about the [third](room)
-- I mean room [Alpha](room)
-- I am talking about the [first](room) one
-- Tell me about [alpha](room)
-- the [third](room) room
-- Room [beta](room)
-- [second](room) one
-- Let me know about [Gamma](room)
-- [first](room) one
-- Give me details about [gamma](room)
-- I mean the [first](room)
-- I'm talking about the [first](room)
-- Let me know about [gamma](room)
-- I'm talking about the [last](room) room
-- I meant the [first](room) one
-- I meant room [beta](room)
-- [second](room)
-- Room [alpha](room)
-- I mean the [second](room) room
-- I'm referring to [gamma](room)
-- I am talking about the [last](room) room
-- I meant the [last](room) one
-- Let me know about [alpha](room)
-- Room [gamma](room)
-- Give me details about [Beta](room)
-- I'm talking about the [second](room) room
-- Tell me about [gamma](room)
-- I mean the [first](room) room
-- the [third](room)
-- [last](room) room
-- I'm talking about the [first](room) one
-- I am talking about [gamma](room)
-- I mean room [Beta](room)
-- I meant the [third](room) one
-- I mean the [last](room)
-- I'm talking about [gamma](room)
-- [last](room)
-- Room [Gamma](room)
-- I am talking about the [last](room) one
-- I mean the [third](room) room
-- [second](room) room
-- the [second](room)
-- [Alpha](room)
-- the [third](room) one
-- I meant the [second](room)
-- I'm talking about the [second](room)
-- the [last](room) one
 - Room [Beta](room)
-- the [last](room) room
-- Give me details about [Gamma](room)
-- I meant the [second](room) room
-- I am talking about the [first](room)
-- the [second](room) room
-- I meant the [third](room) room
-- I mean the [last](room) one
-- I'm talking about [beta](room)
-- I am talking about [alpha](room)
-- I meant room [alpha](room)
-- I meant the [third](room)
-- Tell me about [Beta](room)
-- [beta](room)
-- Let me know about [Beta](room)
-- I meant room [Beta](room)
-- I'm referring to [Beta](room)
-- I'm talking about the [first](room) room
-- I am talking about the [third](room)
-- [gamma](room)
-- I am talking about [Alpha](room)
-- [alpha](room)
-- the [first](room) one
+- I am talking about [Gamma](room)
+- [second](room) room
+- [first](room)
+- I mean room [Alpha](room)
+- I mean the [second](room)
 - Tell me about [Gamma](room)
+- the [second](room) one
+- the [third](room) one
+- I'm referring to [Gamma](room)
+- I am talking about the [second](room)
 - the [first](room) room
-- [last](room) one
-- I'm talking about the [third](room) room
-- I mean room [Gamma](room)
-- I'm talking about the [last](room)
+- Let me know about [gamma](room)
+- the [last](room) room
+- I am talking about the [last](room) room
+- Tell me about [alpha](room)
+- I mean the [third](room) room
+- Room [Alpha](room)
 - [Beta](room)
-- I meant room [Alpha](room)
-- I meant the [last](room)
+- Let me know about [alpha](room)
+- [first](room) one
+- I mean room [gamma](room)
+- I'm talking about the [third](room) one
+- I meant the [second](room) room
+- [third](room) room
+- I'm talking about [gamma](room)
+- I'm talking about the [first](room) one
+- I mean the [last](room) room
+- I meant the [third](room)
+- I'm referring to [Beta](room)
+- [alpha](room)
+- I meant the [third](room) room
+- I mean the [second](room) room
+- I am talking about [Beta](room)
+- I am talking about the [first](room) one
+- I mean the [first](room)
+- I'm talking about the [second](room) one
+- I'm talking about the [third](room) room
+- I am talking about the [third](room)
+- Let me know about [Gamma](room)
+- the [last](room) one
+- Room [Gamma](room)
+- I meant room [alpha](room)
+- I mean the [second](room) one
+- I'm referring to [beta](room)
+- I am talking about the [second](room) one
+- I meant the [second](room)
+- [third](room)
+- Give me details about [beta](room)
+- I'm referring to [Alpha](room)
+- I am talking about [gamma](room)
+- [last](room) room
+- I'm talking about the [first](room)
+- I'm talking about the [last](room)
+- I meant the [last](room) one
+- I mean the [last](room) one
+- I'm talking about the [last](room) room
+- Give me details about [Gamma](room)
+- I meant room [Beta](room)
+- I'm talking about the [second](room) room
+- Tell me about [beta](room)
 
 ## intent:reserve_room
-- Can you reserve meeting room [Beta](room) right now?
-- I would like to reserve meeting room [beta](room).
-- Thank you very much for your help. We go with location [alpha](room).
-- Thank you! I want to book [Alpha](room).
-- Would it be possible to reserve [this](room) event room right now?
-- Thanks for your help! I will book [this](room).
-- Ok! I want to book [the](room) event room.
-- Thanks! We will take [the](room) possibility.
-- Could you book [the](room) location now?
-- Thanks! I will take [it](room).
-- Thanks! We will book [beta](room).
-- We will reserve [the](room) option.
-- Can we book ?
+- Can you make a reservation ?
+- Ok! I will reserve [it](room).
+- Thank you very much for your help. We will book [the](room) option.
+- We would like to book the [second](room) one.
+- Is it possible to make a reservation now?
+- Thank you! We will reserve [it](room).
+- Thank you! We will book [it](room).
+- Thanks! We would like to reserve [it](room).
+- Can we book right now?
+- Thank you! We want [Beta](room).
+- Thank you very much for your help. We want [this](room).
+- Thanks! I will book [the](room) possibility.
+- Can you make a reservation now?
+- Thank you! I will reserve [it](room).
+- Thank you! I take [it](room).
+- Can I book the [third](room) option right now?
+- Thanks! I go with the [last](room) possibility.
+- Ok! I would like to reserve the [second](room) one.
+- Thank you! We will reserve [this](room).
+- Could you do the reservation ?
+- Ok! We would like [this](room) one.
+- Thank you! We would like to reserve [it](room).
+- Could I reserve now?
+- Thank you! We want to book [it](room).
+- I go with [this](room) event room.
+- Can we reserve [this](room) right now?
+- Thank you! I want [it](room).
+- Ok! I want to reserve the [last](room) one.
+- Thanks for your help! I take option [gamma](room).
+- Could we book right now?
+- Thank you! I will reserve possibility [beta](room).
+- Thanks! I will book the [second](room) one.
+- Thanks! We want to reserve [it](room).
+- Would it be possible to book the [last](room) one ?
+- Thanks! We take [alpha](room).
+- Thanks for your help! We would like to book the [third](room) event room.
+- Could we make a reservation right now?
 - We would like to book the [last](room) one.
-- Thank you! I would like room [Beta](room).
-- Could you reserve ?
-- Thanks! I want to book location [Alpha](room).
-- I would like to book [Beta](room).
+- Thank you! We would like to reserve room [Alpha](room).
+- Thanks! We want to book location [gamma](room).
+- Could we book [this](room) ?
+- Ok! I want to book [the](room) option.
+- Thanks for your help! I take [this](room) option.
+- Ok! I would like to book [it](room).
+- Could we do the reservation now?
+- Thanks! I want [it](room).
+- Thank you very much for your help. We want to reserve meeting room [beta](room).
+- Could you reserve [this](room) possibility right now?
+- Ok! We will reserve [the](room) event room.
+- Thanks for your help! I take [this](room).
+- Thanks for your help! We will reserve [this](room).
+- Is it possible to book the [first](room) location ?
+- Thanks! We will reserve [it](room).
+- Thank you! We would like the [second](room) one.
+- Thanks for your help! We will book [the](room) location.
+- Can we do the reservation right now?
 - I will reserve [it](room).
-- Would it be possible to book ?
-- Ok! We would like to book the [first](room) one.
-- Ok! I would like to book [the](room) location.
-- Thank you very much for your help. I would like to book [it](room).
-- Can I make a reservation ?
-- Thank you very much for your help. We will reserve the [third](room) one.
-- Ok! I will take [gamma](room).
-- Can you reserve ?
-- Thank you! I want [this](room).
-- Thanks for your help! We go with [the](room) meeting room.
-- Thank you very much for your help. I would like [it](room).
-- Is it possible to reserve [this](room) meeting room right now?
-- Ok! I will reserve the [last](room) event room.
-- Thank you! We go with [the](room) option.
-- Thank you very much for your help. I go with the [first](room) room.
-- Could we book now?
-- Ok! We want to reserve event room [alpha](room).
+- Thanks! I will reserve [the](room) meeting room.
+- Would it be possible to book location [Alpha](room) now?
+- Thanks for your help! I take the [last](room) one.
+- Thanks! We want to reserve possibility [Beta](room).
+- Thank you very much for your help. I will take [the](room) event room.
+- Can we book [it](room) right now?
+- Thank you very much for your help. We take the [first](room) meeting room.
+- Thank you! We want to book possibility [gamma](room).
+- Thanks! I would like to reserve [it](room).
+- Can you reserve the [first](room) one right now?
+- Thank you very much for your help. I want [the](room) meeting room.
+- Ok! We would like the [last](room) location.
+- Ok! I want to reserve [this](room) meeting room.
+- Can I reserve right now?
+- Ok! I will book [this](room) one.
+- Thanks for your help! We want to book [it](room).
+- Is it possible to make a reservation ?
+- Thanks for your help! We would like event room [Beta](room).
+- Thank you very much for your help. We want to reserve event room [Alpha](room).
+- Thanks for your help! We will reserve the [third](room) room.
+- Could I do the reservation now?
+- Thank you very much for your help. We want [it](room).
+- Thank you! I go with [this](room) one.
+- Thank you! I would like [the](room) room.
+- Thank you! We will book [the](room) room.
+- Thank you! We want to book [this](room) one.
+- Could we book location [gamma](room) now?
+- We would like to reserve [it](room).
+- Thanks for your help! I will take [it](room).
+- Thanks! I take [this](room) option.
+- Can you book [this](room) one ?
+- Ok! We want to reserve possibility [Gamma](room).
+- Thank you! I would like to book the [third](room) option.
+- Thank you very much for your help. We want to book the [second](room) one.
+- Can you book right now?
+- Thanks for your help! I will reserve [the](room) room.
+- We go with [it](room).
+- I take the [third](room) room.
+- Thank you very much for your help. We would like to reserve [the](room) event room.
+- Would it be possible to make a reservation right now?
+- Thank you! We would like to book [alpha](room).
+- Thanks! We will book [this](room).
+- Ok! We will book location [alpha](room).
+- Can you reserve the [first](room) meeting room ?
+- We would like to reserve location [alpha](room).
+- Thank you! We want to book [this](room).
+- Can we reserve [the](room) event room right now?
+- Thanks for your help! I go with [the](room) event room.
+- Ok! We would like to reserve [it](room).
+- Ok! I will take [this](room).
+- Could we do the reservation right now?
+- We will take [the](room) room.
+- Thanks! I want to book the [third](room) room.
+- Thanks! I would like to reserve the [second](room) possibility.
+- Can we book the [third](room) one now?
+- Thank you! I take [this](room) one.
+- Thanks! I would like [Alpha](room).
+- Can you do the reservation ?
+- Thanks for your help! I go with [this](room).
+- Thank you! We want to reserve [the](room) option.
+- Thank you! I want to book [it](room).
+- Would it be possible to reserve now?
+- Thanks! I want to book the [second](room) one.
+- Thank you very much for your help. We would like [the](room) room.
 - I want to reserve [the](room) room.
 - Can I book right now?
-- I would like to reserve meeting room [Beta](room).
-- Thank you very much for your help. We would like to book [this](room) one.
-- Thanks! I would like to book [the](room) possibility.
-- Could we reserve now?
-- Thank you very much for your help. We would like to book [this](room).
-- Thank you! I will reserve room [gamma](room).
-- Thank you! I would like to book [this](room).
-- Can we do the reservation now?
-- Ok! I go with [alpha](room).
-- We want [it](room).
-- Can we do the reservation right now?
-- Thanks! I would like to reserve [it](room).
-- Thanks for your help! I will take [the](room) room.
-- Thanks! We will book [this](room).
-- Is it possible to reserve now?
-- Thank you! I would like event room [Beta](room).
-- I will take the [third](room) one.
-- Thank you very much for your help. We would like [it](room).
-- Could you reserve [the](room) possibility right now?
-- Thank you! We want to reserve [it](room).
-- Thanks for your help! I go with room [Gamma](room).
-- Would it be possible to make a reservation right now?
+- Thanks for your help! I take event room [Alpha](room).
+- Thanks for your help! We will reserve [Alpha](room).
 - Thank you very much for your help. I will take [this](room).
-- Thank you very much for your help. We would like to reserve the [last](room) one.
-- Ok! We would like to reserve [it](room).
-- Could I do the reservation right now?
-- Thank you! I want [this](room) possibility.
-- Thanks for your help! I want [the](room) location.
-- Ok! I will reserve [Gamma](room).
-- Can I book the [second](room) one ?
-- Thanks for your help! I want to book [this](room).
-- Thanks for your help! We would like to book [this](room) room.
-- Thank you! I would like to reserve [it](room).
-- Could I reserve the [first](room) one ?
-- Thanks for your help! We will book the [first](room) one.
-- Ok! I would like to reserve [this](room).
-- Could you reserve the [second](room) option right now?
-- Thank you! We will reserve [the](room) room.
-- Thank you very much for your help. I will take [it](room).
-- Thanks! We want the [last](room) one.
-- Is it possible to reserve ?
-- Thank you very much for your help. We would like [the](room) meeting room.
-- We will take meeting room [Alpha](room).
-- Ok! We will take the [second](room) one.
-- Can I reserve ?
-- I would like [the](room) room.
-- Ok! We would like [the](room) possibility.
-- Can we reserve right now?
-- We take event room [Beta](room).
-- Ok! We want [gamma](room).
-- Thank you very much for your help. We would like to book [the](room) possibility.
-- Can I book [it](room) now?
-- Ok! We would like to reserve [the](room) room.
-- Thanks! I would like [it](room).
-- Thank you very much for your help. We want [the](room) room.
-- Can we reserve the [third](room) meeting room right now?
-- Thanks for your help! We will reserve [this](room) one.
-- I take [this](room) one.
-- Could I do the reservation ?
-- Ok! I want the [third](room) location.
-- Ok! I want [the](room) location.
-- Ok! We will take [this](room).
-- Can I reserve [this](room) right now?
-- Thank you very much for your help. I will book [beta](room).
-- Thank you very much for your help. I would like [this](room) event room.
-- Thanks for your help! We want to reserve [it](room).
-- Could you reserve [it](room) now?
-- Thanks for your help! We will take [this](room).
-- Thank you very much for your help. We take the [last](room) location.
-- Can you book [it](room) now?
-- Ok! We want to reserve [this](room).
-- Ok! I will reserve room [gamma](room).
-- Thanks! We want to book [this](room) one.
-- Can you reserve [this](room) one right now?
-- Ok! We want event room [beta](room).
-- Ok! We want to book the [first](room) one.
-- Thanks for your help! We will book [this](room).
-- Thank you! I want [it](room).
-- Thank you very much for your help. I will book [the](room) meeting room.
-- Is it possible to do the reservation right now?
-- Thanks! I will reserve [the](room) meeting room.
-- Ok! We will take [the](room) room.
-- We would like the [first](room) location.
-- Could I book [Gamma](room) now?
-- We want [the](room) possibility.
-- Thank you very much for your help. We would like to book the [second](room) one.
-- Thanks for your help! I would like to book [it](room).
-- Would it be possible to reserve [the](room) event room right now?
-- Thanks for your help! I want to book [the](room) room.
-- Thanks for your help! We go with [this](room).
-- Thank you! We would like to reserve the [second](room) meeting room.
-- Thank you very much for your help. We would like location [alpha](room).
-- We would like meeting room [Alpha](room).
-- Is it possible to reserve [Alpha](room) now?
-- Thanks! I go with possibility [alpha](room).
-- Ok! We will take possibility [gamma](room).
-- Thank you very much for your help. We take [the](room) possibility.
-- Could we book [this](room) possibility now?
-- We want the [second](room) room.
-- Thank you! We want [this](room) one.
-- I will take [this](room) meeting room.
-- Can we reserve the [first](room) meeting room ?
-- Thanks! I go with [Alpha](room).
-- Thanks! We would like to book the [third](room) one.
-- Would it be possible to do the reservation ?
-- Thanks! We would like the [second](room) one.
-- Ok! I would like to reserve [the](room) location.
-- We will book [it](room).
-- Would it be possible to book now?
-- Thanks! We want to book [it](room).
-- Ok! We would like to reserve the [first](room) room.
-- We would like to book the [third](room) one.
-- Ok! We would like to book [this](room) location.
-- Thanks! We will book [it](room).
-- Ok! We take [it](room).
-- I want to reserve the [first](room) possibility.
-- Thanks for your help! I want to reserve [it](room).
-- Is it possible to make a reservation now?
-- Ok! I will reserve [it](room).
-- Ok! I want [this](room) location.
-- Thanks for your help! We would like [this](room) event room.
-- Could we make a reservation ?
-- Ok! We will reserve the [second](room) event room.
-- Thank you! I go with the [last](room) possibility.
-- We will take [it](room).
-- Thank you very much for your help. We want to book [the](room) possibility.
-- I want to reserve meeting room [alpha](room).
-- Can I make a reservation right now?
-- Thank you very much for your help. I would like to book [this](room) possibility.
-- Ok! I would like to book [this](room).
-- I will book room [Beta](room).
-- Thank you very much for your help. We take [this](room) option.
-- Thanks! We would like to reserve [beta](room).
-- Thanks! I would like event room [Beta](room).
-- Thanks for your help! I take [it](room).
-- Thank you very much for your help. We would like to book [it](room).
-- Could I book [the](room) possibility ?
-- Thanks for your help! I want the [last](room) room.
-- Thank you! I will reserve option [Alpha](room).
-- Thank you! We take the [second](room) one.
-- Can we book right now?
-- Thank you very much for your help. We will reserve [this](room) location.
-- We go with [the](room) event room.
-- Thanks! I go with the [third](room) event room.
-- Could you make a reservation right now?
-- Thank you! I would like to book [the](room) event room.
-- Ok! We go with event room [Beta](room).
-- Could I make a reservation ?
-- Ok! We want the [third](room) possibility.
-- Thanks for your help! I will take [the](room) possibility.
-- Thank you! We will reserve [the](room) meeting room.
-- Would it be possible to reserve the [first](room) location right now?
-- Thank you! We will take [it](room).
-- We would like to book room [gamma](room).
-- We want to reserve [the](room) meeting room.
-- Can we reserve [it](room) now?
-- Ok! We will book [the](room) event room.
-- Thank you! We would like the [third](room) one.
-- Could we reserve [it](room) now?
-- Thank you very much for your help. I go with [this](room).
-- Thanks for your help! We would like to book [the](room) event room.
-- Thanks for your help! We would like to book the [first](room) possibility.
-- Can you make a reservation now?
-- Thank you very much for your help. We want option [Alpha](room).
-- Thanks for your help! We take [it](room).
-- Thanks for your help! I want to reserve the [second](room) one.
-- Can you do the reservation now?
-- Ok! I would like to reserve [alpha](room).
-- Thanks! We will book possibility [Alpha](room).
-- Is it possible to reserve option [beta](room) now?
-- Thanks for your help! We would like [this](room).
-- I will book the [last](room) one.
-- Could we do the reservation ?
-- Thank you very much for your help. I go with [this](room) one.
-- I take [it](room).
-- Ok! We would like to book meeting room [Alpha](room).
-- Could I book ?
-- Thank you very much for your help. We will take meeting room [beta](room).
-- Would it be possible to reserve option [alpha](room) ?
-- Thanks for your help! I take the [third](room) meeting room.
-- Thank you very much for your help. We go with [the](room) room.
-- We will reserve the [first](room) location.
-- Would it be possible to reserve [alpha](room) right now?
-- Thanks! I will take [this](room) location.
-- Thank you! We go with the [second](room) one.
-- Ok! I will take [this](room).
-- Would it be possible to reserve ?
-- Thank you! We want to reserve the [first](room) one.
-- Thanks! We go with [it](room).
-- Could we book ?
-- Thanks for your help! I would like the [third](room) option.
-- Ok! I take [it](room).
-- Could we make a reservation now?
-- I will reserve [this](room) meeting room.
-- Thanks! I go with [this](room) meeting room.
-- Thank you! We would like [it](room).
-- Can I book now?
-- I want [this](room) one.
-- Thanks! I want [it](room).
-- Thank you very much for your help. We will reserve the [last](room) possibility.
-- Thank you very much for your help. We would like to reserve [it](room).
-- Thanks! We would like to book [this](room) possibility.
-- Thank you! I want to book [it](room).
-- Thank you! We would like to book [this](room).
-- We take [this](room).
-- Could I reserve option [Gamma](room) right now?
-- We will book option [alpha](room).
-- Thanks! We would like the [third](room) one.
-- Thanks! We want to reserve [the](room) location.
-- Can you book ?
-- Thank you! We will reserve [this](room).
-- Could you book ?
-- I would like the [first](room) meeting room.
-- Ok! I will book [the](room) room.
-- Ok! We go with [this](room).
-- Could we book [the](room) room ?
-- Ok! We would like to reserve location [gamma](room).
-- Thank you very much for your help. I would like meeting room [Gamma](room).
-- I want to book [this](room) meeting room.
-- Can you book now?
-- Thanks! I go with [the](room) meeting room.
-- Thanks for your help! We would like [alpha](room).
-- Can you reserve now?
-- Thank you very much for your help. We will reserve [this](room).
-- Thanks! I want [the](room) room.
-- Thanks! We would like to reserve [this](room) event room.
-- Thanks! We want to reserve [this](room) one.
-- Thank you very much for your help. We go with [the](room) event room.
-- We want to book [the](room) location.
-- Ok! I want to book [the](room) meeting room.
-- Thank you very much for your help. I will book room [Beta](room).
-- Can you reserve right now?
-- Thanks for your help! I want to book [this](room) one.
-- Thanks for your help! We would like to reserve [this](room).
-- Would it be possible to reserve the [first](room) location now?
-- We will take possibility [beta](room).
-- Ok! I take option [gamma](room).
-- I want the [first](room) option.
-- Could you book [this](room) one ?
-- Ok! I want [it](room).
-- Thank you very much for your help. I go with [it](room).
-- Could I book right now?
-- Thanks for your help! We go with [the](room) option.
-- Thank you! We would like to reserve [it](room).
-- Thanks! I would like to book [the](room) option.
-- Thank you very much for your help. We would like [the](room) possibility.
-- Thank you very much for your help. I take [the](room) meeting room.
-- I would like [it](room).
-- Can I reserve possibility [beta](room) right now?
-- Thanks for your help! We want to book [the](room) option.
-- Thank you! I go with option [alpha](room).
-- Ok! We would like to book the [second](room) location.
-- Could you book the [last](room) location ?
-- Thank you! We will reserve the [third](room) room.
-- Could you reserve option [beta](room) ?
-- Thanks for your help! I want [it](room).
-- Thank you very much for your help. I would like to reserve [it](room).
-- Ok! We would like to book [it](room).
-- Ok! I will take the [last](room) one.
-- Thank you very much for your help. We would like to book [the](room) event room.
-- Thank you! I take [this](room) one.
-- Can we do the reservation ?
-- Thanks for your help! I will reserve [it](room).
-- Thank you! I want the [first](room) event room.
-- Is it possible to book [this](room) event room right now?
-- We will take [the](room) room.
-- Ok! I would like room [Gamma](room).
-- We would like to reserve [the](room) meeting room.
-- Could I reserve now?
-- I want to reserve room [beta](room).
-- Thank you very much for your help. We want to book [it](room).
-- Could you make a reservation now?
-- Thanks! We want to book the [second](room) one.
-- Thank you! We will take [this](room) one.
-- Ok! We will book possibility [gamma](room).
-- Ok! We go with [the](room) possibility.
-- Thanks! I will reserve the [third](room) one.
-- Can you book the [third](room) possibility right now?
-- Ok! I want to book [this](room) room.
-- We take room [beta](room).
-- Thank you! I will book [the](room) option.
-- Can I do the reservation ?
-- Thank you very much for your help. We would like the [second](room) one.
-- We would like [the](room) room.
-- Thank you! I will book [it](room).
-- Thank you! I go with location [Beta](room).
-- Thank you very much for your help. We want to book [this](room) event room.
-- Thank you very much for your help. We will take [this](room) one.
-- Ok! I go with [this](room) meeting room.
-- Thanks! We want to reserve [this](room).
-- Could I book the [third](room) possibility ?
-- Thank you! We want to book [the](room) room.
-- Thanks for your help! We will book room [Gamma](room).
-- Is it possible to reserve right now?
-- Thank you very much for your help. We will take [it](room).
-- Thanks! I will book [it](room).
-- Thanks for your help! I would like [it](room).
+- Can we book [it](room) ?
+- Thanks! We want the [last](room) possibility.
+- Thanks for your help! I will take meeting room [Alpha](room).
+- Could I book meeting room [Gamma](room) now?
+- I would like to reserve [the](room) option.
+- We want [the](room) location.
+- Thanks for your help! I will book room [Gamma](room).
 - Can we book now?
-- Thanks! I will reserve location [alpha](room).
-- Thank you very much for your help. I will book possibility [Alpha](room).
-- Can we reserve the [first](room) one now?
-- I would like to reserve [this](room) one.
-- Thank you very much for your help. I will reserve [the](room) room.
-- Can I reserve now?
-- Thanks! I want to book [this](room) room.
-- I want to book [this](room) one.
-- Thank you! We take [the](room) location.
-- Can we make a reservation ?
-- Thanks! I would like to reserve location [beta](room).
-- Thanks for your help! We will take [it](room).
-- Thanks! We want to reserve the [second](room) one.
-- Could you book [alpha](room) right now?
-- Ok! We want option [beta](room).
-- Thanks! We will take location [Gamma](room).
-- Could we book [it](room) ?
-- Could I make a reservation right now?
-- Thank you! I would like to reserve [this](room) one.
-- We would like to book possibility [gamma](room).
-- Thank you! We would like event room [Gamma](room).
-- Could I reserve [this](room) ?
-- Thanks! I want to book [it](room).
-- Thanks for your help! We will book the [second](room) location.
-- Thanks! We want [this](room).
-- Is it possible to book ?
-- Thanks for your help! We will reserve [the](room) option.
-- Thank you very much for your help. We will reserve [the](room) possibility.
-- Would it be possible to reserve right now?
-- Thank you very much for your help. I would like to reserve [the](room) option.
-- Ok! We want [this](room).
-- Thanks for your help! We take [this](room) one.
-- Ok! We would like [the](room) meeting room.
-- We want to reserve event room [Gamma](room).
-- Ok! We will reserve [the](room) possibility.
-- Can you book [this](room) one now?
-- Thank you very much for your help. I would like to book [alpha](room).
-- Thank you! I go with the [last](room) meeting room.
-- Can I book the [third](room) meeting room ?
-- I would like [the](room) possibility.
-- Thank you very much for your help. I take [the](room) option.
-- Thank you very much for your help. I take [the](room) room.
-- Thanks! I want to reserve option [Beta](room).
-- I would like to book [it](room).
-- We want possibility [Gamma](room).
-- Thank you very much for your help. We will take [the](room) possibility.
-- Thanks! We take location [Beta](room).
-- Can you book [the](room) event room now?
-- I would like [the](room) event room.
-- We want to book [it](room).
-- Thank you very much for your help. I would like to book event room [alpha](room).
-- Thank you! We will take room [Alpha](room).
-- Could I reserve the [second](room) one ?
-- Ok! I go with [this](room) one.
-- I want to reserve meeting room [beta](room).
-- Thank you! We will reserve [it](room).
-- Can you reserve [the](room) meeting room right now?
-- Ok! We will book [it](room).
-- Thank you very much for your help. We go with [this](room) one.
-- Ok! We would like to book location [Beta](room).
-- Could I book now?
-- Thank you very much for your help. We will reserve the [first](room) one.
-- I would like to book [the](room) meeting room.
-- Could I reserve option [Beta](room) now?
-- Thanks! We would like [the](room) room.
-- Thanks for your help! I would like to reserve [the](room) possibility.
-- Is it possible to book now?
-- We take [this](room) one.
-- Ok! We will take [it](room).
-- Can we reserve [this](room) meeting room ?
-- Thanks! I would like the [third](room) one.
-- Thanks for your help! We would like to book [the](room) location.
-- Thanks for your help! I want [the](room) option.
-- We go with the [third](room) option.
-- I take [this](room) event room.
-- Ok! I want to reserve [it](room).
-- Could we book [the](room) meeting room ?
-- Thanks for your help! I want [Beta](room).
-- We want to reserve meeting room [gamma](room).
-- Thanks! I take [it](room).
-- Could we reserve right now?
-- Thanks for your help! I would like event room [gamma](room).
-- Thanks for your help! We will book [it](room).
-- Would it be possible to make a reservation now?
-- Thanks! We go with [this](room).
-- Thanks! I will reserve [it](room).
-- We would like to book [the](room) location.
-- Can I reserve [it](room) now?
-- Thanks! I want to book [this](room) one.
-- Thank you! We go with room [Beta](room).
-- Ok! I will reserve the [second](room) one.
-- Could I book location [Gamma](room) ?
-- Thank you! I will reserve the [third](room) location.
-- Thanks for your help! I take room [beta](room).
-- Thank you! I would like to book the [first](room) meeting room.
-- Is it possible to reserve [the](room) option now?
-- Thank you very much for your help. I will reserve the [third](room) one.
-- Ok! I want to reserve the [last](room) option.
-- Could we book the [third](room) meeting room ?
-- Ok! I will reserve [this](room) one.
-- Thank you! I want to book [the](room) possibility.
-- Is it possible to do the reservation now?
-- Thank you! We want to reserve [the](room) location.
-- Ok! We take the [last](room) possibility.
-- Would it be possible to do the reservation right now?
-- Thanks! We take [this](room).
-- Thanks! We will take room [Gamma](room).
-- Thanks for your help! I take [beta](room).
-- Could we book possibility [alpha](room) now?
-- Thanks for your help! I would like to book the [third](room) location.
-- Thank you very much for your help. I want the [last](room) room.
-- Ok! I will book the [first](room) one.
-- Ok! I would like the [second](room) option.
-- Can we reserve [this](room) one right now?
-- Thanks! I will book the [last](room) one.
-- Thanks for your help! We will book the [last](room) one.
-- Thank you! We will book the [first](room) room.
-- Is it possible to reserve [this](room) one right now?
-- Thanks! We would like to reserve [the](room) option.
-- We will reserve [it](room).
-- Thank you! I want to reserve [the](room) possibility.
-- Ok! We want to reserve [it](room).
-- I would like the [last](room) one.
-- Thanks for your help! I want to book [it](room).
-- I want to book location [Alpha](room).
-- We take the [second](room) event room.
-- Thank you very much for your help. I would like to book the [third](room) room.
-- Ok! We want to book [it](room).
-- Can you do the reservation right now?
-- Thank you! I take [this](room) event room.
-- Ok! We will take [the](room) location.
-- We will reserve [the](room) room.
+- Thank you! We will take room [gamma](room).
+- Ok! I want event room [Alpha](room).
 - Ok! We want [it](room).
-- Can we reserve the [second](room) possibility right now?
-- Thank you very much for your help. I will reserve the [last](room) one.
-- Thank you very much for your help. I would like [this](room).
-- Is it possible to book right now?
-- Ok! I will take [the](room) option.
-- I want to book [this](room).
-- Thank you! I would like to book [the](room) location.
-- Can I do the reservation right now?
-- Ok! We take [the](room) option.
-- We would like [it](room).
-- Is it possible to reserve [this](room) now?
+- Can you do the reservation right now?
+- Thanks! I will reserve [the](room) location.
+- We take [the](room) possibility.
+- Is it possible to do the reservation now?
+- Thank you very much for your help. We would like to book [the](room) meeting room.
+- Ok! I go with [this](room).
+- I would like to reserve [it](room).
+- Could you reserve right now?
+- Thank you very much for your help. We take option [gamma](room).
+- Could we book ?
+- Thank you! We would like to book [the](room) event room.
+- Thanks for your help! We want to reserve [this](room).
+- Could I reserve right now?
+- Thank you very much for your help. I will reserve [this](room) option.
+- Ok! We want to reserve location [gamma](room).
+- I will take option [alpha](room).
+- Could you reserve ?
+- Thanks! We would like to reserve [this](room) one.
+- Ok! I would like to reserve [the](room) location.
+- Can I make a reservation right now?
+- Thanks for your help! We want meeting room [beta](room).
 - Thank you very much for your help. I want to book [it](room).
-- Ok! We will book [Gamma](room).
-- I would like meeting room [Gamma](room).
-- Could you book option [Gamma](room) right now?
-- Thank you very much for your help. I would like to book the [first](room) one.
-- Thanks for your help! We will take [the](room) event room.
-- Thank you very much for your help. I would like to reserve [this](room) event room.
-- I will reserve the [third](room) option.
-- Thanks! We would like to reserve [it](room).
-- Thanks! I will reserve [this](room) one.
-- Thank you very much for your help. I would like [the](room) possibility.
-- Can you do the reservation ?
-- Ok! I go with the [second](room) one.
-- Thank you! I would like to reserve the [second](room) one.
-- Can we book [it](room) now?
-- I would like to reserve event room [beta](room).
-- Thanks! I would like to book [the](room) room.
-- Is it possible to reserve the [third](room) meeting room right now?
-- Thank you! I will reserve [the](room) meeting room.
-- Thank you! We go with the [first](room) one.
+- Can I book [it](room) now?
+- Thanks! I will take [this](room) one.
+- We would like to reserve [the](room) location.
+- Thanks! We want [the](room) location.
+- Could we make a reservation ?
+- Ok! I would like to book [the](room) meeting room.
+- Thank you very much for your help. We want to reserve event room [alpha](room).
+- Thank you very much for your help. I would like to reserve [this](room) one.
+- Could I book now?
+- Ok! We will take [it](room).
+- Thanks for your help! We will take [the](room) possibility.
+- Can we reserve ?
+- We would like to reserve [this](room) one.
+- I take [this](room) event room.
+- Would it be possible to do the reservation ?
+- Thanks! I want [the](room) location.
+- I will take [it](room).
+- We would like to reserve [the](room) possibility.
+- Can you book event room [beta](room) right now?
+- Thank you very much for your help. We will reserve [this](room) one.
+- Ok! I would like to reserve [this](room) one.
+- Thank you! We would like to reserve the [third](room) one.
+- Thank you! I want [alpha](room).
+- Can I reserve now?
+- Ok! We will reserve meeting room [alpha](room).
+- Thanks! We will take [it](room).
+- Would it be possible to do the reservation now?
+- Thanks for your help! I go with [it](room).
+- Thanks! We take the [first](room) meeting room.
+- Ok! We go with the [second](room) option.
+- Would it be possible to book right now?
+- Thanks! We would like the [third](room) meeting room.
+- Thanks for your help! I go with the [second](room) location.
+- Can I book [the](room) meeting room right now?
+- Thanks! We will take [this](room).
+- I would like to book [the](room) meeting room.
+- Thank you! I want to book the [last](room) one.
+- Could we reserve now?
+- Ok! We want to reserve [it](room).
+- Thank you! We want to book location [gamma](room).
+- Thanks! We want to reserve the [third](room) event room.
+- Would it be possible to make a reservation now?
+- Ok! I want [this](room) possibility.
+- Thanks for your help! I want to reserve the [last](room) one.
+- Thank you very much for your help. We would like [the](room) possibility.
+- We want to book [it](room).
+- Thank you very much for your help. I take [this](room) meeting room.
+- Can we reserve possibility [Beta](room) ?
+- Thanks! I want meeting room [Alpha](room).
+- Thanks for your help! We would like [the](room) location.
+- Thank you very much for your help. I will book [this](room).
+- Thank you very much for your help. We take event room [gamma](room).
+- Thanks for your help! I want to book [the](room) room.
+- Can I do the reservation right now?
+- Thank you! We would like to reserve [the](room) meeting room.
+- Thanks! I will reserve [the](room) option.
+- Can we reserve right now?
+- Ok! I want to reserve [the](room) option.
+- We want to reserve [this](room) possibility.
+- I would like the [second](room) one.
+- Could you book [this](room) event room right now?
+- Thank you very much for your help. I would like to reserve [beta](room).
+- Thank you very much for your help. We would like to book [the](room) event room.
+- Would it be possible to book [it](room) right now?
+- Thanks for your help! We would like to reserve [it](room).
+- Thank you very much for your help. We will take [it](room).
+- We will reserve [the](room) option.
+- Can I book the [first](room) room ?
+- Ok! I want to reserve location [Alpha](room).
+- Thank you very much for your help. I take meeting room [alpha](room).
+- Would it be possible to book ?
+- We want to reserve [it](room).
+- Thanks! I take [the](room) room.
+- Ok! We go with the [third](room) one.
+- Could you make a reservation ?
+- Thank you! I will book the [last](room) one.
+- Thanks! We would like to book the [last](room) possibility.
+- Ok! We would like [this](room) meeting room.
+- Ok! I go with the [first](room) one.
+- Could we reserve right now?
+- Ok! I would like to book [the](room) event room.
+- Thank you very much for your help. We would like [the](room) location.
+- Thank you very much for your help. We want to book [the](room) event room.
+- Could I book [this](room) meeting room now?
+- Thank you! I want to book the [first](room) one.
+- Thank you! I would like to book the [second](room) room.
+- Could you reserve the [last](room) one ?
+- Ok! I want to reserve [the](room) meeting room.
+- Thank you very much for your help. I want to reserve event room [alpha](room).
+- Could you make a reservation now?
+- I will book room [Beta](room).
+- Ok! I will book location [Beta](room).
+- Can we do the reservation now?
+- Thank you very much for your help. I want to reserve [it](room).
+- Thank you very much for your help. We take event room [Beta](room).
+- Thank you very much for your help. We want to reserve [this](room) event room.
+- Thanks! I want option [Beta](room).
+- Thank you! We want to book [the](room) option.
+- Thanks! I would like to reserve [this](room).
+- Thanks for your help! I would like the [second](room) one.
+- Thanks! I want to reserve the [second](room) room.
+- Could you reserve [it](room) right now?
+- Thank you very much for your help. We take [it](room).
+- Thank you very much for your help. We take [this](room) option.
+- Could you book location [Alpha](room) ?
+- Thanks for your help! We would like [the](room) option.
+- I will take option [Gamma](room).
+- I would like to book [this](room) possibility.
+- Ok! We will book [this](room).
+- Thanks! I want room [alpha](room).
+- Thanks! I would like [the](room) location.
+- Could we do the reservation ?
+- Thanks! I would like to book [it](room).
+- Thanks! I will reserve [it](room).
+- Ok! We will book [the](room) room.
+- Thank you very much for your help. I take [it](room).
+- We would like the [first](room) one.
+- Could we reserve the [second](room) one ?
+- Ok! I will reserve event room [Gamma](room).
+- Thank you very much for your help. We want to book [it](room).
+- Could I book [the](room) option ?
+- Can you reserve [the](room) location ?
+- Thank you! We take the [third](room) one.
+- Would it be possible to book [this](room) one ?
+- Ok! I take [the](room) room.
+- We want to book the [second](room) one.
+- Thanks! I take [it](room).
+- Is it possible to reserve the [last](room) one now?
+- Ok! We want to book [the](room) event room.
+- Thanks for your help! We want [it](room).
+- Thanks for your help! I will book [it](room).
+- Thank you! I want to reserve the [second](room) option.
+- Can I book [the](room) possibility ?
+- Thanks for your help! We go with [it](room).
+- Thank you very much for your help. We want to book the [first](room) option.
+- Thank you! I want to reserve [this](room) location.
+- Can I book ?
+- We will book room [Beta](room).
+- Thanks! We take meeting room [gamma](room).
+- Thanks! We would like the [last](room) room.
+- We will take [this](room) possibility.
+- Thanks! I will book the [third](room) possibility.
+- Would it be possible to book the [second](room) one now?
+- Thank you very much for your help. I will reserve [this](room) one.
+- We want [the](room) option.
+- Thank you very much for your help. I would like to reserve [the](room) location.
+- Ok! I would like to reserve [it](room).
+- Thank you very much for your help. We will book event room [Alpha](room).
+- Can you reserve [the](room) location now?
+- Thanks for your help! I want to book [this](room) event room.
+- Thank you! We would like to reserve [this](room).
+- Thank you! We would like to book [this](room).
+- Thanks for your help! We will book [it](room).
+- Thank you very much for your help. I will reserve [the](room) event room.
+- Ok! I will take [this](room) option.
+- We will reserve [this](room) one.
+- Thank you! We would like to reserve [the](room) event room.
+- Thanks for your help! I would like to book [the](room) event room.
+- Thank you very much for your help. I go with [this](room) one.
+- Thanks for your help! We want to reserve [this](room) room.
+- Ok! I will book [the](room) meeting room.
+- Thanks! We will reserve the [third](room) one.
+- Can I book room [alpha](room) ?
+- Thank you! We go with [the](room) possibility.
+- Ok! I will book [it](room).
+- Thank you! I will book [this](room) one.
+- Thanks! I will take room [alpha](room).
+- Thanks! We will take possibility [gamma](room).
+- Ok! We want to reserve [the](room) event room.
+- Thank you! We will reserve the [third](room) one.
+- Could you reserve [the](room) meeting room now?
+- Thanks! We want to reserve [Alpha](room).
+- Thank you! We want to book [this](room) room.
+- We would like to book [it](room).
+- Can you reserve right now?
+- Thank you! We will book the [second](room) option.
+- Ok! I take [the](room) location.
+- Thank you very much for your help. We would like to reserve the [second](room) possibility.
+- Can we make a reservation ?
+- Thank you very much for your help. We want to book [the](room) room.
+- Thanks for your help! We will take [the](room) location.
+- Would it be possible to book room [gamma](room) ?
+- We want to book meeting room [Alpha](room).
+- Thanks! We take [the](room) option.
+- Ok! We would like [the](room) room.
+- Thanks! I would like location [gamma](room).
+- Thank you! I want to book [this](room) location.
+- Thanks for your help! I would like to book [this](room) room.
+- Could I reserve possibility [alpha](room) ?
+- Thank you! I want the [third](room) one.
+- Thank you very much for your help. I want [the](room) possibility.
+- Could we book [it](room) ?
+- Thank you! I would like [it](room).
+- Ok! I will reserve meeting room [beta](room).
+- We would like to book [this](room) one.
+- Can I make a reservation now?
+- Thank you very much for your help. I will reserve the [second](room) option.
+- Thank you! We will take possibility [Beta](room).
+- I want [the](room) possibility.
+- Thanks for your help! I will book [gamma](room).
+- Could I reserve ?
+- Thanks! I would like to book [the](room) location.
+- Thanks for your help! I want the [last](room) possibility.
+- Thank you! I will take [it](room).
+- I will book [this](room) location.
+- Ok! I would like [it](room).
+- Thank you! I would like to reserve [this](room) one.
+- Thank you very much for your help. I want to reserve [the](room) meeting room.
+- Can we do the reservation ?
+- Thank you! I want option [gamma](room).
+- Can you do the reservation now?
+- Ok! We would like to book option [Beta](room).
+- Thanks! We would like [this](room) location.
+- We will book possibility [Beta](room).
+- We want to reserve [the](room) possibility.
+- Thanks for your help! We would like to reserve [this](room).
+- Thank you very much for your help. We take location [beta](room).
+- Would it be possible to reserve ?
+- Thanks! I take location [Gamma](room).
+- Thank you! We want to reserve the [last](room) one.
+- Thank you! We want to book [the](room) possibility.
+- Would it be possible to book now?
+- Thanks for your help! We would like to book the [first](room) one.
+- We will reserve [it](room).
+- I want to book the [last](room) one.
+- Ok! We want the [first](room) one.
+- Could I book ?
+- Thank you! We would like location [Beta](room).
+- Can I reserve option [Beta](room) right now?
+- Ok! I want to book the [last](room) one.
+- Thanks for your help! We would like to book [the](room) room.
+- Thanks for your help! I would like to reserve option [gamma](room).
+- Thanks for your help! We will book location [alpha](room).
+- Ok! We go with [Alpha](room).
+- Thanks! We take [this](room) one.
+- I will reserve [the](room) possibility.
+- Thank you! We want the [last](room) option.
+- Would it be possible to reserve [the](room) option ?
+- We would like [this](room) one.
+- We will take location [beta](room).
+- Thank you very much for your help. We would like to book [this](room) room.
+- Could you book [the](room) option now?
+- Thank you! We go with [this](room).
+- Thank you very much for your help. I want to reserve [the](room) option.
+- We take [the](room) event room.
+- Thank you! I would like to reserve event room [Gamma](room).
+- Could I do the reservation right now?
+- Thank you! We would like to book the [third](room) one.
+- Thank you! We go with the [second](room) one.
+- Ok! We would like the [third](room) meeting room.
+- Is it possible to reserve [this](room) one right now?
+- Thank you! We will book location [Gamma](room).
+- Thanks for your help! We want [the](room) location.
+- Thanks for your help! I go with possibility [beta](room).
+- Would it be possible to reserve right now?
+- I want to reserve [gamma](room).
+- Thanks! We will take the [third](room) one.
+- Thanks! I would like the [first](room) one.
+- Is it possible to reserve ?
+- Ok! We would like [the](room) possibility.
+- Thank you very much for your help. I take [the](room) meeting room.
+- Can we book ?
+- Thanks for your help! We would like to book [the](room) event room.
+- Thank you very much for your help. We take [this](room) one.
+- Thanks! We would like to book the [last](room) one.
+- Ok! We would like to book [the](room) option.
+- Thank you! We would like to reserve [the](room) option.
+- Thank you! I will reserve [this](room) possibility.
+- Thanks for your help! I would like to book [the](room) location.
+- Thanks! I want to reserve meeting room [beta](room).
+- Thanks for your help! I want [this](room).
+- Thank you! We would like [this](room).
+- Could we book the [second](room) one ?
+- Ok! We want to book option [Alpha](room).
+- Thanks for your help! We will reserve [the](room) event room.
+- Thank you! We want [it](room).
+- Thank you very much for your help. I would like to reserve [it](room).
+- Thanks! We want to book room [Gamma](room).
+- Thank you very much for your help. I would like [this](room).
+- We will reserve [the](room) possibility.
+- Thanks! We want to book [it](room).
+- Thanks! I will take [the](room) meeting room.
+- Thank you very much for your help. We would like to book the [last](room) option.
+- Can we make a reservation now?
+- Thank you! We want [the](room) event room.
+- Ok! I want [it](room).
+- Ok! I want to reserve meeting room [Gamma](room).
+- Is it possible to book the [third](room) location right now?
+- Thanks for your help! We would like to book meeting room [beta](room).
+- We want [it](room).
+- Thank you! We will take possibility [beta](room).
+- I go with [the](room) room.
+- Thank you very much for your help. I will book the [first](room) one.
+- Thank you very much for your help. We go with [the](room) possibility.
+- Could I reserve [the](room) option right now?
+- Thanks for your help! I want to reserve [this](room) option.
+- Can you make a reservation right now?
+- Ok! I take the [second](room) one.
+- I go with [the](room) event room.
+- We want to book location [Gamma](room).
+- Can I reserve [the](room) possibility ?
+- Thanks for your help! I will book [this](room) event room.
+- Ok! We want to reserve [alpha](room).
+- Ok! I take the [second](room) event room.
+- Could we book [this](room) one right now?
+- Thank you very much for your help. I will book [the](room) location.
+- Thank you very much for your help. We want to book the [last](room) event room.
+- Can you reserve ?
+- Thank you very much for your help. I would like location [Beta](room).
+- Thanks! I want meeting room [gamma](room).
+- Is it possible to reserve [it](room) ?
+- We will book possibility [Alpha](room).
+- We would like to book location [gamma](room).
+- Thank you very much for your help. I want to book [the](room) location.
+- Thanks! I want [the](room) meeting room.
+- Thank you! I would like the [first](room) one.
+- Thanks for your help! I want to book the [third](room) one.
+- Thanks for your help! We would like [this](room) one.
+- Is it possible to reserve right now?
+- Ok! I would like to book [this](room) one.
+- Thank you! I want to book [this](room) event room.
+- I will take [this](room) one.
+- Could I make a reservation now?
+- Ok! I want the [third](room) one.
+- Can I book meeting room [gamma](room) right now?
+- Thank you! I want to book [the](room) event room.
+- Ok! I will book event room [Beta](room).
+- Could you reserve now?
+- Thank you! We take [this](room) possibility.
+- Thank you! We take [this](room).
+- Thanks for your help! We will take [this](room) location.
+- Could you do the reservation now?
+- We will take [it](room).
+- I will reserve the [third](room) one.
+- Can we reserve now?
+- Ok! We will book [this](room) one.
+- Thanks for your help! I would like to book the [first](room) one.
+- Thank you very much for your help. I want to book [this](room).
+- Is it possible to book [it](room) right now?
+- We go with [this](room) one.
+- Ok! We go with possibility [Beta](room).
 
 ## intent:thanks
 - Thx
-- Sweet! thanks
-- thank you very much
-- thanks a bunch
-- Sweet! thank you
-- thank you
-- Very nice! thanks
-- thanks I appreciate it
-- Great! thanks
-- thank you that was helpful
-- Very nice! thank you
-- Great! thank you
-- Very good! thanks
-- thank you a bunch
 - Awesome! thank you
-- thank you so much
+- thank you very much
+- thank you
+- Sweet! thank you
+- thank you a bunch
+- Very nice! thank you
 - thank you for your help
-- thanks very much
-- thanks so much
-- thanks very very much
-- thanks for your help
-- thanks
-- Cool! thanks
-- thank you a lot
-- Very good! thank you
-- thanks a lot
-- Cool! thank you
 - thank you I appreciate it
-- Awesome! thanks
+- Very good! thanks
+- thanks very much
+- Cool! thank you
+- thanks I appreciate it
+- Very nice! thanks
+- Perfect! thanks
+- Cool! thanks
+- Very good! thank you
+- Great! thanks
+- thank you very very much
+- thanks a bunch
+- thank you a lot
+- thanks very very much
 - Perfect! thank you
-- thanks that was helpful
+- thanks for your help
+- Sweet! thanks
+- thanks a lot
+- thanks
+- Awesome! thanks
+- thank you that was helpful
+- Great! thank you
 - thank you I appreciate your help
 - thanks I appreciate your help
-- thank you very very much
-- Perfect! thanks
+- thanks that was helpful
+- thank you so much
+- thanks so much

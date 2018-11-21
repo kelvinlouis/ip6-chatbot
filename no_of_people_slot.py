@@ -14,16 +14,18 @@ class NumberOfPeopleSlot(Slot):
         [1,1,0] - 270 < x
         '''
         r = [0.0] * self.feature_dimensionality()
-        if self.value is not None:
+        try:
             self.value = int(float(self.value))
-        if self.value:
-            if self.value <= 190:
-                r[0] = 1.0
-            elif 190 < self.value <= 200:
-                r[1] = 1.0
-            elif 200 < self.value <= 270:
-                r[2] = 1.0
-            else:
-                r[0] = 1.0
-                r[1] = 1.0
+            if self.value:
+                if self.value <= 190:
+                    r[0] = 1.0
+                elif 190 < self.value <= 200:
+                    r[1] = 1.0
+                elif 200 < self.value <= 270:
+                    r[2] = 1.0
+                else:
+                    r[0] = 1.0
+                    r[1] = 1.0
+        except (TypeError, ValueError):
+            return r
         return r
