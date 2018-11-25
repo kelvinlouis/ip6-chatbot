@@ -6,6 +6,9 @@ actions:
 - utter_greet+ask_for_name
 - utter_ask_for_booking_date
 - utter_available_rooms_150_people
+- utter_available_rooms_200_people
+- utter_available_rooms_270_people
+- utter_confirm
 - utter_room_gamma_people_limit
 - utter_ask_for_service
 - utter_confirm+options
@@ -22,7 +25,6 @@ actions:
 - utter_confirm+budget_limitation
 - utter_room_gamma_people_limit+seating
 - action_get_room_price
-- utter_options+ask_for_purpose
 - utter_ask_for_name
 - utter_generic_equipment_options
 - action_get_room_size
@@ -170,8 +172,28 @@ templates:
   utter_ask_for_service_with_name:
   - text: Hello {name}, how can I help you today?
   utter_available_rooms_150_people:
-  - text: Excellent! We have three rooms for {nr_of_people} people
+  - text: We have three event rooms for {nr_of_people}
   - text: We have three rooms for {nr_of_people} people
+  - text: We have three rooms that are suitable for {nr_of_people} guests
+  - text: There is three rooms for {nr_of_people} people
+  utter_available_rooms_200_people:
+  - text: We have two event rooms for {nr_of_people}
+  - text: We have two rooms for {nr_of_people} people
+  - text: We have two rooms that are suitable for {nr_of_people} guests
+  - text: There is one room for {nr_of_people} people
+  utter_available_rooms_270_people:
+  - text: We have one event room for {nr_of_people}
+  - text: We have one room for {nr_of_people} people
+  - text: We have one room that are suitable for {nr_of_people} guests
+  - text: There is one room for {nr_of_people} people
+  utter_confirm:
+  - text: Sure
+  - text: Yes
+  - text: Ok
+  - text: No problem
+  - text: Alright
+  - text: Yes, sure
+  - text: Ok, sure
   utter_confirm+ask_for_booking_date:
   - text: Perfect, for what date do you want to book the room?
   - text: Ok, let's look if your room is available. On which date do you arrive?
@@ -180,7 +202,7 @@ templates:
   - text: Sure, we have three event rooms for {nr_of_people}
   - text: Yes, we have three rooms for {nr_of_people} people
   - text: Ok. We have three rooms for {nr_of_people} guests
-  - text: So, we have three rooms that are suitable for 150 guests
+  - text: So, we have three rooms that are suitable for {nr_of_people} guests
   utter_confirm+budget_limitation:
   - text: Okay. The prices of all rooms are below CHF {budget}
   - text: No worries, all rooms are below the price of {budget}
@@ -232,8 +254,6 @@ templates:
   utter_options+ask_for_nr_of_people:
   - text: We have three different rooms available. For how many people do you need
       a room?
-  utter_options+ask_for_purpose:
-  - text: We have three rooms available that fit {nr_of_people}. What do you need?
   utter_room_alpha_atmosphere:
   - text: Room Alpha is perfect for presentations. It is like a cinema. You have seats
       and a huge stage where a presentation can be held. It is not ideal for workshops
@@ -377,6 +397,7 @@ templates:
   - text: Thanks!
   utter_thanks_with_name:
   - text: Thanks {name}!
+  - text: Thanks you, {name}!
   utter_default:
   - text: Excuse me, can you rephrase this please?
   - text: Excuse me, can you please rephrase your last message?

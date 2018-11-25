@@ -251,7 +251,8 @@
 * greet{"name": "Laura Steiner", "company": "Inselspital"}
     - utter_greet_with_name+ask_for_service
 * ask_for_room_size{"nr_of_people": "150"}
-    - utter_options+ask_for_purpose
+    - utter_available_rooms_150_people
+    - utter_ask_what_info
 * ask_for_room_equipment
     - utter_generic_equipment_options
     - utter_room_alpha_equipment
