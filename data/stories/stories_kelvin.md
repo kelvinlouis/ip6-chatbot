@@ -60,3 +60,51 @@
 * thanks
     - utter_thanks
 
+## Generated Story -1847740183244512759
+* greet{"name": "Kelvin"}
+    - slot{"name": "Kelvin"}
+    - utter_greet_with_name+ask_for_service
+* ask_for_options
+    - utter_options+ask_for_nr_of_people
+* provide_budget{"nr_of_people": "150", "room": "this"}
+    - slot{"nr_of_people": "150"}
+    - slot{"room": "this"}
+    - utter_confirm+options
+    - utter_room_alpha_people_limit
+    - utter_room_beta_people_limit
+    - utter_room_gamma_people_limit
+* ask_for_room_seating{"room": "Alpha"}
+    - slot{"room": "Alpha"}
+    - action_correct_room
+    - slot{"current_room": "Alpha"}
+    - slot{"room": null}
+    - utter_room_alpha_seating
+* ask_for_room_seating
+    - utter_room_alpha_seating
+* ask_for_room{"room": "other"}
+    - slot{"room": "other"}
+    - action_correct_room
+    - slot{"room": null}
+    - utter_room_beta_seating
+    - utter_room_gamma_seating
+* ask_for_room_price{"room": "gamma"}
+    - slot{"room": "gamma"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_room_gamma_price
+* provide_booking_date{"room": "it", "date": "21st of August"}
+    - slot{"date": "21st of August"}
+    - slot{"room": "it"}
+    - action_correct_room
+    - slot{"room": null}
+    - utter_ask_for_booking_confirmation
+* affirm
+    - utter_confirm_booking
+* thanks
+    - utter_appreciation+ask_for_service
+* farewell
+    - utter_goodbye
+* farewell
+    - utter_thanks
+
