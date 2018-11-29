@@ -11,19 +11,16 @@ actions:
 - utter_confirm
 - utter_room_gamma_people_limit
 - utter_ask_for_service
-- utter_confirm+options
+- utter_options
 - utter_thanks_with_name
 - utter_ask_for_confirmation
 - utter_room_alpha_price
 - utter_confirm_preference_negative
 - utter_confirm_booking
-- utter_options+ask_for_nr_of_people
-- utter_ask_for_nr_of_people_with_name
-- utter_confirm+available_rooms_150_people
+- utter_ask_for_nr_of_people
 - utter_thanks
 - utter_appreciation+ask_for_service
 - utter_confirm+budget_limitation
-- utter_room_gamma_people_limit+seating
 - action_get_room_price
 - utter_ask_for_name
 - utter_generic_equipment_options
@@ -162,9 +159,9 @@ templates:
   - text: Is that ok?
   utter_ask_for_name:
   - text: Who am I chatting with?
-  utter_ask_for_nr_of_people_with_name:
-  - text: Alright {name}, how many people are you expecting?
-  - text: Thanks {name}! How many people are you expecting?
+  utter_ask_for_nr_of_people:
+  - text: How many people are you expecting?
+  - text: For how many people do you need a room?
   utter_ask_for_room:
   - text: Which room do you mean?
   - text: Which one are you interested in?
@@ -199,19 +196,14 @@ templates:
   - text: Perfect, for what date do you want to book the room?
   - text: Ok, let's look if your room is available. On which date do you arrive?
   - text: Ok, for what date do you want to reserve room {current_room}?
-  utter_confirm+available_rooms_150_people:
-  - text: Sure, we have three event rooms for {nr_of_people}
-  - text: Yes, we have three rooms for {nr_of_people} people
-  - text: Ok. We have three rooms for {nr_of_people} guests
-  - text: So, we have three rooms that are suitable for {nr_of_people} guests
   utter_confirm+budget_limitation:
   - text: Okay. The prices of all rooms are below CHF {budget}
   - text: No worries, all rooms are below the price of {budget}
   - text: This should not be a problem. All the rooms are in your price range
-  utter_confirm+options:
-  - text: Ok, we have multiple offerings
-  - text: Alright, we have multiple rooms available
-  - text: Ok, we have three rooms available for you
+  utter_options:
+  - text: We have multiple offerings
+  - text: We have multiple rooms available
+  - text: We have three rooms available for you
   utter_confirm_booking:
   - text: Perfect! We just booked the room for you.
   - text: Sure, I will reserve room {current_room} for you
@@ -375,9 +367,7 @@ templates:
   - text: Room Gamma has room for 200 guests
   - text: The Gamma room can fit up to 200 people
   - text: There is space for 200 people in room Gamma
-  utter_room_gamma_people_limit+seating:
-  - text: Room Gamma has space for 200 people. It is a big room with round tables
-      for about 6-8 guests each. You can also move them if you need to.
+  - text: Room Gamma has space for 200 people
   utter_room_gamma_price:
   - text: Room Gamma will cost you CHF 1'100
   - text: It's CHF 1100 CHF for room Gamma
@@ -394,6 +384,8 @@ templates:
   - text: Room Gamma allows you to move the furniture around. It has round tables
       for up to 8 people.
   - text: There are moveable tables for 6-8 people in room Gamma
+  - text: Room Gamma is a big room with round tables
+      for about 6-8 guests each. You can also move them if you need to.
   utter_thanks:
   - text: Thank you very much for chosing One King Hotel as your resort
   - text: Thanks!

@@ -3,10 +3,12 @@
     - slot{"name": "Silvia Parankeymalil"}
     - utter_greet_with_name+ask_for_service
 * ask_for_options
-    - utter_options+ask_for_nr_of_people
+    - utter_options
+    - utter_ask_for_nr_of_people
 * provide_nr_of_people{"nr_of_people": "150"}
     - slot{"nr_of_people": "150"}
-    - utter_confirm+options
+    - utter_confirm
+    - utter_options
     - utter_room_alpha_people_limit
     - utter_room_beta_people_limit
     - utter_room_gamma_people_limit
@@ -65,11 +67,13 @@
     - slot{"name": "Kelvin"}
     - utter_greet_with_name+ask_for_service
 * ask_for_options
-    - utter_options+ask_for_nr_of_people
+    - utter_options
+    - utter_ask_for_nr_of_people
 * provide_budget{"nr_of_people": "150", "room": "this"}
     - slot{"nr_of_people": "150"}
     - slot{"room": "this"}
-    - utter_confirm+options
+    - utter_confirm
+    - utter_options
     - utter_room_alpha_people_limit
     - utter_room_beta_people_limit
     - utter_room_gamma_people_limit
@@ -115,7 +119,8 @@
     - slot{"name": "Anna Oddermatt"}
     - utter_ask_for_service_with_name
 * ask_for_room_equipment
-    - utter_confirm+options
+    - utter_confirm
+    - utter_options
     - utter_ask_for_service
 * ask_for_room_equipment
     - utter_room_alpha_equipment

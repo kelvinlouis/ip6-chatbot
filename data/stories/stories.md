@@ -4,7 +4,8 @@
 * provide_name{"name": "John Smith"}
     - utter_ask_for_service_with_name
 * ask_for_room_equipment
-    - utter_confirm+options
+    - utter_confirm
+    - utter_options
     - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "100"}
     - utter_available_rooms_150_people
@@ -48,7 +49,8 @@
 * provide_name{"name": "Luca Hauser"}
     - utter_greet_with_name+ask_for_service
 * ask_for_room_size{"nr_of_people": "150"}
-    - utter_confirm+available_rooms_150_people
+    - utter_confirm
+    - utter_available_rooms_150_people
 * ask_for_room_equipment
     - utter_generic_equipment_options
     - utter_room_alpha_equipment
@@ -82,7 +84,7 @@
 * ask_for_options
     - utter_greet+ask_for_name
 * provide_name{"name": "Jennifer Meier"}
-    - utter_ask_for_nr_of_people_with_name
+    - utter_ask_for_nr_of_people
 * provide_nr_of_people{"nr_of_people": "150"}
     - utter_available_rooms_150_people
     - utter_room_alpha_people_limit
@@ -146,9 +148,10 @@
 * ask_for_options
     - utter_greet+ask_for_name
 * provide_name{"name": "Mark"}
-    - utter_ask_for_nr_of_people_with_name
+    - utter_ask_for_nr_of_people
 * ask_for_room_size{"nr_of_people": "150"}
-    - utter_confirm+available_rooms_150_people
+    - utter_confirm
+    - utter_available_rooms_150_people
     - utter_room_alpha_people_limit
     - utter_room_beta_people_limit
     - utter_room_gamma_people_limit
@@ -193,9 +196,11 @@
 * greet{"name": "Arjen Bershka"}
     - utter_greet_with_name+ask_for_service
 * ask_for_options
-    - utter_options+ask_for_nr_of_people
+    - utter_options
+    - utter_ask_for_nr_of_people
 * ask_for_room_size{"nr_of_people": "150"}
-    - utter_confirm+options
+    - utter_confirm
+    - utter_options
     - utter_room_alpha_people_limit
     - utter_room_beta_people_limit
     - utter_room_gamma_people_limit
@@ -290,10 +295,11 @@
 * ask_for_options
     - utter_greet+ask_for_name
 * provide_name{"name": "Mergime"}
-    - utter_ask_for_nr_of_people_with_name
+    - utter_ask_for_nr_of_people
 * ask_for_room_size{"nr_of_people": "150"}
     - utter_thanks_with_name
-    - utter_confirm+available_rooms_150_people
+    - utter_confirm
+    - utter_available_rooms_150_people
     - utter_room_alpha_people_limit
     - utter_room_beta_people_limit
     - utter_room_gamma_people_limit
