@@ -1,8 +1,9 @@
 import logging
+import datetime
 from typing import Optional, Text, Any, List, Dict
 
 import socketio
-from flask import Blueprint, jsonify
+from flask import Blueprint, jsonify, send_file
 
 from rasa_core.channels import InputChannel
 from rasa_core.channels.channel import (
@@ -94,12 +95,17 @@ class WebappInput(InputChannel):
 
         @socketio_webhook.route("/export", methods=['GET'])
         def export():
-            return jsonify({"status": "ok"})
+            attachment_filename = "conversations_{}.zip".format(
+                datetime.datetime.now().strftime("%Y%m%d%H%M%S"))
+            zip_filename = self.conversation_logger.export()
+            return send_file(zip_filename, mimetype="application/zip", attachment_filename=attachment_filename, as_attachment=True)
 
         @sio.on('connect', namespace=self.namespace)
         def connect(sid, environ):
             logger.debug("User {} connected to socketio endpoint.".format(sid))
-            self.conversation_logger.create_conversation(sid, "6969")
+            # TODO: use participant id
+            participant_id = sid
+            self.conversation_logger.create_conversation(sid, participant_id)
 
         @sio.on('disconnect', namespace=self.namespace)
         def disconnect(sid):

@@ -1,5 +1,8 @@
 from pymongo import MongoClient
 import datetime
+import os
+import shutil
+import zipfile
 
 class ConversationLogger:
     def __init__(self, mongo_url, mongo_db, enabled = False):
@@ -54,6 +57,35 @@ class ConversationLogger:
 
         message = self._create_message("bot_sent_message", "Bot", text)
         self._add_message(message)
+    
+    # Creates a txt file for every conversation and zips it
+    def export(self):
+        # Remove previously created temporary files
+        shutil.rmtree("temp/", ignore_errors=True)
+    
+        conversations = self._conversations.find()
+
+        # Creates the directories
+        os.makedirs("temp/text", exist_ok=True)
+        
+        # Creates a txt file for every conversation
+        for conversation in conversations:
+            if len(conversation["messages"]) == 0:
+                continue
+
+            file = open("temp/text/{}.txt".format(conversation["participant_id"]), "w")
+            
+            for message in conversation["messages"]:
+                file.write("[{}] {}: {}\n".format(message["date"].strftime("%Y-%m-%d %H:%M"), message["author"], message["text"]))
+
+            file.close()
+        
+        # Create zip
+        zip_name = "temp/conversations"
+        shutil.make_archive(zip_name, 'zip', "temp/text")
+
+        return os.path.abspath(zip_name + ".zip")
+
 
     # In order to log, it must be enabled and a conversation had to be created
     def _can_log(self):
