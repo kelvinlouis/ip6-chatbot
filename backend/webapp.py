@@ -10,7 +10,7 @@ from rasa_core.channels.channel import (
     UserMessage,
     OutputChannel)
 
-from conversation_logger import ConversationLogger
+from conversation_logger import ConversationLoggerManager
 
 logger = logging.getLogger(__name__)
 
@@ -48,7 +48,7 @@ class WebappOutput(OutputChannel):
 
     def send_text_message(self, recipient_id: Text, message: Text) -> None:
         """Send a message through this channel."""
-        self.conversation_logger.log_bot_sent_message(message)
+        self.conversation_logger.bot_sent_message(message)
         self._send_message(recipient_id, {"text": message})
 
 
@@ -82,7 +82,7 @@ class WebappInput(InputChannel):
         self.user_message_evt = user_message_evt
         self.namespace = namespace
         self.socketio_path = socketio_path
-        self.conversation_logger = ConversationLogger(mongodb_url, mongodb_db, logger_enabled)
+        self.conversation_logger_manager = ConversationLoggerManager(mongodb_url, mongodb_db, logger_enabled)
 
     def blueprint(self, on_new_message):
         sio = socketio.Server()
@@ -97,27 +97,30 @@ class WebappInput(InputChannel):
         def export():
             attachment_filename = "conversations_{}.zip".format(
                 datetime.datetime.now().strftime("%Y%m%d%H%M%S"))
-            zip_filename = self.conversation_logger.export()
+            zip_filename = self.conversation_logger_manager.export()
             return send_file(zip_filename, mimetype="application/zip", attachment_filename=attachment_filename, as_attachment=True)
 
         @sio.on('connect', namespace=self.namespace)
         def connect(sid, environ):
             logger.debug("User {} connected to socketio endpoint.".format(sid))
-            # TODO: use participant id
-            participant_id = sid
-            self.conversation_logger.create_conversation(sid, participant_id)
 
         @sio.on('disconnect', namespace=self.namespace)
         def disconnect(sid):
             logger.debug("User {} disconnected from socketio endpoint."
                          "".format(sid))
-
+        
         @sio.on(self.user_message_evt, namespace=self.namespace)
         def handle_message(sid, data):
+            participant_id = data['participant_id']
             user_text = data['message']
-            self.conversation_logger.log_user_sent_message(user_text)
+
+            logger = self.conversation_logger_manager.create(sid, participant_id)
+
+            # No logger will be created, if it is not enabled
+            logger.user_sent_message(user_text)
+
             output_channel = WebappOutput(
-                sio, self.bot_message_evt, self.conversation_logger)
+                sio, self.bot_message_evt, logger)
             message = UserMessage(user_text, output_channel, sid,
                                   input_channel=self.name())
             on_new_message(message)

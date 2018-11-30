@@ -322,7 +322,7 @@ templates:
   - text: Room Beta is somewhat special. It has a terrace that can hold up to 60 people.
       The room itself covers 130 people. So in total you have room for 180 people
   - text: Room Beta has space for 130 guests and a terrace for an additional 60 people
-  - text: There is space for 130 people inside and 60 on the terrace
+  - text: Room Beta is a space for 130 people inside and 60 on the terrace
   utter_room_beta_price:
   - text: Room Beta comes at a cost of CHF 900
   - text: Beta is the cheapest option at CHF 900
