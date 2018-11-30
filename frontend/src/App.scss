@@ -1,0 +1,62 @@
+@import 'styles/variables';
+@import 'styles/animations';
+
+html {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+div::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+div::-webkit-scrollbar-thumb {
+  background-color: rgba($black, 0.2);
+}
+
+div::-webkit-scrollbar-track {
+  background: rgba($white, 0.08);
+}
+
+.app {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.app,
+.app__bg,
+.app__bg-color,
+.app__bg-gradient {
+  display: flex;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.app__main {
+  position: relative;
+  display: flex;
+  top: 1rem;
+  height: calc(100% - 32px);
+  width: $main-width-desktop;
+  margin: 0 auto;
+  flex-flow: column;
+  z-index: $z-index-main;
+}
+
+.app__bg {
+  z-index: $z-index-bg;
+}
+
+.app__bg-color {
+  background-color: $green;
+  opacity: 0.5;
+  mix-blend-mode: multiply;
+}
+
+.app__bg-gradient {
+  background: $bg-gradient;
+}

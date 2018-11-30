@@ -1,0 +1,25 @@
+// Colors
+$white: #FFFFFF;
+$black: #000000;
+$green: #149961;
+
+// Colors
+$primary: #80C0A1;
+$secondary: #73ACB7;
+$bg-white: #FAFAFA;
+
+// Background Gradient
+$bg-gradient-top: #EEF1E9;
+$bg-gradient-middle: #BEC0BB;
+$bg-gradient-bottom: #5595C4;
+$bg-gradient: linear-gradient(180deg, $bg-gradient-top 0%, $bg-gradient-middle 50%, $bg-gradient-bottom 100%);
+
+// Dimensions
+$main-width-desktop: 800px;
+
+// Layers
+$z-index-main: 100;
+$z-index-bg: 90;
+
+// Radius
+$border-radius-default: 40px;
