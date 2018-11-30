@@ -5,6 +5,7 @@ export const ADD_USER_MESSAGE = 'ADD_USER_MESSAGE';
 export const ADD_BOT_MESSAGE = 'ADD_BOT_MESSAGE';
 export const START_THINKING = 'START_THINKING';
 export const STOP_THINKING = 'STOP_THINKING';
+export const SET_PARTICIPANT_ID = 'SET_PARTICIPANT_ID';
 
 function createMessage(text, type, author) {
   return {
@@ -15,22 +16,18 @@ function createMessage(text, type, author) {
   };
 }
 
-export function addUserMessage(text) {
-  return createMessage(text, ADD_USER_MESSAGE, AUTHOR_USER);
-}
+export const addUserMessage = (text) => createMessage(text, ADD_USER_MESSAGE, AUTHOR_USER);
+export const addBotMessage = (text) => createMessage(text, ADD_BOT_MESSAGE, AUTHOR_BOT);
 
-export function addBotMessage(text) {
-  return createMessage(text, ADD_BOT_MESSAGE, AUTHOR_BOT);
-}
+export const startThinking = () => ({
+  type: START_THINKING,
+});
 
-export function startThinking() {
-  return {
-    type: START_THINKING,
-  };
-}
+export const stopThinking = () => ({
+  type: STOP_THINKING,
+});
 
-export function stopThinking() {
-  return {
-    type: STOP_THINKING,
-  };
-}
+export const setParticipantId = (participantId) => ({
+  type: SET_PARTICIPANT_ID,
+  participantId,
+});

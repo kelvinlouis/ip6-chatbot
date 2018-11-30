@@ -1,7 +1,7 @@
 import io from 'socket.io-client';
 import {
   ADD_USER_MESSAGE,
-  addBotMessage,
+  addBotMessage, SET_PARTICIPANT_ID,
   startThinking,
   stopThinking
 } from './actions';
@@ -25,7 +25,10 @@ export const socketConnectorMiddleware = store => next => action => {
       throw new Error('Socket connection has not been initialized yet');
     }
 
-    socket.emit('user_uttered', { message: action.text });
+    socket.emit('user_uttered', {
+      message: action.text,
+      participant_id: store.getState().conversation.participantId,
+    });
   }
 };
 
