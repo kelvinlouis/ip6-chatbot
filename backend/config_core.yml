@@ -4,3 +4,6 @@ policies:
     max_history: 5
   - name: MemoizationPolicy
     max_history: 5
+  - name: FallbackPolicy
+    nlu_threshold: 0.6
+    core_threshold: 0.4
