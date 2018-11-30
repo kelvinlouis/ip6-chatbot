@@ -233,10 +233,7 @@
     - action_correct_room
     - utter_room_beta_equipment
     - utter_room_gamma_equipment
-* ask_for_room_atmosphere{"room": "these two rooms"}
-    - slot{"room": "these two rooms"}
-    - action_correct_room
-    - slot{"room": null}
+* ask_for_room_atmosphere
     - utter_room_gamma_atmosphere
     - utter_room_beta_atmosphere
 * ask_for_room_seating
