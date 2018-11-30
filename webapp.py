@@ -9,6 +9,8 @@ from rasa_core.channels.channel import (
     UserMessage,
     OutputChannel)
 
+from conversation_logger import ConversationLogger
+
 logger = logging.getLogger(__name__)
 
 
@@ -30,9 +32,10 @@ class WebappOutput(OutputChannel):
     def name(cls):
         return "webapp"
 
-    def __init__(self, sio, bot_message_evt):
+    def __init__(self, sio, bot_message_evt, conversation_logger):
         self.sio = sio
         self.bot_message_evt = bot_message_evt
+        self.conversation_logger = conversation_logger
 
     def send(self, recipient_id: Text, message: Any) -> None:
         """Sends a message to the recipient."""
@@ -44,50 +47,8 @@ class WebappOutput(OutputChannel):
 
     def send_text_message(self, recipient_id: Text, message: Text) -> None:
         """Send a message through this channel."""
-
+        self.conversation_logger.log_bot_sent_message(message)
         self._send_message(recipient_id, {"text": message})
-
-    def send_image_url(self, recipient_id: Text, image_url: Text) -> None:
-        """Sends an image. Default will just post the url as a string."""
-        message = {
-            "attachment": {
-                "type": "image",
-                "payload": {"src": image_url}
-            }
-        }
-        self._send_message(recipient_id, message)
-
-    def send_text_with_buttons(self, recipient_id: Text, text: Text,
-                               buttons: List[Dict[Text, Any]],
-                               **kwargs: Any) -> None:
-        """Sends buttons to the output."""
-
-        message = {
-            "text": text,
-            "quick_replies": []
-        }
-
-        for button in buttons:
-            message["quick_replies"].append({
-                "content_type": "text",
-                "title": button['title'],
-                "payload": button['payload']
-            })
-
-        self._send_message(recipient_id, message)
-
-    def send_custom_message(self, recipient_id: Text,
-                            elements: List[Dict[Text, Any]]) -> None:
-        """Sends elements to the output."""
-
-        message = {"attachment": {
-            "type": "template",
-            "payload": {
-                "template_type": "generic",
-                "elements": elements[0]
-            }}}
-
-        self._send_message(recipient_id, message)
 
 
 class WebappInput(InputChannel):
@@ -102,18 +63,25 @@ class WebappInput(InputChannel):
         credentials = credentials or {}
         return cls(credentials.get("user_message_evt", "user_uttered"),
                    credentials.get("bot_message_evt", "bot_uttered"),
-                   credentials.get("namespace"))
+                   credentials.get("namespace"),
+                   credentials.get("logger_enabled", False),
+                   credentials.get("mongodb_url", "localhost"),
+                   credentials.get("mongodb_db", "chatbot"))
 
     def __init__(self,
                  user_message_evt: Text = "user_uttered",
                  bot_message_evt: Text = "bot_uttered",
                  namespace: Optional[Text] = None,
+                 logger_enabled = False,
+                 mongodb_url: Text = "localhost",
+                 mongodb_db: Text = "chatbot",
                  socketio_path='/socket.io'  # type: Optional[Text]
                  ):
         self.bot_message_evt = bot_message_evt
         self.user_message_evt = user_message_evt
         self.namespace = namespace
         self.socketio_path = socketio_path
+        self.conversation_logger = ConversationLogger(mongodb_url, mongodb_db, logger_enabled)
 
     def blueprint(self, on_new_message):
         sio = socketio.Server()
@@ -124,9 +92,14 @@ class WebappInput(InputChannel):
         def health():
             return jsonify({"status": "ok"})
 
+        @socketio_webhook.route("/export", methods=['GET'])
+        def export():
+            return jsonify({"status": "ok"})
+
         @sio.on('connect', namespace=self.namespace)
         def connect(sid, environ):
             logger.debug("User {} connected to socketio endpoint.".format(sid))
+            self.conversation_logger.create_conversation(sid, "6969")
 
         @sio.on('disconnect', namespace=self.namespace)
         def disconnect(sid):
@@ -135,8 +108,11 @@ class WebappInput(InputChannel):
 
         @sio.on(self.user_message_evt, namespace=self.namespace)
         def handle_message(sid, data):
-            output_channel = WebappOutput(sio, self.bot_message_evt)
-            message = UserMessage(data['message'], output_channel, sid,
+            user_text = data['message']
+            self.conversation_logger.log_user_sent_message(user_text)
+            output_channel = WebappOutput(
+                sio, self.bot_message_evt, self.conversation_logger)
+            message = UserMessage(user_text, output_channel, sid,
                                   input_channel=self.name())
             on_new_message(message)
 
