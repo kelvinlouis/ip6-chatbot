@@ -55,7 +55,7 @@
 > 8897532857795406961.3
 
 ## Generated Story -8897532857795406961.2.3
-> 8897532857795406961_room_price.ac
+> 8897532857795406961_room_price.a
 * ask_for_room_price{"room": "gamma"}
     - slot{"room": "gamma"}
     - action_correct_room
