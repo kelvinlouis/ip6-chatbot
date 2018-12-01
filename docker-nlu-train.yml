@@ -12,6 +12,7 @@ services:
       - ${PWD}/backend/data/nlu:/app/data/nlu
       - ${PWD}/backend/models/nlu:/app/models/nlu
       - ${PWD}/backend/logs/rasa_nlu:/app/logs
+      - ${PWD}/backend/pip-cache:/app/pip-cache
     command: python -m rasa_nlu.train -c config_nlu.yml -d data/nlu -o models/nlu --fixed_model_name ${NLU_MODEL} --project ${NLU_PROJECT}
   
   rasa-duckling:
