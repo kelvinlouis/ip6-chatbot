@@ -1,5 +1,7 @@
 # Model directory
 models/**
+logs/**
+mongodb/initdb.d/**
 
 # VSCode
 .vscode/*

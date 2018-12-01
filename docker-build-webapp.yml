@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  webapp-builder:
+    image: webapp-builder:latest
+    volumes:
+      - ${PWD}/frontend:/app
+    command: /bin/bash -c "npm install --silent && npm run build && kill -s SIGKILL 1"
