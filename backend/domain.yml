@@ -3,7 +3,6 @@
 actions:
 - utter_room_beta_highlight
 - utter_ask_for_service_with_name
-- utter_greet+ask_for_name
 - utter_ask_for_booking_date
 - utter_available_rooms_150_people
 - utter_available_rooms_200_people
@@ -19,7 +18,6 @@ actions:
 - utter_confirm_booking
 - utter_ask_for_nr_of_people
 - utter_thanks
-- utter_appreciation+ask_for_service
 - utter_confirm+budget_limitation
 - action_get_room_price
 - utter_ask_for_name
@@ -34,12 +32,10 @@ actions:
 - utter_room_beta_equipment
 - utter_room_gamma_price
 - action_correct_room
-- utter_confirm+ask_for_booking_date
 - utter_room_gamma_highlight
 - utter_room_beta_price
 - utter_room_gamma_lighting
 - utter_room_alpha_people_limit
-- utter_confirm_booking+ask_for_service
 - utter_room_alpha_equipment
 - utter_ask_for_room
 - utter_goodbye
@@ -47,7 +43,6 @@ actions:
 - utter_room_alpha_atmosphere
 - utter_room_alpha_highlight
 - utter_room_alpha_lighting
-- utter_greet_with_name+ask_for_service
 - utter_room_gamma_equipment
 - utter_ask_book_room
 - utter_room_beta_lighting
@@ -55,6 +50,10 @@ actions:
 - utter_ask_for_booking_confirmation
 - utter_room_beta_people_limit
 - utter_ask_what_info
+- utter_ask_to_narrow_options
+- utter_ask_for_additional_service
+- utter_ask_for_service_with_name
+- utter_greet_with_name
 config:
   store_entities_as_slots: true
 entities:
@@ -136,10 +135,10 @@ slots:
     auto_fill: true
     type: rasa_core.slots.TextSlot
 templates:
-  utter_appreciation+ask_for_service:
-  - text: You are very welcome! Is there anything else?
-  - text: You are welcome! Do you need anything else?
-  - text: I'm glad you like it. What other questions do you have?
+  utter_appreciation:
+  - text: You are very welcome!
+  - text: You are welcome!
+  - text: I'm glad you like it.
   utter_ask_book_room:
   - text: Very well! Do you want to book room {current_room}?
   - text: For what date do you want to reserve room {current_room}?
@@ -151,24 +150,57 @@ templates:
   - text: 'Just to verify: Should I book room {current_room} for the {date}?'
   - text: Thank you. So I'm booking {current_room} for the {date}. Correct?
   utter_ask_for_booking_date:
+  - text: For what date do you want to book the room?
   - text: For what date should I reserve room {current_room} for you?
   - text: What would be the date for the booking?
+  - text: On which date do you arrive?
+  - text: For what date do you want to reserve room {current_room}?
   utter_ask_what_info:
   - text: What do you want to know?
+  - text: What are you interested in?
   utter_ask_for_confirmation:
   - text: Is that ok?
+  - text: Sounds good?
   utter_ask_for_name:
   - text: Who am I chatting with?
+  - text: Please tell me, who am I speaking to?
+  - text: What is your name?
   utter_ask_for_nr_of_people:
   - text: How many people are you expecting?
   - text: For how many people do you need a room?
   utter_ask_for_room:
   - text: Which room do you mean?
+  - text: Which one do you mean?
+  - text: Which room are you interested in?
   - text: Which one are you interested in?
-  utter_ask_for_service:
+  utter_ask_to_narrow_options:
   - text: Are you searching for a specific room?
+  - text: Are you searching for something specific?
+  - text: Are you searching for something special?
+  - text: Are you looking for a specific room?
+  - text: Are you looking for something specific?
+  - text: Are you looking for something special?
   utter_ask_for_service_with_name:
   - text: Hello {name}, how can I help you today?
+  - text: How can I help you today?
+  - text: How may I help you today?
+  - text: How can I help you?
+  - text: How may I help you?
+  utter_ask_for_service:
+  - text: How can I help you today?
+  - text: How may I help you today?
+  - text: How can I help you?
+  - text: How may I help you?
+  - text: How may I assist you?
+  - text: How may I assist you today?
+  - text: If there's anything I can do to help, please let me know
+  - text: If there's anything I can help you with, please let me know
+  utter_ask_for_additional_service:
+  - text: Is there anything else?
+  - text: Do you need anything else?
+  - text: What other questions do you have?
+  - text: Is there anything else I can do for you?
+  - text: Is there anything else I can help you with?
   utter_available_rooms_150_people:
   - text: We have three event rooms for {nr_of_people}
   - text: We have three rooms for {nr_of_people} people
@@ -192,10 +224,6 @@ templates:
   - text: Alright
   - text: Yes, sure
   - text: Ok, sure
-  utter_confirm+ask_for_booking_date:
-  - text: Perfect, for what date do you want to book the room?
-  - text: Ok, let's look if your room is available. On which date do you arrive?
-  - text: Ok, for what date do you want to reserve room {current_room}?
   utter_confirm+budget_limitation:
   - text: Okay. The prices of all rooms are below CHF {budget}
   - text: No worries, all rooms are below the price of {budget}
@@ -208,9 +236,8 @@ templates:
   - text: Perfect! We just booked the room for you.
   - text: Sure, I will reserve room {current_room} for you
   - text: All set! Thank you for your reservation.
-  utter_confirm_booking+ask_for_service:
-  - text: Great! The room is booked for you. Is there anything else I can do for you?
-  - text: Okay, it is booked! Is there anything else I can help you with?
+  - text: Great! The room is booked for you.
+  - text: Okay, it is booked!
   utter_confirm_preference_negative:
   - text: Sorry to hear, do you have another option in mind?
   utter_confirm_preference_positive:
@@ -232,19 +259,19 @@ templates:
   - text: Take care and have a nice day!
   - text: Thank you for choosing One King Hotel. Have a great day!
   utter_greet:
-  - text: Hello, this is Francis Peterson from One King Hotel.
-  utter_greet+ask_for_name:
-  - text: Hi, this is One King Hotel, who am I speaking to?
-  - text: Welcome to One King Hotel. My name is Francis Peterson. I will assist you
-      shortly. Please tell me, who am I speaking to?
   - text: Hi, this Francis Peterson of One King Hotel. Thank you for your interest.
-      I will gladly help you find a room, but first tell me, what is your name?
+      I will gladly help you find a room
+  - text: Hi, this is One King Hotel
+  - text: Welcome to One King Hotel. My name is Francis Peterson. I will assist you
+      shortly.
   - text: Hi, my name is Francis. I'm happy to help you find a room for your event.
-      What's your name?
-  utter_greet_with_name+ask_for_service:
-  - text: Hi {name}, welcome to One King Hotel. My name is Francis. How may I help
-      you?
-  - text: Hi {name}, how can I help you?
+  utter_greet_with_name:
+  - text: Hi {name}, this Francis Peterson of One King Hotel. Thank you for your interest.
+      I will gladly help you find a room
+  - text: Hi {name}, this is One King Hotel
+  - text: Hi {name}, welcome to One King Hotel. My name is Francis Peterson. I will assist you
+      shortly.
+  - text: Hi {name}, my name is Francis. I'm happy to help you find a room for your event.
   utter_options+ask_for_nr_of_people:
   - text: We have three different rooms available. For how many people do you need
       a room?

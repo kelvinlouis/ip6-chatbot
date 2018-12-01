@@ -1,6 +1,7 @@
 ## Generated Story -8897532857795406961.1
 * greet
-    - utter_greet+ask_for_name
+    - utter_greet
+    - ask_for_name
 * provide_name{"name": "Nicola"}
     - slot{"name": "Nicola"}
     - utter_ask_for_service_with_name
@@ -8,7 +9,7 @@
     - slot{"company": "Novartis"}
     - utter_confirm
     - utter_options
-    - utter_ask_for_service
+    - utter_ask_to_narrow_options
 * ask_for_room_equipment
     - utter_ask_for_nr_of_people
 > 8897532857795406961_nr_of_people.1
@@ -83,7 +84,8 @@
     - action_correct_room
     - slot{"room": null}
     - slot{"current_room": "Gamma"}
-    - utter_confirm_booking+ask_for_service
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
 * deny
     - utter_thanks_with_name
     - utter_goodbye
@@ -139,14 +141,15 @@
 
 ## Generated Story -3982048685169040827
 * greet
-    - utter_greet+ask_for_name
+    - utter_greet
+    - ask_for_name
 * provide_name{"name": "Nico"}
     - slot{"name": "Nico"}
     - utter_ask_for_service_with_name
 * ask_for_room_equipment
     - utter_confirm
     - utter_options
-    - utter_ask_for_service
+    - utter_ask_to_narrow_options
 * ask_for_room_size{"nr_of_people": "200"}
     - slot{"nr_of_people": "200"}
     - utter_room_alpha_people_limit
@@ -236,11 +239,13 @@
     - slot{"room": "this"}
     - action_correct_room
     - slot{"room": null}
-    - utter_confirm+ask_for_booking_date
+    - utter_confirm
+    - utter_ask_for_booking_date
 * provide_booking_date{"date": "12.05.2019"}
     - slot{"date": "12.05.2019"}
     - utter_ask_for_booking_confirmation
 * affirm
-    - utter_confirm_booking+ask_for_service
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
 * deny
     - utter_goodbye

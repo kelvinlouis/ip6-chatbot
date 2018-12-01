@@ -1,12 +1,13 @@
 ## 1 (Nicola)
 * greet
-    - utter_greet+ask_for_name
+    - utter_greet
+    - ask_for_name
 * provide_name{"name": "John Smith"}
     - utter_ask_for_service_with_name
 * ask_for_room_equipment
     - utter_confirm
     - utter_options
-    - utter_ask_for_service
+    - utter_ask_to_narrow_options
 * ask_for_room_size{"nr_of_people": "100"}
     - utter_available_rooms_150_people
     - utter_room_alpha_people_limit
@@ -34,7 +35,8 @@
     - utter_room_gamma_price
     - utter_ask_for_confirmation
 * affirm
-    - utter_confirm+ask_for_booking_date
+    - utter_confirm
+    - utter_ask_for_booking_date
 * provide_booking_date{"date": "23-03-2019"}
     - utter_ask_for_booking_confirmation
 * affirm
@@ -47,7 +49,8 @@
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Luca Hauser"}
-    - utter_greet_with_name+ask_for_service
+    - utter_greet_with_name
+    - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "150"}
     - utter_confirm
     - utter_available_rooms_150_people
@@ -75,14 +78,16 @@
 * reserve_room
     - utter_confirm_booking
 * thanks
-    - utter_appreciation+ask_for_service
+    - utter_appreciation
+    - utter_ask_for_additional_service
 * farewell OR deny
     - utter_goodbye
 
 
 ## inspired by chat 9-10 (Kelvin)
 * ask_for_options
-    - utter_greet+ask_for_name
+    - utter_greet
+    - ask_for_name
 * provide_name{"name": "Jennifer Meier"}
     - utter_ask_for_nr_of_people
 * provide_nr_of_people{"nr_of_people": "150"}
@@ -134,19 +139,22 @@
 * provide_preference
     - utter_ask_book_room
 * affirm
-    - utter_confirm+ask_for_booking_date
+    - utter_confirm
+    - utter_ask_for_booking_date
 * provide_booking_date{"date": "12.01.2019"}
     - utter_ask_for_booking_confirmation
 * affirm
     - utter_confirm_booking
 * thanks
-    - utter_appreciation+ask_for_service
+    - utter_appreciation
+    - utter_ask_for_additional_service
 * farewell OR deny
     - utter_goodbye
 
 ## inspired by chat 11-12 (Kelvin)
 * ask_for_options
-    - utter_greet+ask_for_name
+    - utter_greet
+    - ask_for_name
 * provide_name{"name": "Mark"}
     - utter_ask_for_nr_of_people
 * ask_for_room_size{"nr_of_people": "150"}
@@ -185,7 +193,8 @@
 * deny OR provide_booking_date{"date": "13.02.2018"}
     - utter_ask_for_booking_confirmation
 * affirm
-    - utter_confirm_booking+ask_for_service
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
 * deny
     - utter_thanks
     - utter_goodbye
@@ -194,7 +203,8 @@
 
 ## inspired by chat 13-14 (Kelvin)
 * greet{"name": "Arjen Bershka"}
-    - utter_greet_with_name+ask_for_service
+    - utter_greet_with_name
+    - utter_ask_for_service
 * ask_for_options
     - utter_options
     - utter_ask_for_nr_of_people
@@ -246,7 +256,8 @@
 * provide_booking_date{"date": "12th of September"}
     - utter_ask_for_booking_confirmation
 * affirm
-    - utter_confirm_booking+ask_for_service
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
 * deny OR farewell
     - utter_goodbye
 * thanks
@@ -254,7 +265,8 @@
 
 ## inspired by chat 3-2 (Kelvin)
 * greet{"name": "Laura Steiner", "company": "Inselspital"}
-    - utter_greet_with_name+ask_for_service
+    - utter_greet_with_name
+    - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "150"}
     - utter_available_rooms_150_people
     - utter_ask_what_info
@@ -281,11 +293,13 @@
     - action_correct_room
     - slot{"current_room": "Alpha"}
     - slot{"room": null}
-    - utter_confirm+ask_for_booking_date
+    - utter_confirm
+    - utter_ask_for_booking_date
 * provide_booking_date{"date": "05.08.2019"}
     - utter_ask_for_booking_confirmation
 * affirm
-    - utter_confirm_booking+ask_for_service
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
 * deny OR farewell
     - utter_goodbye
 * thanks
@@ -293,7 +307,8 @@
 
 ## Inspired by chat 5-4 (Johanna)
 * ask_for_options
-    - utter_greet+ask_for_name
+    - utter_greet
+    - ask_for_name
 * provide_name{"name": "Mergime"}
     - utter_ask_for_nr_of_people
 * ask_for_room_size{"nr_of_people": "150"}
@@ -322,7 +337,8 @@
     - slot{"room": null}
     - utter_room_beta_price
 * affirm
-    - utter_appreciation+ask_for_service
+    - utter_appreciation
+    - utter_ask_for_additional_service
 * ask_for_room{"room": "other"}
     - action_correct_room
     - slot{"current_room": "Beta"}

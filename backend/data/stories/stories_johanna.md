@@ -1,13 +1,14 @@
 ## Generated Story -2356003198837254943
 * greet
-    - utter_greet+ask_for_name
+    - utter_greet
+    - ask_for_name
 * provide_name{"name": "Hans"}
     - slot{"name": "Hans"}
     - utter_ask_for_service_with_name
 * ask_for_options
     - utter_confirm
     - utter_options
-    - utter_ask_for_service
+    - utter_ask_to_narrow_options
 * ask_for_room_equipment
     - utter_ask_for_nr_of_people
 * provide_nr_of_people{"nr_of_people": "180"}
@@ -49,12 +50,14 @@
     - slot{"room": "the"}
     - action_correct_room
     - slot{"room": null}
-    - utter_confirm+ask_for_booking_date
+    - utter_confirm
+    - utter_ask_for_booking_date
 * provide_booking_date{"date": "12.03.2019"}
     - slot{"date": "12.03.2019"}
     - utter_ask_for_booking_confirmation
 * affirm
-    - utter_confirm_booking+ask_for_service
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
 * deny
     - utter_thanks
     - utter_goodbye
@@ -63,7 +66,8 @@
 
 ## Generated Story -1049300769894828425
 * greet
-    - utter_greet+ask_for_name
+    - utter_greet
+    - ask_for_name
 * provide_name{"name": "Yin"}
     - slot{"name": "Yin"}
     - utter_ask_for_service_with_name
@@ -181,11 +185,13 @@
     - slot{"room": "it"}
     - action_correct_room
     - slot{"room": null}
-    - utter_confirm+ask_for_booking_date
+    - utter_confirm
+    - utter_ask_for_booking_date
 * provide_booking_date
     - utter_ask_for_booking_confirmation
 * affirm
-    - utter_confirm_booking+ask_for_service
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
 * deny
     - utter_thanks
     - utter_goodbye
@@ -193,10 +199,12 @@
 
 ## Generated Story -4473528322610655305
 * ask_for_options
-    - utter_greet+ask_for_name
+    - utter_greet
+    - ask_for_name
 * provide_name{"name": "Donita"}
     - slot{"name": "Donita"}
-    - utter_greet_with_name+ask_for_service
+    - utter_greet_with_name
+    - utter_ask_for_service
 * ask_for_options
     - utter_options
     - utter_ask_for_nr_of_people
@@ -245,7 +253,8 @@
     - action_correct_room
     - slot{"current_room": "Beta"}
     - slot{"room": null}
-    - utter_confirm+ask_for_booking_date
+    - utter_confirm
+    - utter_ask_for_booking_date
 * ask_for_room_equipment{"room": "it"}
     - slot{"room": "it"}
     - action_correct_room
@@ -257,12 +266,14 @@
     - slot{"room": "it"}
     - action_correct_room
     - slot{"room": null}
-    - utter_confirm+ask_for_booking_date
+    - utter_confirm
+    - utter_ask_for_booking_date
 * provide_booking_date{"date": "24 July 2019"}
     - slot{"date": "24 July 2019"}
     - utter_ask_for_booking_confirmation
 * thanks
-    - utter_confirm_booking+ask_for_service
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
 * deny
     - utter_thanks
     - utter_goodbye

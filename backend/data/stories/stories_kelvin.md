@@ -1,7 +1,8 @@
 ## Generated Story -2306698450094699806
 * greet{"name": "Silvia Parankeymalil"}
     - slot{"name": "Silvia Parankeymalil"}
-    - utter_greet_with_name+ask_for_service
+    - utter_greet_with_name
+    - utter_ask_for_service
 * ask_for_options
     - utter_options
     - utter_ask_for_nr_of_people
@@ -52,11 +53,13 @@
     - slot{"room": "the"}
     - action_correct_room
     - slot{"room": null}
-    - utter_confirm+ask_for_booking_date
+    - utter_confirm
+    - utter_ask_for_booking_date
 * provide_booking_date{"date": "21st of August 2019"}
     - utter_ask_for_booking_confirmation
 * affirm
-    - utter_confirm_booking+ask_for_service
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
 * farewell
     - utter_goodbye
 * thanks
@@ -65,7 +68,8 @@
 ## Generated Story -1847740183244512759
 * greet{"name": "Kelvin"}
     - slot{"name": "Kelvin"}
-    - utter_greet_with_name+ask_for_service
+    - utter_greet_with_name
+    - utter_ask_for_service
 * ask_for_options
     - utter_options
     - utter_ask_for_nr_of_people
@@ -106,7 +110,8 @@
 * affirm
     - utter_confirm_booking
 * thanks
-    - utter_appreciation+ask_for_service
+    - utter_appreciation
+    - utter_ask_for_additional_service
 * farewell
     - utter_goodbye
 * farewell
@@ -114,14 +119,15 @@
 
 ## Generated Story 3406083726647241337
 * greet
-    - utter_greet+ask_for_name
+    - utter_greet
+    - ask_for_name
 * provide_name{"name": "Anna Oddermatt"}
     - slot{"name": "Anna Oddermatt"}
     - utter_ask_for_service_with_name
 * ask_for_room_equipment
     - utter_confirm
     - utter_options
-    - utter_ask_for_service
+    - utter_ask_to_narrow_options
 * ask_for_room_equipment
     - utter_room_alpha_equipment
     - utter_room_beta_equipment
@@ -162,7 +168,8 @@
     - slot{"room": "this"}
     - action_correct_room
     - slot{"room": null}
-    - utter_confirm+ask_for_booking_date
+    - utter_confirm
+    - utter_ask_for_booking_date
 * provide_booking_date{"room": "it", "date": "28th of September 2019"}
     - slot{"date": "28th of September 2019"}
     - slot{"room": "it"}
@@ -172,7 +179,8 @@
 * affirm
     - utter_confirm_booking
 * thanks
-    - utter_appreciation+ask_for_service
+    - utter_appreciation
+    - utter_ask_for_additional_service
 * deny
     - utter_goodbye
 * farewell
