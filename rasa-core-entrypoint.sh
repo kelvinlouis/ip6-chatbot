@@ -11,7 +11,7 @@ envsubst < /app/credentials_template.yml > /app/credentials.yml
 echo "Waiting for rasa-nlu..."
 
 while ! nc -z rasa-nlu 5000; do   
-  sleep 0.1 # wait for 1/10 of the second before check again
+  sleep 0.5 # wait for 1/10 of the second before check again
 done
 
 echo "rasa-nlu launched"
