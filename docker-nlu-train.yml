@@ -4,7 +4,6 @@ services:
   rasa-nlu:
     image: rasa/rasa_nlu:latest-tensorflow
     # TODO: Install optimized tensorflow binaries
-    ports:
     depends_on:
       - rasa-duckling
     volumes:

@@ -23,7 +23,7 @@ services:
       - ${PWD}/backend/endpoints_template.yml:/app/endpoints_template.yml
       - ${PWD}/backend/credentials_template.yml:/app/credentials_template.yml
       - ${PWD}/backend/logs/rasa_core:/app/logs
-    command: python -m rasa_core.run -d models/dialogue --endpoints endpoints.yml --port ${CORE_PORT} --credentials credentials.yml -o logs/core.log --enable_api -u ${NLU_PROJECT}/${NLU_MODEL} -vv
+    command: python -m rasa_core.run -d models/dialogue --endpoints endpoints.yml --port ${CORE_PORT} --credentials credentials.yml -o logs/core.log --enable_api -u ${NLU_PROJECT}/${NLU_MODEL} -v
   
   rasa-nlu:
     image: rasa/rasa_nlu:latest-tensorflow
@@ -34,12 +34,15 @@ services:
       - rasa-duckling
     restart: always
     volumes:
+      - ${PWD}/rasa-nlu-entrypoint.sh:/app/entrypoint.sh
       - ${PWD}/backend/models/nlu:/app/models/nlu
       - ${PWD}/backend/logs/rasa_nlu:/app/logs
     command: start --path models/nlu --response_log logs/response.log -w logs/nlu.log -P ${NLU_PORT}
   
   action-server:
     image: rasa/rasa_core_sdk:latest
+    ports: 
+      - "127.0.0.1:${ACTION_PORT}:${ACTION_PORT}"
     restart: always
     volumes:
       - ${PWD}/backend/actions.py:/app/actions.py

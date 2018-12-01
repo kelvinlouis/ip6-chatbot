@@ -2,7 +2,6 @@
 ---
 actions:
 - utter_room_beta_highlight
-- utter_ask_for_service_with_name
 - utter_ask_for_booking_date
 - utter_available_rooms_150_people
 - utter_available_rooms_200_people
