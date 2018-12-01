@@ -53,6 +53,7 @@ actions:
 - utter_ask_for_additional_service
 - utter_ask_for_service_with_name
 - utter_greet_with_name
+- utter_appreciation
 config:
   store_entities_as_slots: true
 entities:

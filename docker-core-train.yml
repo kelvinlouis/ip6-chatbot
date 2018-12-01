@@ -28,7 +28,7 @@ services:
       - ${PWD}/rasa-nlu-entrypoint.sh:/app/entrypoint.sh
       - ${PWD}/backend/models/nlu:/app/models/nlu
       - ${PWD}/backend/logs/rasa_nlu:/app/logs
-    command: start --path models/nlu --response_log logs/response.log -w logs/nlu.log -P ${NLU_PORT}
+    command: python -m rasa_nlu.server --path models/nlu --response_log logs/response.log -w logs/nlu.log -P ${NLU_PORT}
   
   action-server:
     image: rasa/rasa_core_sdk:latest
