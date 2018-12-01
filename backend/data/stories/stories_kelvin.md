@@ -120,7 +120,7 @@
 ## Generated Story 3406083726647241337
 * greet
     - utter_greet
-    - ask_for_name
+    - utter_ask_for_name
 * provide_name{"name": "Anna Oddermatt"}
     - slot{"name": "Anna Oddermatt"}
     - utter_ask_for_service_with_name

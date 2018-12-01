@@ -1,7 +1,7 @@
 ## Generated Story -2356003198837254943
 * greet
     - utter_greet
-    - ask_for_name
+    - utter_ask_for_name
 * provide_name{"name": "Hans"}
     - slot{"name": "Hans"}
     - utter_ask_for_service_with_name
@@ -67,7 +67,7 @@
 ## Generated Story -1049300769894828425
 * greet
     - utter_greet
-    - ask_for_name
+    - utter_ask_for_name
 * provide_name{"name": "Yin"}
     - slot{"name": "Yin"}
     - utter_ask_for_service_with_name
@@ -200,7 +200,7 @@
 ## Generated Story -4473528322610655305
 * ask_for_options
     - utter_greet
-    - ask_for_name
+    - utter_ask_for_name
 * provide_name{"name": "Donita"}
     - slot{"name": "Donita"}
     - utter_greet_with_name
