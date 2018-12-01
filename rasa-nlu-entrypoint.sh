@@ -3,7 +3,7 @@
 set -e
 
 apt-get update
-apt-get install -y gettext-base
+apt-get install -y gettext-base wget
 
 wget -N "https://anaconda.org/intel/tensorflow/1.10.0/download/tensorflow-1.10.0-cp36-cp36m-linux_x86_64.whl-avx2.whl"
 pip install -U "tensorflow-1.10.0-cp36-cp36m-linux_x86_64.whl-avx2.whl"
