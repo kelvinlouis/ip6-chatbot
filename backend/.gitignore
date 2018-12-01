@@ -2,6 +2,7 @@
 models/**
 logs/**
 mongodb/initdb.d/**
+mongodb/data/**
 
 # VSCode
 .vscode/*
