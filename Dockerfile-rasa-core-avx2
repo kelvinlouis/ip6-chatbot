@@ -1,0 +1,25 @@
+FROM python:3.6-slim as rasa_core_avx2
+
+ENV RASA_NLU_DOCKER="YES" \
+    RASA_NLU_HOME=/app \
+    RASA_NLU_PYTHON_PACKAGES=/usr/local/lib/python3.6/dist-packages
+
+# Run updates, install basics and cleanup
+# - build-essential: Compile specific dependencies
+# - git-core: Checkout git repos
+RUN apt-get update -qq \
+    && apt-get install -y --no-install-recommends build-essential git-core gettext-base \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+WORKDIR ${RASA_NLU_HOME}
+
+COPY ./rasa-core-entrypoint.sh ./entrypoint.sh
+
+RUN pip install -U "https://anaconda.org/intel/tensorflow/1.10.0/download/tensorflow-1.10.0-cp36-cp36m-linux_x86_64.whl-avx2.whl"
+
+RUN pip install -U rasa_core
+
+VOLUME ["/app/data/stories", "/app/models/dialogue", "/app/logs"]
+
+ENTRYPOINT ["./entrypoint.sh"]
