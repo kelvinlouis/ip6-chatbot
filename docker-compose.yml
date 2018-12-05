@@ -2,7 +2,7 @@ version: '3'
 
 services:
   rasa-core:
-    image: rasa/rasa_core:latest
+    image: rasa_core_avx2:latest
     ports: 
       - "127.0.0.1:${CORE_PORT}:${CORE_PORT}"
     depends_on:
@@ -13,8 +13,7 @@ services:
       - .env
     restart: always
     volumes:
-      - ${PWD}/rasa-core-entrypoint.sh:/app/entrypoint.sh
-      - ${PWD}/backend/models/dialogue:/app/models/dialogue
+      - ${PWD}/backend/models/dialogue-prod:/app/models/dialogue
       - ${PWD}/backend/budget_slot.py:/app/budget_slot.py
       - ${PWD}/backend/no_of_people_slot.py:/app/no_of_people_slot.py
       - ${PWD}/backend/webapp.py:/app/webapp.py
@@ -23,22 +22,16 @@ services:
       - ${PWD}/backend/endpoints_template.yml:/app/endpoints_template.yml
       - ${PWD}/backend/credentials_template.yml:/app/credentials_template.yml
       - ${PWD}/backend/logs/rasa_core:/app/logs
-      - ${PWD}/backend/pip-cache:/app/pip-cache
     command: python -m rasa_core.run -d models/dialogue --endpoints endpoints.yml --port ${CORE_PORT} --credentials credentials.yml -o logs/core.log --enable_api -u ${NLU_PROJECT}/${NLU_MODEL} -v
   
   rasa-nlu:
-    image: rasa/rasa_nlu:latest-tensorflow
-    # TODO: Install optimized tensorflow binaries
+    image: rasa_nlu_avx2:latest
     ports: 
       - "127.0.0.1:${NLU_PORT}:${NLU_PORT}"
-    depends_on:
-      - rasa-duckling
     restart: always
     volumes:
-      - ${PWD}/rasa-nlu-entrypoint.sh:/app/entrypoint.sh
-      - ${PWD}/backend/models/nlu:/app/models/nlu
+      - ${PWD}/backend/models/nlu-prod:/app/models/nlu
       - ${PWD}/backend/logs/rasa_nlu:/app/logs
-      - ${PWD}/backend/pip-cache:/app/pip-cache
     command: python -m rasa_nlu.server --path models/nlu --response_log logs/response.log -w logs/nlu.log -P ${NLU_PORT}
   
   action-server:
@@ -51,13 +44,6 @@ services:
       - ${PWD}/backend/logs/rasa_core_sdk:/app/logs
     command: start --actions actions -p ${ACTION_PORT}
   
-  rasa-duckling:
-    image: rasa/duckling:latest
-    # TODO: Update corpus form git repo?
-    ports: 
-      - "127.0.0.1:${DUCKLING_PORT}:${DUCKLING_PORT}"
-    restart: always
-
   mongo:
     image: mongo
     ports: 
