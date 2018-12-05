@@ -74,3 +74,4 @@ services:
     volumes:
       - ${PWD}/backend/nginx_template.conf:/etc/nginx/conf.d/default.conf
       - ${PWD}/frontend/build:/usr/share/nginx/html:ro
+      - ${PWD}/backend/.htpasswd:/etc/nginx/.htpasswd
