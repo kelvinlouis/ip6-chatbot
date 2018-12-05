@@ -10,14 +10,16 @@ import zipfile
     Every logger gets a db connection and the necessary ids.
 '''
 class ConversationLoggerManager:
-    def __init__(self, mongo_url, mongo_db, enabled = False):
-        self.db_name = mongo_db
-        self.db_url = mongo_url
+    def __init__(self, mongo_url, mongo_username, mongo_password, mongo_database, enabled=False):
         self.enabled = enabled
 
         # Establishes and saves mongo db connection
-        self._client = MongoClient(mongo_url)
-        self._db = self._client[self.db_name]
+        if mongo_username == None and mongo_password == None:
+            self._client = MongoClient(mongo_url)
+        else:
+            self._client = MongoClient(mongo_url, username=mongo_username, password=mongo_password)
+
+        self._db = self._client[mongo_database]
         self._conversations = self._db["conversations"]
 
     # Creates an instance of a logger

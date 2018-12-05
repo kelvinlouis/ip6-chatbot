@@ -67,7 +67,9 @@ class WebappInput(InputChannel):
                    credentials.get("namespace"),
                    credentials.get("logger_enabled", False),
                    credentials.get("mongodb_url", "localhost"),
-                   credentials.get("mongodb_db", "chatbot"))
+                   credentials.get("mongodb_username", None),
+                   credentials.get("mongodb_password", None),
+                   credentials.get("mongodb_database", "chatbot"))
 
     def __init__(self,
                  user_message_evt: Text = "user_uttered",
@@ -75,14 +77,18 @@ class WebappInput(InputChannel):
                  namespace: Optional[Text] = None,
                  logger_enabled = False,
                  mongodb_url: Text = "localhost",
-                 mongodb_db: Text = "chatbot",
+                 mongodb_username: Text = None,
+                 mongodb_password: Text = None,
+                 mongodb_database: Text = "chatbot",
                  socketio_path='/socket.io'  # type: Optional[Text]
                  ):
         self.bot_message_evt = bot_message_evt
         self.user_message_evt = user_message_evt
         self.namespace = namespace
         self.socketio_path = socketio_path
-        self.conversation_logger_manager = ConversationLoggerManager(mongodb_url, mongodb_db, logger_enabled)
+        self.conversation_logger_manager = ConversationLoggerManager(
+            mongodb_url, mongodb_username, mongodb_password, 
+            mongodb_database, logger_enabled)
 
     def blueprint(self, on_new_message):
         sio = socketio.Server()
@@ -114,13 +120,13 @@ class WebappInput(InputChannel):
             participant_id = data['participant_id']
             user_text = data['message']
 
-            logger = self.conversation_logger_manager.create(sid, participant_id)
+            conversation_logger = self.conversation_logger_manager.create(sid, participant_id)
 
             # No logger will be created, if it is not enabled
-            logger.user_sent_message(user_text)
+            conversation_logger.user_sent_message(user_text)
 
             output_channel = WebappOutput(
-                sio, self.bot_message_evt, logger)
+                sio, self.bot_message_evt, conversation_logger)
             message = UserMessage(user_text, output_channel, sid,
                                   input_channel=self.name())
             on_new_message(message)
