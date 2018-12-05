@@ -2,7 +2,6 @@
 ---
 actions:
 - utter_room_beta_highlight
-- utter_ask_for_service_with_name
 - utter_ask_for_booking_date
 - utter_available_rooms_150_people
 - utter_available_rooms_200_people
@@ -54,6 +53,7 @@ actions:
 - utter_ask_for_additional_service
 - utter_ask_for_service_with_name
 - utter_greet_with_name
+- utter_appreciation
 config:
   store_entities_as_slots: true
 entities:

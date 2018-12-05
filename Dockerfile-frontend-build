@@ -1,0 +1,6 @@
+FROM node:lts as webapp-builder
+
+WORKDIR /app
+
+ENV PATH /app/node_modules/.bin:$PATH
+

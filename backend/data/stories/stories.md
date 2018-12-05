@@ -1,7 +1,7 @@
 ## 1 (Nicola)
 * greet
     - utter_greet
-    - ask_for_name
+    - utter_ask_for_name
 * provide_name{"name": "John Smith"}
     - utter_ask_for_service_with_name
 * ask_for_room_equipment
@@ -87,7 +87,7 @@
 ## inspired by chat 9-10 (Kelvin)
 * ask_for_options
     - utter_greet
-    - ask_for_name
+    - utter_ask_for_name
 * provide_name{"name": "Jennifer Meier"}
     - utter_ask_for_nr_of_people
 * provide_nr_of_people{"nr_of_people": "150"}
@@ -154,7 +154,7 @@
 ## inspired by chat 11-12 (Kelvin)
 * ask_for_options
     - utter_greet
-    - ask_for_name
+    - utter_ask_for_name
 * provide_name{"name": "Mark"}
     - utter_ask_for_nr_of_people
 * ask_for_room_size{"nr_of_people": "150"}
@@ -308,7 +308,7 @@
 ## Inspired by chat 5-4 (Johanna)
 * ask_for_options
     - utter_greet
-    - ask_for_name
+    - utter_ask_for_name
 * provide_name{"name": "Mergime"}
     - utter_ask_for_nr_of_people
 * ask_for_room_size{"nr_of_people": "150"}
