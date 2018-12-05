@@ -17,7 +17,6 @@ actions:
 - utter_confirm_booking
 - utter_ask_for_nr_of_people
 - utter_thanks
-- utter_confirm+budget_limitation
 - action_get_room_price
 - utter_ask_for_name
 - utter_generic_equipment_options
@@ -54,6 +53,11 @@ actions:
 - utter_ask_for_service_with_name
 - utter_greet_with_name
 - utter_appreciation
+- utter_directions_with_start_location
+- utter_directions_without_start_location
+- utter_budget_limitation_900
+- utter_budget_limitation_1100
+- utter_budget_limitation_1400
 config:
   store_entities_as_slots: true
 entities:
@@ -82,6 +86,7 @@ intents:
   - disagree
   - farewell
   - greet
+  - greet+provide_name
   - provide_booking_date
   - provide_budget
   - provide_name
@@ -181,11 +186,12 @@ templates:
   - text: Are you looking for something specific?
   - text: Are you looking for something special?
   utter_ask_for_service_with_name:
-  - text: Hello {name}, how can I help you today?
-  - text: How can I help you today?
-  - text: How may I help you today?
-  - text: How can I help you?
-  - text: How may I help you?
+  - text: How can I help you today, {name}?
+  - text: How may I help you today, {name}?
+  - text: How can I help you, {name}?
+  - text: How may I help you, {name}?
+  - text: How may I assist you, {name}?
+  - text: How may I assist you today, {name}?
   utter_ask_for_service:
   - text: How can I help you today?
   - text: How may I help you today?
@@ -205,12 +211,12 @@ templates:
   - text: We have three event rooms for {nr_of_people}
   - text: We have three rooms for {nr_of_people} people
   - text: We have three rooms that are suitable for {nr_of_people} guests
-  - text: There is three rooms for {nr_of_people} people
+  - text: There are three rooms for {nr_of_people} people
   utter_available_rooms_200_people:
   - text: We have two event rooms for {nr_of_people}
   - text: We have two rooms for {nr_of_people} people
   - text: We have two rooms that are suitable for {nr_of_people} guests
-  - text: There is one room for {nr_of_people} people
+  - text: There are two rooms for {nr_of_people} people
   utter_available_rooms_270_people:
   - text: We have one event room for {nr_of_people}
   - text: We have one room for {nr_of_people} people
@@ -224,14 +230,22 @@ templates:
   - text: Alright
   - text: Yes, sure
   - text: Ok, sure
-  utter_confirm+budget_limitation:
-  - text: Okay. The prices of all rooms are below CHF {budget}
-  - text: No worries, all rooms are below the price of {budget}
-  - text: This should not be a problem. All the rooms are in your price range
+  utter_budget_limitation_900:
+  - text: The price of one room is below CHF {budget}
+  - text: One room is below the price of {budget}
+  - text: One room is in your price range
+  utter_budget_limitation_1100:
+  - text: The prices of two rooms are below CHF {budget}
+  - text: Two rooms are below the price of {budget}
+  - text: Two the rooms are in your price range
+  utter_budget_limitation_1400:
+  - text: The prices of all rooms are below CHF {budget}
+  - text: All rooms are below the price of {budget}
+  - text: All the rooms are in your price range
   utter_options:
   - text: We have multiple offerings
   - text: We have multiple rooms available
-  - text: We have three rooms available for you
+  - text: We have multiple rooms available for you
   utter_confirm_booking:
   - text: Perfect! We just booked the room for you.
   - text: Sure, I will reserve room {current_room} for you
@@ -272,9 +286,6 @@ templates:
   - text: Hi {name}, welcome to One King Hotel. My name is Francis Peterson. I will assist you
       shortly.
   - text: Hi {name}, my name is Francis. I'm happy to help you find a room for your event.
-  utter_options+ask_for_nr_of_people:
-  - text: We have three different rooms available. For how many people do you need
-      a room?
   utter_room_alpha_atmosphere:
   - text: Room Alpha is perfect for presentations. It is like a cinema. You have seats
       and a huge stage where a presentation can be held. It is not ideal for workshops
@@ -419,6 +430,18 @@ templates:
   utter_thanks_with_name:
   - text: Thanks {name}!
   - text: Thanks you, {name}!
+  utter_directions_with_start_location:
+  - text: You can take the subway from the {start_location} to the hotel
+  - text: You can take the train from the {start_location}. It's only a 5 minute walk from the station to the hotel
+  - text: You can take the subway from the {start_location}. It's only a 5 minute walk from the station to the hotel
+  - text: There is a subway from the {start_location} to the hotel, you can not miss it
+  - text: It's only a 5 minute walk from the {start_location} to the hotel
+  utter_directions_without_start_location:
+  - text: You can take the subway to the hotel
+  - text: You can take the train. It's only a 5 minute walk from the station to the hotel
+  - text: You can take the subway. It's only a 5 minute walk from the station to the hotel
+  - text: There is a subway to the hotel, you can not miss it
+  - text: It's only a 5 minute walk from the station to the hotel
   utter_default:
   - text: Excuse me, can you rephrase this please?
   - text: Excuse me, can you please rephrase your last message?

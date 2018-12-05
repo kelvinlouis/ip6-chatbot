@@ -7,7 +7,13 @@ python -m rasa_nlu.server --path models/nlu
 # Endpoint: ws://localhost:5002/socket.io/
 python -m rasa_core.run -d models/dialogue -u models/nlu/default/test --endpoints endpoints.yml --port 5002 --credentials credentials.yml -o logs/core.log
 
+# Evaluate
+python -m rasa_core.evaluate --core models/dialogue --stories test_stories.md -o results
+
+# Evaluate with NLU (Bug: https://github.com/RasaHQ/rasa_core/issues/1394)
+python -m rasa_core.evaluate default --core models/dialogue --nlu models/nlu/default/test --stories data/e2e_stories --e2e
+
 # Generate md files
 cd preprocessing/
 npx chatito chatito --outputPath=out/
-node create-md.js -i out/default_dataset_training.json -o ../data/nlu/nlu_training_generated.md
+node create-md.js -i out/default_dataset_training.json -o ../data/nlu/nlu_greet_provide_name.md

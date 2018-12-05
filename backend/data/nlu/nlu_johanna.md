@@ -26,8 +26,8 @@
 ## intent:ask_for_room_equipment
 - i want to do a presentation
 - We need to do a presentation in [the](room) room. Is that possible?
-- What about the rest of the equipment? Is there a [projector](equipment) and speakers?
-- Do they also have a [projector](equipment) and audio system?
+- What about the rest of the equipment? Is there a projector and speakers?
+- Do they also have a projector and audio system?
 - Actually, wait... Is it really suitable to do a presentation in room [Beta](room)? The bar and loung setup isn't really good for that, is it?
 
 ## intent:ask_for_room_highlight
