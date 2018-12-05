@@ -13,7 +13,7 @@ services:
       - .env
     restart: always
     volumes:
-      - ${PWD}/backend/models/dialogue:/app/models/dialogue
+      - ${PWD}/backend/models/dialogue-prod:/app/models/dialogue
       - ${PWD}/backend/budget_slot.py:/app/budget_slot.py
       - ${PWD}/backend/no_of_people_slot.py:/app/no_of_people_slot.py
       - ${PWD}/backend/webapp.py:/app/webapp.py
@@ -28,11 +28,9 @@ services:
     image: rasa_nlu_avx2:latest
     ports: 
       - "127.0.0.1:${NLU_PORT}:${NLU_PORT}"
-    depends_on:
-      - rasa-duckling
     restart: always
     volumes:
-      - ${PWD}/backend/models/nlu:/app/models/nlu
+      - ${PWD}/backend/models/nlu-prod:/app/models/nlu
       - ${PWD}/backend/logs/rasa_nlu:/app/logs
     command: python -m rasa_nlu.server --path models/nlu --response_log logs/response.log -w logs/nlu.log -P ${NLU_PORT}
   
@@ -46,13 +44,6 @@ services:
       - ${PWD}/backend/logs/rasa_core_sdk:/app/logs
     command: start --actions actions -p ${ACTION_PORT}
   
-  rasa-duckling:
-    image: rasa/duckling:latest
-    # TODO: Update corpus form git repo?
-    ports: 
-      - "127.0.0.1:${DUCKLING_PORT}:${DUCKLING_PORT}"
-    restart: always
-
   mongo:
     image: mongo
     ports: 
