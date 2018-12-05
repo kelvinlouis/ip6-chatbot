@@ -298,3 +298,81 @@
 * farewell
     - utter_thanks
 
+## Generated Story -7099497322657046196
+* greet
+    - utter_greet
+    - utter_ask_for_name
+* provide_name{"name": "Marco"}
+    - slot{"name": "Marco"}
+    - utter_greet_with_name
+    - utter_ask_for_service
+* ask_for_room_size{"nr_of_people": "170"}
+    - slot{"nr_of_people": "170"}
+    - utter_available_rooms_200_people
+    - utter_room_alpha_people_limit
+    - utter_room_gamma_people_limit
+* ask_for_room_equipment
+    - utter_generic_equipment_options
+* ask_for_room_seating
+    - utter_room_alpha_seating
+    - utter_room_gamma_seating
+* reserve_room{"room": "gamma"}
+    - slot{"room": "gamma"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_ask_book_room
+* affirm
+    - utter_ask_for_booking_date
+* provide_booking_date{"date": "23.09.2019", "time": "12:45"}
+    - slot{"date": "23.09.2019"}
+    - slot{"time": "12:45"}
+    - utter_ask_for_booking_confirmation
+* affirm
+    - utter_confirm_booking
+* farewell
+    - utter_goodbye
+
+## Generated Story -1702145473664129217
+* greet
+    - utter_greet
+    - utter_ask_for_name
+* provide_name{"name": "Petra"}
+    - slot{"name": "Petra"}
+    - utter_ask_for_service_with_name
+* provide_nr_of_people{"nr_of_people": "200"}
+    - slot{"nr_of_people": "200"}
+    - utter_confirm
+    - utter_available_rooms_200_people
+    - utter_room_alpha_people_limit
+    - utter_room_gamma_people_limit
+* ask_for_room_price{"room": "gamma"}
+    - slot{"room": "gamma"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_room_gamma_price
+* ask_for_room_seating
+    - utter_room_gamma_seating
+* ask_for_room{"room": "alpha"}
+    - slot{"room": "alpha"}
+    - action_correct_room
+    - slot{"current_room": "Alpha"}
+    - slot{"room": null}
+    - utter_room_alpha_seating
+* reserve_room{"room": "gamma"}
+    - slot{"room": "gamma"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_confirm
+    - utter_ask_for_booking_date
+* provide_booking_date{"date": "17.04.2019"}
+    - slot{"date": "17.04.2019"}
+    - utter_ask_for_booking_confirmation
+* affirm
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
+* deny
+    - utter_goodbye
+

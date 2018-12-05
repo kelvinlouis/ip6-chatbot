@@ -1582,17 +1582,17 @@
 - Does the [last](room) one have a good vibe?
 
 ## intent:ask_for_room_equipment
-- I also would like a [screen](equipment) in the [others](room)
-- do you have an option that has an [audio/video system](equipment) for the team?
+- I also would like a screen in the [others](room)
+- do you have an option that has an audio/video system for the team?
 - do you have equipment to do a presentation for the team in the [other](room) rooms?
 - can we show a powerpoint presentation for our staff?
-- does the [third](room) room have a [screen](equipment) ?
+- does the [third](room) room have a screen ?
 - is there equipment to do a powerpoint presentation for our employees in the [third](room) room?
 - is there an event room with equipment to do a presentation ?
 - I should be able to show a powerpoint presentation in the [others](room) for our staff?
-- do you have an [audio/video system](equipment) to do a powerpoint presentation for the team ?
-- do you provide a [video system](equipment) to hold a presentation in the [other](room) ones?
-- is there an option that has a [screen](equipment) ?
+- do you have an audio/video system to do a powerpoint presentation for the team ?
+- do you provide a video system to hold a presentation in the [other](room) ones?
+- is there an option that has a screen ?
 - does the [first](room) one have equipment to do a powerpoint presentation for our staff?
 - can we show a presentation in the [others](room) for my colleagues?
 - do you have equipment to show a powerpoint presentation ?
@@ -1601,122 +1601,122 @@
 - I like equipment in the [others](room)
 - is there a possibility to do a presentation in the [other](room) ones for our staff?
 - do you provide equipment for the team in the [third](room) room?
-- is there a meeting room that has a [video system](equipment) for my colleagues?
+- is there a meeting room that has a video system for my colleagues?
 - does [gamma](room) have equipment to show a presentation for my colleagues?
 - do you provide equipment to do a presentation in room [Alpha](room)?
 - is there a possibility to show a powerpoint presentation in the [other](room) ones ?
-- do you have a [screen](equipment) in [the](room) room?
-- do you have a location that has a [projector](equipment) to do a powerpoint presentation ?
-- do you provide a [projector](equipment) to do a powerpoint presentation for my colleagues in the [others](room)?
+- do you have a screen in [the](room) room?
+- do you have a location that has a projector to do a powerpoint presentation ?
+- do you provide a projector to do a powerpoint presentation for my colleagues in the [others](room)?
 - could we show a presentation for the team?
 - do you provide equipment in the [others](room)?
 - do you have a venue which has equipment to do a presentation for our staff?
 - does the [second](room) one have equipment to do a talk for my colleagues?
-- we also like a [screen](equipment) in the [third](room) one
-- do you provide a [projector](equipment) to show a presentation for our staff ?
+- we also like a screen in the [third](room) one
+- do you provide a projector to show a presentation for our staff ?
 - could I show a presentation in [this](room) ?
-- is there an [audio/video system](equipment) for our employees in [it](room)?
-- is there an event room with an [audio/video system](equipment) to do a presentation for our employees?
+- is there an audio/video system for our employees in [it](room)?
+- is there an event room with an audio/video system to do a presentation for our employees?
 - do you have equipment to hold a presentation for my colleagues in the [first](room) room?
 - are we able to show a powerpoint presentation in [it](room) for my colleagues?
-- does [it](room) have an [audio/video system](equipment) for the team?
-- do you provide an option which has a [video system](equipment) to hold a presentation ?
-- is there a [screen](equipment) in the [other](room) rooms?
-- do you have a [projector](equipment) for our staff in the [others](room)?
-- is there a location with an [audio/video system](equipment) for our employees?
+- does [it](room) have an audio/video system for the team?
+- do you provide an option which has a video system to hold a presentation ?
+- is there a screen in the [other](room) rooms?
+- do you have a projector for our staff in the [others](room)?
+- is there a location with an audio/video system for our employees?
 - can I show a presentation for the team?
-- we need an [audio/video system](equipment) in [this](room) one
-- do you have an [audio/video system](equipment) for our employees in [Beta](room)?
+- we need an audio/video system in [this](room) one
+- do you have an audio/video system for our employees in [Beta](room)?
 - do you have equipment to do a talk for our employees in [the](room) room?
 - does the [first](room) room have equipment to show a powerpoint presentation for our employees?
-- do you have a venue with an [audio/video system](equipment) for our employees?
+- do you have a venue with an audio/video system for our employees?
 - is there a possibility to do a talk in the [others](room) for my colleagues?
 - do you have equipment for our employees in [it](room)?
-- do you provide an option that has a [video system](equipment) ?
+- do you provide an option that has a video system ?
 - do you have equipment in [the](room) room?
 - are we able to do a presentation in [it](room) ?
-- do you provide an [audio/video system](equipment) to show a powerpoint presentation for the team in the [other](room) ones?
-- do you have an option which has a [projector](equipment) for our employees?
-- does the [other](room) room have an [audio/video system](equipment) for the team?
-- do you provide an [audio/video system](equipment) to do a presentation for the team in [the](room) room?
-- I want an [audio/video system](equipment) in the [other](room) ones
+- do you provide an audio/video system to show a powerpoint presentation for the team in the [other](room) ones?
+- do you have an option which has a projector for our employees?
+- does the [other](room) room have an audio/video system for the team?
+- do you provide an audio/video system to do a presentation for the team in [the](room) room?
+- I want an audio/video system in the [other](room) ones
 - are we able to hold a presentation in the [other](room) rooms for the team?
-- do you provide an [audio/video system](equipment) to do a talk in the [other](room) ones?
+- do you provide an audio/video system to do a talk in the [other](room) ones?
 - do you provide an option that has equipment for my colleagues?
 - is there equipment for the team ?
 - I should be able to do a presentation for our employees?
-- do you provide an [audio/video system](equipment) to do a presentation for the team in room [Gamma](room)?
+- do you provide an audio/video system to do a presentation for the team in room [Gamma](room)?
 - do you have an option which has equipment to do a talk for our employees?
 - does [it](room) have equipment for our staff?
 - do you provide equipment for my colleagues in [the](room) room?
 - can we do a talk for our staff?
-- is there a meeting room that has an [audio/video system](equipment) to show a presentation for our staff?
-- do you have an [audio/video system](equipment) to do a talk for our staff in the [other](room) rooms?
+- is there a meeting room that has an audio/video system to show a presentation for our staff?
+- do you have an audio/video system to do a talk for our staff in the [other](room) rooms?
 - I want equipment
 - do you have equipment in [it](room)?
 - is there a possibility to show a powerpoint presentation in the [others](room) for the team?
-- does [beta](room) have a [projector](equipment) to do a talk ?
-- do you have an option which has an [audio/video system](equipment) to hold a presentation for the team?
+- does [beta](room) have a projector to do a talk ?
+- do you have an option which has an audio/video system to hold a presentation for the team?
 - is there equipment to do a talk in the [other](room) rooms?
 - is there equipment to hold a presentation for my colleagues in room [Beta](room)?
 - is there a possibility to do a powerpoint presentation in [this](room) ?
-- do you have an event room that has an [audio/video system](equipment) ?
+- do you have an event room that has an audio/video system ?
 - do you have equipment for my colleagues in the [others](room)?
 - does [the](room) room have equipment for our employees?
-- do you have an option that has a [video system](equipment) for my colleagues?
-- is there an [audio/video system](equipment) to hold a presentation for my colleagues ?
+- do you have an option that has a video system for my colleagues?
+- is there an audio/video system to hold a presentation for my colleagues ?
 - could we show a presentation in the [other](room) rooms for our employees?
-- we search for an [audio/video system](equipment)
+- we search for an audio/video system
 - do you provide equipment to show a powerpoint presentation for our staff in the [others](room)?
 - is there a meeting room that has equipment to do a talk for my colleagues?
 - do you have equipment to do a talk for the team in the [others](room)?
 - I should be able to show a powerpoint presentation in the [others](room) for my colleagues?
-- do you provide an [audio/video system](equipment) for my colleagues ?
-- does the [other](room) room have an [audio/video system](equipment) to hold a presentation for the team?
+- do you provide an audio/video system for my colleagues ?
+- does the [other](room) room have an audio/video system to hold a presentation for the team?
 - do you provide an option with equipment to do a presentation for our employees?
 - can I show a presentation in [the](room) room for my colleagues?
-- do you have an [audio/video system](equipment) for the team in [the](room) room?
-- is there a [video system](equipment) for the team in the [other](room) ones?
-- is there a meeting room with an [audio/video system](equipment) for the team?
-- I also like an [audio/video system](equipment)
+- do you have an audio/video system for the team in [the](room) room?
+- is there a video system for the team in the [other](room) ones?
+- is there a meeting room with an audio/video system for the team?
+- I also like an audio/video system
 - is there a possibility to show a powerpoint presentation in the [others](room) ?
-- do you have an [audio/video system](equipment) in the [third](room) one?
+- do you have an audio/video system in the [third](room) one?
 - does [this](room) room have equipment to show a presentation ?
-- is there an option with a [video system](equipment) to do a talk for our employees?
-- do you have a [projector](equipment) for our employees in the [others](room)?
+- is there an option with a video system to do a talk for our employees?
+- do you have a projector for our employees in the [others](room)?
 - is it possible to show a presentation in the [other](room) rooms ?
-- do you have an [audio/video system](equipment) to do a talk for my colleagues in [the](room) room?
+- do you have an audio/video system to do a talk for my colleagues in [the](room) room?
 - is there a room which has equipment for the team?
-- is there a [projector](equipment) for my colleagues ?
+- is there a projector for my colleagues ?
 - I should be able to do a powerpoint presentation in the [other](room) rooms for our staff?
 - do you provide equipment to show a powerpoint presentation for the team ?
-- does room [alpha](room) have a [video system](equipment) to show a presentation for the team?
+- does room [alpha](room) have a video system to show a presentation for the team?
 - is there a meeting room with equipment to do a powerpoint presentation for our employees?
-- I search for an [audio/video system](equipment) in the [others](room)
-- do you have an [audio/video system](equipment) for the team in the [others](room)?
+- I search for an audio/video system in the [others](room)
+- do you have an audio/video system for the team in the [others](room)?
 - is there a possibility to hold a presentation in [it](room) for my colleagues?
-- do you provide an [audio/video system](equipment) to hold a presentation in the [others](room)?
-- do you have an event room with a [screen](equipment) for our staff?
-- do you provide an [audio/video system](equipment) to do a powerpoint presentation for our staff in the [others](room)?
+- do you provide an audio/video system to hold a presentation in the [others](room)?
+- do you have an event room with a screen for our staff?
+- do you provide an audio/video system to do a powerpoint presentation for our staff in the [others](room)?
 - could I show a presentation in [it](room) for my colleagues?
 - do you provide a room which has equipment to show a presentation for our staff?
-- does [it](room) have a [projector](equipment) to do a talk for our staff?
+- does [it](room) have a projector to do a talk for our staff?
 - do you have equipment to show a presentation for our staff in the [other](room) room?
 - do you have equipment for the team in [it](room)?
 - do you have an option that has equipment ?
 - is there a possibility to show a presentation for our employees?
-- is there an [audio/video system](equipment) for our staff ?
-- we would like an [audio/video system](equipment)
+- is there an audio/video system for our staff ?
+- we would like an audio/video system
 - do you provide equipment to do a talk for our staff in the [others](room)?
-- do you have an option with an [audio/video system](equipment) for our staff?
+- do you have an option with an audio/video system for our staff?
 - does room [Beta](room) have equipment for the team?
 - can we hold a presentation in the [others](room) ?
 - do you provide equipment to hold a presentation for our staff ?
 - do you provide a location which has equipment for our staff?
-- do you have an [audio/video system](equipment) in the [others](room)?
+- do you have an audio/video system in the [others](room)?
 - are we able to show a presentation for our employees?
 - do you have equipment to show a powerpoint presentation for our staff in room [Alpha](room)?
-- do you provide a room that has a [projector](equipment) to show a presentation for our employees?
+- do you provide a room that has a projector to show a presentation for our employees?
 - does [beta](room) have equipment for my colleagues?
 - do you provide equipment for my colleagues ?
 - we should be able to show a presentation in the [other](room) ones for the team?
@@ -1726,29 +1726,29 @@
 - are we able to show a presentation for the team?
 - do you provide equipment to do a powerpoint presentation for my colleagues in the [other](room) ones?
 - do you have a venue with equipment for our staff?
-- does [this](room) have a [projector](equipment) to do a talk for my colleagues?
+- does [this](room) have a projector to do a talk for my colleagues?
 - is there equipment to show a presentation for our staff ?
 - is it possible to do a presentation for our employees?
 - is there a location with equipment for my colleagues?
-- is there a [screen](equipment) for the team ?
+- is there a screen for the team ?
 - I also search for equipment in room [Alpha](room)
 - is there equipment for our employees in the [others](room)?
 - I should be able to do a talk in [it](room) for our employees?
-- does [it](room) have an [audio/video system](equipment) to hold a presentation for our staff?
+- does [it](room) have an audio/video system to hold a presentation for our staff?
 - is there an option which has equipment for the team?
 - do you have equipment to do a talk for my colleagues in the [others](room)?
-- is there a [video system](equipment) for the team ?
+- is there a video system for the team ?
 - are we able to show a powerpoint presentation in the [others](room) ?
 - do you have a meeting room with equipment for our employees?
 - is there equipment to show a powerpoint presentation for the team in the [others](room)?
 - do you have equipment for our staff in the [other](room) rooms?
 - does room [alpha](room) have equipment ?
 - is it possible to show a powerpoint presentation in the [others](room) for our staff?
-- do you provide a [video system](equipment) for my colleagues in the [others](room)?
-- I also need a [screen](equipment) in the [other](room) ones
+- do you provide a video system for my colleagues in the [others](room)?
+- I also need a screen in the [other](room) ones
 - is there a room with equipment ?
 - are we able to hold a presentation in the [other](room) rooms for my colleagues?
-- is there a [projector](equipment) to do a talk ?
+- is there a projector to do a talk ?
 - does [the](room) room have equipment for my colleagues?
 - do you have a venue with equipment to do a talk ?
 - do you provide equipment for my colleagues in the [others](room)?
@@ -1757,214 +1757,214 @@
 - do you provide an event room that has equipment for our staff?
 - do you provide equipment to do a talk for our staff ?
 - are we able to do a presentation in the [others](room) for our staff?
-- we also need a [projector](equipment) in the [other](room) rooms
+- we also need a projector in the [other](room) rooms
 - do you have an event room with equipment for our employees?
-- does [it](room) have a [video system](equipment) for our employees?
-- do you provide a [video system](equipment) to do a presentation for the team in the [others](room)?
+- does [it](room) have a video system for our employees?
+- do you provide a video system to do a presentation for the team in the [others](room)?
 - could we do a talk in the [others](room) ?
 - is there equipment for our staff in [the](room) room?
-- do you have an event room with an [audio/video system](equipment) to do a presentation ?
-- is there a [video system](equipment) to do a presentation for my colleagues in the [other](room) one?
+- do you have an event room with an audio/video system to do a presentation ?
+- is there a video system to do a presentation for my colleagues in the [other](room) one?
 - is it possible to do a talk in the [other](room) ones ?
 - do you have equipment to hold a presentation for my colleagues ?
 - is there an option which has equipment to do a powerpoint presentation for my colleagues?
 - does the [third](room) one have equipment to do a presentation ?
-- do you have a [video system](equipment) for our employees in [gamma](room)?
+- do you have a video system for our employees in [gamma](room)?
 - we also need equipment in the [other](room) rooms
 - are we able to hold a presentation in the [other](room) ones ?
 - is there equipment for my colleagues in the [other](room) ones?
 - do you provide a venue that has equipment to do a presentation ?
 - is there equipment to hold a presentation for my colleagues in the [others](room)?
 - does [it](room) have equipment to hold a presentation ?
-- do you provide an event room with a [video system](equipment) to do a talk ?
+- do you provide an event room with a video system to do a talk ?
 - is it possible to do a talk in the [others](room) for my colleagues?
-- do you provide an [audio/video system](equipment) for the team in the [last](room) one?
+- do you provide an audio/video system for the team in the [last](room) one?
 - do you have equipment for our staff in the [others](room)?
 - is there an option which has equipment to do a powerpoint presentation for our employees?
 - can I show a presentation in room [Alpha](room) for the team?
 - is there equipment to do a powerpoint presentation for our staff in the [others](room)?
 - we would like equipment in the [other](room) ones
-- is there a [projector](equipment) to do a talk for my colleagues in [it](room)?
-- does the [third](room) room have a [screen](equipment) to show a presentation ?
-- do you have a venue which has a [projector](equipment) for our employees?
+- is there a projector to do a talk for my colleagues in [it](room)?
+- does the [third](room) room have a screen to show a presentation ?
+- do you have a venue which has a projector for our employees?
 - can we do a talk in the [second](room) room ?
 - do you have equipment to do a powerpoint presentation ?
 - is there an event room that has equipment for our staff?
 - do you provide equipment to do a talk in the [other](room) rooms?
 - are we able to do a presentation in the [second](room) one for my colleagues?
 - do you provide equipment for the team in the [other](room) rooms?
-- does room [gamma](room) have a [projector](equipment) ?
-- is there an event room that has an [audio/video system](equipment) for my colleagues?
-- do you have an [audio/video system](equipment) to hold a presentation for the team in [it](room)?
+- does room [gamma](room) have a projector ?
+- is there an event room that has an audio/video system for my colleagues?
+- do you have an audio/video system to hold a presentation for the team in [it](room)?
 - is it possible to do a presentation in the [other](room) rooms ?
-- we would like a [screen](equipment) in the [other](room) ones
-- is there an [audio/video system](equipment) to do a presentation for our staff in the [other](room) ones?
-- is there an option with an [audio/video system](equipment) for the team?
-- do you provide an [audio/video system](equipment) to show a presentation for our staff ?
+- we would like a screen in the [other](room) ones
+- is there an audio/video system to do a presentation for our staff in the [other](room) ones?
+- is there an option with an audio/video system for the team?
+- do you provide an audio/video system to show a presentation for our staff ?
 - we should be able to do a powerpoint presentation in room [Beta](room) ?
 - is there equipment to do a presentation for our employees ?
-- do you provide an option with a [screen](equipment) for our staff?
-- does [it](room) have an [audio/video system](equipment) to do a presentation for our staff?
+- do you provide an option with a screen for our staff?
+- does [it](room) have an audio/video system to do a presentation for our staff?
 - is there equipment to show a presentation in room [Beta](room)?
 - are we able to hold a presentation in room [beta](room) for my colleagues?
 - do you provide an event room that has equipment to do a powerpoint presentation for our employees?
-- do you have an [audio/video system](equipment) to do a presentation for the team ?
-- do you provide a [projector](equipment) to do a powerpoint presentation for my colleagues in [this](room)?
-- we would like a [video system](equipment) in the [others](room)
+- do you have an audio/video system to do a presentation for the team ?
+- do you provide a projector to do a powerpoint presentation for my colleagues in [this](room)?
+- we would like a video system in the [others](room)
 - can we show a presentation in the [other](room) ones for our employees?
 - do you provide a room with equipment to show a presentation for my colleagues?
 - does room [gamma](room) have equipment to hold a presentation for my colleagues?
-- do you provide a [screen](equipment) for my colleagues in the [other](room) rooms?
-- do you have a room that has a [projector](equipment) for our staff?
+- do you provide a screen for my colleagues in the [other](room) rooms?
+- do you have a room that has a projector for our staff?
 - I should be able to hold a presentation in [alpha](room) ?
-- is there an [audio/video system](equipment) for my colleagues ?
+- is there an audio/video system for my colleagues ?
 - do you have a room with equipment to do a presentation for our staff?
-- does [the](room) room have an [audio/video system](equipment) ?
+- does [the](room) room have an audio/video system ?
 - can we do a powerpoint presentation in the [others](room) for my colleagues?
 - do you provide equipment to show a powerpoint presentation for the team in the [others](room)?
-- I like an [audio/video system](equipment) in [this](room)
-- is there an event room which has an [audio/video system](equipment) to do a talk for my colleagues?
+- I like an audio/video system in [this](room)
+- is there an event room which has an audio/video system to do a talk for my colleagues?
 - do you have equipment for the team in the [other](room) ones?
 - are we able to do a presentation in the [others](room) ?
-- is there an [audio/video system](equipment) for our employees in the [others](room)?
+- is there an audio/video system for our employees in the [others](room)?
 - do you provide an option that has equipment for the team?
-- does [the](room) room have a [screen](equipment) for the team?
-- do you provide an [audio/video system](equipment) to do a powerpoint presentation for my colleagues in the [other](room) ones?
+- does [the](room) room have a screen for the team?
+- do you provide an audio/video system to do a powerpoint presentation for my colleagues in the [other](room) ones?
 - could I do a powerpoint presentation in [the](room) room for the team?
-- is there a [screen](equipment) to show a presentation for the team in the [other](room) ones?
+- is there a screen to show a presentation for the team in the [other](room) ones?
 - do you provide a meeting room which has equipment for the team?
-- do you have an [audio/video system](equipment) for my colleagues in [this](room) room?
+- do you have an audio/video system for my colleagues in [this](room) room?
 - is there a possibility to do a powerpoint presentation in [the](room) room for the team?
 - we like equipment in the [others](room)
 - does the [second](room) one have equipment ?
-- do you have an event room which has a [screen](equipment) to do a talk for our employees?
+- do you have an event room which has a screen to do a talk for our employees?
 - do you have equipment to do a presentation for my colleagues ?
 - is it possible to show a powerpoint presentation in the [other](room) ones for my colleagues?
 - is there a venue that has equipment for the team?
 - do you provide equipment to show a presentation for the team in the [others](room)?
-- do you provide a [video system](equipment) in the [other](room) rooms?
+- do you provide a video system in the [other](room) rooms?
 - we should be able to hold a presentation for our staff?
 - is there an option which has equipment to do a talk for our employees?
-- does room [Gamma](room) have an [audio/video system](equipment) to show a powerpoint presentation for our staff?
+- does room [Gamma](room) have an audio/video system to show a powerpoint presentation for our staff?
 - do you provide equipment to show a powerpoint presentation for our employees in [the](room) room?
 - do you provide equipment for the team in the [other](room) ones?
 - are we able to show a powerpoint presentation in the [other](room) ones ?
 - we would like equipment
-- is there a venue which has a [projector](equipment) to do a powerpoint presentation for our staff?
-- do you have a [video system](equipment) to show a powerpoint presentation in the [other](room) room?
+- is there a venue which has a projector to do a powerpoint presentation for our staff?
+- do you have a video system to show a powerpoint presentation in the [other](room) room?
 - do you have a location which has equipment ?
 - does [it](room) have equipment to do a presentation ?
 - is it possible to show a powerpoint presentation in [the](room) room for the team?
 - is there equipment in the [other](room) rooms?
 - is there equipment for the team in the [others](room)?
-- do you have an event room with an [audio/video system](equipment) for our staff?
+- do you have an event room with an audio/video system for our staff?
 - can I do a talk in the [other](room) rooms for my colleagues?
 - do you have equipment to do a presentation in [this](room)?
 - do you have equipment for the team ?
-- does the [other](room) room have an [audio/video system](equipment) to show a presentation for my colleagues?
-- is there a meeting room that has an [audio/video system](equipment) to do a powerpoint presentation ?
-- we also need a [projector](equipment)
+- does the [other](room) room have an audio/video system to show a presentation for my colleagues?
+- is there a meeting room that has an audio/video system to do a powerpoint presentation ?
+- we also need a projector
 - can we show a powerpoint presentation in the [other](room) rooms for my colleagues?
-- is there a [video system](equipment) to do a presentation for my colleagues in the [others](room)?
+- is there a video system to do a presentation for my colleagues in the [others](room)?
 - do you provide a venue which has equipment ?
 - is there equipment to do a presentation in the [other](room) rooms?
 - I should be able to show a presentation in [this](room) for our employees?
-- is there an [audio/video system](equipment) to show a presentation for the team in [it](room)?
-- does [the](room) room have an [audio/video system](equipment) to show a powerpoint presentation ?
+- is there an audio/video system to show a presentation for the team in [it](room)?
+- does [the](room) room have an audio/video system to show a powerpoint presentation ?
 - is there a room which has equipment to do a talk ?
-- is there an [audio/video system](equipment) to do a powerpoint presentation in the [others](room)?
+- is there an audio/video system to do a powerpoint presentation in the [others](room)?
 - is it possible to do a presentation in the [others](room) for our employees?
 - do you have equipment to show a presentation for our employees in the [others](room)?
 - is there an event room with equipment for our employees?
 - we search for equipment in the [other](room) rooms
-- do you have an [audio/video system](equipment) in [Alpha](room)?
+- do you have an audio/video system in [Alpha](room)?
 - I should be able to show a powerpoint presentation in the [other](room) ones for our staff?
 - is there equipment ?
-- does the [second](room) room have an [audio/video system](equipment) for our staff?
+- does the [second](room) room have an audio/video system for our staff?
 - is there equipment to hold a presentation for the team in [this](room) room?
 - could I do a presentation in the [others](room) for the team?
-- do you provide an option which has an [audio/video system](equipment) for our employees?
-- do you have a [projector](equipment) for my colleagues in the [others](room)?
-- do you have a [video system](equipment) to show a powerpoint presentation for our staff in room [Beta](room)?
-- is there an option with an [audio/video system](equipment) ?
-- does [the](room) room have an [audio/video system](equipment) to do a powerpoint presentation for our staff?
+- do you provide an option which has an audio/video system for our employees?
+- do you have a projector for my colleagues in the [others](room)?
+- do you have a video system to show a powerpoint presentation for our staff in room [Beta](room)?
+- is there an option with an audio/video system ?
+- does [the](room) room have an audio/video system to do a powerpoint presentation for our staff?
 - I should be able to show a presentation in the [other](room) ones ?
 - I want equipment in the [others](room)
 - is there equipment to show a powerpoint presentation for my colleagues ?
 - is there equipment to hold a presentation for the team in the [others](room)?
-- do you provide an option with an [audio/video system](equipment) to do a talk ?
+- do you provide an option with an audio/video system to do a talk ?
 - we should be able to do a presentation in the [other](room) rooms for our employees?
 - do you have equipment for the team in the [others](room)?
 - does room [Alpha](room) have equipment to show a presentation for our employees?
 - is there equipment to do a talk for our employees in the [other](room) one?
 - do you have an option that has equipment to show a powerpoint presentation for our employees?
 - is it possible to do a presentation in the [others](room) for the team?
-- is there an [audio/video system](equipment) to show a presentation for our staff ?
+- is there an audio/video system to show a presentation for our staff ?
 - do you have a meeting room that has equipment ?
-- we also would like an [audio/video system](equipment) in the [first](room) room
+- we also would like an audio/video system in the [first](room) room
 - is it possible to do a talk in the [other](room) rooms for my colleagues?
-- do you have a [video system](equipment) for the team in the [others](room)?
-- is there a venue with an [audio/video system](equipment) for the team?
-- do you provide an [audio/video system](equipment) for our staff in [the](room) room?
+- do you have a video system for the team in the [others](room)?
+- is there a venue with an audio/video system for the team?
+- do you provide an audio/video system for our staff in [the](room) room?
 - we should be able to do a presentation for my colleagues?
-- do you have a [screen](equipment) to show a presentation for our staff in the [other](room) rooms?
+- do you have a screen to show a presentation for our staff in the [other](room) rooms?
 - is there an option which has equipment to hold a presentation for our employees?
 - do you provide equipment to do a talk for our staff in the [other](room) rooms?
 - can we do a presentation for my colleagues?
 - do you provide a room that has equipment to show a presentation for the team?
-- does [it](room) have a [projector](equipment) ?
+- does [it](room) have a projector ?
 - is there equipment to do a powerpoint presentation for our employees in [it](room)?
 - I also need equipment
 - we should be able to show a powerpoint presentation in [this](room) room for my colleagues?
 - do you have a meeting room with equipment for the team?
-- do you provide an [audio/video system](equipment) to do a presentation in the [other](room) ones?
-- do you provide an [audio/video system](equipment) to do a powerpoint presentation for the team in the [other](room) ones?
+- do you provide an audio/video system to do a presentation in the [other](room) ones?
+- do you provide an audio/video system to do a powerpoint presentation for the team in the [other](room) ones?
 - are we able to hold a presentation in the [other](room) ones for our employees?
 - is there a venue which has equipment for the team?
 - does [this](room) room have equipment for the team?
-- do you have a [projector](equipment) in the [other](room) rooms?
+- do you have a projector in the [other](room) rooms?
 - do you provide an option which has equipment ?
 - is it possible to show a presentation in the [others](room) for my colleagues?
-- I need a [screen](equipment) in the [other](room) ones
+- I need a screen in the [other](room) ones
 - do you have equipment for our staff in the [other](room) one?
-- do you provide a [projector](equipment) for our employees ?
+- do you provide a projector for our employees ?
 - are we able to do a presentation in the [others](room) for my colleagues?
 - do you have equipment for our employees in [this](room)?
-- do you provide a room with a [projector](equipment) to show a presentation for the team?
+- do you provide a room with a projector to show a presentation for the team?
 - are we able to do a powerpoint presentation for my colleagues?
 - do you have equipment to show a presentation for the team ?
-- do you have a room with an [audio/video system](equipment) to do a powerpoint presentation for our staff?
-- does [this](room) room have a [projector](equipment) to do a powerpoint presentation ?
+- do you have a room with an audio/video system to do a powerpoint presentation for our staff?
+- does [this](room) room have a projector to do a powerpoint presentation ?
 - I also would like equipment in the [others](room)
 - I should be able to do a presentation in the [others](room) for our staff?
 - do you have equipment to show a presentation for my colleagues in the [others](room)?
-- do you provide an event room which has a [screen](equipment) to hold a presentation for our employees?
-- do you have an [audio/video system](equipment) to do a presentation for my colleagues in the [other](room) rooms?
+- do you provide an event room which has a screen to hold a presentation for our employees?
+- do you have an audio/video system to do a presentation for my colleagues in the [other](room) rooms?
 - is it possible to do a talk in the [others](room) for our employees?
 - do you have equipment to hold a presentation ?
-- does the [last](room) one have a [screen](equipment) for my colleagues?
+- does the [last](room) one have a screen for my colleagues?
 - is there a room which has equipment ?
 - do you provide equipment to do a talk for the team in the [others](room)?
 - are we able to do a presentation in the [other](room) ones for our employees?
-- do you provide an [audio/video system](equipment) for our employees in [this](room)?
-- is there an event room that has a [screen](equipment) ?
-- do you provide an [audio/video system](equipment) for our staff in the [other](room) ones?
+- do you provide an audio/video system for our employees in [this](room)?
+- is there an event room that has a screen ?
+- do you provide an audio/video system for our staff in the [other](room) ones?
 - is it possible to show a powerpoint presentation ?
 - is there equipment to do a presentation for our staff in the [others](room)?
 - is there a location with equipment for the team?
-- does the [second](room) room have an [audio/video system](equipment) for the team?
-- do you provide an [audio/video system](equipment) for the team ?
+- does the [second](room) room have an audio/video system for the team?
+- do you provide an audio/video system for the team ?
 - could I show a powerpoint presentation in the [others](room) ?
 - do you have an option which has equipment to show a powerpoint presentation for the team?
-- is there an [audio/video system](equipment) for our employees ?
-- is there an [audio/video system](equipment) to do a presentation for our staff in [the](room) room?
-- do you provide a venue which has a [screen](equipment) for our employees?
+- is there an audio/video system for our employees ?
+- is there an audio/video system to do a presentation for our staff in [the](room) room?
+- do you provide a venue which has a screen for our employees?
 - does [it](room) have equipment for the team?
 - we should be able to do a presentation in [the](room) room for my colleagues?
 - do you have equipment to do a presentation for our employees in the [other](room) ones?
 - we also search for equipment in the [others](room)
-- is there an [audio/video system](equipment) for our staff in [the](room) room?
-- is there an option with a [projector](equipment) to do a powerpoint presentation for our employees?
+- is there an audio/video system for our staff in [the](room) room?
+- is there an option with a projector to do a powerpoint presentation for our employees?
 - could we show a powerpoint presentation in the [others](room) for our staff?
 - is there equipment to do a presentation for our employees in the [others](room)?
 - does [it](room) have equipment to show a presentation for the team?
@@ -1973,34 +1973,34 @@
 - are we able to do a talk in the [second](room) one for our employees?
 - do you provide equipment to do a talk for the team in [this](room)?
 - are we able to do a talk for our employees?
-- do you have a [screen](equipment) to show a presentation for our staff in the [other](room) ones?
-- do you have a location that has an [audio/video system](equipment) to show a presentation for my colleagues?
-- does [it](room) have an [audio/video system](equipment) for our staff?
+- do you have a screen to show a presentation for our staff in the [other](room) ones?
+- do you have a location that has an audio/video system to show a presentation for my colleagues?
+- does [it](room) have an audio/video system for our staff?
 - is there equipment for our employees in [this](room) room?
 - can we do a presentation in the [others](room) for our staff?
-- do you have an [audio/video system](equipment) in the [other](room) ones?
-- do you provide a venue that has an [audio/video system](equipment) for the team?
-- is there an [audio/video system](equipment) to do a presentation in the [others](room)?
+- do you have an audio/video system in the [other](room) ones?
+- do you provide a venue that has an audio/video system for the team?
+- is there an audio/video system to do a presentation in the [others](room)?
 - can we show a presentation in the [other](room) ones for my colleagues?
 - do you provide a meeting room with equipment to show a powerpoint presentation for my colleagues?
-- does [the](room) room have an [audio/video system](equipment) for the team?
-- is there an [audio/video system](equipment) to do a talk ?
-- I also like a [screen](equipment) in the [others](room)
-- do you have a [screen](equipment) for my colleagues ?
+- does [the](room) room have an audio/video system for the team?
+- is there an audio/video system to do a talk ?
+- I also like a screen in the [others](room)
+- do you have a screen for my colleagues ?
 - we should be able to show a presentation in the [other](room) ones ?
-- do you have an option with a [projector](equipment) to do a talk for my colleagues?
+- do you have an option with a projector to do a talk for my colleagues?
 - do you provide equipment for our employees in the [other](room) rooms?
 - is there equipment for my colleagues in room [Alpha](room)?
 - we should be able to do a presentation in [it](room) ?
 - is there a location that has equipment to do a presentation for our staff?
-- does [the](room) room have an [audio/video system](equipment) for our staff?
-- is there an [audio/video system](equipment) to show a presentation for our staff in the [others](room)?
-- is there a [screen](equipment) for my colleagues in the [first](room) one?
+- does [the](room) room have an audio/video system for our staff?
+- is there an audio/video system to show a presentation for our staff in the [others](room)?
+- is there a screen for my colleagues in the [first](room) one?
 - do you provide a venue that has equipment for our staff?
 - are we able to show a powerpoint presentation for the team?
-- is there a [screen](equipment) to hold a presentation for our employees in [this](room) room?
-- we would like an [audio/video system](equipment) in the [other](room) ones
-- does [it](room) have a [screen](equipment) to show a powerpoint presentation for my colleagues?
+- is there a screen to hold a presentation for our employees in [this](room) room?
+- we would like an audio/video system in the [other](room) ones
+- does [it](room) have a screen to show a powerpoint presentation for my colleagues?
 - do you have an event room that has equipment to show a powerpoint presentation for the team?
 - do you have equipment for the team in the [other](room) rooms?
 - is it possible to show a powerpoint presentation in [gamma](room) for my colleagues?
@@ -2008,79 +2008,79 @@
 - do you have an event room that has equipment to do a talk ?
 - is there equipment to show a presentation for our staff in [this](room)?
 - is there a possibility to do a talk in the [other](room) rooms for my colleagues?
-- is there a [video system](equipment) in the [others](room)?
-- do you have a location with a [projector](equipment) for our employees?
+- is there a video system in the [others](room)?
+- do you have a location with a projector for our employees?
 - does [Beta](room) have equipment to hold a presentation ?
 - do you have equipment to hold a presentation for the team in the [second](room) room?
 - I also want equipment in the [others](room)
-- do you provide a room which has an [audio/video system](equipment) ?
+- do you provide a room which has an audio/video system ?
 - is there equipment for my colleagues in [this](room) one?
 - could I do a powerpoint presentation in the [others](room) for my colleagues?
 - do you provide equipment to show a presentation for my colleagues in the [other](room) ones?
 - do you provide a room with equipment for our staff?
-- does [the](room) room have a [projector](equipment) to do a presentation for our employees?
-- is there a [screen](equipment) for my colleagues in [this](room)?
+- does [the](room) room have a projector to do a presentation for our employees?
+- is there a screen for my colleagues in [this](room)?
 - is it possible to do a powerpoint presentation in [gamma](room) for my colleagues?
-- is there a [screen](equipment) to hold a presentation in [this](room)?
-- do you provide an option which has an [audio/video system](equipment) for my colleagues?
-- do you provide an [audio/video system](equipment) for our employees in [gamma](room)?
-- we also need a [projector](equipment) in the [others](room)
+- is there a screen to hold a presentation in [this](room)?
+- do you provide an option which has an audio/video system for my colleagues?
+- do you provide an audio/video system for our employees in [gamma](room)?
+- we also need a projector in the [others](room)
 - could we do a presentation in [it](room) for the team?
-- do you have an [audio/video system](equipment) to do a powerpoint presentation for our employees in the [others](room)?
-- does [this](room) room have an [audio/video system](equipment) to do a talk for my colleagues?
-- do you provide an event room that has a [projector](equipment) to do a powerpoint presentation for the team?
-- is there a [screen](equipment) for the team in the [other](room) rooms?
+- do you have an audio/video system to do a powerpoint presentation for our employees in the [others](room)?
+- does [this](room) room have an audio/video system to do a talk for my colleagues?
+- do you provide an event room that has a projector to do a powerpoint presentation for the team?
+- is there a screen for the team in the [other](room) rooms?
 - is there a room that has equipment for the team?
 - can we do a presentation in [Gamma](room) for our employees?
 - is there equipment to show a presentation for the team in the [other](room) rooms?
 - do you have equipment to do a powerpoint presentation in the [others](room)?
-- does [this](room) have an [audio/video system](equipment) to do a powerpoint presentation for the team?
+- does [this](room) have an audio/video system to do a powerpoint presentation for the team?
 - do you have a meeting room that has equipment to do a powerpoint presentation for the team?
 - could I do a powerpoint presentation for my colleagues?
 - do you provide equipment to show a powerpoint presentation for my colleagues in [the](room) room?
-- I also would like an [audio/video system](equipment) in the [other](room) ones
+- I also would like an audio/video system in the [other](room) ones
 - is there equipment in the [others](room)?
-- do you provide a location that has a [screen](equipment) for our staff?
+- do you provide a location that has a screen for our staff?
 - is there a possibility to do a powerpoint presentation in the [others](room) for our staff?
 - is there equipment to do a talk for my colleagues in the [other](room) rooms?
-- is there an [audio/video system](equipment) in the [others](room)?
-- does [Gamma](room) have an [audio/video system](equipment) ?
-- do you provide an event room with an [audio/video system](equipment) for the team?
+- is there an audio/video system in the [others](room)?
+- does [Gamma](room) have an audio/video system ?
+- do you provide an event room with an audio/video system for the team?
 - I should be able to show a powerpoint presentation in [this](room) room for our employees?
-- is there an event room with an [audio/video system](equipment) to do a presentation ?
-- do you provide an [audio/video system](equipment) for the team in the [first](room) one?
+- is there an event room with an audio/video system to do a presentation ?
+- do you provide an audio/video system for the team in the [first](room) one?
 - could we show a powerpoint presentation in the [others](room) ?
-- do you have an [audio/video system](equipment) to show a presentation in the [others](room)?
-- does [it](room) have an [audio/video system](equipment) to show a powerpoint presentation ?
-- do you have a venue with a [projector](equipment) ?
+- do you have an audio/video system to show a presentation in the [others](room)?
+- does [it](room) have an audio/video system to show a powerpoint presentation ?
+- do you have a venue with a projector ?
 - could we hold a presentation in [this](room) room for our employees?
 - do you have equipment to show a presentation for my colleagues in the [other](room) ones?
-- is there a venue that has an [audio/video system](equipment) to do a powerpoint presentation ?
+- is there a venue that has an audio/video system to do a powerpoint presentation ?
 - do you have equipment to show a powerpoint presentation for our staff in the [others](room)?
 - I should be able to hold a presentation for our employees?
 - does the [third](room) one have equipment to do a presentation for the team?
 - do you have a venue with equipment to show a powerpoint presentation for our staff?
 - do you provide equipment for the team ?
-- do you provide an [audio/video system](equipment) for our employees in the [others](room)?
+- do you provide an audio/video system for our employees in the [others](room)?
 - we want equipment
 - is there a possibility to show a presentation ?
 - do you have an option with equipment for our staff?
 - is there equipment for my colleagues in the [others](room)?
-- do you provide a room that has a [projector](equipment) to show a presentation for the team?
-- does the [first](room) room have a [projector](equipment) for our staff?
+- do you provide a room that has a projector to show a presentation for the team?
+- does the [first](room) room have a projector for our staff?
 - is it possible to do a presentation in the [other](room) ones for the team?
-- do you have an [audio/video system](equipment) ?
+- do you have an audio/video system ?
 - do you have a meeting room that has equipment for my colleagues?
 - is there a possibility to show a powerpoint presentation in the [other](room) rooms for the team?
-- do you have an [audio/video system](equipment) to hold a presentation for our staff in the [others](room)?
+- do you have an audio/video system to hold a presentation for our staff in the [others](room)?
 - I search for equipment in the [other](room) ones
 - is there a meeting room that has equipment for our employees?
-- does [this](room) one have an [audio/video system](equipment) for the team?
+- does [this](room) one have an audio/video system for the team?
 - do you have equipment to do a powerpoint presentation for the team in the [others](room)?
 - is it possible to hold a presentation in the [others](room) for our staff?
-- is there a [screen](equipment) to do a powerpoint presentation for the team ?
-- do you have an event room with a [video system](equipment) to do a talk for our employees?
-- do you provide an [audio/video system](equipment) for the team in the [others](room)?
+- is there a screen to do a powerpoint presentation for the team ?
+- do you have an event room with a video system to do a talk for our employees?
+- do you provide an audio/video system for the team in the [others](room)?
 - is there a possibility to show a powerpoint presentation in the [others](room) for my colleagues?
 
 ## intent:ask_for_room_highlight
@@ -5652,508 +5652,6 @@
 - Good morning, this is [Laura](name). I work as a clerk at [ACME](company)
 - Good afternoon, you're speaking to [Jennifer](name). i am an intern at [ACME](company)
 - Hey, my name is [Jennifer](name). I work as a clerk at [ABC Corp](company)
-
-## intent:provide_booking_date
-- The time of the event is [at 20:00](time) on the @[date?]
-- The event is going to be [at 7 in the evening](time) on the @[date?]
-- It is for [in the afternoon](time) on the @[date?]
-- Is the venue available on the [24 Nov 2018](date)
-- Is the place available [at 17.00](time) on the @[date?]
-- The event will be next month
-- Could I reserve the place [at 16:00](time) on the @[date?]
-- The date of the event is [4-9-2020](date) [at 5 in the evening](time)
-- The reservation is for the [5/4/2018](date) [at 20.00](time)
-- Can we get the room on [14.2.2019](date) [in the afternoon](time)
-- The networking event will take place [at 16:00](time) [8 of Jul 2020](date)
-- Is it possible to have the location on the [8-10-2019](date) [at 13:00](time)
-- Can we get the room for the [24.3.2020](date) [at 23.00](time)
-- we need to get the room on the [12.12.2019](date) [at night](time)
-- Can we have the location on the [18.2.2020](date) [at 5 in the evening](time)
-- Can we reserve the place on the [29.10.2020](date) [at 6](time)
-- I'd like to get the room on [30th Mar 2018](date) [at 22:00](time)
-- Would it be possible to have the venue on the [23th Mar 2020](date) [at 16.00](time)
-- I want to get the venue for [30 of April 2019](date) [at 22.00](time)
-- I need to book the place for the [29th of Jun 2018](date) [at 21:00](time)
-- we need to have the place for [13th of October 2020](date) [at 2 in the afternoon](time)
-- we need to get the place for the [24th February 2018](date) [in the afternoon](time)
-- Would it be possible to get the location for the [25-1-2018](date) [at 4 in the afternoon](time)
-- Can we book the location on [7.11.2018](date) [at 8 in the morning](time)
-- we need to book the place for [17-11-2020](date) [at 16.00](time)
-- Could we book the location on the [2-11-2019](date) [at 17:00](time)
-- Is it possible to get the location on [29-5-2018](date) [in the evening](time)
-- we need to reserve the place on [27 September 2020](date) [at noon](time)
-- I want to have the location for [4 April 2020](date) [at 10 in the morning](time)
-- we would like to reserve the place for the [6th August 2018](date) [at 10 in the morning](time)
-- Is it possible to reserve the room for the [6 of January 2018](date) [at 5 pm](time)
-- I would like to book the room for the [20th May 2020](date) [at noon](time)
-- we would like to book the location for the [15-4-2019](date) [at 10 in the morning](time)
-- we need to have the location on [10/7/2019](date) [at 22.00](time)
-- Could I book the room on [12-2-2019](date) [at noon](time)
-- Could we book the room for [10th Sep 2018](date) [at 1 in the afternoon](time)
-- Is it possible to have the venue for the [3-9-2018](date) [at 8 in the morning](time)
-- Could we get the place on [26th Jun 2018](date) [in the afternoon](time)
-- we'd like to get the venue for [8th of Feb 2019](date) [at 8 in the morning](time)
-- Is it possible to reserve the venue on the [10-4-2018](date) [at 5 in the evening](time)
-- we need to get the place on [12 Apr 2019](date) [at 17:00](time)
-- Would it be possible to get the venue for [3-11-2018](date) [at noon](time)
-- Would it be possible to reserve the venue for [27th Nov 2019](date) [at night](time)
-- The event is [at 23.00](time) on the [31st May 2019](date)
-- Can I book the room for [15/5/2019](date) [at 3 in the afternoon](time)
-- Can I get the location for [29-11-2018](date) [at 16.00](time)
-- we want to book the room for the [3rd of June 2018](date) [at 22:00](time)
-- we need to get the location on [9th September 2018](date) [at 9 in the morning](time)
-- we'd like to reserve the room for [7.10.2020](date) [in the morning](time)
-- Could we reserve the room on [17th of Sep 2020](date) [at 4 in the afternoon](time)
-- I would like to have the venue on the [18th January 2019](date) [at 14.00](time)
-- I want to reserve the place for the [14/5/2019](date) [at 1 in the afternoon](time)
-- we would like to get the venue for the [4 Sep 2019](date) [at 16.00](time)
-- Is it possible to get the room for the [2.1.2019](date) [at 24:00](time)
-- we'd like to have the location for [15-4-2018](date) [at 10 in the morning](time)
-- we'd like to get the location for [1st of Dec 2019](date) [at 10 in the morning](time)
-- I'd like to reserve the location for the [16 of June 2019](date) [at noon](time)
-- Would it be possible to get the venue for the [27/9/2019](date) [at 12](time)
-- Could we book the place on the [25/9/2020](date) [at 3 in the afternoon](time)
-- Would it be possible to reserve the location on the [2.12.2019](date) [at 13:00](time)
-- Can I reserve the venue on the [25 April 2018](date) [at 21:00](time)
-- I need to book the place for the [21th of Mar 2020](date) [at 14.00](time)
-- we need to have the location for [4th of Sep 2018](date) [during the day](time)
-- Could I reserve the room for [4 of July 2019](date) [at 2 in the afternoon](time)
-- Can we have the room for [5th February 2020](date) [at 10 in the morning](time)
-- Could we get the place for [21 of April 2020](date) [at 13:00](time)
-- Could I have the venue on the [2.6.2019](date) [at 20:00](time)
-- Can we book the location for [12/3/2020](date) [at 2 in the afternoon](time)
-- Is the place available on [9 of Apr 2018](date) [at 21.00](time)
-- we want to reserve the place for [30/4/2019](date) [at noon](time)
-- I would like to have the place for the [25 Jun 2019](date) [at 23:00](time)
-- we want to book the place for [8-8-2019](date) [at 19:00](time)
-- Would it be possible to book the room for the [14th of Feb 2020](date) [at 16:00](time)
-- Is it possible to book the room for the [3 January 2020](date) [at 9 in the morning](time)
-- we'd like to get the venue on [3-2-2019](date) [at 11 in the morning](time)
-- we want to get the room for [11-12-2019](date) [during the day](time)
-- we want to get the venue for [14/3/2020](date) [at 13.00](time)
-- The networking event is going to be [at 6 in the evening](time) [1.12.2019](date)
-- Could we reserve the place on the [15 January 2019](date) [at 16:00](time)
-- Would it be possible to reserve the room for the [16th May 2019](date) [at 24.00](time)
-- Would it be possible to have the place for the [25/10/2020](date) [at 7 in the evening](time)
-- Would it be possible to reserve the place for the [21 July 2018](date) [in the evening](time)
-- I would like to have the room for [21 Aug 2018](date) [at 20:00](time)
-- we would like to get the room for [26th February 2019](date) [at 12](time)
-- I would like to reserve the venue for the [14 of April 2020](date) [at 2 a.m.](time)
-- Could we reserve the location for the [6/3/2020](date) [at 20.00](time)
-- we want to reserve the place on the [18 May 2018](date) [at 4 in the afternoon](time)
-- Would it be possible to get the room for the [30th Feb 2020](date) [at 1 in the afternoon](time)
-- Can we get the place on [20.4.2020](date) [at 8 in the morning](time)
-- Could I have the location for the [15 August 2020](date) [at 8 in the morning](time)
-- we need to have the place on the [15 of September 2019](date) [at 20.00](time)
-- we need to book the location for the [6th Dec 2020](date) [at night](time)
-- Could we get the location for [3.8.2018](date)
-- I need to book the room for the [28 June 2019](date) [at 7 in the evening](time)
-- Can we book the room for the [26.3.2020](date) [at 13.00](time)
-- Can we reserve the venue for the [10th of November 2019](date) [at night](time)
-- we would like to get the venue on the [19-6-2020](date) [at 19:00](time)
-- we want to book the place for the [6.7.2020](date) [at 9 in the morning](time)
-- Can I have the venue for the [15.4.2020](date) [in the evening](time)
-- Could we reserve the venue on the [20.2.2019](date) [at 2 in the afternoon](time)
-- Is it possible to get the venue for [30 January 2018](date) [at 22.00](time)
-- I want to get the venue on the [29.2.2020](date) [at night](time)
-- we want to reserve the room on [13th Mar 2018](date) [at 22:00](time)
-- Could I book the place for [17 June 2020](date) [at 7 in the evening](time)
-- Can we get the location on the [14.10.2019](date) [at 23.00](time)
-- I want to book the venue on the [9.10.2018](date)
-- Can we reserve the location on [4 March 2019](date) [at 16.00](time)
-- Would it be possible to have the location for [26 Apr 2018](date) [at 4 in the afternoon](time)
-- Would it be possible to have the room on [3 August 2019](date) [at noon](time)
-- Is it possible to have the venue on the [7-8-2018](date) [at 2 pm](time)
-- The networking event is taking place [during the day](time) [24/10/2018](date)
-- I need to book the location for the [22th Oct 2019](date) [at 15.00](time)
-- Would it be possible to book the place for [1 Jan 2018](date) [at 12 pm](time)
-- I would like to book the place on [17/8/2019](date) [at 16:00](time)
-- I need to reserve the location for [30th of Feb 2020](date) [at 21.00](time)
-- Would it be possible to get the place on the [21 Apr 2018](date) [at 17:00](time)
-- Is it possible to have the venue on the [6 of June 2019](date) [at 2 p.m.](time)
-- I'd like to get the location for the [30 Apr 2018](date) [at 14.00](time)
-- we need to reserve the place on [13/4/2018](date) [at 7 in the evening](time)
-- we'd like to reserve the location on the [23 Sep 2018](date) [at 16:00](time)
-- Can I book the location on the [17 Oct 2020](date) [at 6 pm](time)
-- I want to reserve the room on the [5 June 2018](date) [at 11](time)
-- we need to book the place on [17/7/2019](date) [at 15.00](time)
-- Would it be possible to get the location for the [29/8/2020](date) [at noon](time)
-- I want to book the place for [19th of September 2018](date) [in the afternoon](time)
-- Can I reserve the location on the [2 September 2019](date) [in the evening](time)
-- The reservation is for [22th February 2020](date) [at 3 o'clock](time)
-- Is the location available on the [15/2/2020](date) [at 9 in the morning](time)
-- Would it be possible to get the location for the [5 January 2019](date) [at 11 in the morning](time)
-- we need to get the place on the [19/5/2020](date) [at 6 a.m.](time)
-- Can we have the room for [23.7.2020](date) [at 2 pm](time)
-- Would it be possible to reserve the place on [14 Jul 2019](date) [at 5 in the evening](time)
-- Is it possible to get the room on [8.1.2018](date) [at 5 in the evening](time)
-- we would like to have the place on [22.6.2019](date) [at 3 in the afternoon](time)
-- Could we get the room on the [23 of May 2019](date) [at 18:00](time)
-- Would it be possible to get the location for the [25.12.2018](date) [in the evening](time)
-- I would like to book the location on [6 of Apr 2020](date) [at 6](time)
-- Is it possible to book the room on the [10-11-2020](date) [at 17:00](time)
-- I would like to get the place on [28.12.2019](date) [at 4 in the afternoon](time)
-- I'd like to get the place on the [6-5-2018](date) [at noon](time)
-- we need to reserve the venue on the [12th March 2019](date) [at 7 in the evening](time)
-- we want to reserve the venue on the [31 Dec 2019](date) [during the day](time)
-- we'd like to book the venue on the [28-5-2018](date) [at 13.00](time)
-- Is it possible to book the location for [27-12-2018](date) [at 24.00](time)
-- Could I book the place on the [31 Jul 2018](date) [at 9 p.m.](time)
-- we would like to book the room for the [12 October 2018](date) [at 10 in the morning](time)
-- The event takes place [at 13:00](time) on the [14 March 2020](date)
-- I'd like to book the location for the [17/2/2019](date) [at 2 in the afternoon](time)
-- Could we get the location for [28 October 2019](date) [at 23:00](time)
-- Would it be possible to have the place for [11th of March 2019](date) [at 24.00](time)
-- I'd like to get the place for the [31st May 2019](date) [at 6 in the evening](time)
-- we want to reserve the room on [29/2/2020](date) [at 12 am](time)
-- Could I have the place on [8-1-2020](date) [at 23.00](time)
-- I would like to book the venue on [19 of Apr 2019](date) [in the evening](time)
-- Can we get the place for [27 September 2020](date) [at 5 in the evening](time)
-- I would like to have the room for the [1 May 2020](date) [in the afternoon](time)
-- we would like to reserve the location on [25th of May 2019](date) [at 17:00](time)
-- Is it possible to book the place for the [13/2/2018](date) [at 24.00](time)
-- I want to get the venue on the [15.9.2018](date) [at 8 o'clock](time)
-- Could I book the room for the [26/1/2020](date) [at 20.00](time)
-- Could we reserve the place for [29th of Apr 2018](date) [at 7 in the evening](time)
-- we want to get the location on [27th Aug 2020](date) [at noon](time)
-- Would it be possible to get the venue for [11th of Jun 2018](date) [at 16:00](time)
-- we need to get the place for the [30th of May 2019](date) [at 13.00](time)
-- Could I have the location for the [27th Mar 2020](date) [in the afternoon](time)
-- we want to reserve the place for [19/10/2020](date) [at 22:00](time)
-- Can I book the room for [2 Apr 2018](date) [at 9 in the morning](time)
-- we'd like to have the location on the [14.9.2020](date) [at 2 in the afternoon](time)
-- Is it possible to reserve the room for the [3 November 2020](date) [at 11 in the morning](time)
-- Can I get the place on the [24/6/2018](date) [at 8 pm](time)
-- I would like to book the venue on [29-4-2020](date) [in the afternoon](time)
-- we need to get the place on the [24th Oct 2020](date) [during the day](time)
-- Would it be possible to get the room for [15/4/2020](date) [at 24.00](time)
-- Can we book the place on the [25th of Aug 2019](date) [at 2 p.m.](time)
-- Would it be possible to reserve the location for [25/9/2018](date) [at 22:00](time)
-- Is it possible to get the location for [12.11.2018](date) [at 3 in the afternoon](time)
-- I want to reserve the location for the [8/3/2018](date) [at 13:00](time)
-- I need to have the place on the [31 May 2020](date) [at 12 pm](time)
-- Could I book the location on the [16/7/2018](date) [at 14.00](time)
-- The networking event is happening [at 4 in the afternoon](time) on the [19th of Nov 2019](date)
-- Is it possible to have the venue on the [7 of Oct 2020](date) [at 9 am](time)
-- Can we get the place on [6th November 2019](date) [at 1 in the afternoon](time)
-- Can we reserve the venue on the [7 February 2019](date) [at 19:00](time)
-- we would like to reserve the venue for [5.4.2020](date) [at 6 in the evening](time)
-- we want to reserve the place on [10 Jul 2018](date) [at 16.00](time)
-- we would like to reserve the venue on the [4.12.2020](date) [in the morning](time)
-- Is it possible to book the place for the [30-9-2018](date) [at 1 in the afternoon](time)
-- Is the venue available for [15 July 2020](date)
-- Can I book the room on [20th December 2019](date) [at 11 in the morning](time)
-- Would it be possible to have the place for the [27 of Apr 2020](date) [at 7 in the evening](time)
-- I need to get the location on [11 Jun 2018](date) [at 10 in the morning](time)
-- Could we reserve the venue on [21-4-2019](date) [at 1 a.m.](time)
-- Is it possible to get the room on the [18-10-2019](date) [at 2 p.m.](time)
-- Could we get the place for the [8th of Nov 2019](date) [at night](time)
-- Would it be possible to get the room on [31-4-2020](date) [at 9](time)
-- we would like to book the location for [15 of June 2019](date) [at 3](time)
-- Is it possible to reserve the room for the [11/8/2019](date) [during the day](time)
-- Can I have the place on the [1 of February 2020](date) [at 8 in the morning](time)
-- I'd like to get the room on the [28 Sep 2018](date) [in the afternoon](time)
-- Is it possible to get the place for [3rd of Mar 2018](date) [at 10 in the morning](time)
-- we want to have the location for the [25 January 2018](date) [at 17.00](time)
-- I would like to get the room on the [24-10-2018](date) [in the morning](time)
-- Is it possible to have the venue for the [12.3.2018](date) [at 7 in the evening](time)
-- I need to reserve the place on [5th May 2020](date)
-- I would like to get the venue for [15 Jul 2018](date) [at 16:00](time)
-- Can we reserve the room on [5 June 2020](date) [at 18:00](time)
-- Can I get the room for [27th Apr 2019](date) [at 4 in the afternoon](time)
-- Would it be possible to book the room on [1/5/2020](date) [at 17:00](time)
-- Can I book the location on the [23 October 2020](date) [at 6 in the evening](time)
-- Would it be possible to have the room on [25.1.2019](date) [at night](time)
-- we would like to reserve the location for the [22th January 2020](date) [at 22:00](time)
-- we want to book the place on the [6th of Feb 2018](date) [in the evening](time)
-- I want to get the venue on the [10 Oct 2019](date) [at 13:00](time)
-- The networking event is [at 3 in the afternoon](time) on the [13th of Nov 2020](date)
-- we need to book the room for [25.6.2020](date) [in the afternoon](time)
-- Is it possible to book the location for [17th of Jun 2018](date) [at noon](time)
-- we would like to have the place on [10-8-2018](date) [at 20:00](time)
-- I'd like to have the location for [14-4-2018](date) [at 1 in the afternoon](time)
-- I need to book the venue for the [9th February 2020](date) [at 20:00](time)
-- Would it be possible to reserve the venue on [20 September 2018](date) [at 24.00](time)
-- I want to book the place for [3/2/2020](date) [at 13:00](time)
-- Would it be possible to have the place on the [19 January 2020](date) [at 21:00](time)
-- Would it be possible to reserve the location on [21/4/2020](date) [at 15:00](time)
-- I want to get the venue on the [12th September 2020](date) [at 18.00](time)
-- we would like to reserve the place on [9.1.2019](date) [in the evening](time)
-- we'd like to get the location on [25/6/2020](date) [at 3 in the afternoon](time)
-- we need to get the location on the [20-3-2018](date) [in the afternoon](time)
-- I need to have the place on the [21th December 2019](date) [at 10 in the morning](time)
-- Could we have the location on the [15-1-2020](date) [at 24:00](time)
-- I'd like to get the place for [29-5-2018](date) [at 7 in the evening](time)
-- I would like to have the location for the [7/1/2018](date) [at 23.00](time)
-- we want to have the place for the [6-12-2020](date) [at 3 in the afternoon](time)
-- I would like to get the venue on the [19th of September 2020](date) [at 8 in the morning](time)
-- I need to book the venue on [6 June 2020](date) [at noon](time)
-- we would like to book the room for [6 May 2020](date)
-- Would it be possible to have the location for the [9 Jun 2020](date) [at 9 in the morning](time)
-- we would like to have the venue for the [15.4.2019](date) [at 14.00](time)
-- Could I get the place on the [9.10.2020](date) [at 18.00](time)
-- Is it possible to get the location for [31 of Oct 2019](date) [at 7 in the evening](time)
-- Is it possible to have the location on the [17th April 2020](date) [at 15:00](time)
-- I need to book the venue on the [3rd April 2020](date) [in the evening](time)
-- we would like to reserve the location for [24/8/2020](date) [at 17:00](time)
-- I need to get the location on [1-8-2020](date) [at 20.00](time)
-- I need to reserve the room on [25.11.2019](date) [at 22:00](time)
-- The booking is for [18/5/2019](date) [at 10 in the morning](time)
-- Is the venue available on the [25th of Nov 2019](date) [at noon](time)
-- Would it be possible to have the venue on [29 Aug 2019](date) [during the day](time)
-- Can I book the venue for the [24.12.2018](date) [at 19.00](time)
-- The event will be [in the evening](time) on the [24 of Jul 2019](date)
-- Could we reserve the venue for the [5/7/2018](date) [at 19:00](time)
-- Would it be possible to get the venue for the [31.9.2020](date) [at 6 a.m.](time)
-- I want to get the place on the [25 Sep 2019](date) [during the day](time)
-- I would like to have the venue on the [19th September 2020](date) [at 4 in the afternoon](time)
-- we need to reserve the place on [15/12/2018](date)
-- I need to book the room on the [11-7-2019](date) [at 4 in the afternoon](time)
-- Can I have the place for the [1.2.2019](date) [at 7 in the evening](time)
-- Could we reserve the venue on [16.1.2019](date) [in the morning](time)
-- Would it be possible to reserve the place for [23 Sep 2018](date) [at 15:00](time)
-- Can I have the room for [16-11-2019](date) [at 11 in the morning](time)
-- Can we get the location for the [4th of Oct 2020](date) [at 8 in the morning](time)
-- we need to book the room for the [3rd of Dec 2018](date) [at 23.00](time)
-- I'd like to book the place for the [15 February 2020](date) [at 14.00](time)
-- I want to get the venue for [3rd February 2018](date) [at 22:00](time)
-- I need to reserve the location on [8-8-2019](date) [at 20:00](time)
-- Can I reserve the location on [10th of Feb 2018](date) [during the day](time)
-- I need to have the venue on [4th Feb 2018](date) [at 1 in the afternoon](time)
-- Would it be possible to book the venue on the [27th May 2019](date) [at 23.00](time)
-- we need to have the location on the [20 May 2018](date) [at 24:00](time)
-- Is it possible to get the place for the [3-6-2020](date) [at 4 in the afternoon](time)
-- Is it possible to get the room on [6/7/2019](date) [at 16:00](time)
-- we want to book the location on [19 Jul 2020](date) [at 8 in the morning](time)
-- I need to have the place on the [30th of October 2020](date) [at 8 o'clock](time)
-- we would like to get the location for [16th April 2020](date) [at 8 in the morning](time)
-- we need to have the room on [16th Nov 2019](date) [at 14.00](time)
-- Could I get the location on the [8th of Jul 2018](date) [at 23.00](time)
-- we want to reserve the location on the [17th July 2018](date) [at 3 p.m.](time)
-- I need to book the venue on [15/3/2019](date) [at 5 in the evening](time)
-- I would like to reserve the location for [7.11.2019](date) [at 19:00](time)
-- I want to get the venue on the [27th Jan 2018](date) [at 1 p.m.](time)
-- we need to get the room on [20-2-2019](date) [at 14:00](time)
-- I need to book the room on the [28th of September 2019](date) [at 18.00](time)
-- I would like to get the location for the [22.8.2018](date) [in the evening](time)
-- The networking event will be [at 3 in the afternoon](time) on the [8 of Jul 2018](date)
-- Can I reserve the location on [8th Feb 2018](date) [at 4 in the afternoon](time)
-- Would it be possible to reserve the venue for the [26 Feb 2018](date) [at 22:00](time)
-- Is it possible to have the location for [26/10/2018](date) [at 6 in the evening](time)
-- I would like to get the location for the [27.6.2020](date) [at 9 in the morning](time)
-- Could we reserve the venue for the [12th Feb 2019](date) [at noon](time)
-- we want to reserve the room on the [29.12.2019](date) [at 13.00](time)
-- we would like to book the room for [6 May 2020](date) [at 23:00](time)
-- I'd like to get the location on [20th of Apr 2019](date) [at 20:00](time)
-- Could I get the place on [14-9-2020](date) [at 15.00](time)
-- we'd like to have the venue for [8/11/2020](date) [at night](time)
-- we'd like to have the place for the [9 Aug 2020](date) [at 10 o'clock](time)
-- we would like to book the place on [9/9/2019](date) [at 10 in the morning](time)
-- I would like to reserve the place on the [19th of Oct 2020](date) [at 9 in the morning](time)
-- we need to have the venue on [24 of April 2018](date) [at 17:00](time)
-- I would like to reserve the room on [16th Feb 2018](date) [at 3 in the afternoon](time)
-- Can we get the location for [28th March 2019](date) [at 2 in the afternoon](time)
-- I'd like to have the venue for [29 of June 2018](date) [at 5 in the evening](time)
-- I need to have the location on the [14 September 2020](date) [at 5 in the evening](time)
-- Could I book the venue on [30-8-2019](date) [at 7 in the evening](time)
-- Can we reserve the place for the [11-6-2019](date) [at night](time)
-- Is it possible to reserve the place on [23-4-2018](date) [at 14:00](time)
-- Could I book the room on the [30/12/2020](date) [at 5 in the evening](time)
-- Is the location available on [16.2.2018](date) [at 14.00](time)
-- we'd like to reserve the room for [5 January 2019](date) [at 8 in the morning](time)
-- we'd like to book the place on the [3/6/2018](date) [at 12 o'clock](time)
-- Can I reserve the location on [17 October 2018](date) [in the evening](time)
-- we'd like to have the venue on [22th May 2020](date) [at 24.00](time)
-- we would like to reserve the location on [31st April 2019](date) [at 13:00](time)
-- I'd like to get the venue for the [12-1-2019](date) [at noon](time)
-- Can I have the location on [21th May 2019](date) [at 6 in the evening](time)
-- Could I get the venue for [12th of Oct 2020](date) [at 17.00](time)
-- I want to get the location on [9-6-2020](date) [at 16.00](time)
-- we would like to have the venue for the [24 Mar 2020](date) [at 2 in the afternoon](time)
-- The event will be [at 7 in the evening](time) [27 of Jun 2019](date)
-- Could I reserve the place for [13th Jan 2018](date) [at 9 in the morning](time)
-- Would it be possible to reserve the venue for [14 May 2018](date) [at 7 in the evening](time)
-- Can I book the location on [8.6.2018](date) [at 6 in the evening](time)
-- Is it possible to reserve the place on [31 Sep 2018](date) [at 19.00](time)
-- Could I get the room on [16 May 2018](date) [at 18.00](time)
-- Could I have the location for the [19 Oct 2018](date) [at 20:00](time)
-- I'd like to get the venue on [29th of Aug 2018](date) [at 15:00](time)
-- Could we reserve the location on the [21/9/2018](date) [at 3](time)
-- Can we have the venue for [3/10/2019](date) [in the afternoon](time)
-- I would like to have the venue for [5-12-2018](date) [at 1 in the afternoon](time)
-- we want to book the place on the [9/1/2019](date) [at 7 in the evening](time)
-- Is it possible to have the location on [13.9.2018](date) [at 20:00](time)
-- Is it possible to have the room for the [4-7-2018](date) [at 7 in the evening](time)
-- I would like to book the room for the [8 of Feb 2019](date) [at 6 in the evening](time)
-- Could we book the place for the [7-1-2019](date)
-- we want to reserve the place on the [16/2/2018](date) [at 13:00](time)
-- we'd like to reserve the room for the [20/12/2018](date) [during the day](time)
-- Can I book the venue on the [15th December 2019](date) [at 20:00](time)
-- we would like to book the location for the [31st of Aug 2018](date) [at 15.00](time)
-- I would like to reserve the venue on the [13-1-2019](date) [in the afternoon](time)
-- I'd like to get the place for [21th of November 2018](date) [at 11 in the morning](time)
-- we want to have the place for the [2 of Jan 2019](date) [at 15:00](time)
-- Is it possible to book the room on [2-10-2018](date) [at 18.00](time)
-- I need to book the room on the [27th Jul 2018](date) [at 7 o'clock](time)
-- we need to have the room for the [2-12-2018](date) [at 2 in the afternoon](time)
-- Is it possible to have the place on the [17 April 2020](date) [at 21:00](time)
-- we need to have the place for the [24 Mar 2020](date) [at 19.00](time)
-- we need to book the room for the [4 Oct 2018](date) [at 14.00](time)
-- Could we have the place for [8-6-2018](date) [in the afternoon](time)
-- Is it possible to book the location for the [4.1.2020](date) [at 22.00](time)
-- we need to have the location on [24th April 2019](date) [at 18:00](time)
-- Could we reserve the venue for the [3 Mar 2019](date) [at 11 in the morning](time)
-- The networking event is taking place [at 8 in the morning](time) on the [1-1-2020](date)
-- I would like to book the place for [17-10-2018](date) [at 6 in the evening](time)
-- I need to have the venue for [23/5/2019](date) [at 19.00](time)
-- we want to have the place for the [23.1.2020](date) [at 24.00](time)
-- we want to get the location on [4th of Nov 2019](date) [at 15:00](time)
-- we want to have the room on the [27th June 2020](date) [at 21.00](time)
-- Can I book the location on the [1.1.2019](date) [at 1 in the afternoon](time)
-- Could I have the location for [28/10/2018](date) [at 14.00](time)
-- Can I reserve the location for the [1.3.2019](date) [at 5 in the evening](time)
-- we need to book the place on the [7 May 2019](date) [at 1 in the afternoon](time)
-- Would it be possible to book the location for the [22th Nov 2019](date) [during the day](time)
-- we need to reserve the location for [5 of September 2019](date) [at 4 in the afternoon](time)
-- we need to get the venue on the [14th March 2020](date) [at 8 in the morning](time)
-- we need to reserve the room on [21-5-2018](date) [at 3](time)
-- Is the place available for the [7 of November 2019](date) [at 21.00](time)
-- The reservation is for the [14-4-2020](date) [at 2 in the afternoon](time)
-- we'd like to book the venue for [13th of Jan 2020](date) [at 17.00](time)
-- we want to reserve the location for [24/6/2019](date) [at 20:00](time)
-- we'd like to have the location on the [30th of Jan 2019](date) [at 23:00](time)
-- Can we get the place on the [13 Aug 2019](date) [at 16.00](time)
-- Could we book the location on the [4.1.2020](date) [at 10 pm](time)
-- we need to reserve the room on [16 of Oct 2020](date) [at 5 in the evening](time)
-- Would it be possible to book the place on [17.8.2018](date) [at 24:00](time)
-- I would like to book the place for [12 of Nov 2019](date) [at 9 in the morning](time)
-- Can we get the venue for the [14th March 2020](date) [at 9 in the morning](time)
-- Is it possible to book the location for [21th Jun 2019](date) [at 12 o'clock](time)
-- Would it be possible to have the venue on [13 June 2019](date) [at 16.00](time)
-- we'd like to reserve the venue for the [13 of Jan 2020](date) [at 6 in the evening](time)
-- Can we book the location for [10 Sep 2020](date) [at noon](time)
-- I'd like to book the place for [5 Jan 2020](date) [at 24.00](time)
-- we would like to get the room on the [25th Dec 2020](date) [at 4 in the afternoon](time)
-- Can we get the venue on [6/10/2020](date) [at noon](time)
-- Would it be possible to have the room on [28th of Oct 2020](date) [at 17:00](time)
-- Is it possible to have the location on [3.11.2019](date) [at 7 in the evening](time)
-- I'd like to get the room on [15 August 2018](date) [at noon](time)
-- The networking event takes place [at 6 in the evening](time) [9-2-2019](date)
-- Can I reserve the venue for [3-8-2018](date) [at 19:00](time)
-- we want to get the room on [3rd of Dec 2020](date) [at 24.00](time)
-- Would it be possible to reserve the place on the [4-11-2018](date) [at 1 in the afternoon](time)
-- Could I have the room on [24th Jun 2020](date) [at 18.00](time)
-- we need to get the location for the [8th of Aug 2020](date) [at 22.00](time)
-- we would like to book the location on [9th of Oct 2020](date) [at 8 in the morning](time)
-- we need to get the room on [4th of December 2020](date) [at 19:00](time)
-- Can we book the room on [20/11/2020](date) [in the afternoon](time)
-- we'd like to have the room for the [26.5.2020](date) [at 20.00](time)
-- Would it be possible to have the venue on the [5 of Nov 2020](date) [at 11 o'clock](time)
-- we want to have the venue for the [24/10/2020](date) [at 5 in the evening](time)
-- Would it be possible to have the location on [29/7/2018](date)
-- we want to have the venue on the [3.2.2020](date) [at noon](time)
-- we would like to book the room on [14th December 2018](date) [at 17:00](time)
-- Can we book the room for the [12th of Nov 2020](date) [at 17:00](time)
-- Can we have the place for the [10th of Jun 2020](date) [at 11 in the morning](time)
-- we would like to reserve the place on [10 Nov 2020](date) [at 5 am](time)
-- I would like to have the venue on [19/8/2018](date) [at 22:00](time)
-- we want to book the location on the [11.4.2020](date) [at 18:00](time)
-- Would it be possible to get the place for [18 June 2019](date) [at 5 in the evening](time)
-- Can we reserve the room for the [3rd May 2019](date) [in the morning](time)
-- we would like to get the location for the [31-4-2019](date) [at 20.00](time)
-- Could we book the place on [13-3-2020](date) [during the day](time)
-- Could I get the room for [30-8-2018](date) [at 8 in the morning](time)
-- I would like to get the place on [16 May 2019](date) [at 16:00](time)
-- we need to get the venue on [25 of May 2018](date) [in the morning](time)
-- Is it possible to reserve the place for the [6/7/2019](date) [at 2 in the afternoon](time)
-- we would like to reserve the location on the [2nd of August 2020](date) [at 2 in the afternoon](time)
-- Would it be possible to get the venue on [21.6.2019](date) [at 6 in the evening](time)
-- I would like to reserve the room on [10 Jan 2019](date) [in the morning](time)
-- I need to get the place for the [9-11-2020](date) [at noon](time)
-- Is it possible to book the location on the [21-7-2019](date) [at 9 in the morning](time)
-- I need to book the place for [27-8-2018](date) [at 2 in the afternoon](time)
-- The event is happening [at 6 in the evening](time) on the [23.10.2019](date)
-- Is it possible to book the place for [17/6/2018](date) [at 5 in the evening](time)
-- I want to reserve the place for [6 May 2019](date) [at 16.00](time)
-- Could I get the room on the [29/12/2018](date) [at 8 in the morning](time)
-- we want to get the place for the [19th of January 2020](date) [at 17:00](time)
-- Is the place available on the [11th Dec 2019](date) [at 5 in the evening](time)
-- Can we reserve the room for [17th Feb 2019](date) [at 10 a.m.](time)
-- Would it be possible to book the venue for the [18 Jun 2018](date) [during the day](time)
-- Could we get the room for the [23-8-2019](date) [during the day](time)
-- we need to get the place for [25th Feb 2020](date) [at 6 in the evening](time)
-- we'd like to reserve the room on the [28th of Dec 2019](date) [at 15:00](time)
-- I want to reserve the venue on [11th Dec 2018](date) [at 4 pm](time)
-- I need to reserve the place on [15 Sep 2018](date) [in the evening](time)
-- Is it possible to get the venue for the [27-3-2019](date) [at 18.00](time)
-- Would it be possible to reserve the place for [16th September 2020](date) [at 22:00](time)
-- we need to book the location on the [13-3-2018](date) [in the afternoon](time)
-- we want to have the location for [13-11-2018](date) [at 10 in the morning](time)
-- we'd like to book the place on the [11 Aug 2018](date) [at 23.00](time)
-- I'd like to reserve the venue for [2nd Sep 2018](date) [at 24:00](time)
-- Is it possible to get the venue on the [29.9.2019](date) [at 17.00](time)
-- Could I get the room for [25 Jan 2020](date) [at 2 in the afternoon](time)
-- Could I have the place for [7-3-2018](date) [at 20:00](time)
-- Is it possible to get the venue for the [29-2-2019](date) [at 18.00](time)
-- Could we have the place for the [22-1-2018](date) [at 8 in the morning](time)
-- we need to reserve the venue on the [12 April 2020](date) [at 23.00](time)
-- Would it be possible to have the place for [12-6-2020](date) [at 9 in the morning](time)
-- I'd like to reserve the room on the [6 Mar 2019](date) [at 14.00](time)
-- Is it possible to get the place on [29 May 2019](date) [in the morning](time)
-- I need to reserve the location for the [31/2/2020](date) [at 8 in the morning](time)
-- Could we have the location on the [3.9.2018](date) [at 4 o'clock](time)
-- I would like to book the venue on the [29 of December 2019](date) [at 9 in the morning](time)
-- we need to book the venue on [8 July 2019](date) [at 8](time)
-- Can I reserve the location on the [23 Sep 2020](date) [at 13.00](time)
-- Could we book the room for the [13/5/2018](date) [at 9 in the morning](time)
-- The event will be [at 6 in the evening](time) [9/6/2020](date)
-- Could I reserve the room for [18.11.2019](date) [at 5 pm](time)
-- we want to get the place on the [28th of November 2019](date) [at 11 in the morning](time)
-- we want to have the place for [28/3/2018](date) [in the afternoon](time)
-- we want to reserve the room for the [21.3.2020](date)
-- Could we reserve the room for the [30-10-2020](date) [at 10 in the morning](time)
-- I want to reserve the location for [8.7.2020](date) [at 16.00](time)
-- Could I book the place for the [17.5.2018](date)
-- Can I have the venue on the [6th of Aug 2020](date) [at 6 in the evening](time)
-- I would like to have the place for [10.3.2019](date) [at 14:00](time)
-- Could I get the venue on [9-11-2020](date) [at 24:00](time)
-- we'd like to get the location on [29th Dec 2019](date) [during the day](time)
-- Can I get the room on [11 December 2018](date) [at 11 pm](time)
-- we want to book the room on [27.10.2019](date) [at 4 in the afternoon](time)
-- Would it be possible to book the place for the [18th of Jun 2019](date) [at 11 o'clock](time)
-- Can I get the room on [24/12/2020](date) [at 9 in the morning](time)
-- Can we book the location on [2nd Dec 2020](date) [at noon](time)
-- Could we have the place on the [25 Oct 2020](date) [at noon](time)
-- we need to book the room for the [27/5/2020](date) [at 9 in the morning](time)
-- Can we book the location on [26 May 2019](date) [at 13:00](time)
-- we want to book the place on the [29th July 2020](date) [at 7 in the evening](time)
-- Is it possible to reserve the venue for the [27.9.2018](date) [at 8 in the morning](time)
-- Can I have the location for [14-4-2019](date) [at 18:00](time)
-- Would it be possible to have the venue for the [4.2.2019](date) [at 13.00](time)
-- I want to get the location for [14-1-2018](date) [at 22:00](time)
-- Would it be possible to book the place on the [4th of August 2020](date) [at 8 a.m.](time)
-- we'd like to book the place on the [8-10-2018](date) [at 23.00](time)
-- Would it be possible to book the place for the [10 Dec 2018](date) [at 13.00](time)
-- Can we reserve the venue for [7th June 2018](date) [at 17.00](time)
-- The date of the event is [30.6.2020](date) [at 8 in the morning](time)
-- The reservation is for the [19/5/2020](date) [at night](time)
-- Is the place available for the [26.1.2019](date) [at 10 in the morning](time)
-- we would like to have the room for [15.11.2020](date) [at 14.00](time)
-- we need to have the venue for the [25/8/2019](date) [at 3 in the afternoon](time)
-- we'd like to get the place for the [30-5-2018](date) [during the day](time)
-- we would like to get the room for the [16-4-2020](date) [at 17.00](time)
-- The networking event will be [at noon](time) on the [26 Jun 2018](date)
-- Could I get the venue on the [13th October 2019](date) [at 24:00](time)
-- Can we get the location on the [12 of July 2019](date) [in the afternoon](time)
-- we need to book the venue for the [1 of Jan 2019](date) [in the morning](time)
-- we would like to reserve the location for the [23-11-2019](date) [in the afternoon](time)
-- Can we have the location on [30 of May 2020](date) [at 16.00](time)
-- we want to book the venue on the [11 Mar 2020](date) [at 13:00](time)
-- we'd like to have the venue on [4th August 2018](date) [at 24.00](time)
-- I need to get the place for [29-10-2019](date) [at 4 in the afternoon](time)
-- Would it be possible to have the room for [4 Jul 2018](date) [at 20.00](time)
-- we'd like to book the venue for [5th Dec 2020](date) [at 13.00](time)
-- we would like to book the location for the [28th May 2018](date) [at 20:00](time)
 
 ## intent:provide_budget
 - The budget is CHF [1,500](budget)

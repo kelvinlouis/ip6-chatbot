@@ -108,7 +108,8 @@
     - slot{"room": null}
     - utter_room_alpha_price
 * provide_budget{"budget": "1500"}
-    - utter_confirm+budget_limitation
+    - utter_confirm
+    - utter_budget_limitation_1400
 * ask_for_room{"room": "others"}
     - action_correct_room
     - slot{"current_room": "Alpha"}
@@ -169,7 +170,8 @@
     - utter_room_beta_equipment
     - utter_room_gamma_equipment
 * provide_budget{"budget": "1500"}
-    - utter_confirm+budget_limitation
+    - utter_confirm
+    - utter_budget_limitation_1400
     - utter_room_alpha_price
     - utter_room_beta_price
     - utter_room_gamma_price
@@ -202,7 +204,7 @@
     - utter_thanks
 
 ## inspired by chat 13-14 (Kelvin)
-* greet{"name": "Arjen Bershka"}
+* greet+provide_name{"name": "Arjen Bershka"}
     - utter_greet_with_name
     - utter_ask_for_service
 * ask_for_options
@@ -223,7 +225,8 @@
     - utter_room_beta_seating
     - utter_room_gamma_seating
 * provide_budget{"budget": "1500"}
-    - utter_confirm+budget_limitation
+    - utter_confirm
+    - utter_budget_limitation_1400
 * ask_for_room_highlight{"room": "Beta"}
     - action_correct_room
     - slot{"current_room": "Beta"}
@@ -264,7 +267,7 @@
     - utter_thanks
 
 ## inspired by chat 3-2 (Kelvin)
-* greet{"name": "Laura Steiner", "company": "Inselspital"}
+* greet+provide_name{"name": "Laura Steiner", "company": "Inselspital"}
     - utter_greet_with_name
     - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "150"}

@@ -1,3 +1,97 @@
+## start_greet_without_name
+* greet
+    - utter_greet
+    - utter_ask_for_name
+* provide_name{"name": "Hans"}
+    - utter_greet_with_name
+    - utter_ask_for_service
+
+## start_greet_with_name
+* greet+provide_name{"name": "Hans"}
+    - utter_greet_with_name
+    - utter_ask_for_service
+
+## affirm
+* affirm
+
+## ask_for_directions_with_start_location
+* ask_for_directions{"start_location": "train station"}
+    - utter_directions_with_start_location
+
+## ask_for_directions_without_start_location
+* ask_for_directions
+    - utter_directions_without_start_location
+
+## ask_for_options
+* ask_for_options
+
+## deny
+* deny
+
+## disagree
+* disagree
+
+## farewell
+* farewell
+
+## provide_booking_date
+* provide_booking_date
+    - utter_ask_for_booking_date
+
+## provide_booking_date_with_date
+* provide_booking_date{"date": "28.11.2018"}
+    - utter_ask_for_booking_confirmation
+
+## provide_booking_date_with_time
+* provide_booking_date{"time": "12:45"}
+    - utter_ask_for_booking_date
+
+## provide_booking_date_with_date_time
+* provide_booking_date{"date": "28.11.2018", "time": "12:45"}
+    - utter_ask_for_booking_confirmation
+
+## provide_name
+* provide_name
+    - utter_ask_for_name
+
+## provide_name_with_name
+* provide_name{"name": "Hans"}
+
+## provide_name_with_name_company
+* provide_name{"name": "Hans", "company": "SBB"}
+
+## provide_name_with_company
+* provide_name{"company": "SBB"}
+
+## provide_preference
+* provide_preference
+    - utter_ask_for_room
+
+## provide_preference_with_room
+* provide_preference{"room": "Alpha"}
+    - slot{"room": "alpha"}
+    - action_correct_room
+    - slot{"current_room": "Alpha"}
+    - slot{"room": null}
+
+## provide_room
+* provide_room
+    - utter_ask_for_room
+
+## provide_room_with_room
+* provide_room{"room": "Alpha"}
+
+## reserve_room
+* reserve_room
+    - utter_ask_for_room
+
+## reserve_room_with_room
+* reserve_room{"room": "Alpha"}
+    - utter_confirm_booking
+
+## thanks
+* thanks
+
 ## equipment_gamma
 * ask_for_room_equipment{"room": "gamma"}
     - slot{"room": "gamma"}
@@ -13,14 +107,6 @@
     - slot{"current_room": "Gamma"}
     - slot{"room": null}
     - utter_room_gamma_seating
-
-## price_gamma
-* ask_for_room_price{"room": "gamma"}
-    - slot{"room": "gamma"}
-    - action_correct_room
-    - slot{"current_room": "Gamma"}
-    - slot{"room": null}
-    - utter_room_gamma_price
 
 ## price_gamma
 * ask_for_room_price{"room": "gamma"}
@@ -86,14 +172,6 @@
     - slot{"room": null}
     - utter_room_beta_price
 
-## price_beta
-* ask_for_room_price{"room": "beta"}
-    - slot{"room": "beta"}
-    - action_correct_room
-    - slot{"current_room": "Beta"}
-    - slot{"room": null}
-    - utter_room_beta_price
-
 ## size_beta
 * ask_for_room_size{"room": "beta"}
     - slot{"room": "beta"}
@@ -141,14 +219,6 @@
     - slot{"current_room": "Alpha"}
     - slot{"room": null}
     - utter_room_alpha_seating
-
-## price_alpha
-* ask_for_room_price{"room": "alpha"}
-    - slot{"room": "alpha"}
-    - action_correct_room
-    - slot{"current_room": "Alpha"}
-    - slot{"room": null}
-    - utter_room_alpha_price
 
 ## price_alpha
 * ask_for_room_price{"room": "alpha"}
@@ -226,45 +296,47 @@
     - utter_room_alpha_people_limit
     - utter_room_gamma_people_limit
 
+## provide_budget 800
+* provide_budget{"budget": "800"}
+    - slot{"budget": "800"}
+    - utter_budget_limitation_900
+
 ## provide_budget 900
 * provide_budget{"budget": "900"}
     - slot{"budget": "900"}
-    - utter_room_beta_price
+    - utter_budget_limitation_900
 
 ## provide_budget 1000
 * provide_budget{"budget": "1000"}
     - slot{"budget": "1000"}
-    - utter_room_beta_price
+    - utter_budget_limitation_900
 
 ## provide_budget 1100
 * provide_budget{"budget": "1100"}
     - slot{"budget": "1100"}
-    - utter_room_beta_price
-    - utter_room_gamma_price
+    - utter_budget_limitation_1100
 
 ## provide_budget 1200
 * provide_budget{"budget": "1200"}
     - slot{"budget": "1200"}
-    - utter_room_beta_price
-    - utter_room_gamma_price
+    - utter_budget_limitation_1100
+
+## provide_budget 1300
+* provide_budget{"budget": "1300"}
+    - slot{"budget": "1300"}
+    - utter_budget_limitation_1100
 
 ## provide_budget 1400
 * provide_budget{"budget": "1400"}
     - slot{"budget": "1400"}
-    - utter_room_alpha_price
-    - utter_room_beta_price
-    - utter_room_gamma_price
+    - utter_budget_limitation_1400
 
 ## provide_budget 1500
 * provide_budget{"budget": "1500"}
     - slot{"budget": "1500"}
-    - utter_room_alpha_price
-    - utter_room_beta_price
-    - utter_room_gamma_price
+    - utter_budget_limitation_1400
 
 ## provide_budget 1600
 * provide_budget{"budget": "1600"}
     - slot{"budget": "1600"}
-    - utter_room_alpha_price
-    - utter_room_beta_price
-    - utter_room_gamma_price
+    - utter_budget_limitation_1400

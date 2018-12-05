@@ -1,5 +1,5 @@
 ## Generated Story -2306698450094699806
-* greet{"name": "Silvia Parankeymalil"}
+* greet+provide_name{"name": "Silvia Parankeymalil"}
     - slot{"name": "Silvia Parankeymalil"}
     - utter_greet_with_name
     - utter_ask_for_service
@@ -48,7 +48,8 @@
     - slot{"room": "it"}
     - action_correct_room
     - slot{"room": null}
-    - utter_confirm+budget_limitation
+    - utter_confirm
+    - utter_budget_limitation_1400
 * reserve_room{"room": "the"}
     - slot{"room": "the"}
     - action_correct_room
@@ -66,7 +67,7 @@
     - utter_thanks
 
 ## Generated Story -1847740183244512759
-* greet{"name": "Kelvin"}
+* greet+provide_name{"name": "Kelvin"}
     - slot{"name": "Kelvin"}
     - utter_greet_with_name
     - utter_ask_for_service
