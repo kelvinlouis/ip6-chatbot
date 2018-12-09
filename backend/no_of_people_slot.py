@@ -22,24 +22,25 @@ class NumberOfPeopleSlot(Slot):
         r = [0.0] * self.feature_dimensionality()
         try:
             if self.value is not None:
+                # Convert string to integer
                 self.value = int(float(self.value))
-                if self.value:
-                    if self.value <= 190:
-                        logger.debug("{} number of people is under or equal to 190".format(self.value))
-                        r[0] = 1.0
-                    elif 190 < self.value <= 200:
-                        logger.debug("{} number of people is between 190 and 200".format(self.value))
-                        r[0] = 1.0
-                        r[1] = 1.0
-                    elif 200 < self.value <= 270:
-                        logger.debug("{} number of people is between 200 and 270".format(self.value))
-                        r[0] = 1.0
-                        r[2] = 1.0
-                    else:
-                        logger.debug("{} number of people is over 270".format(self.value))
-                        r[0] = 1.0
-                        r[1] = 1.0
-                        r[2] = 1.0
+
+                if self.value <= 190:
+                    logger.debug("{} number of people is under or equal to 190".format(self.value))
+                    r[0] = 1.0
+                elif 190 < self.value <= 200:
+                    logger.debug("{} number of people is between 190 and 200".format(self.value))
+                    r[0] = 1.0
+                    r[1] = 1.0
+                elif 200 < self.value <= 270:
+                    logger.debug("{} number of people is between 200 and 270".format(self.value))
+                    r[0] = 1.0
+                    r[2] = 1.0
+                else:
+                    logger.debug("{} number of people is over 270".format(self.value))
+                    r[0] = 1.0
+                    r[1] = 1.0
+                    r[2] = 1.0
             else:
                 pass
         except (TypeError, ValueError):
