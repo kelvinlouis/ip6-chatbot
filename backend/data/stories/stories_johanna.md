@@ -223,7 +223,7 @@
 * ask_for_room_lighting
     - action_correct_room
     - utter_room_alpha_lighting
-* ask_for_room_equipment{"equipment": "projector"}
+* ask_for_room_equipment
     - action_correct_room
     - utter_room_alpha_equipment
 * ask_for_room_price{"room": "it"}
@@ -237,7 +237,7 @@
     - slot{"room": null}
     - utter_room_beta_price
     - utter_room_gamma_price
-* ask_for_room_equipment{"equipment": "projector"}
+* ask_for_room_equipment
     - action_correct_room
     - utter_room_beta_equipment
     - utter_room_gamma_equipment
