@@ -21,7 +21,7 @@ class NumberOfPeopleSlot(Slot):
         
         r = [0.0] * self.feature_dimensionality()
         try:
-            if self.value is not None:
+            if isinstance(self.value, str):
                 # Convert string to integer
                 self.value = int(float(self.value))
 

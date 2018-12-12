@@ -20,10 +20,10 @@ class BudgetSlot(Slot):
 
         r = [0.0] * self.feature_dimensionality()
         try:
-            if self.value is not None:
+            if isinstance(self.value, str):
                 # Strip any non numeric characters
                 self.value = sub('[^0-9]', '', self.value)
-                
+
                 # Convert string to integer
                 self.value = int(float(self.value))
 
@@ -42,11 +42,14 @@ class BudgetSlot(Slot):
                     logger.debug("Provided budget {} is more than 1400".format(self.value))
                     r[0] = 1.0
                     r[1] = 1.0
-                    r[1] = 1.0
+                    r[2] = 1.0
             else:
                 pass
-        except (TypeError, ValueError):
-            logger.warning("Failed to convert value {}, returning {}".format(self.value, r))
+        except TypeError as e:
+            logger.warning("Failed to convert value {}, returning {}, error: {}".format(self.value, r, e))
+            return r
+        except ValueError as e:
+            logger.warning("Failed to convert value {}, returning {}, error: {}".format(self.value, r, e))
             return r
 
         logger.debug("Returning r: {}".format(r))

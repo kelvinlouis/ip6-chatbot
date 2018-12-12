@@ -1275,7 +1275,7 @@
 - Do you have a location which has an [audio/video system](equipment) to do a powerpoint presentation for my colleagues?
 - Is there a meeting room with equipment to hold a presentation for our staff?
 - Does [it](room) have equipment to show a presentation for my colleagues?
-- Does the [other](room) one have a [projector](equipment)for our staff?
+- Does the [other](room) one have a [projector](equipment) for our staff?
 - Do you have an event room that has equipment to show a presentation for our staff?
 - Do you provide an option with equipment to show a powerpoint presentation?
 - Do you provide a [projector](equipment) to show a presentation in the [other](room) rooms?
