@@ -839,7 +839,6 @@
 - Is there a good atmosphere in [this](room) one?
 - Is [this](room) one the nicest room?
 - What is the atmosphere like in the [other](room) ones?
-- Which room is the nicest?
 - Which room has a nice atmosphere?
 - What does [it](room) look like?
 - What's the atmosphere in the [other](room) rooms like?
@@ -932,6 +931,21 @@
 - Is there a good vibe in [it](room)?
 - I would like a location with a nice atmosphere
 - What is the vibe in the [others](room)?
+- Which is the nicest?
+- Which has the best vibe?
+- Which room has the best vibe?
+- Do you have nice rooms?
+- Are there rooms which have a good vibe?
+- Is there an option with a nice atmosphere?
+- Do you have an option with a nice atmosphere?
+- Do you have an option with a good vibe?
+- Is there an option which has a good vibe?
+- Is there an option with a good atmosphere?
+- Do you have rooms that have a good atmosphere?
+- Do you have an option with a good atmosphere?
+- Do you have a meeting room that has a good atmosphere?
+- Is there an event room that has a good vibe?
+- Do you have an option which has a good vibe?
 
 ## intent:ask_for_room_equipment
 - Is there equipment to do a powerpoint presentation in the [third](room) room?
@@ -1294,6 +1308,46 @@
 - Do you provide a [video system](equipment) to show a powerpoint presentation for the team in the [other](room) ones?
 - Does [this](room) have equipment to do a presentation for our employees?
 - Is there a room with a [video system](equipment) to do a presentation for our staff?
+- Are there [speakers](equipment) in the [others](room)?
+- In which room can we do a presentation?
+- Do you have rooms that have an [audio system](equipment)?
+- Which room has [video systems](equipment)?
+- Do you have [screens](equipment) in the [other](room) ones?
+- Do you have [beamers](equipment) in [it](room)?
+- Do you have [audio systems](equipment) in the [other](room) ones?
+- Do you have [projectors](equipment) in the [other](room) rooms?
+- Do you have rooms which have an [audio system](equipment)?
+- Do you have [light systems](equipment) in the [other](room) rooms?
+- Are there [speakers](equipment) in [the](room) room?
+- Do you have [speakers](equipment) in the [other](room) rooms?
+- Do you have [TVs](equipment) in the [others](room)?
+- Do you have rooms which have an [audio/video system](equipment)?
+- Are there [screens](equipment) in the [other](room) ones?
+- Do you have [screens](equipment) in the [others](room)?
+- Are there [beamers](equipment) in the [others](room)?
+- Are there [beamers](equipment) in [beta](room)?
+- Are there [projectors](equipment) in room [Alpha](room)?
+- Are there rooms that have a [loudspeaker](equipment)?
+- Are there [beamers](equipment) in the [other](room) ones?
+- Do you have [video systems](equipment) in the [others](room)?
+- Do you have [screens](equipment) in [it](room)?
+- Are there [beamers](equipment) in the [third](room) one?
+- Do you have [loudspeakers](equipment) in [this](room)?
+- Are there rooms that have a [projector](equipment)?
+- Are there [screens](equipment) in [the](room) room?
+- Do you have [loudspeakers](equipment) in the [other](room) ones?
+- Are there [projectors](equipment) in the [others](room)?
+- Are there [light systems](equipment) in the [other](room) ones?
+- Do you have rooms which have equipment?
+- Do you have [projectors](equipment) in [gamma](room)?
+- Do you have [loudspeakers](equipment) in [the](room) room?
+- Do you have [loudspeakers](equipment) in the [others](room)?
+- Are there [video systems](equipment) in [the](room) room?
+- Do you have rooms with a [TV](equipment)?
+- Do you have [audio systems](equipment) in the [others](room)?
+- Which room has [TVs](equipment)?
+- Do you have [beamers](equipment) in the [other](room) ones?
+- Do you have [speakers](equipment) in the [second](room) one?
 
 ## intent:ask_for_room_highlight
 - I am searching for an exceptional location
@@ -1476,6 +1530,22 @@
 - I want to wow the guests
 - What's special about [this](room) one?
 - What is interesting about the [other](room) one?
+- Are there any special things in [the](room) room?
+- Are there special parts of [the](room) room?
+- What makes [this](room) room special?
+- Are there special rooms?
+- Is there an option which is impressive?
+- Which room is nice?
+- Is there an exclusive room?
+- Are there special rooms?
+- Do you have a location that is interesting?
+- Is there a special option?
+- Do you have impressive event rooms?
+- Is there an event room that is nice?
+- Is there an exclusive location?
+- Do you have an exclusive room?
+- Do you have unique meeting rooms?
+- Which location is unique?
 
 ## intent:ask_for_room_lighting
 - Are there a lot of lamps in the [last](room) room?
@@ -1858,6 +1928,12 @@
 - How much are the rooms?
 - How expensive are they?
 - What're the prices of the rooms?
+- What is the cheapest room?
+- What's the cheapest room?
+- Which room is the cheapest?
+- Which is the cheapest?
+- Which is the most expensive?
+- Which room is the most expensive?
 - Are they expensive?
 - Do you have an event room that costs [GBP 1,500](budget)?
 - Are there rooms for [1'400.-](budget)?
@@ -1939,6 +2015,18 @@
 - Do you offer a room between 900 francs and [€500](budget)?
 - Is there an option between £1,400 and [600.-](budget)?
 - Do you provide an event room between 1,200.- and [500.-](budget)?
+- Is there an expensive room?
+- Do you have expensive rooms?
+- Which room is the most affordable?
+- Is there an affordable room?
+- Do you provide cheap rooms?
+- Do you offer expensive rooms?
+- Do you offer an expensive room?
+- Are there any cheap rooms?
+- Do you have an affordable room?
+- Are there cheap rooms?
+- Is there a cheap room?
+- Do you offer a cheap room?
 
 ## intent:ask_for_room_seating
 - Is there a possibility to sit in smaller teams in [Beta](room)?
@@ -2201,6 +2289,20 @@
 - Is it possible to chat in teams?
 - we have to make smaller groups
 - Is it possible to form smaller groups?
+- In which room can I move tables?
+- In which room can I form groups?
+- Is there a room where I can do groups?
+- Are there rooms to form small groups?
+- Which option has tables?
+- Which meeting rooms have chairs and tables?
+- Which option has chairs and tables?
+- Which options have chairs and tables?
+- Which meeting room has chairs and tables?
+- Which event rooms have chairs and tables?
+- Which options have chairs?
+- Which room has chairs and tables?
+- Which meeting room has tables and chairs?
+- Which room has tables and chairs?
 
 ## intent:ask_for_room_size
 - Is room [gamma](room) bigger?
@@ -2611,3 +2713,19 @@
 - We would like an event room for between 170 to [200](nr_of_people) colleagues
 - We need an event room for between 160 to [200](nr_of_people) persons
 - We need an event room that fits between 150 to [160](nr_of_people) guests
+- Which room is the biggest?
+- Which is the biggest?
+- Which is the largest?
+- Which room is the largest?
+- Do you provide big rooms?
+- Which is the largest room?
+- Are there big enough rooms?
+- Which room has the most room?
+- Are there big rooms?
+- Do you have big enough rooms?
+- Which is the biggest room?
+- Are there large rooms?
+- Are there large enough rooms?
+- Do you have big rooms?
+- Which room has the most space?
+- Do you have large enough rooms?
