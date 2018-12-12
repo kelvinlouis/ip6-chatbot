@@ -68,11 +68,11 @@ class NoneIntentClassifier(Component):
         ]
 
         entities = message.get("entities", [])[:]
-        previous_intent = message.get("intent", [])
+        current_intent = message.get("intent", [])
 
-        logger.debug("previous_intent: {}".format(previous_intent))
+        logger.debug("current_intent: {}".format(current_intent))
 
-        if previous_intent['name'] == None:         
+        if current_intent['name'] == None:         
             found_entities = []
             for entity in entities:
                 found_entities.append(entity['entity'])
@@ -81,7 +81,7 @@ class NoneIntentClassifier(Component):
             
             for substitution_rule in substitution_rules:
                 if substitution_rule['entity'] == found_entities:
-                        new_intent = {"name": substitution_rule['intent'], "confidence": 1.0}
-                        message.set("intent", new_intent, add_to_output=True)
-                        logger.debug("new_intent: {}".format(new_intent))
+                        corrected_intent = {"name": substitution_rule['intent'], "confidence": 1.0}
+                        message.set("intent", corrected_intent, add_to_output=True)
+                        logger.debug("corrected_intent: {}".format(corrected_intent))
                     
