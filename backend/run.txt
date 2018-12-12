@@ -1,5 +1,12 @@
-python -m rasa_nlu.train -c config_tensorflow.yml -d data/nlu -o models/nlu --fixed_model_name test --project default
+# Train NLU
+python -m rasa_nlu.train -c config_nlu.yml -d data/nlu -o models/nlu --fixed_model_name test --project default
+python -m rasa_nlu.train -c config_nlu_spacy_ner.yml -d data/nlu -o models/nlu --fixed_model_name test-spacy-ner --project default
+python -m rasa_nlu.train -c config_nlu_spacy_token_ner.yml -d data/nlu -o models/nlu --fixed_model_name test-spacy-token-ner --project default
+python -m rasa_nlu.train -c config_nlu_spacy_token.yml -d data/nlu -o models/nlu --fixed_model_name test-spacy-token --project default
+
+# Train Core
 python -m rasa_core.train interactive -o models/dialogue -d domain.yml -c config_core.yml -s data/stories -u models/nlu/default/test --endpoints endpoints.yml
+python -m rasa_core.train default -o models/dialogue -d domain.yml -c config_core.yml -s data/stories
 
 python -m rasa_core_sdk.endpoint --actions actions
 python -m rasa_nlu.server --path models/nlu
@@ -7,11 +14,22 @@ python -m rasa_nlu.server --path models/nlu
 # Endpoint: ws://localhost:5002/socket.io/
 python -m rasa_core.run -d models/dialogue -u models/nlu/default/test --endpoints endpoints.yml --port 5002 --credentials credentials.yml -o logs/core.log
 
-# Evaluate
+# Evaluate NLU
+python -m rasa_nlu.evaluate --data data/test_nlu --model models/nlu/default/test --errors eval_results/nlu/test_errors.json --histogram eval_results/nlu/test_histogram --confmat eval_results/nlu/test_confmat
+python -m rasa_nlu.evaluate --data data/test_nlu --model models/nlu/default/test-regex --errors eval_results/nlu/test-regex_errors.json --histogram eval_results/nlu/test-regex_histogram --confmat eval_results/nlu/test-regex_confmat
+python -m rasa_nlu.evaluate --data data/test_nlu --model models/nlu/default/test-spacy-ner --errors eval_results/nlu/test-spacy-ner_errors.json --histogram eval_results/nlu/test-spacy-ner_histogram --confmat eval_results/nlu/test-spacy-ner_confmat
+python -m rasa_nlu.evaluate --data data/test_nlu --model models/nlu/default/test-spacy-ner2 --errors eval_results/nlu/test-spacy-ner2_errors.json --histogram eval_results/nlu/test-spacy-ner2_histogram --confmat eval_results/nlu/test-spacy-ner2_confmat
+python -m rasa_nlu.evaluate --data data/test_nlu --model models/nlu/default/test-spacy-token-ner --errors eval_results/nlu/test-spacy-token-ner_errors.json --histogram eval_results/nlu/test-spacy-token-ner_histogram --confmat eval_results/nlu/test-spacy-token-ner_confmat
+python -m rasa_nlu.evaluate --data data/test_nlu --model models/nlu/default/test-spacy-token --errors eval_results/nlu/test-spacy-token_errors.json --histogram eval_results/nlu/test-spacy-token_histogram --confmat eval_results/nlu/test-spacy-token_confmat
+
+# Evaluate Core
 python -m rasa_core.evaluate --core models/dialogue --stories test_stories.md -o results
 
 # Evaluate with NLU (Bug: https://github.com/RasaHQ/rasa_core/issues/1394)
 python -m rasa_core.evaluate default --core models/dialogue --nlu models/nlu/default/test --stories data/e2e_stories --e2e
+
+# Evaluate different Policies
+python -m rasa_core.train compare -c config_core.yml config_core_redp.zml -d domain.yml -s stories_folder -o comparison_models --runs 3 --percentages 0 5 25 50 70 90 95
 
 # Generate md files
 cd preprocessing/
