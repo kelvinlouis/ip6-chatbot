@@ -29,7 +29,6 @@
 - is it possible to work in small groups in [this](room) room?
 - can we do a workshop in [this](room) room?
 - Is it possible to work in small groups?
-- is it possible to work in small groups?
 
 ## intent:ask_for_room_size
 - it should have space for [200](nr_of_people) people
@@ -64,9 +63,11 @@
 ## intent:provide_nr_of_people
 - I want to do a reservation for [200](nr_of_people) people
 
+## intent:provide_preference
+- ok, room [gamma](room) sounds good
+
 ## intent:reserve_room
 - awesome, can i book [this](room) room?
-- ok, room [gamma](room) sounds good
 - ok, then i will book room [gamma](room)
 
 ## intent:thanks

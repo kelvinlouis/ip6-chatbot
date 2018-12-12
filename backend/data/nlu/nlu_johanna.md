@@ -28,7 +28,7 @@
 - We need to do a presentation in [the](room) room. Is that possible?
 - What about the rest of the equipment? Is there a projector and speakers?
 - Do they also have a projector and audio system?
-- Actually, wait... Is it really suitable to do a presentation in room [Beta](room)? The bar and loung setup isn't really good for that, is it?
+- Actually, wait... Is it really suitable to do a presentation in room [Beta](room)? The bar and lounge setup isn't really good for that, is it?
 
 ## intent:ask_for_room_highlight
 - Which one do you like most?
@@ -64,10 +64,12 @@
 - Yes, see you then
 - goodbye Francis
 
+## intent:greet+provide_name
+- Hi this is [Nur](name), I work as an apprentice at [Fuchs](company) in Bern. I have some questions about your event rooms.
+
 ## intent:greet
 - Hello
 - hello
-- Hi this is [Nur](name), I work as an apprentice at [Fuchs](company) in Bern. I have some questions about your event rooms.
 
 ## intent:provide_booking_date
 - [12.03.2019](date)

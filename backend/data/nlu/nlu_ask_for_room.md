@@ -1055,7 +1055,7 @@
 - Do you have a [screen](equipment) to show a powerpoint presentation in the [last](room) room?
 - Is there a room that has equipment to do a talk?
 - Does the [third](room) room have equipment?
-- Does the [third](room) one have an [audio/video system](equipment)for the team?
+- Does the [third](room) one have an [audio/video system](equipment) for the team?
 - Can I do a presentation for our employees?
 - Does the [last](room) one have a [projector](equipment) to do a talk?
 - Is it possible to do a presentation in the [third](room) room for the team?
@@ -1085,7 +1085,7 @@
 - Is it possible to do a powerpoint presentation in [Gamma](room) for our employees?
 - Is there a possibility to do a presentation in the [second](room) room for our staff?
 - we would like a [screen](equipment) in the [second](room) room
-- Does room [Beta](room) have an [audio/video system](equipment)for my colleagues?
+- Does room [Beta](room) have an [audio/video system](equipment) for my colleagues?
 - Does the [third](room) one have an [audio/video system](equipment) to do a presentation for the team?
 - Can I hold a presentation in the [third](room) one for my colleagues?
 - we should be able to show a powerpoint presentation in the [second](room) room?
@@ -1142,7 +1142,7 @@
 - we should be able to hold a presentation in the [third](room) one?
 - Is it possible to do a powerpoint presentation in the [third](room) one for the team?
 - Does [beta](room) have equipment to hold a presentation for my colleagues?
-- Does the [first](room) room have an [audio/video system](equipment)for our employees?
+- Does the [first](room) room have an [audio/video system](equipment) for our employees?
 - we also need equipment
 - Could we show a powerpoint presentation in the [first](room) room for our employees?
 - Is it possible to show a powerpoint presentation in the [last](room) one for our employees?
@@ -1179,7 +1179,7 @@
 - Do you provide a [projector](equipment) for the team in the [others](room)?
 - Is there a room with an [audio/video system](equipment) to show a presentation for our staff?
 - Does [it](room) have a [video system](equipment) to show a powerpoint presentation?
-- Does [this](room) room have an [audio/video system](equipment)for our staff?
+- Does [this](room) room have an [audio/video system](equipment) for our staff?
 - Do you have equipment?
 - Is there a location which has equipment for my colleagues?
 - Could I do a talk?

@@ -37,7 +37,7 @@
 - Can I form small groups?
 - Can I do small groups?
 
-## intent:ask_for_rooms
+## intent:ask_for_room
 - I am looking for a room
 
 ## intent:deny
@@ -49,9 +49,11 @@
 - Bye Francis!
 - Bye take care!
 
-## intent:greet
+## intent:greet+provide_name
 - Hi my name is [Silvia Parankeymalil](name). I am looking for a room.
 - Hi my name is [Kelvin](name)
+
+## intent:greet
 - Hi, how are you?
 
 ## intent:provide_booking_date
@@ -61,7 +63,6 @@
 
 ## intent:provide_budget
 - Perfect! I have a budget of [1500](budget) Swiss francs. So I think I will book [it](room).
-- We will have [150](nr_of_people) people in [this](room) event
 
 ## intent:provide_name
 - This is [Anna Oddermatt](name)
@@ -69,6 +70,7 @@
 ## intent:provide_nr_of_people
 - [150](nr_of_people)
 - Can there be [150](nr_of_people) people?
+- We will have [150](nr_of_people) people in [this](room) event
 
 ## intent:reserve_room
 - Okay. Can I book [the](room) room?
