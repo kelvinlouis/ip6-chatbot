@@ -1,6 +1,6 @@
 ## Generated Story -2306698450094699806
-* greet+provide_name{"name": "Silvia Parankeymalil"}
-    - slot{"name": "Silvia Parankeymalil"}
+* greet+provide_name{"name": "Silvia Manikuthil"}
+    - slot{"name": "Silvia Manikuthil"}
     - utter_greet_with_name
     - utter_ask_for_service
 * ask_for_options

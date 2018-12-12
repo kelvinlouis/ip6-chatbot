@@ -136,6 +136,8 @@ slots:
     - this
     - that
     - the
+    - there
+    - another
   time:
     auto_fill: true
     type: rasa_core.slots.TextSlot
