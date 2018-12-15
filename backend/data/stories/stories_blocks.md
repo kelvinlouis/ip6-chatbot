@@ -207,6 +207,7 @@
 ## seating_ask_for_room
 * ask_for_room_seating
     - utter_ask_for_room
+> seating_ask_for_room
 
 ## seating_alpha_provide_room
 > seating_ask_for_room
@@ -238,6 +239,7 @@
 ## price_ask_for_room
 * ask_for_room_price
     - utter_ask_for_room
+> price_ask_for_room
 
 ## price_alpha_provide_room
 > price_ask_for_room
@@ -269,6 +271,7 @@
 ## size_ask_for_room
 * ask_for_room_size
     - utter_ask_for_room
+> size_ask_for_room
 
 ## size_alpha_provide_room
 > size_ask_for_room
@@ -300,6 +303,7 @@
 ## highlight_ask_for_room
 * ask_for_room_highlight
     - utter_ask_for_room
+> highlight_ask_for_room
 
 ## highlight_alpha_provide_room
 > highlight_ask_for_room
@@ -331,6 +335,7 @@
 ## lighting_ask_for_room
 * ask_for_room_lighting
     - utter_ask_for_room
+> lighting_ask_for_room
 
 ## lighting_alpha_provide_room
 > lighting_ask_for_room
@@ -362,6 +367,7 @@
 ## atmosphere_ask_for_room
 * ask_for_room_atmosphere
     - utter_ask_for_room
+> atmosphere_ask_for_room
 
 ## atmosphere_alpha_provide_room
 > atmosphere_ask_for_room
