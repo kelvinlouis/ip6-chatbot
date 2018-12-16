@@ -83,7 +83,6 @@
 * farewell OR deny
     - utter_goodbye
 
-
 ## inspired by chat 9-10 (Kelvin)
 * ask_for_options
     - utter_greet
