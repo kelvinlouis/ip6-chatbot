@@ -11,23 +11,27 @@
     - utter_options
     - utter_ask_to_narrow_options
 * ask_for_room_equipment
+    - slot{"topic": "equipment"}
     - utter_ask_for_nr_of_people
 > 8897532857795406961_nr_of_people.1
 
 ## Generated Story -8897532857795406961.2.1
 > 8897532857795406961_room_price.ac
 * ask_for_room_price{"room": "alpha"}
+    - slot{"topic": "price"}
     - slot{"room": "alpha"}
     - action_correct_room
     - slot{"room": null}
     - slot{"current_room": "Alpha"}
     - utter_room_alpha_price
 * ask_for_room_price{"room": "other"}
+    - slot{"topic": "price"}
     - slot{"room": "other"}
     - action_correct_room
     - slot{"room": null}
     - utter_room_gamma_price
 * ask_for_room_atmosphere{"room": "this"}
+    - slot{"topic": "atmosphere"}
     - slot{"room": "this"}
     - action_correct_room
     - slot{"room": null}
@@ -37,18 +41,21 @@
 ## Generated Story -8897532857795406961.2.2
 > 8897532857795406961_room_price.abc
 * ask_for_room_price{"room": "beta"}
+    - slot{"topic": "price"}
     - slot{"room": "beta"}
     - action_correct_room
     - slot{"room": null}
     - slot{"current_room": "Beta"}
     - utter_room_beta_price
 * ask_for_room_price{"room": "other"}
+    - slot{"topic": "price"}
     - slot{"room": "other"}
     - action_correct_room
     - slot{"room": null}
     - utter_room_alpha_price
     - utter_room_gamma_price
 * ask_for_room_atmosphere{"room": "this"}
+    - slot{"topic": "atmosphere"}
     - slot{"room": "this"}
     - action_correct_room
     - slot{"room": null}
@@ -58,17 +65,20 @@
 ## Generated Story -8897532857795406961.2.3
 > 8897532857795406961_room_price.a
 * ask_for_room_price{"room": "gamma"}
+    - slot{"topic": "price"}
     - slot{"room": "gamma"}
     - action_correct_room
     - slot{"room": null}
     - slot{"current_room": "Gamma"}
     - utter_room_gamma_price
 * ask_for_room_price{"room": "other"}
+    - slot{"topic": "price"}
     - slot{"room": "other"}
     - action_correct_room
     - slot{"room": null}
     - utter_room_alpha_price
 * ask_for_room_atmosphere{"room": "this"}
+    - slot{"topic": "atmosphere"}
     - slot{"room": "this"}
     - action_correct_room
     - slot{"room": null}
@@ -78,6 +88,7 @@
 ## Generated Story -8897532857795406961.3
 > 8897532857795406961.3
 * ask_for_room_seating
+    - slot{"topic": "seating"}
     - utter_room_gamma_seating
 * reserve_room{"room": "gamma"}
     - slot{"room": "gamma"}
@@ -147,10 +158,12 @@
     - slot{"name": "Nico"}
     - utter_ask_for_service_with_name
 * ask_for_room_equipment
+    - slot{"topic": "equipment"}
     - utter_confirm
     - utter_options
     - utter_ask_to_narrow_options
 * ask_for_room_size{"nr_of_people": "200"}
+    - slot{"topic": "size"}
     - slot{"nr_of_people": "200"}
     - utter_room_alpha_people_limit
     - utter_room_gamma_people_limit
@@ -159,6 +172,7 @@
 ## equipment_alpha_alpha
 > 3982048685169040827.1
 * ask_for_room_equipment{"room": "alpha"}
+    - slot{"topic": "equipment"}
     - slot{"room": "alpha"}
     - action_correct_room
     - slot{"current_room": "Alpha"}
@@ -169,6 +183,7 @@
 ## equipment_beta_beta
 > 3982048685169040827.1
 * ask_for_room_equipment{"room": "beta"}
+    - slot{"topic": "equipment"}
     - slot{"room": "beta"}
     - action_correct_room
     - slot{"current_room": "Beta"}
@@ -179,6 +194,7 @@
 ## equipment_gamma_gamma
 > 3982048685169040827.1
 * ask_for_room_equipment{"room": "gamma"}
+    - slot{"topic": "equipment"}
     - slot{"room": "gamma"}
     - action_correct_room
     - slot{"current_room": "Gamma"}
@@ -189,6 +205,7 @@
 ## seating_alpha_this
 > equipment_alpha
 * ask_for_room_seating{"room": "this"}
+    - slot{"topic": "seating"}
     - slot{"room": "this"}
     - action_correct_room
     - slot{"room": null}
@@ -198,6 +215,7 @@
 ## price_alpha_this
 > equipment_alpha
 * ask_for_room_price{"room": "this"}
+    - slot{"topic": "price"}
     - slot{"room": "this"}
     - action_correct_room
     - slot{"room": null}
@@ -207,6 +225,7 @@
 ## seating_beta_this
 > equipment_beta
 * ask_for_room_seating{"room": "this"}
+    - slot{"topic": "seating"}
     - slot{"room": "this"}
     - action_correct_room
     - slot{"room": null}
@@ -216,6 +235,7 @@
 ## seating_gamma_this
 > equipment_gamma
 * ask_for_room_seating{"room": "this"}
+    - slot{"topic": "seating"}
     - slot{"room": "this"}
     - action_correct_room
     - slot{"room": null}
@@ -231,6 +251,7 @@
     - slot{"room": null}
     - utter_room_gamma_seating
 * ask_for_room_price{"room": "it"}
+    - slot{"topic": "price"}
     - slot{"room": "it"}
     - action_correct_room
     - slot{"room": null}
@@ -257,18 +278,21 @@
     - slot{"name": "Joel Fischer"}
     - utter_ask_to_narrow_options
 * ask_for_room_equipment{"nr_of_people": "200"}
+    - slot{"topic": "equipment"}
     - slot{"nr_of_people": "200"}
     - utter_confirm
     - utter_available_rooms_200_people
     - utter_room_alpha_people_limit
     - utter_room_gamma_people_limit
 * ask_for_room_price{"room": "alpha"}
+    - slot{"topic": "price"}
     - slot{"room": "alpha"}
     - action_correct_room
     - slot{"current_room": "Alpha"}
     - slot{"room": null}
     - utter_room_alpha_price
 * ask_for_room_seating{"room": "this"}
+    - slot{"topic": "seating"}
     - slot{"room": "this"}
     - utter_room_alpha_seating
 * ask_for_room{"room": "gamma"}
@@ -278,6 +302,7 @@
     - slot{"room": null}
     - utter_room_gamma_seating
 * ask_for_room_price{"room": "this"}
+    - slot{"topic": "price"}
     - slot{"room": "this"}
     - action_correct_room
     - slot{"room": null}
@@ -307,13 +332,16 @@
     - utter_greet_with_name
     - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "170"}
+    - slot{"topic": "size"}
     - slot{"nr_of_people": "170"}
     - utter_available_rooms_200_people
     - utter_room_alpha_people_limit
     - utter_room_gamma_people_limit
 * ask_for_room_equipment
+    - slot{"topic": "equipment"}
     - utter_generic_equipment_options
 * ask_for_room_seating
+    - slot{"topic": "seating"}
     - utter_room_alpha_seating
     - utter_room_gamma_seating
 * reserve_room{"room": "gamma"}
@@ -347,12 +375,14 @@
     - utter_room_alpha_people_limit
     - utter_room_gamma_people_limit
 * ask_for_room_price{"room": "gamma"}
+    - slot{"topic": "price"}
     - slot{"room": "gamma"}
     - action_correct_room
     - slot{"current_room": "Gamma"}
     - slot{"room": null}
     - utter_room_gamma_price
 * ask_for_room_seating
+    - slot{"topic": "seating"}
     - utter_room_gamma_seating
 * ask_for_room{"room": "alpha"}
     - slot{"room": "alpha"}
