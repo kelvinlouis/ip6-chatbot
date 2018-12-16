@@ -16,6 +16,7 @@ services:
       - ${PWD}/backend/models/dialogue-prod:/app/models/dialogue
       - ${PWD}/backend/budget_slot.py:/app/budget_slot.py
       - ${PWD}/backend/no_of_people_slot.py:/app/no_of_people_slot.py
+      - ${PWD}/backend/room_slot.py:/app/room_slot.py
       - ${PWD}/backend/webapp.py:/app/webapp.py
       - ${PWD}/backend/conversation_logger.py:/app/conversation_logger.py
       - ${PWD}/backend/domain.yml:/app/domain.yml
@@ -31,6 +32,7 @@ services:
     restart: always
     volumes:
       - ${PWD}/backend/models/nlu-prod:/app/models/nlu
+      - ${PWD}/backend/none_intent_classifier.py:/app/none_intent_classifier.py
       - ${PWD}/backend/logs/rasa_nlu:/app/logs
     command: python -m rasa_nlu.server --path models/nlu --response_log logs/response.log -w logs/nlu.log -P ${NLU_PORT}
   

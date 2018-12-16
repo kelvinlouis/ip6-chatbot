@@ -5,6 +5,7 @@ services:
     image: rasa_nlu_avx2:latest
     volumes:
       - ${PWD}/backend/config_nlu_template.yml:/app/config_nlu_template.yml
+      - ${PWD}/backend/none_intent_classifier.py:/app/none_intent_classifier.py
       - ${PWD}/backend/data/nlu:/app/data/nlu
       - ${PWD}/backend/models/nlu-prod:/app/models/nlu
       - ${PWD}/backend/logs/rasa_nlu:/app/logs

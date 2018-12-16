@@ -9,6 +9,7 @@ services:
     volumes:
       - ${PWD}/backend/data/stories:/app/data/stories
       - ${PWD}/backend/models/dialogue-prod:/app/models/dialogue
+      - ${PWD}/backend/room_slot.py:/app/room_slot.py
       - ${PWD}/backend/budget_slot.py:/app/budget_slot.py
       - ${PWD}/backend/no_of_people_slot.py:/app/no_of_people_slot.py
       - ${PWD}/backend/domain.yml:/app/domain.yml
