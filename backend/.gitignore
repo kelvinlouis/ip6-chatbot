@@ -1,7 +1,7 @@
 # Model directory
 models/**
 logs/**
-pip-cache/**
+eval_results/**
 mongodb/initdb.d/**
 mongodb/data/**
 
