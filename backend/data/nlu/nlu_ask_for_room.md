@@ -14,16 +14,20 @@
 - Give me information about your [other](room) locations
 - Do the [other](room) meeting rooms have it?
 - Is there an [other](room) one?
+- Is there a [different](room) one?
 - Are the [other](room) rooms nice?
 - Do you have [others](room)?
+- Do you have [different](room) ones?
 - I have a question about your [other](room) locations
 - Say something about your [others](room)
 - Are there [others](room)?
 - I'd like to know more about the [other](room) locations
 - Do you have [another](room) meeting room?
 - What about [another](room) option?
+- What about a [different](room) option?
 - How are the [other](room) event rooms?
 - What about a [other](room) one?
+- What about a [different](room) one?
 - Are the [other](room) rooms better?
 - Say something about your [other](room) options
 - Say something about your [other](room) locations
@@ -40,12 +44,14 @@
 - How are the [others](room)?
 - Are there [other](room) meeting rooms?
 - Do you have [another](room) location?
+- Do you have [different](room) locations?
 - I have a question about your [others](room)
 - Are the [others](room) good?
 - Do the [other](room) rooms have it?
 - I want to hear more about the [other](room) rooms
 - Do you have a [other](room) location?
 - What about [others](room)?
+- Is there a [different](room) room?
 - Tell me about your [others](room)
 - What about [another](room) location?
 - Is there a [other](room) meeting room?
@@ -120,6 +126,7 @@
 - Do the [other](room) rooms have this?
 - Tell me about your [other](room) rooms
 - Tell me about the [other](room) one
+- Tell me about a [different](room) one
 - I want to know more about [the](room) room
 - Tell me about [this](room) location
 - I want to know about [this](room)
@@ -129,6 +136,8 @@
 - Give me information on [it](room)
 - I want to know about the [other](room) event room
 - I want to know about [it](room)
+- I want to know about a [different](room) one
+- I want to know about a [different](room) room
 - I want to know more about the [other](room) option
 - I am interested in [the](room) room
 - Give me information about [this](room) location
@@ -166,6 +175,7 @@
 - Give me information about the [third](room) one
 - I am interested in room [gamma](room)
 - Give me information on [gamma](room)
+- Give me information on a [different](room) room
 - I want to know about the [first](room) event room
 - I am interested in the [last](room) meeting room
 - Give me information on the [first](room) room
@@ -227,6 +237,8 @@
 - Is [this](room) room nice?
 - Is [it](room) good?
 - Is option [Beta](room) nice?
+- Is a [different](room) one better?
+- Is a [different](room) one nicer?
 - Is [this](room) nice?
 - Is the [second](room) event room better?
 - Is the [last](room) meeting room good?
@@ -380,6 +392,7 @@
 - How is the [other](room) location?
 - How is the [third](room) event room?
 - And the [other](room) one?
+- And a [different](room) one?
 - How is meeting room [beta](room)?
 - What about [this](room) event room?
 - And [Beta](room)?
@@ -647,7 +660,7 @@
 - How is [beta](room) like?
 - What is meeting room [beta](room) like?
 - What is the [first](room) room like?
-
+- What about a [different](room) room?
 
 ## intent:ask_for_room_atmosphere
 - What is the vibe in room [beta](room) like?
@@ -715,6 +728,7 @@
 - I search for a location with a good vibe
 - Do you have a nice atmosphere in the [last](room) room?
 - Does [Beta](room) have a good atmosphere?
+- Does a [different](room) room have a better atmosphere?
 - I want a location with a good vibe
 - What's the vibe like in the [second](room) room?
 - What's the atmosphere in room [beta](room)?
@@ -2144,6 +2158,9 @@
 - Are there cheap rooms?
 - Is there a cheap room?
 - Do you offer a cheap room?
+- Is a [different](room) cheaper?
+- Is a [different](room) more expensive?
+- Is there a [different](room) room more expensive?
 
 ## intent:ask_for_room_seating
 - Is there a possibility to sit in smaller teams in [Beta](room)?
