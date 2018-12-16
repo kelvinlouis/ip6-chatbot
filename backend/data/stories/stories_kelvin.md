@@ -290,7 +290,7 @@
 
 ## Generated Story -4138610628731786766 - 2
 * greet+provide_name{"name": "Moritz Berger"}
-    - slot{"name": ""Moritz Berger"}
+    - slot{"name": "Moritz Berger"}
     - utter_greet_with_name
     - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "250"}
