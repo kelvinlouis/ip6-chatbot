@@ -97,6 +97,17 @@ intents:
   - reserve_room
   - thanks
 slots:
+  topic:
+    auto_fill: true
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - atmosphere
+    - lighting
+    - equipment
+    - highlight
+    - price
+    - seating
+    - size
   budget:
     auto_fill: true
     type: budget_slot.BudgetSlot
@@ -121,25 +132,7 @@ slots:
     type: no_of_people_slot.NumberOfPeopleSlot
   room:
     auto_fill: true
-    type: rasa_core.slots.CategoricalSlot
-    values:
-    - Alpha
-    - Beta
-    - Gamma
-    - first
-    - second
-    - third
-    - last
-    - other
-    - others
-    - other rooms
-    - it
-    - this
-    - that
-    - the
-    - there
-    - another
-    - all
+    type: room_slot.RoomSlot
   time:
     auto_fill: true
     type: rasa_core.slots.TextSlot
