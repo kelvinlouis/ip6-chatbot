@@ -14,7 +14,7 @@
 - and in room [alpha](room)?
 
 ## intent:ask_for_room_equipment
-- My company wants to a presentation and we need a meeting room
+- My company wants to do a presentation and we need a meeting room
 - can we do a presentation in room [alpha](room)?
 - yes, a room for [200](nr_of_people) people to do a presentation
 - We need to do a presentation, is this possible?

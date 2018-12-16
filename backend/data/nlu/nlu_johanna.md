@@ -14,14 +14,18 @@
 - how about the [other](room) rooms?
 - Okay, and [Beta](room)?
 - Okay. And the [second](room) one?
+- Okay good. And the [last](room) one?
+- Can you describe room [Alpha](room) a bit more please?
+- What are these two rooms like otherwise?
+- Which one do you like most?
+- How about the [others](room)?
+- And the [last](room) one?
 
 ## intent:ask_for_room_atmosphere
 - how is the atmosphere in the [first](room) room?
 - What do the rooms look like?
 - That sounds a bit old-fashioned. How about room [Beta](room)?
 - Which one is the nicest?
-- Can you describe room [Alpha](room) a bit more please?
-- What are these two rooms like otherwise?
 
 ## intent:ask_for_room_equipment
 - i want to do a presentation
@@ -29,9 +33,6 @@
 - What about the rest of the equipment? Is there a projector and speakers?
 - Do they also have a projector and audio system?
 - Actually, wait... Is it really suitable to do a presentation in room [Beta](room)? The bar and lounge setup isn't really good for that, is it?
-
-## intent:ask_for_room_highlight
-- Which one do you like most?
 
 ## intent:ask_for_room_lighting
 - What's the light like?
@@ -42,7 +43,6 @@
 - How much are they?
 - And what's the price difference in the three rooms?
 - Okay cool. And how much is [it](room)?
-- How about the [others](room)?
 
 ## intent:ask_for_room_seating
 - can i move the tables in [this](room) room?
@@ -87,21 +87,17 @@
 - Yes, we need a room for [150](nr_of_people) guests. Or maybe there will be more
 - For at least [150](nr_of_people)
 
-## intent:provide_preference
-- I think I'll take that one.
-
 ## intent:provide_room
 - Let's start with the [first](room) one, room [Alpha](room)
-- And the [last](room) one?
 - [Gamma](room)
 - Let's start with [Alpha](room)
-- Okay good. And the [last](room) one?
 
 ## intent:reserve_room
 - sounds good, is [the](room) room available?
 - And is [it](room) available?
 - I think I'll go with [Beta](room)
 - Well okay. I'll take [it](room)
+- I think I'll take [that](room) one.
 
 ## intent:thanks
 - Great, thank you too!

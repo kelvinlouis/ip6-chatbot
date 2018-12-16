@@ -42,6 +42,29 @@
 - this is correct
 - This is correct
 - most definitely
+- sounds good
+- yes, this sounds good
+- that sounds great
+- yes, that would be great
+- yes, this would be great
+- perfect!
+- indeed
+- yes, this is perfect
+- that would be perfect!
+- yes, that would be perfect
+- yes, this is good
+- yes, this is perfect
+- great
+- yes, great
+- yes, definitely
+- yes, that would be wonderful
+- yes, that'd be wonderful
+- yes, that'd be great
+- okay, sure
+- ok, sure
+- ok, great
+- ok, please
+- yes, very good
 
 ## intent:ask_for_directions
 - How do we get to the hotel?
@@ -448,158 +471,68 @@
 - cu, Thank you
 - ok, Many thanks, Goodbye
 - Thanks a lot. I will be in touch. Byebye
-- Thanks. Stay in touch. Adieu
 - Thank you very much. I will be in touch. ttyl
 - ok, See you, Thanks a lot
-- Thanks for helping me. Stay in touch. I have to go
-- ok, Thanks very much, cu
-- cu, Thank you very much
-- Many thanks. Stay in touch. Adieu
-- Thanks so much. Stay in touch. See you soon
-- Many thanks. Stay in touch. See you
-- ok, I am gone, Thanks for your help
-- Many thanks. I will be in touch. Talk later
-- Bye, Thanks
-- ok, Thank you so much, See you
-- Thanks. I will contact you again. See you soon
-- I wish you a good night
-- Thanks a lot. I will contact you again. Chat with you later
-- I am gone, Thank you very much
-- ok, Thanks so much, Talk later
-- Thanks for the help. I will contact you again. Take care
-- ok, I am leaving, Thank you so much
-- Thanks for helping me. We will be in touch
-- Thank you so much. I will contact you again. Take care
-- Thank you. I will contact you again. Goodbye
-- Thank you so much. We will be in touch. Adieu
 - Thanks very much. Stay in touch. Goodbye
 - ok, Many thanks, Talk to you later
 - Byebye, Thanks
 - ok, Chat with you later, Thanks a lot
-- Thank you very much. Stay in touch. I am gone
-- Thanks for helping. We will be in touch. Byebye
-- Thank you so much. I will contact you again. See you
 - See you soon, Thanks
 - ok, Byebye, Thank you
-- Thanks very much. Stay in touch. bb
-- Many thanks. I will contact you again. Adieu
-- Thanks very much. Stay in touch. cu
-- Thanks so much. I will contact you again. I am gone
-- I wish you a great night
-- ok, Thanks so much, Adieu
 - Bye, Thank you very much
 - Thank you very much. I will be in touch. See you soon
 - Thanks a lot. I will contact you again. I am gone
 - Many thanks. Stay in touch. Seeya
 - Thank you. I will be in touch. Seeya
-- ok, I am leaving, Thank you
 - cu, Thanks for helping me
-- Thank you very much. I will be in touch. Seeya
-- Thank you. Stay in touch. Chat with you later
-- Thank you very much. Stay in touch. See you
 - ok, I have to go, Thank you
 - Byebye, Thank you
 - ok, Many thanks, Take care
-- Thank you very much. I will contact you again. I am gone
-- Thanks very much. Stay in touch. Chat with you later
-- Thank you very much. Stay in touch. See you soon
-- Thanks very much. I will be in touch. Goodbye
 - ok, Thanks very much, Take care
 - Bye, Many thanks
 - ok, ttyl, Thanks a lot
-- Thanks very much. We will be in touch. ttyl
-- Thank you very much. I will contact you again. See you soon
-- Thanks. I will contact you again. Take care
-- ok, Thank you, bb
-- Thank you so much. We will be in touch. Byebye
-- ok, Adieu, Thanks for helping
-- Thanks very much. Stay in touch. I am gone
-- Thanks a lot. I will be in touch. bb
-- Thanks so much. I will contact you again. See you
 - ok, cu
 - ok, Thanks, Seeya
 - Thank you. I will be in touch. See you
 - See you soon, Thanks so much
 - ok, Goodbye, Thank you very much
-- Adieu
 - Thank you very much. We will be in touch. See you
-- Thank you. I will contact you again. Talk later
-- Thank you very much. I will contact you again
 - Thanks for helping me. Stay in touch. I am gone
 - See you soon, Thanks very much
-- ok, Seeya, Thank you very much
-- ok, Thanks, Byebye
 - Thank you so much. Stay in touch. Chat with you later
 - Thanks for your help. We will be in touch. Goodbye
 - I hope you'll have a nice day
 - Thank you. I will contact you again. See you soon
-- ok, Thank you, I am leaving
 - Take care, Many thanks
 - Thank you so much. We will be in touch. Take care
-- ok, See you soon, Thank you very much
-- Thank you. We will be in touch. See you soon
-- Many thanks. I will contact you again. Bye
 - Many thanks. I will contact you again. bb
-- Adieu, Thanks a lot
 - ok, See you soon, Thanks
-- Thanks a lot. We will be in touch. Take care
 - ok, Thank you very much, Talk later
-- Thank you. We will be in touch. Talk to you later
-- Thanks so much. I will be in touch. Talk to you later
 - Thanks very much. I will be in touch. Seeya
 - ok, Thanks a lot, See you soon
-- Seeya, Thank you very much
-- Thanks. I will contact you again. bb
 - Thank you very much. Stay in touch. I have to go
 - Thanks so much. Stay in touch. bb
 - Thanks for helping me. We will be in touch. Goodbye
 - I wish you a nice evening
 - Thanks so much. I will contact you again. See you soon
 - Thanks. Stay in touch
-- ok, cu, Thank you
 - ok, Thanks so much, Chat with you later
-- ok, Thank you so much
-- Thanks very much. Stay in touch. I am leaving
 - Thank you very much. I will contact you again. Talk later
 - Many thanks. I will contact you again. Byebye
 - ok, Thanks for your help, See you
 - ok, I am leaving, Many thanks
-- See you soon, Thanks a lot
-- Thanks so much. We will be in touch. I am leaving
-- Thanks very much. I will be in touch. Take care
-- Thanks so much. I will be in touch. bb
-- Thanks very much. I will be in touch. ttyl
-- Byebye, Thanks a lot
-- ok, bb, Thanks
-- ok, Thank you, Chat with you later
-- Thank you. Stay in touch. bb
-- Thanks a lot. I will be in touch. See you soon
-- Thank you so much. We will be in touch. cu
 - I am leaving, Thanks for your help
-- Thanks so much. We will be in touch. cu
 - Thanks a lot. I will contact you again. I have to go
-- Thanks for the help. I will be in touch. Byebye
-- Thanks for helping. We will be in touch. Goodbye
 - ok, See you soon, Thanks very much
 - Goodbye, Thank you so much
 - ok, Thanks so much, cu
 - Thanks very much. Stay in touch. Talk later
-- Thanks a lot. Stay in touch. I am leaving
-- Thanks very much. I will be in touch
-- Many thanks. We will be in touch. See you soon
 - Thank you. I will contact you again. Seeya
 - Thanks. I will be in touch. Chat with you later
 - ok, Thank you, Goodbye
 - See you, Many thanks
 - ok, Chat with you later, Thanks for helping me
-- Thank you very much. I will be in touch. Adieu
 - Thanks a lot. I will contact you again. ttyl
-- Thank you. Stay in touch. cu
-- Thanks. I will be in touch. I am leaving
-- ok, Many thanks, Adieu
-- Take care, Thank you
-- ok, Talk later, Thanks so much
-- Thanks so much. I will contact you again. Goodbye
 - Thanks for helping. Stay in touch. Bye
 - Thanks for helping me. I will contact you again. I am leaving
 - I hope you'll have a good day
@@ -611,7 +544,6 @@
 - Thank you so much. I will contact you again. I am gone
 - Thanks. I will be in touch. cu
 - Thank you. I will contact you again. cu
-- ok, Thanks very much, Seeya
 - Thank you. We will be in touch. Goodbye
 - ok, Talk later, Thank you very much
 - ttyl, Thanks very much
@@ -623,12 +555,6 @@
 - ok, Thank you so much, ttyl
 - ok, ttyl, Thank you so much
 - Thanks for the help. Stay in touch. Chat with you later
-- Thanks very much. We will be in touch. Seeya
-- Thanks a lot. I will contact you again. See you soon
-- Thank you so much. I will contact you again. Seeya
-- Thanks so much. We will be in touch. Adieu
-- ok, Adieu, Thank you so much
-- Thank you very much. Stay in touch. Adieu
 - Thanks for helping. I will be in touch. Chat with you later
 - Thanks. We will be in touch. Byebye
 - ok, Thanks a lot, cu
@@ -637,7 +563,6 @@
 - Thanks so much. I will be in touch. cu
 - Many thanks. Stay in touch. Chat with you later
 - Many thanks. I will be in touch. Talk to you later
-- ok, Adieu, Thank you
 - ok, Thanks so much, Take care
 - Thank you. I will be in touch. Goodbye
 - Goodbye, Thanks so much
@@ -680,56 +605,57 @@
 - See you soon, Thank you so much
 - ok, I have to go, Thank you so much
 - Thanks so much. Stay in touch. Talk to you later
-- Thank you. I will contact you again. Adieu
 - Thank you so much. I will contact you again. Byebye
 - Thanks so much. Stay in touch. Bye
 - ok, Take care
-- Thanks a lot. I will be in touch. Adieu
 - ok, Thanks very much, Bye
 - ok, I have to go, Thank you very much
 - Take care, Thanks
 - Seeya
 - Thanks for helping. Stay in touch. I am gone
-- Thanks. I will contact you again. ttyl
-- Thanks so much. Stay in touch. I am leaving
-- Thanks a lot. We will be in touch. bb
-- Talk to you later, Thanks for helping me
 - ok, Seeya, Thanks very much
 - Wish you a great time
 - Many thanks. We will be in touch. Take care
 - ok, I am gone, Many thanks
-- Thanks very much. We will be in touch. Adieu
 - ok, Thanks for your help, Take care
 - Talk later, Thanks for helping me
 - Thank you so much. Stay in touch. Seeya
-- Thanks for the help. Stay in touch. Byebye
-- Many thanks. Stay in touch. Bye
-- Bye, Thanks a lot
-- ok, Bye, Thanks so much
-- ok, Thank you very much, See you
-- Thank you very much. Stay in touch. Talk later
-- Thanks very much. I will contact you again. I have to go
-- Thank you. I will contact you again. ttyl
 - Goodbye, Many thanks
-- ok, Thanks, Adieu
 - Thank you. We will be in touch. Chat with you later
-- Thanks very much. Stay in touch. Bye
-- Thanks for your help. Stay in touch. Talk to you later
 - I am gone, Thanks for helping me
 - ok, Many thanks, Seeya
 - ok, bb, Thanks very much
-- Thanks so much. We will be in touch. Chat with you later
-- Thanks a lot. I will contact you again. Goodbye
-- Many thanks. I will be in touch. Take care
 - ok, Thanks a lot, Chat with you later
 - Bye, Thank you
 - Thank you. I will be in touch
-- Thank you so much. Stay in touch. Byebye
 - Thank you. I will contact you again. I have to go
 - ok, See you, Thanks
 - ok, Thanks for helping me, Byebye
 - Thanks so much. Stay in touch. Seeya
 - Thank you so much. I will be in touch. I am gone
+- Bye
+- bye
+- take care
+- Byebye
+- cu
+- bb
+- Goodbye
+- See you
+- See you soon
+- Seeya
+- Talk to you later    
+- Talk later
+- Chat with you later
+- ttyl
+- Take care
+- Adieu
+- I am leaving
+- I have to go
+- I am gone
+- thanks, take care
+- thank you, take care
+- i have to go
+- bye bye
 
 ## intent:provide_budget
 - I have [Fr. 700](budget)
@@ -1168,6 +1094,24 @@
 - We need space for 160 to [200](nr_of_people) people
 - I planned for 150 to [160](nr_of_people) employees
 - It is going to have 150 to [170](nr_of_people) people
+- Probably [170](nr_of_people) guests
+- Probably [220](nr_of_people) employees
+- For about [190](nr_of_people)
+- Maybe [150](nr_of_people) persons
+- At least [220](nr_of_people) people
+- Maybe [300](nr_of_people) guests
+- Probably [220](nr_of_people) people
+- At least [200](nr_of_people) guests
+- Probably [170](nr_of_people) people
+- About [190](nr_of_people) employees
+- For a minimum of [210](nr_of_people) people
+- About [150](nr_of_people) guests
+- For a minimum of [220](nr_of_people)
+- For a minimum of [150](nr_of_people) guests
+- At least [170](nr_of_people) persons
+- For about [170](nr_of_people) people
+- At least [160](nr_of_people)
+- For [220](nr_of_people)
 
 ## intent:provide_preference
 - [it](room) is what we need
@@ -2085,6 +2029,20 @@
 - Can you book right now?
 - Can we book the [last](room) event room?
 - Thanks for your help! I would like the [last](room) one
+- Is [Alpha](room) available?
+- Can room [beta](room) be reserved?
+- Is the [last](room) one available?
+- Can [it](room) be booked?
+- Can the [first](room) one be reserved?
+- And is [this](room) available?
+- And is [Beta](room) available?
+- Is the [second](room) room available?
+- Is [Gamma](room) available?
+- Can [this](room) one be reserved?
+- Can the [third](room) one be booked?
+- And is [this](room) room available?
+- And is the [second](room) room available?
+- Can [it](room) be reserved?
 
 ## intent:thanks
 - Thx
