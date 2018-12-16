@@ -139,6 +139,7 @@ slots:
     - the
     - there
     - another
+    - all
   time:
     auto_fill: true
     type: rasa_core.slots.TextSlot
