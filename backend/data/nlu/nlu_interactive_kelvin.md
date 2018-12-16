@@ -46,6 +46,7 @@
 - No other questions! Have a nice day!
 - Bye Francis!
 - Bye take care!
+- Thanks. Take care!
 
 ## intent:greet+provide_name
 - Hi my name is [Silvia Parankeymalil](name). I am looking for a room.
@@ -74,7 +75,6 @@
 - Sounds good. Can I book [this](room) room?
 
 ## intent:thanks
-- Thanks. Take care!
 - Thank you! You were very helpful
 - Thank you very much!
 
