@@ -5,6 +5,7 @@
 
 ## intent:ask_for_options
 - What rooms do you have?
+- I am looking for a room
 
 ## intent:ask_for_room
 - What about the [third](room) room?
@@ -17,7 +18,6 @@
 ## intent:ask_for_room_equipment
 - I need to show a presentation
 - Can I show a presentation in [this](room) room?
-- I need a cheap room for a presentation.
 - As I said before. I need to make a presentation.
 - Are there TVs in the [last](room) room?
 
@@ -30,15 +30,13 @@
 - Interesting! How expensive is room [gamma](room)?
 - Which room is the cheapest?
 - I see. How expensive is [beta](room)?
+- I need a cheap room for a presentation.
 
 ## intent:ask_for_room_seating
 - So I can't move tables?
 - Can I move the chairs in [Alpha](room)? I need to make small groups.
 - Can I form small groups?
 - Can I do small groups?
-
-## intent:ask_for_room
-- I am looking for a room
 
 ## intent:deny
 - No
@@ -48,6 +46,7 @@
 - No other questions! Have a nice day!
 - Bye Francis!
 - Bye take care!
+- Thanks. Take care!
 
 ## intent:greet+provide_name
 - Hi my name is [Silvia Parankeymalil](name). I am looking for a room.
@@ -69,7 +68,6 @@
 
 ## intent:provide_nr_of_people
 - [150](nr_of_people)
-- Can there be [150](nr_of_people) people?
 - We will have [150](nr_of_people) people in [this](room) event
 
 ## intent:reserve_room
@@ -77,6 +75,8 @@
 - Sounds good. Can I book [this](room) room?
 
 ## intent:thanks
-- Thanks. Take care!
 - Thank you! You were very helpful
 - Thank you very much!
+
+## intent:ask_for_room_size
+- Can there be [150](nr_of_people) people?

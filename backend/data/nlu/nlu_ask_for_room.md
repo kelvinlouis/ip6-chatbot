@@ -629,6 +629,25 @@
 - Do you have info about location [alpha](room)?
 - Can we have facts about the [first](room) one?
 - Can we have info about location [alpha](room)?
+- Can you tell me about [beta](room)?
+- Can you tell me about the [first](room) room?
+- Can you describe [gamma](room) meeting room?
+- Can you tell me about the [other](room) one?
+- Can you describe [beta](room) room for me?
+- Can you tell me about the [third](room) option?
+- Can you describe meeting room [alpha](room)?
+- Can you tell me about [the](room) room?
+- Can you describe the [last](room) one for me?
+- Can you tell me about the [second](room) room?
+- What is meeting room [Gamma](room) like?
+- How is the [third](room) room?
+- What is [Alpha](room) like?
+- How is room [gamma](room)?
+- How is the [last](room) one like?
+- How is [beta](room) like?
+- What is meeting room [beta](room) like?
+- What is the [first](room) room like?
+
 
 ## intent:ask_for_room_atmosphere
 - What is the vibe in room [beta](room) like?
@@ -946,6 +965,50 @@
 - Do you have a meeting room that has a good atmosphere?
 - Is there an event room that has a good vibe?
 - Do you have an option which has a good vibe?
+- Do you have a classic design in room [gamma](room)?
+- Do you have a meeting room that has a classic touch?
+- Which room has a modern feel?
+- Which room has a modern design?
+- Is [Alpha](room) old?
+- Are there rooms that have a classic design?
+- Are there modern rooms?
+- Which room is not too flashy?
+- Does room [Alpha](room) have a modern feel?
+- I am looking for an event room with a modern design
+- Is there a classic design in the [third](room) one?
+- I would like an event room with a modern feel
+- Is there a classic touch in the [other](room) rooms?
+- Does [it](room) have a classic touch?
+- Do you have a meeting room that has a modern touch?
+- Is there a modern design in [this](room) one?
+- We look for a room with a modern feel
+- Do you have an old-fashioned design in the [other](room) rooms?
+- Does [the](room) room have a classic touch?
+- We would like a room with a modern feel
+- Is there a meeting room that has a classic design?
+- Is there a modern touch in [the](room) room?
+- Does [the](room) room have a modern design?
+- Is it modern in the [other](room) ones?
+- Do you have a classic design in the [other](room) ones?
+- Do you have a meeting room that has a classic feel?
+- Is [the](room) room modern?
+- Is there a modern design in the [other](room) ones?
+- Does the [second](room) one have a classic design?
+- Is there a modern touch in the [other](room) rooms?
+- We search for a room with a modern design
+- Are there rooms with a classic feel?
+- I need an event room with a modern touch
+- Does [this](room) one have a modern touch?
+- I need a room with a classic feel
+- Is there a modern design in [it](room)?
+- Do you have a meeting room with a modern design?
+- Is there an old-fashioned design in [gamma](room)?
+- Does the [last](room) one have a modern touch?
+- We search for a meeting room with a modern design
+- Is it modern in room [Alpha](room)?
+- We search for an option with a classic touch
+- Is there a classic touch in the [others](room)?
+- Is the [first](room) room modern looking?
 
 ## intent:ask_for_room_equipment
 - Is there equipment to do a powerpoint presentation in the [third](room) room?
@@ -1348,6 +1411,35 @@
 - Which room has [TVs](equipment)?
 - Do you have [beamers](equipment) in the [other](room) ones?
 - Do you have [speakers](equipment) in the [second](room) one?
+- Can my company do a talk in the [other](room) ones?
+- My company needs [TVs](equipment) to do a presentation
+- Can my company show a presentation?
+- In which room can my company hold a presentation?
+- My company needs to show a presentation
+- My team wants to do a presentation
+- I also have to do a presentation
+- I also have to show presentations
+- we also must to show a presentation
+- I also want to do a presentation
+- I want to do a talk
+- I have to organize talks
+- Presentations are planed for the event
+- People will have to make presentations
+- I have to make a presentation
+- we also would like to do a powerpoint presentation
+- I also must to show a presentation
+- we also have to show a presentation
+- I need to do a powerpoint presentation
+- I also must to present
+- We need to present
+- We have to present
+- We also want to do a powerpoint presentation
+- I like to present
+- We need to present
+- We need to make a presentation
+- I must to hold a presentation
+- We would like to do a presentation
+- We have to make presenation
 
 ## intent:ask_for_room_highlight
 - I am searching for an exceptional location
@@ -1718,6 +1810,31 @@
 - Does [the](room) room have good light?
 - Is there enough light in the [other](room) ones?
 - Are there good lights in [the](room) room?
+- What is the light like in room [alpha](room)?
+- How are the lights like in [it](room)?
+- How is the lighting in [alpha](room)?
+- What is the light in [it](room) like?
+- How are the lights in room [beta](room)?
+- How are the lamps in room [alpha](room)?
+- How is the lighting in [this](room) room?
+- How are the lamps in [it](room)?
+- What is the light in [the](room) room?
+- How are the lamps like in the [first](room) room?
+- What is the light like in [Alpha](room)?
+- How is the lighting in [it](room)?
+- Do you have natural light in the [others](room)?
+- Do you have natural light in the [first](room) one?
+- We look for a room with natural lighting
+- Is there natural light in the [others](room)?
+- We need a meeting room with natural light
+- Does the [first](room) room have natural lighting?
+- Does the [beta](room) room have natural lighting?
+- Is there natural lighting in [Alpha](room)?
+- We would like an event room with natural light
+- We searching for an event room with natural light
+- Do you have natural light in the [other](room) rooms?
+- Does [this](room) one have natural lighting?
+- Is there natural light in the [other](room) ones?
 
 ## intent:ask_for_room_price
 - Is the [first](room) room expensive?
@@ -2276,6 +2393,10 @@
 - we should be able to make teams
 - Is it possible to create groups?
 - we have to make small teams
+- My team has to make small groups
+- My team has to form small groups
+- we should be able to form small groups
+- We should be able to have discussions in small groups
 - Can I make groups?
 - I should be able to sit in groups
 - we have to move tables and chairs
@@ -2303,6 +2424,13 @@
 - Which room has chairs and tables?
 - Which meeting room has tables and chairs?
 - Which room has tables and chairs?
+- And how is the seating arrangement?
+- And what is the seating arrangement in the [other](room) ones?
+- And how is the seating arrangement [beta](room)?
+- And what is the seating in the [first](room) room like?
+- How is the seating arrangement in [Alpha](room)?
+- And what is the seating arrangement in [this](room) room?
+- What is the seating arrangement in the [second](room) one?
 
 ## intent:ask_for_room_size
 - Is room [gamma](room) bigger?
