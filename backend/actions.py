@@ -21,3 +21,29 @@ class ActionCorrectRoom(Action):
           return [SlotSet('current_room', 'Gamma'), SlotSet('room', None)]
       
       return [SlotSet('room', None)]
+
+class ActionSetTopic(Action):
+   def name(self):
+      # type: () -> Text
+      return "action_set_topic"
+
+   def run(self, dispatcher, tracker, domain):
+      intent = tracker.latest_message['intent'].get('name')
+
+      if intent != None:
+        if intent == 'ask_for_room_atmosphere':
+          return [SlotSet('topic', 'atmosphere')]
+        elif intent == 'ask_for_room_lighting':
+          return [SlotSet('topic', 'lighting')]
+        elif intent == 'ask_for_room_equipment':
+          return [SlotSet('topic', 'equipment')]
+        elif intent == 'ask_for_room_highlight':
+          return [SlotSet('topic', 'highlight')]
+        elif intent == 'ask_for_room_price':
+          return [SlotSet('topic', 'price')]
+        elif intent == 'ask_for_room_seating':
+          return [SlotSet('topic', 'seating')]
+        elif intent == 'ask_for_room_size':
+          return [SlotSet('topic', 'size')]
+
+      return []

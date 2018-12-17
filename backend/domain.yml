@@ -30,6 +30,7 @@ actions:
 - utter_room_beta_equipment
 - utter_room_gamma_price
 - action_correct_room
+- action_set_topic
 - utter_room_gamma_highlight
 - utter_room_beta_price
 - utter_room_gamma_lighting

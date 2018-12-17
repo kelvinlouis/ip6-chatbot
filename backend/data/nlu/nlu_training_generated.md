@@ -65,6 +65,7 @@
 - ok, great
 - ok, please
 - yes, very good
+- yeah
 
 ## intent:ask_for_directions
 - How do we get to the hotel?
