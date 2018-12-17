@@ -43,6 +43,9 @@ actions:
 - utter_room_alpha_highlight
 - utter_room_alpha_lighting
 - utter_room_gamma_equipment
+- utter_room_alpha_equipment_stage
+- utter_room_beta_equipment_stage
+- utter_room_gamma_equipment_stage
 - utter_ask_book_room
 - utter_room_beta_lighting
 - utter_room_alpha_seating
@@ -51,6 +54,7 @@ actions:
 - utter_ask_what_info
 - utter_ask_to_narrow_options
 - utter_ask_for_additional_service
+- utter_satisfied_ask_for_additional_service
 - utter_ask_for_service_with_name
 - utter_greet_with_name
 - utter_appreciation
@@ -199,9 +203,16 @@ templates:
   - text: How may I assist you today?
   - text: If there's anything I can do to help, please let me know
   - text: If there's anything I can help you with, please let me know
+  utter_satisfied_ask_for_additional_service:
+  - text: Glad you like it. Is there anything else?
+  - text: Happy to hear you like it. Do you have other questions?
+  - text: Nice to hear you like it. What other questions do you have?
+  - text: I am happy you like it. Is there anything else I can do for you?
+  - text: Is there anything else I can help you with?
   utter_ask_for_additional_service:
   - text: Is there anything else?
   - text: Do you need anything else?
+  - text: Do you have other questions?
   - text: What other questions do you have?
   - text: Is there anything else I can do for you?
   - text: Is there anything else I can help you with?
@@ -228,6 +239,7 @@ templates:
   - text: Alright
   - text: Yes, sure
   - text: Ok, sure
+  - text: Definitely
   utter_budget_limitation_900:
   - text: The price of one room is below CHF {budget}
   - text: One room is below the price of {budget}
@@ -293,13 +305,15 @@ templates:
       floor of the hotel
   utter_room_alpha_equipment:
   - text: 'Room Alpha has state-of-the-art equipment: a big screen, projector and
-      dolby sound system.'
-  - text: Room Alpha has a big screen, sound and light system as well as a stage.
+      dolby sound system. It is ideal for big presentations or keynote speeches'
+  - text: Room Alpha has a big screen, sound and light system as well as a stage. You can host big presentations like keynotes in there
   - text: Room Alpha has a big screen and a state-of-the-art projector and audio system
   - text: Alpha has a state-of-the-art multimedia set including a big screen, multiple
-      beamers and all-around doulby sound system
+      beamers and all-around doulby sound system. We have used it for big keynote speeches in the past
   - text: Room Alpha has the latest multimedia set including a big screen, projector,
-      sound and light system. It is perfect for presentations
+      sound and light system. It is perfect for big presentations
+  utter_room_alpha_equipment_stage:
+  - It has a magnificant stage. It is ideal for big presentations.
   utter_room_alpha_highlight:
   - text: Room Alpha has a stage and fixed seating. It's like a theater
   - text: Room Alpha is a theater. It does not have natural light. But has the latest
@@ -338,12 +352,14 @@ templates:
       Natural light is provided by the glass roof. The terrace has a lounge and bar
       tables.
   utter_room_beta_equipment:
-  - text: Room Beta has portable screens, a projector and loudspeakers.
-  - text: Room Beta has a moving screen and projector combo
-  - text: Room Beta has a portable screen, a beamer and some loudspeakers.
-  - text: Beta offers a projector and movable screen as well as loudspeakers.
+  - text: Room Beta has portable screens, a projector and loudspeakers. Presentations are possible
+  - text: Room Beta has a moving screen and projector combo. You can do presentations
+  - text: Room Beta has a portable screen, a beamer and some loudspeakers. You can show presentations on the screen using the beamer
+  - text: Beta offers a projector and movable screen as well as loudspeakers. You can show presentations on the screen
   - text: Room Beta has a portable screen, projector and loudspeakers. It is quite
       good if you have to do a presentation for a short period.
+  utter_room_beta_equipment_stage:
+  - It does not have a stage. But you can still hold presentations indoors.
   utter_room_beta_highlight:
   - text: Room Beta is on the 15th floor, has a bar and has a terrace to lounge. The
       view is incredible!
@@ -360,10 +376,10 @@ templates:
   - text: Room Beta has space for 130 guests and a terrace for an additional 60 people
   - text: Room Beta is a space for 130 people inside and 60 on the terrace
   utter_room_beta_price:
-  - text: Room Beta comes at a cost of CHF 900
-  - text: Beta is the cheapest option at CHF 900
-  - text: It's CHF 900 for Beta
-  - text: Room Beta is CHF 1200
+  - text: Room Beta comes at a cost of CHF 900 all inclusive.
+  - text: Beta is the cheapest option at CHF 900 (all inclusive)
+  - text: It's CHF 900 for Beta (all inclusive)
+  - text: You can get Beta for CHF 900 all inclusive.
   utter_room_beta_seating:
   - text: Room Beta has tables for 4 inside, on the terrasse there is low lounge furniture
       and bar tables with chairs
@@ -384,12 +400,14 @@ templates:
   - text: Room Gamma has an original 1920 decoration
   - text: Room Gamma has the original decoration from the 1920s
   utter_room_gamma_equipment:
-  - text: Gamma has two large screen that can be moved and loudspeakers.
-  - text: Room Gamma has two big portable screens and loudspeakers
-  - text: Room Gamma has two mobile TVs
-  - text: Gamma has two big portable tv screens and loudspeakers
+  - text: Gamma has two large screen that can be moved and loudspeakers. You can show presentations on both screens
+  - text: Room Gamma has two big portable screens and loudspeakers. You can do presentations
+  - text: Room Gamma has two mobile TVs and speakers. You should be able to do presentations
+  - text: Gamma has two big portable tv screens and loudspeakers. Presentations are possible
   - text: Room Gamma has two tv screens and loudspeakers. The screens can be moved
       around. It is enough for shorter presentations
+  utter_room_gamma_equipment_stage:
+  - It does not have a stage. But you can still hold presentations.
   utter_room_gamma_highlight:
   - text: Room Gamma is on the first floor and the original decoration from 1920 is
       preserved. You can move the seating arrangement.

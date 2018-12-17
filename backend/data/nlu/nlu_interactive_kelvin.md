@@ -7,6 +7,10 @@
 - Yes please
 - Of course!
 - Yes
+- perfect
+- perfect
+- yes
+- yes at 2pm pls
 
 ## intent:ask_for_directions
 - Yes, what is the best way to get to your hotel?
@@ -17,6 +21,7 @@
 - I am looking for a room
 - What rooms do you have?
 - What rooms do you have?
+- Well, I have a question
 
 ## intent:ask_for_room
 - What about the [third](room) room?
@@ -36,6 +41,8 @@
 - Is the atmosphere nice?
 - [Beta](room) and [Gamma](room) sound good. How do the rooms look like?
 - How does [the](room) room look like?
+- how does the [gamma](room) room look?
+- how is [the](room) room decorated?
 
 ## intent:ask_for_room_equipment
 - I need to show a presentation
@@ -44,6 +51,14 @@
 - Are there TVs in the [last](room) room?
 - Is it possible to do a presentation?
 - And show presentation?
+- Can I hold a presentation there?
+- Is it possible to show a [video](equipment)?
+- Do you have audio in room [Gamma](room)?
+- Does [it](room) have a [stage](equipment)?
+- can I stand on a [stage](equipment)?
+- Do the [other](room) rooms also have a [stage](equipment)?
+- what about the [audio system](equipment)?
+- do you have a [stage](equipment) in [the](room) room [beta](room)?
 
 ## intent:ask_for_room_highlight
 - Is there anything special about [the](room) room?
@@ -51,6 +66,7 @@
 ## intent:ask_for_room_lighting
 - Is there enough light in there?
 - How are the lights?
+- what about the lighting in [the](room) room [gamma](room)?
 
 ## intent:ask_for_room_price
 - Sounds nice! How expensive is room [alpha](room)?
@@ -63,6 +79,8 @@
 - How much does [it](room) cost?
 - How expensive is the [second](room) room?
 - That is cheap! Are the [others](room) more expensive?
+- how much is the pricing for each room?
+- is the outdoor section included in the price for room [beta](room)?
 
 ## intent:ask_for_room_seating
 - So I can't move tables?
@@ -73,16 +91,23 @@
 - Can I do small groups and show a presentation?
 - Is it possible to form groups in [the](room) room?
 - But can I form groups in [there](room)?
+- can we make small groups as well?
+- do you have any tables in [the](room) room [beta](room)?
 
 ## intent:ask_for_room_size
 - Can there be [150](nr_of_people) people?
 - I need a room for [200](nr_of_people) people
 - This sounds good. How many people fit in [it](room)?
+- Hello do you have a room for [150](nr_of_people) people?
+- Do you have a room with space for [150](nr_of_people) people
 
 ## intent:deny
 - No
 - No you helped me enough! Thanks
 - Nope
+- I do not want to reserve yet
+- no that's all
+- no thank you
 
 ## intent:disagree
 - That's not good!
@@ -96,10 +121,12 @@
 - Thanks, you take care!
 - Thanks again for your help. Take care!
 - Ok great! Good bye and thanks again
+- thanks goodbye!
 
 ## intent:greet
 - Hi, how are you?
 - Hi there! I need a room
+- hey there!
 
 ## intent:greet+provide_name
 - Hi my name is [Silvia Parankeymalil](name). I am looking for a room.
@@ -115,6 +142,7 @@
 - Yes, can I book [it](room) for the [21st of April 2019](date)?
 - Sometime [next month](date)
 - The event is planned for the [16th of October in 2019](date)
+- can I make a reservation for the room [beta](room) at the [12th of december](date)?
 
 ## intent:provide_budget
 - Perfect! I have a budget of [1500](budget) Swiss francs. So I think I will book [it](room).
@@ -123,6 +151,7 @@
 
 ## intent:provide_name
 - This is [Anna Oddermatt](name)
+- my name is [sherin](name)
 
 ## intent:provide_nr_of_people
 - [150](nr_of_people)
@@ -141,6 +170,8 @@
 ## intent:reserve_room
 - Okay. Can I book [the](room) room?
 - Sounds good. Can I book [this](room) room?
+- could you please book [the](room) room [gamma](room) for me?
+- Could you please make a reservation for the [12th of january](date)
 
 ## intent:thanks
 - Thank you! You were very helpful
@@ -149,3 +180,5 @@
 - Okay thanks
 - That was fast thank you :)
 - Thank you!
+- ok fine. thank you
+- thank you

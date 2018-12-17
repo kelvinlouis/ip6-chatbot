@@ -575,3 +575,175 @@
 * farewell
     - utter_goodbye
 
+## Generated Story -6002812056623375490
+* ask_for_room_size{"nr_of_people": "150"}
+    - slot{"nr_of_people": "150"}
+    - action_set_topic
+    - slot{"topic": "size"}
+    - utter_available_rooms_150_people
+    - utter_room_alpha_people_limit
+    - utter_room_beta_people_limit
+    - utter_room_alpha_people_limit
+* ask_for_room_seating
+    - action_set_topic
+    - slot{"topic": "seating"}
+    - utter_room_alpha_seating
+    - utter_room_beta_seating
+    - utter_room_gamma_seating
+* affirm
+    - utter_satisfied_ask_for_additional_service
+* ask_for_room_equipment
+    - action_set_topic
+    - slot{"topic": "equipment"}
+    - utter_room_alpha_equipment
+    - utter_room_beta_equipment
+    - utter_room_gamma_equipment
+* ask_for_room_equipment{"equipment": "video"}
+    - action_set_topic
+    - slot{"topic": "equipment"}
+    - utter_room_alpha_equipment
+    - utter_room_beta_equipment
+    - utter_room_gamma_equipment
+* ask_for_room_equipment{"room": "Gamma"}
+    - slot{"room": "Gamma"}
+    - action_set_topic
+    - slot{"topic": "equipment"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_room_gamma_equipment
+* affirm
+    - utter_ask_for_booking_date
+* deny
+    - utter_ask_for_additional_service
+* ask_for_room_atmosphere{"room": "gamma"}
+    - slot{"room": "gamma"}
+    - action_set_topic
+    - slot{"topic": "atmosphere"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_room_gamma_atmosphere
+* ask_for_room_equipment{"room": "it", "equipment": "stage"}
+    - slot{"room": "it"}
+    - action_set_topic
+    - slot{"topic": "equipment"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - utter_room_gamma_equipment
+* ask_for_room_equipment{"room": "beta", "equipment": "stage"}
+    - slot{"room": "beta"}
+    - action_set_topic
+    - slot{"topic": "equipment"}
+    - action_correct_room
+    - slot{"current_room": "Beta"}
+    - utter_room_beta_equipment
+* thanks
+    - utter_ask_for_additional_service
+* reserve_room{"room": "gamma"}
+    - slot{"room": "gamma"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_ask_for_booking_date
+* reserve_room{"date": "12th of january"}
+    - slot{"date": "12th of january"}
+    - utter_ask_book_room
+* affirm
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
+* deny
+    - utter_goodbye
+* thanks
+    - utter_thanks
+
+## Generated Story -567897446373106099
+* greet
+    - utter_greet
+    - utter_ask_for_name
+* provide_name{"name": "sherin"}
+    - slot{"name": "sherin"}
+    - utter_ask_for_service_with_name
+* ask_for_options
+    - utter_options
+* ask_for_room_size{"nr_of_people": "150"}
+    - slot{"nr_of_people": "150"}
+    - action_set_topic
+    - slot{"topic": "size"}
+    - utter_confirm
+    - utter_available_rooms_150_people
+    - utter_room_alpha_people_limit
+    - utter_room_beta_people_limit
+    - utter_room_gamma_people_limit
+* ask_for_room_equipment{"room": "other", "equipment": "stage"}
+    - slot{"room": "other"}
+    - action_set_topic
+    - slot{"topic": "equipment"}
+    - action_correct_room
+    - slot{"room": null}
+    - utter_room_alpha_equipment
+    - utter_room_beta_equipment
+    - utter_room_gamma_equipment
+* ask_for_room_price
+    - action_set_topic
+    - slot{"topic": "price"}
+    - utter_room_alpha_price
+    - utter_room_beta_price
+    - utter_room_gamma_price
+* ask_for_room_lighting{"room": "gamma"}
+    - slot{"room": "gamma"}
+    - action_set_topic
+    - slot{"topic": "lighting"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_room_gamma_lighting
+* ask_for_room_equipment{"equipment": "audio system"}
+    - action_set_topic
+    - slot{"topic": "equipment"}
+    - utter_room_gamma_equipment
+* ask_for_room_seating{"room": "beta"}
+    - slot{"room": "beta"}
+    - action_set_topic
+    - slot{"topic": "seating"}
+    - action_correct_room
+    - slot{"current_room": "Beta"}
+    - slot{"room": null}
+    - utter_room_beta_seating
+* ask_for_room_equipment{"equipment": "stage", "room": "beta"}
+    - slot{"room": "beta"}
+    - action_set_topic
+    - slot{"topic": "equipment"}
+    - action_correct_room
+    - slot{"current_room": "Beta"}
+    - slot{"room": null}
+    - utter_room_beta_equipment
+* ask_for_room_atmosphere{"room": "the"}
+    - slot{"room": "the"}
+    - action_correct_room
+    - slot{"room": null}
+    - utter_room_beta_atmosphere
+* ask_for_room_price{"room": "beta"}
+    - slot{"room": "beta"}
+    - action_set_topic
+    - slot{"topic": "price"}
+    - action_correct_room
+    - slot{"current_room": "Beta"}
+    - slot{"room": null}
+    - utter_room_beta_price
+* provide_booking_date{"room": "beta", "date": "12th of december"}
+    - slot{"date": "12th of december"}
+    - slot{"room": "beta"}
+    - action_correct_room
+    - slot{"current_room": "Beta"}
+    - slot{"room": null}
+    - utter_ask_for_booking_confirmation
+* affirm
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
+* deny
+    - utter_thanks
+    - utter_goodbye
+* farewell
+    - utter_thanks
+
