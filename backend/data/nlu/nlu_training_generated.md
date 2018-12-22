@@ -1417,114 +1417,136 @@
 - I guess room [Beta](room) should be fine
 
 ## intent:provide_room
-- I am talking about the [second](room) room
-- Give me details about [alpha](room)
+- [alpha](room)
+- [Alpha](room)
+- [beta](room)
 - [Beta](room)
-- the [third](room) room
-- I'm talking about [Alpha](room)
-- I am talking about the [last](room) room
-- Tell me about [Gamma](room)
-- I'm talking about the [second](room) one
-- Let me know about [Gamma](room)
-- I am talking about the [first](room) one
-- I meant room [Alpha](room)
-- I mean room [Alpha](room)
-- the [third](room) one
-- I am talking about [gamma](room)
-- I mean the [first](room) one
-- Give me details about [beta](room)
-- I'm talking about the [third](room) room
-- I mean the [last](room) one
-- Tell me about [alpha](room)
-- Let me know about [beta](room)
-- I meant the [first](room) one
-- I meant room [Gamma](room)
-- I'm talking about the [first](room) one
-- I'm talking about [gamma](room)
-- [first](room) room
-- I'm talking about [Beta](room)
-- I am talking about the [last](room) one
-- [gamma](room)
-- I'm referring to [beta](room)
-- [last](room) one
-- I meant the [last](room) one
-- I am talking about [alpha](room)
-- I meant room [beta](room)
-- I mean the [second](room) room
-- I am talking about [Alpha](room)
-- I am talking about the [third](room) one
-- Give me details about [Alpha](room)
-- I meant the [last](room) room
-- Tell me about [beta](room)
-- I meant the [third](room) room
-- Tell me about [Beta](room)
-- [last](room) room
-- I meant the [second](room) room
-- Let me know about [gamma](room)
-- Let me know about [Beta](room)
-- [Gamma](room)
 - [first](room) one
-- Give me details about [Beta](room)
-- the [first](room) room
-- I meant the [first](room) room
-- I mean room [alpha](room)
-- I'm talking about the [second](room) room
-- I'm referring to [alpha](room)
-- I mean the [first](room) room
-- the [second](room) one
-- Let me know about [alpha](room)
-- I'm talking about the [first](room) room
-- Room [gamma](room)
-- I'm talking about the [third](room) one
-- I mean the [second](room) one
-- I meant room [gamma](room)
-- Room [Gamma](room)
-- Tell me about [Alpha](room)
-- I'm referring to [Alpha](room)
-- Give me details about [gamma](room)
-- I'm talking about the [last](room) one
-- I mean the [third](room) room
-- I am talking about [Gamma](room)
-- Room [Alpha](room)
-- Tell me about [gamma](room)
-- I'm talking about [Gamma](room)
-- I'm referring to [Gamma](room)
+- [first](room) room
+- [gamma](room)
+- [Gamma](room)
+- [last](room) one
+- [last](room) room
 - [second](room) one
-- I meant room [alpha](room)
-- I meant the [second](room) one
-- I mean room [gamma](room)
-- I mean the [third](room) one
-- Room [alpha](room)
-- I am talking about the [third](room) room
-- [third](room) room
-- I mean the [last](room) room
-- I mean room [Beta](room)
-- Let me know about [Alpha](room)
-- I am talking about the [first](room) room
-- the [last](room) room
-- I'm talking about [beta](room)
+- [second](room) room
 - [third](room) one
+- [third](room) room
+- [all](room) of them
+- [all](room) three rooms
+- [all](room) of the three rooms
+- [all](room) of the rooms
+- [all](room) of them
+- [all](room) rooms
+- [all](room)
+- for [every](room) room
+- [every](room) room
+- Give me details about [every](room) room
+- Give me details about [all](room) of them
+- Give me details about [all](room) three rooms
+- Give me details about [alpha](room)
+- Give me details about [Alpha](room)
+- Give me details about [beta](room)
+- Give me details about [Beta](room)
+- Give me details about [Gamma](room)
+- Give me details about [gamma](room)
+- I am talking about [every](room) room
+- I am talking about [all](room) of them
+- I am talking about [all](room) rooms
+- I am talking about [all](room) three rooms
+- I am talking about [Alpha](room)
+- I am talking about [alpha](room)
 - I am talking about [beta](room)
 - I am talking about [Beta](room)
-- Room [beta](room)
-- I meant room [Beta](room)
-- the [first](room) one
-- I mean room [beta](room)
-- [alpha](room)
-- I'm referring to [gamma](room)
-- [beta](room)
-- [Alpha](room)
+- I am talking about [Gamma](room)
+- I am talking about [gamma](room)
+- I am talking about the [first](room) one
+- I am talking about the [first](room) room
+- I am talking about the [last](room) one
+- I am talking about the [last](room) room
 - I am talking about the [second](room) one
-- Room [Beta](room)
-- Give me details about [Gamma](room)
-- I'm talking about the [last](room) room
-- the [second](room) room
-- I'm talking about [alpha](room)
-- I'm referring to [Beta](room)
-- the [last](room) one
+- I am talking about the [second](room) room
+- I am talking about the [third](room) one
+- I am talking about the [third](room) room
+- I mean [every](room) room
+- I mean [all](room) of them
+- I mean [all](room) rooms
+- I mean room [alpha](room)
+- I mean room [Alpha](room)
+- I mean room [beta](room)
+- I mean room [Beta](room)
 - I mean room [Gamma](room)
+- I mean room [gamma](room)
+- I mean the [first](room) one
+- I mean the [first](room) room
+- I mean the [last](room) one
+- I mean the [last](room) room
+- I mean the [second](room) one
+- I mean the [second](room) room
+- I mean the [third](room) one
+- I mean the [third](room) room
+- I meant room [Alpha](room)
+- I meant room [alpha](room)
+- I meant room [Beta](room)
+- I meant room [beta](room)
+- I meant room [gamma](room)
+- I meant room [Gamma](room)
+- I meant the [first](room) one
+- I meant the [first](room) room
+- I meant the [last](room) one
+- I meant the [last](room) room
+- I meant the [second](room) one
+- I meant the [second](room) room
 - I meant the [third](room) one
-- [second](room) room
+- I meant the [third](room) room
+- I'm referring to [Alpha](room)
+- I'm referring to [alpha](room)
+- I'm referring to [Beta](room)
+- I'm referring to [beta](room)
+- I'm referring to [Gamma](room)
+- I'm referring to [gamma](room)
+- I'm talking about [Alpha](room)
+- I'm talking about [alpha](room)
+- I'm talking about [beta](room)
+- I'm talking about [Beta](room)
+- I'm talking about [Gamma](room)
+- I'm talking about [gamma](room)
+- I'm talking about the [first](room) one
+- I'm talking about the [first](room) room
+- I'm talking about the [last](room) one
+- I'm talking about the [last](room) room
+- I'm talking about the [second](room) one
+- I'm talking about the [second](room) room
+- I'm talking about the [third](room) one
+- I'm talking about the [third](room) room
+- Let me know about [alpha](room)
+- Let me know about [Alpha](room)
+- Let me know about [beta](room)
+- Let me know about [Beta](room)
+- Let me know about [Gamma](room)
+- Let me know about [gamma](room)
+- Room [alpha](room)
+- Room [Alpha](room)
+- Room [Beta](room)
+- Room [beta](room)
+- Room [gamma](room)
+- Room [Gamma](room)
+- Tell me about [every](room) room
+- Tell me about [all](room) of them
+- Tell me about [all](room) rooms
+- Tell me about [Alpha](room)
+- Tell me about [alpha](room)
+- Tell me about [Beta](room)
+- Tell me about [beta](room)
+- Tell me about [Gamma](room)
+- Tell me about [gamma](room)
+- the [first](room) one
+- the [first](room) room
+- the [last](room) one
+- the [last](room) room
+- the [second](room) one
+- the [second](room) room
+- the [third](room) one
+- the [third](room) room
 
 ## intent:reserve_room
 - Could I make a reservation?
