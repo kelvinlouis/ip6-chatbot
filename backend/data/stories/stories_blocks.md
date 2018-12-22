@@ -160,6 +160,55 @@
     - utter_confirm
     - utter_ask_for_room
 
+## ask_for_room_catering_no_room
+* ask_for_room_catering
+    - utter_catering_options
+
+## ask_for_room_catering_alpha
+* ask_for_room_catering{"room": "Alpha"}
+    - slot{"room": "Alpha"}
+    - action_correct_room
+    - slot{"current_room": "Alpha"}
+    - slot{"room": null}
+    - utter_catering_options
+
+## ask_for_room_catering_beta
+* ask_for_room_catering{"room": "beta"}
+    - slot{"room": "beta"}
+    - action_correct_room
+    - slot{"current_room": "Beta"}
+    - slot{"room": null}
+    - utter_catering_options
+
+## ask_for_room_catering_gamma
+* ask_for_room_catering{"room": "gamma"}
+    - slot{"room": "gamma"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_catering_options
+
+## ask_for_room_catering_all
+* ask_for_room_catering{"room": "all"}
+    - slot{"room": "all"}
+    - action_correct_room
+    - slot{"room": null}
+    - utter_catering_options
+
+## ask_for_room_catering_other
+* ask_for_room_catering{"room": "other"}
+    - slot{"room": "other"}
+    - action_correct_room
+    - slot{"room": null}
+    - utter_catering_options
+
+## ask_for_room_catering_this
+* ask_for_room_catering{"room": "this"}
+    - slot{"room": "this"}
+    - action_correct_room
+    - slot{"room": null}
+    - utter_catering_options
+
 ## ask_book_room_with_room_alpha
 * provide_preference{"room": "Alpha"}
     - slot{"room": "alpha"}

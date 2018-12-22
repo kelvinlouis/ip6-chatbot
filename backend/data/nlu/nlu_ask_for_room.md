@@ -1217,6 +1217,80 @@
 - Which room has the best vibe?
 - Which room is not too flashy?
 - Which room is the nicest?
+- How are the rooms decorated?
+- How are [all](room) decorated?
+- Is the decoration in the [other](room) rooms nice?
+- Are there any decorations in the [second](room) one?
+- How is the decoration?
+- How is the decoration in the [other](room) rooms?
+- How is [every](room) one decorated?
+- How is [every](room) room decorated?
+- How is [Gamma](room) decorated?
+- How is [that](room) room decorated?
+- What does the decoration in [it](room) look like?
+- Is the decoration in a [different](room) room better?
+- Is the decoration in the [other](room) rooms modern?
+- How is the decoration in the [other](room) ones?
+- Are there any decorations in [the](room) room?
+- Are [all](room) rooms decorated?
+- How is [Alpha](room) decorated?
+- Is the decoration in [all](room) of them modern?
+- Is the decoration in the [others](room) modern?
+- Is the decoration in the [other](room) ones old?
+- Is the decoration in a [different](room) room old?
+- How is the decoration in the [first](room) one?
+- Are there any decorations in the [other](room) one?
+- How is [gamma](room) decorated?
+- Is the decoration in the [others](room) old?
+- Is the decoration in the [third](room) one nice?
+- How is [the](room) room decorated?
+- Are there any decorations in [this](room) one?
+- What does the decoration in [the](room) room look like?
+- What does the decoration in a [different](room) room look like?
+- Is the decoration in the [other](room) ones modern?
+- Is the decoration in [Beta](room) modern?
+- What does the decoration in [this](room) room look like?
+- Is the decoration in [this](room) nice?
+- How is the decoration in [every](room) room?
+- How is the decoration in the [others](room)?
+- Is the decoration in [this](room) room old?
+- Is the decoration in a [different](room) room modern?
+- Is the decoration in [there](room) modern?
+- Are there any decorations in [it](room)?
+- Is the decoration in [the](room) room nice?
+- How is the decoration in [it](room)?
+- Is the decoration in room [Alpha](room) nice?
+- Are there any decorations in the [third](room) room?
+- How is the decoration in [the](room) room?
+- Is the decoration in the [other](room) rooms old?
+- Is the decoration in [this](room) room modern?
+- How is [this](room) one decorated?
+- How is [that](room) room decorated?
+- What does the decoration in [this](room) look like?
+- Are there any decorations in [gamma](room)?
+- Is the decoration in the [other](room) ones nice?
+- What does the decoration in [alpha](room) look like?
+- Are there any decorations in room [Alpha](room)?
+- Is the decoration in [beta](room) modern?
+- Are there any decorations in the [first](room) one?
+- Is the decoration in [this](room) modern?
+- How is the decoration in [this](room)?
+- How is the decoration in [there](room)?
+- Is the decoration in the [second](room) one modern?
+- Is the decoration in [every](room) room modern?
+- How is [this](room) decorated?
+- How is the decoration in the [second](room) one?
+- Is the decoration in the [first](room) one modern?
+- What does the decoration in the [third](room) room look like?
+- How is [it](room) decorated?
+- Is the decoration in room [alpha](room) modern?
+- How is the decoration in the [first](room) room?
+- How is room [Beta](room) decorated?
+- How is room [beta](room) decorated?
+- How is it decorated in [there](room)?
+- Is the decoration in room [gamma](room) modern?
+- What does the decoration in [beta](room) look like?
+- How is [alpha](room) decorated?
 
 ## intent:ask_for_room_equipment
 - Are there beamers in [all](room) your rooms?
@@ -2819,6 +2893,83 @@
 - Will we be able to make small groups in [it](room)?
 - Will we be able to make smaller groups in option [gamma](room)?
 - Will we be able to talk in small teams in event room [Gamma](room)?
+- How many moveable tables are [there](room)?
+- Do [all](room) have moveable tables?
+- Does [every](room) room have moveable tables?
+- Do [all](room) of them have moveable tables?
+- Are there moveable tables in [there](room)?
+- Are there moveable tables in [every](room) room?
+- How many moveable tables are there in room [gamma](room)?
+- Will we be able to have workshops?
+- Will we be able to have a workshop?
+- Will we be able to do workshops in a [different](room) one?
+- Will we be able to have workshops in [all](room) rooms?
+- Will we be able to have workshops in [there](room)?
+- Do you have moveable chairs and tables?
+- Can we do workshops in a [different](room) rooms?
+- We want to make workshops
+- Our comapny has to make workshops
+- We have to make workshops in the event 
+- Are the people able to form workshops in [Gamma](room)?
+- Will we be able to make workshops in option [Alpha](room)?
+- Is there a possibility to form workshops in the [others](room)?
+- Are we able to create work-shops in the [others](room)?
+- Are we able to create workshops in room [Gamma](room)?
+- Can the guests create work-shops in the [other](room) ones?
+- Can the guests create a workshop in [that](room) one?
+- How many tables and chairs are there in the [others](room)?
+- Can the guests make workshops in room [Gamma](room)?
+- Can we form workshops in [all](room) rooms?
+- Can we form workshops in [every](room) rooms?
+- Are we able to form work shops in the [other](room) room?
+- Are the people able to create workshops in [this](room) one?
+- Is there a possibility to create a workshop room [alpha](room)?
+- How many moveable tables do you have in [beta](room) room?
+- Can we form workshops in [the](room) room?
+- Can we do a workshop in [the](room) room?
+- Can we form workshops in [that](room) room?
+- Can we do workshops in the [other](room) locations?
+- Will we be able to do workshops in [this](room) option?
+- Is it possible to make a workshop in [the](room) room?
+- Is it possible to make workshops in room [beta](room)?
+- Are the people able to conduct workshops in the [others](room)?
+- How many moveable chairs and tables are there in [it](room)?
+- Are the guests able to do workshops in the [other](room) locations?
+- Is it possible to have workshops [all](room) of them?
+- Is it possible to have work shops in [every](room) room?
+- Is it possible to have workshops in room [alpha](room)?
+- Will the people be able to conduct workshops in [the](room) room?
+- Is it possible to create workshops in the [others](room)?
+- Is there a possibility to create work shops in [Alpha](room)?
+- How many tables and chairs are there in the [other](room) ones?
+- Can I make workshops in [it](room)?
+- Is there a possibility to have workshops in the [first](room) one?
+- Can we make workshops in [it](room)?
+- Can we make a workshop in [every](room) room?
+- Can we make work shops in [every](room) room?
+- Can we make workshops in room [alpha](room)?
+- Can we make workshops in [every](room) room?
+- Is it possible to conduct workshops in a [different](room) one?
+- Is it possible to conduct workshops in the [last](room) one?
+- Are the guests able to conduct work shops in [there](room)?
+- How many chairs and tables do you have in [that](room) room?
+- Is there a possibility to create workshops in the [first](room) room?
+- Will we be able to have work shops in the [other](room) rooms?
+- Will we be able to have workshops in [there](room)?
+- Will the guests be able to do workshops in the [others](room)?
+- Is there a possibility to do workshops in the [others](room)?
+- How many tables are there in [Gamma](room)?
+- How many tables are in [that](room) room?
+- Is there a possibility to have workshops in [the](room) location?
+- Will the guests be able to create workshops in the [second](room) option?
+- Are the people able to form workshops in the [other](room) ones?
+- Can I make workshops in the [others](room)?
+- How many moveable chairs and tables do you have in the [others](room)?
+- Are we able to form workshops in the [other](room) ones?
+- Are the guests able to conduct work shops in the [last](room) one?
+- Are the people able to conduct workshops in [Beta](room)?
+- Are the people able to conduct workshops in [there](room)?
+- Is there a possibility to form work shops in the [other](room) ones?
 
 ## intent:ask_for_room_size
 - Are the [other](room) ones bigger?
@@ -3280,3 +3431,268 @@
 - Will [every](room) room have enough room for [220](nr_of_people)?
 - Will [it](room) have enough room for [220](nr_of_people)?
 - Will [it](room) have enough space for [200](nr_of_people) colleagues?
+
+## intent:ask_for_room_catering
+- Are meals provided?
+- Are meals provided in [all](room) rooms?
+- Are there rooms that have meals?
+- We want catering
+- I look for lunch
+- I look for drinks
+- We would like drinks
+- For the event we need catering service
+- We would like meals
+- I would like meals
+- We need lunch
+- We look for meals
+- We need a buffet
+- We want food options
+- For the event we need meals
+- We need food
+- Do you offer dinner in the [other](room) ones?
+- Do you offer meals?
+- Is catering provided?
+- Do you offer refreshments in the [others](room)?
+- Are snacks provided in the [others](room)?
+- Do you have a room with food service?
+- Do you provide lunch?
+- Do you provide drinks in the [other](room) ones?
+- Do you provide any drinks in the [other](room) rooms?
+- Do you offer any snacks in [there](room)?
+- Do you offer any meals in the [others](room)?
+- Are there refreshments in [the](room) room?
+- Do you provide dinner in [this](room)?
+- Are there any meals in the [others](room)?
+- Do you have snacks in the [last](room) room?
+- Are there any refreshments in room [Gamma](room)?
+- Is there catering in [it](room)?
+- Are there any refreshments in the [other](room) rooms?
+- Do you provide drinks in the [others](room)?
+- Do you offer any lunch options in the [others](room)?
+- Is catering provided in [beta](room)?
+- Do you offer meals in room [Alpha](room)?
+- Do you offer refreshments in [the](room) room?
+- Do you provide lunch in [the](room) room?
+- Do you provide lunch in [all](room) rooms?
+- Are refreshments provided in the [other](room) rooms?
+- Do you provide any meals in the [other](room) ones?
+- Do you provide refreshments in the [others](room)?
+- Do you have snacks in the [others](room)?
+- Do you offer catering in the [third](room) one?
+- Are there any drinks in the [last](room) room?
+- Are there meals in the [other](room) rooms?
+- Do you have any meals in the [first](room) one?
+- Do you offer rooms with drinks?
+- Do you provide snacks in [that](room) room?
+- Do you have any food options in [this](room)?
+- Are snacks provided in the [other](room) ones?
+- Do you have food service in the [last](room) one?
+- Is catering service provided in the [other](room) ones?
+- Do you provide meals in [this](room)?
+- Are there any dinner options in the [other](room) rooms?
+- Do you offer a buffet in [that](room) room?
+- Do you have lunch options in [it](room)?
+- Are there any refreshments in the [others](room)?
+- Do you offer any refreshments in the [other](room) ones?
+- Are drinks provided in [all](room) the rooms?
+- Do you provide snacks in the [others](room)?
+- Do you offer refreshments in the [other](room) rooms?
+- Do you have any meals?
+- Do you have food in the [other](room) ones?
+- Do you have snacks in [every](room) room?
+- Do you provide a room that has catering service?
+- Do you provide buffet options in the [other](room) ones?
+- Is a buffet provided in the [every](room) room?
+- Is there lunch in the [second](room) room?
+- Are lunch options provided in [different](room) ones?
+- Do you provide food service in the [other](room) rooms?
+- Do you have drinks in [the](room) room?
+- Do you offer meals in the [other](room) rooms?
+- Do you provide food in [different](room) rooms?
+- Are there any refreshments in room [alpha](room)?
+- Do you provide rooms which have drinks?
+- Do you have drinks in room [Alpha](room)?
+- Do you offer snacks in [that](room)?
+- Do you offer catering service in the [other](room) ones?
+- Are there any refreshments in [the](room) room?
+- Are drinks provided in room [alpha](room)?
+- Do you offer any drinks in room [alpha](room)?
+- Is food provided in [all](room) rooms?
+- Are there refreshments in the [first](room) one?
+- Do you provide meals in [it](room)?
+- Do you offer lunch in [it](room)?
+- Do you offer meals in [beta](room)?
+- Do you provide snacks in the [other](room) rooms?
+- Do you provide meals in [every](room) room?
+- Do you have catering in the [other](room) ones?
+- Do you have any refreshments in [Alpha](room)?
+- Are there any drinks in the [other](room) ones?
+- Do you have drinks in [there](room)?
+- Do you offer a buffet in the [others](room)?
+- Is lunch provided in the [first](room) one?
+- Do you provide catering service in [alpha](room)?
+- Do you provide any refreshments in the [others](room)?
+- Are meals provided in the [others](room)?
+- Are there snacks in [every](room)?
+- Do you have any meals in [that](room)?
+- Do you provide a buffet in [the](room) room?
+- Do you offer any refreshments in the [others](room)?
+- Are there rooms with meals?
+- Are there any drinks in [that](room) one?
+- Are there drinks?
+- Do you provide refreshments in the [last](room) room?
+- Do you provide a buffet in the [others](room)?
+- Do you offer drinks in [the](room) room?
+- Is there a room which has food?
+- Are lunch options provided in the [others](room)?
+- Do you offer snacks in the [others](room)?
+- Do you provide catering service in [that](room) room?
+- Do you offer any drinks in the [other](room) rooms?
+- Do you provide food in room [beta](room)?
+- Do you offer snacks in the [first](room) one?
+- Do you provide any meals in the [other](room) rooms?
+- Do you have catering service in room [Gamma](room) rooms?
+- Do you provide any meals in [Beta](room)?
+- Are there any meals in [Gamma](room)?
+- Do you provide any refreshments in the [other](room) ones?
+- Do you provide lunch in the [first](room) one?
+- Are there refreshments in [there](room)?
+- Do you have any dinner options in the [first](room) one?
+- Are there meals in [the](room) room?
+- Are drinks provided in the [other](room) rooms?
+- Do you offer snacks in room [Gamma](room)?
+- Do you offer food in [different](room) rooms?
+- Is catering provided in [Gamma](room)?
+- Are there meals in [every](room) room?
+- Are there rooms with snacks?
+- Do you have buffet options in [different](room) rooms?
+- Do you provide any drinks in [this](room)?
+- Are there any dinner options in the [others](room)?
+- Do you offer drinks in [all](room) rooms?
+- Do [all](room) of them have drinks?
+- Do [all](room) rooms have catering?
+- Do the rooms have catering?
+- Are refreshments provided in [that](room) one?
+- Are there any lunch options in the [other](room) ones?
+- Are there drinks in [beta](room)?
+- Do you offer catering service in the [other](room) rooms?
+- Do you provide any snacks in the [other](room) rooms?
+- Do you offer drinks in [different](room) ones?
+- Do you offer drinks?
+- Do you offer dinner in a [different](room) room?
+- Do you have any meals in the [last](room) room?
+- Are there any meals in [the](room) room?
+- Do you have lunch?
+- Do you have food in room [Gamma](room)?
+- Do you provide a room with food?
+- Are there any snacks in the [others](room)?
+- Do you have snacks in [that](room)?
+- Is there dinner in the [other](room) rooms?
+- Are meals provided in the [other](room) rooms?
+- Do you provide lunch options in the [other](room) rooms?
+- Do you have food in [every](room) room?
+- Are there rooms with lunch options?
+- Do you provide any snacks in [that](room) one?
+- Are there meals in the [others](room)?
+- Do you offer any drinks in [it](room)?
+- Is there food in [this](room) room?
+- Do you have meals in room [alpha](room)?
+- Do you provide meals in [the](room) room?
+- Do you have drinks in the [other](room) rooms?
+- Is there lunch in [gamma](room)?
+- Are drinks provided in the [first](room) one?
+- Are there drinks in [this](room) one?
+- Do you offer buffet options in the [other](room) ones?
+- Do you offer catering options in the [others](room)?
+- Are there drinks in the [others](room)?
+- Do you provide catering in room [Alpha](room)?
+- Is food service provided in [this](room) one?
+- Are there snacks in [the](room) room?
+- Are there any snacks in the [last](room) room?
+- Do you have food service options in the [others](room)?
+- Do you provide catering in a [different](room) room?
+- Do you provide catering in room [Beta](room)?
+- Do you provide any drinks in the rooms?
+- Are there dinner options in the [other](room) ones?
+- Do you provide snacks in [it](room)?
+- Do you provide refreshments in the [other](room) rooms?
+- Do you offer catering in [all](room) the rooms?
+- Do you offer any meals in the [second](room) room?
+- Do you offer dinner options in [Beta](room)?
+- Do you provide rooms that have snacks?
+- Are snacks provided in [every](room) room?
+- Do you provide snacks in [there](room)?
+- Do you have food service options?
+- Do you provide lunch in [there](room)?
+- Do you provide buffet options in the [other](room) rooms?
+- Is there catering service in the [others](room)?
+- Are there any meals in [that](room) one?
+- Do you provide refreshments in the [other](room) ones?
+- Are food options provided in [alpha](room)?
+- Do you have food in [the](room) room?
+- Do you have food in [all](room) the rooms?
+- Do you have food in [every](room) one?
+- Are there any refreshments in [that](room) one?
+- Do you offer catering service in the [others](room)?
+- Do you provide a buffet in a [different](room) one?
+- Is catering service provided in [the](room) room?
+- Is catering service provided in [there](room)?
+- Are there any drinks in the [second](room) one?
+- Are there any catering service options in [the](room) room?
+- Do you have meals in the [others](room)?
+- Do you have catering in [this](room) room?
+- Do you provide drinks in the [third](room) room?
+- Are there rooms which have refreshments?
+- Are there any refreshments in the [third](room) one?
+- Do you have any food options in the [other](room) ones?
+- Do you provide any lunch options in [the](room) room?
+- Do you provide food in the [other](room) ones?
+- Do you offer any snacks in the [third](room) one?
+- Do you have any drinks in [alpha](room)?
+- Is there food in [it](room)?
+- Is there food in room [Alpha](room)?
+- Do you have any snacks in the [other](room) rooms?
+- Are refreshments provided in [that](room) room?
+- Do you have snacks in [this](room) room?
+- Are there drinks in the [second](room) one?
+- Do you provide food service in the [other](room) ones?
+- Do you provide any drinks?
+- Do you offer drinks in [it](room)?
+- Do you offer drinks in [all](room) rooms?
+- Do you provide catering service in [the](room) room?
+- Do you have dinner options in [it](room)?
+- Do you have any meals in the [last](room) one?
+- Do you have drinks in the [others](room)?
+- Do you have any snacks in the [other](room) ones?
+- Do you offer food service in the [others](room)?
+- Are there any food service options in the [others](room)?
+- Is there a room that has food?
+- Are there any drinks in the [others](room)?
+- Do [all](room) rooms have refreshments?
+- Do you offer any lunch options in [that](room) one?
+- Do you have refreshments in the [others](room)?
+- Do you offer rooms that have drinks?
+- Are there any meals in [there](room)?
+- Do you provide drinks in the [other](room) rooms?
+- Do you have meals in [the](room) room?
+- Do you provide lunch in [this](room)?
+- Are there options for catering service?
+- Is it possible to have dinner?
+- Is it possible to have a buffet in [that](room)?
+- Can I have food service in [that](room) one?
+- Can I have catering service in [the](room) room?
+- Can I have dinner in [that](room) room?
+- Is it possible to have food service in room [beta](room)?
+- Can we to have lunch in [beta](room)?
+- Can we to have food service in [other](room) rooms?
+- Can we to have dinner in [the](room) room?
+- Is it possible to have catering in [there](room)?
+- Is it possible to have catering in [the](room) room?
+- Can we have a buffet in the [first](room) one?
+- Is it possible to have food service in [there](room)?
+- Is it possible to have food in room [Gamma](room)?
+- Is it possible to have catering service in room [alpha](room)?
+- Can we have lunch in [the](room) room?
+- Is it possible to have catering service in the [other](room) one?
+- Can our guests have dinner in [Gamma](room)?
+- Is it possible to have dinner in [this](room)?
