@@ -434,7 +434,8 @@
     - utter_room_beta_atmosphere
     - utter_room_gamma_atmosphere
 * disagree
-    - utter_confirm_preference_negative
+    - utter_dissatisfaction
+    - utter_ask_for_alternative
 * provide_preference{"room": "Beta"}
     - action_correct_room
     - slot{"current_room": "Beta"}

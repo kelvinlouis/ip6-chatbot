@@ -190,7 +190,8 @@
 ## deny_ask_book_room_with_room
 > ask_book_room_with_room
 * deny
-    - utter_confirm_preference_negative
+    - utter_dissatisfaction
+    - utter_ask_for_alternative
 
 ## affirm_ask_book_room_with_room
 > ask_book_room_with_room

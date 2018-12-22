@@ -35,7 +35,7 @@ class RoomSlot(Slot):
 
             "other":    4,
             "others":   4,
-            "diffrent": 4,
+            "different": 4,
             "another":  4,
 
             "this":     5,

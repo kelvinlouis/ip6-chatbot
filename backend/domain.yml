@@ -6,6 +6,7 @@ actions:
 - utter_available_rooms_150_people
 - utter_available_rooms_200_people
 - utter_available_rooms_270_people
+- utter_catering_options
 - utter_confirm
 - utter_room_gamma_people_limit
 - utter_ask_for_service
@@ -13,7 +14,8 @@ actions:
 - utter_thanks_with_name
 - utter_ask_for_confirmation
 - utter_room_alpha_price
-- utter_confirm_preference_negative
+- utter_dissatisfaction
+- utter_ask_for_alternative
 - utter_confirm_booking
 - utter_ask_for_nr_of_people
 - utter_thanks
@@ -88,6 +90,7 @@ intents:
   - ask_for_room_price
   - ask_for_room_seating
   - ask_for_room_size
+  - ask_for_room_catering
   - deny
   - disagree
   - farewell
@@ -209,6 +212,10 @@ templates:
   - text: Nice to hear you like it. What other questions do you have?
   - text: I am happy you like it. Is there anything else I can do for you?
   - text: Is there anything else I can help you with?
+  utter_ask_for_alternative:
+  - text: Do you have something different in mind?
+  - text: Do you want something different?
+  - text: Is there another option?
   utter_ask_for_additional_service:
   - text: Is there anything else?
   - text: Do you need anything else?
@@ -217,17 +224,17 @@ templates:
   - text: Is there anything else I can do for you?
   - text: Is there anything else I can help you with?
   utter_available_rooms_150_people:
-  - text: We have three event rooms for {nr_of_people}
+  - text: We have three event rooms for {nr_of_people} people
   - text: We have three rooms for {nr_of_people} people
   - text: We have three rooms that are suitable for {nr_of_people} guests
   - text: There are three rooms for {nr_of_people} people
   utter_available_rooms_200_people:
-  - text: We have two event rooms for {nr_of_people}
+  - text: We have two event rooms for {nr_of_people} people
   - text: We have two rooms for {nr_of_people} people
   - text: We have two rooms that are suitable for {nr_of_people} guests
   - text: There are two rooms for {nr_of_people} people
   utter_available_rooms_270_people:
-  - text: We have one event room for {nr_of_people}
+  - text: We have one event room for {nr_of_people} people
   - text: We have one room for {nr_of_people} people
   - text: We have one room that are suitable for {nr_of_people} guests
   - text: There is one room for {nr_of_people} people
@@ -262,8 +269,8 @@ templates:
   - text: All set! Thank you for your reservation.
   - text: Great! The room is booked for you.
   - text: Okay, it is booked!
-  utter_confirm_preference_negative:
-  - text: Sorry to hear, do you have another option in mind?
+  utter_dissatisfaction:
+  - text: Sorry to hear
   utter_confirm_preference_positive:
   - text: Good choice, you won't be disappointed
   - text: Great choice
@@ -283,7 +290,7 @@ templates:
   - text: Take care and have a nice day!
   - text: Thank you for choosing One King Hotel. Have a great day!
   utter_greet:
-  - text: Hi, this Francis Peterson of One King Hotel. Thank you for your interest.
+  - text: Hi, this is Francis Peterson of One King Hotel. Thank you for your interest.
       I will gladly help you find a room
   - text: Hi, this is One King Hotel
   - text: Welcome to One King Hotel. My name is Francis Peterson. I will assist you
@@ -296,6 +303,9 @@ templates:
   - text: Hi {name}, welcome to One King Hotel. My name is Francis Peterson. I will assist you
       shortly.
   - text: Hi {name}, my name is Francis. I'm happy to help you find a room for your event.
+  utter_catering_options:
+  - text: No, I am sorry. You will have to organize it yourself.
+  - text: Unfortunately, we do not provide any catering. You will have to organize it yourself.
   utter_room_alpha_atmosphere:
   - text: Room Alpha is perfect for presentations. It is like a cinema. You have seats
       and a huge stage where a presentation can be held. It is not ideal for workshops
@@ -344,7 +354,7 @@ templates:
   - text: Room Alpha is a theater and thus has fixed seats. It is not suited for moving
       around or to do workshops. It has no tables.
   utter_room_beta_atmosphere:
-  - text: Room Beta on the 15th floor and oversees the entire city. It has a modern
+  - text: Room Beta is on the 15th floor and oversees the entire city. It has a modern
       vibe. Also, it has a lovely terrace, so your guests can also be outside.
   - text: The outdoor section in room Beta has a nice view over the whole city and
       natural light indoors
@@ -376,13 +386,13 @@ templates:
   - text: Room Beta has space for 130 guests and a terrace for an additional 60 people
   - text: Room Beta is a space for 130 people inside and 60 on the terrace
   utter_room_beta_price:
-  - text: Room Beta comes at a cost of CHF 900 all inclusive.
-  - text: Beta is the cheapest option at CHF 900 (all inclusive)
-  - text: It's CHF 900 for Beta (all inclusive)
-  - text: You can get Beta for CHF 900 all inclusive.
+  - text: Room Beta comes at a cost of CHF 900. This includes the price of the terrace.
+  - text: Beta is the cheapest option at CHF 900, including the terrace.
+  - text: It's CHF 900 for Beta, including the terrace.
+  - text: You can get Beta for CHF 900. The terrace is included in the price.
   utter_room_beta_seating:
-  - text: Room Beta has tables for 4 inside, on the terrasse there is low lounge furniture
-      and bar tables with chairs
+  - text: Indoors room Beta has tables for four people. On the terrace there is lounge furniture
+      and bar tables with chairs.
   - text: Room Beta has two sections, the indoor area has tables for 4 people and
       a bar, the outdoor area has low lounge furniture and high bar tables with chairs
   - text: Room Beta offers tables for up to four people. The terrace also has seating
@@ -445,7 +455,7 @@ templates:
   - text: Thanks!
   utter_thanks_with_name:
   - text: Thanks {name}!
-  - text: Thanks you, {name}!
+  - text: Thank you, {name}!
   utter_directions_with_start_location:
   - text: You can take the subway from the {start_location} to the hotel
   - text: You can take the train from the {start_location}. It's only a 5 minute walk from the station to the hotel
