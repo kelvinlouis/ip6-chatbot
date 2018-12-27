@@ -167,7 +167,7 @@
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
     - utter_greet_with_name
-    - utter_available_rooms_150_people
+    - utter_available_rooms_200_people
 
 # begin_with_ask_for_size_270
 > all_slots_empty
@@ -179,7 +179,7 @@
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
     - utter_greet_with_name
-    - utter_available_rooms_150_people
+    - utter_available_rooms_270_people
 
 # begin_with_ask_for_room_alpha_size_150
 > all_slots_empty
