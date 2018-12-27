@@ -56,7 +56,7 @@ actions:
 - utter_ask_what_info
 - utter_ask_to_narrow_options
 - utter_ask_for_additional_service
-- utter_satisfied_ask_for_additional_service
+- utter_satisfied
 - utter_ask_for_service_with_name
 - utter_greet_with_name
 - utter_appreciation
@@ -150,6 +150,9 @@ slots:
   time:
     auto_fill: true
     type: rasa_core.slots.TextSlot
+  start_location:
+    auto_fill: true
+    type: rasa_core.slots.TextSlot
 templates:
   utter_appreciation:
   - text: You are very welcome!
@@ -212,12 +215,12 @@ templates:
   - text: How may I assist you today?
   - text: If there's anything I can do to help, please let me know
   - text: If there's anything I can help you with, please let me know
-  utter_satisfied_ask_for_additional_service:
-  - text: Glad you like it. Is there anything else?
-  - text: Happy to hear you like it. Do you have other questions?
-  - text: Nice to hear you like it. What other questions do you have?
-  - text: I am happy you like it. Is there anything else I can do for you?
-  - text: Is there anything else I can help you with?
+  utter_satisfied:
+  - text: Glad you like it.
+  - text: Happy to hear you like it.
+  - text: Nice to hear you like it.
+  - text: I am happy you like it.
+  - text: Good to hear.
   utter_ask_for_alternative:
   - text: Do you have something different in mind?
   - text: Do you want something different?
@@ -246,7 +249,7 @@ templates:
   - text: There is one room for {nr_of_people} people
   utter_confirm:
   - text: Sure
-  - text: Yes
+  - text: 'Yes'
   - text: Ok
   - text: No problem
   - text: Alright

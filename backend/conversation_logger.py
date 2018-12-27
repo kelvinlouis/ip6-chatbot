@@ -49,7 +49,7 @@ class ConversationLoggerManager:
 
             for message in conversation["messages"]:
                 file.write("[{}] {}: {}\n".format(message["date"].strftime(
-                    "%Y-%m-%d %H:%M"), message["author"], message["text"]))
+                    "%Y-%m-%d %H:%M:%S"), message["author"], message["text"]))
             
             file.write("\n\n")
             file.close()

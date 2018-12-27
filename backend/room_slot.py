@@ -45,7 +45,8 @@ class RoomSlot(Slot):
             "there":    5,
 
             "all":      6,
-            "every":    6
+            "every":    6,
+            "each":     6,
         }
 
         try:
