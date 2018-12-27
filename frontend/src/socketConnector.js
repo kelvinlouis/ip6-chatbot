@@ -1,7 +1,7 @@
 import io from 'socket.io-client';
 import {
   ADD_USER_MESSAGE,
-  addBotMessage, SET_PARTICIPANT_ID,
+  addBotMessage,
   startThinking,
   stopThinking
 } from './actions';
