@@ -5,7 +5,7 @@ export const ADD_USER_MESSAGE = 'ADD_USER_MESSAGE';
 export const ADD_BOT_MESSAGE = 'ADD_BOT_MESSAGE';
 export const START_THINKING = 'START_THINKING';
 export const STOP_THINKING = 'STOP_THINKING';
-export const SET_PARTICIPANT_ID = 'SET_PARTICIPANT_ID';
+export const AUTHENTICATE = 'AUTHENTICATE';
 
 function createMessage(text, type, author) {
   return {
@@ -27,7 +27,7 @@ export const stopThinking = () => ({
   type: STOP_THINKING,
 });
 
-export const setParticipantId = (participantId) => ({
-  type: SET_PARTICIPANT_ID,
+export const authenticate = (participantId) => ({
+  type: AUTHENTICATE,
   participantId,
 });

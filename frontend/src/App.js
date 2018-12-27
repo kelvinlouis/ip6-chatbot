@@ -3,12 +3,14 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 import './App.scss';
 import Conversation from './components/Conversation/Conversation';
 import InputMask from './components/InputMask/InputMask';
+import AuthenticationDialog from './components/AuthenticationDialog/AuthenticationDialog';
 
 class App extends Component {
   render() {
     return (
       <div className="app">
         <CssBaseline />
+        <AuthenticationDialog />
         <div className="app__main">
           <Conversation />
           <InputMask />
