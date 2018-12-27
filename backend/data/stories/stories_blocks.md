@@ -15,6 +15,7 @@
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
     - utter_greet_with_name
     - utter_ask_for_service
 
@@ -24,22 +25,26 @@
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
     - utter_ask_for_service_with_name
 
 ## start_greet_with_name
 > all_slots_empty
 * greet+provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
     - utter_greet_with_name
     - utter_ask_for_service
 
 ## start_greet_and_ask_for_service_with_name
 > all_slots_empty
 * greet+provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
     - utter_greet
     - utter_ask_for_service_with_name
 
 ## ask_for_directions_with_start_location
 * ask_for_directions{"start_location": "train station"}
+    - slot{"start_location": "train station"}
     - utter_directions_with_start_location
 
 ## ask_for_directions_without_start_location
@@ -52,71 +57,129 @@
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
     - utter_greet_with_name
     - utter_ask_for_service
 
 # begin_with_ask_for_room_atmosphere
 > all_slots_empty
 * ask_for_room_atmosphere
+    - action_set_topic
+    - slot{"topic": "atmosphere"}
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
     - utter_greet_with_name
     - utter_generic_atmosphere_options
 
 # begin_with_ask_for_room_lighting
 > all_slots_empty
 * ask_for_room_lighting
+    - action_set_topic
+    - slot{"topic": "lighting"}
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
     - utter_greet_with_name
     - utter_generic_lightning_options
 
 # begin_with_ask_for_room_equipment
 > all_slots_empty
 * ask_for_room_equipment
+    - action_set_topic
+    - slot{"topic": "equipment"}
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
     - utter_greet_with_name
     - utter_generic_equipment_options
 
 # begin_with_ask_for_room_highlight
 > all_slots_empty
 * ask_for_room_highlight
+    - action_set_topic
+    - slot{"topic": "highlight"}
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
     - utter_greet_with_name
     - utter_generic_highlight_options
 
 # begin_with_ask_for_room_price
 > all_slots_empty
 * ask_for_room_price
+    - action_set_topic
+    - slot{"topic": "price"}
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
     - utter_greet_with_name
     - utter_generic_pricing_options
 
 # begin_with_ask_for_room_seating
 > all_slots_empty
 * ask_for_room_seating
+    - action_set_topic
+    - slot{"topic": "seating"}
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
     - utter_greet_with_name
     - utter_generic_seating_options
 
 # begin_with_ask_for_room_size
 > all_slots_empty
 * ask_for_room_size
+    - action_set_topic
+    - slot{"topic": "size"}
+    - utter_greet
+    - utter_ask_for_name
+* provide_name{"name": "Hans"}
+    - slot{"name": "Hans"}
+    - utter_greet_with_name
+    - utter_ask_for_nr_of_people
+
+# begin_with_ask_for_size_150
+> all_slots_empty
+* ask_for_room_size{"nr_of_people": "150"}
+    - slot{"nr_of_people": "150"}
+    - action_set_topic
+    - slot{"topic": "size"}
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Hans"}
     - utter_greet_with_name
-    - utter_ask_for_nr_of_people
+    - utter_available_rooms_150_people
+
+# begin_with_ask_for_size_200
+> all_slots_empty
+* ask_for_room_size{"nr_of_people": "200"}
+    - slot{"nr_of_people": "200"}
+    - action_set_topic
+    - slot{"topic": "size"}
+    - utter_greet
+    - utter_ask_for_name
+* provide_name{"name": "Hans"}
+    - utter_greet_with_name
+    - utter_available_rooms_150_people
+
+# begin_with_ask_for_size_270
+> all_slots_empty
+* ask_for_room_size{"nr_of_people": "270"}
+    - slot{"nr_of_people": "270"}
+    - action_set_topic
+    - slot{"topic": "size"}
+    - utter_greet
+    - utter_ask_for_name
+* provide_name{"name": "Hans"}
+    - utter_greet_with_name
+    - utter_available_rooms_150_people
 
 # begin_with_ask_for_room_alpha_size_150
 > all_slots_empty
@@ -180,6 +243,7 @@
 ## reserve_room_alpha_without_date
     - slot{"date": null}
 * reserve_room{"room": "alpha"}
+    - slot{"room": "alpha"}
     - action_correct_room
     - slot{"current_room": "Alpha"}
     - slot{"room": null}
@@ -188,6 +252,7 @@
 ## reserve_room_beta_without_date
     - slot{"date": null}
 * reserve_room{"room": "beta"}
+    - slot{"room": "beta"}
     - action_correct_room
     - slot{"current_room": "Beta"}
     - slot{"room": null}
@@ -196,6 +261,7 @@
 ## reserve_room_gamma_without_date
     - slot{"date": null}
 * reserve_room{"room": "gamma"}
+    - slot{"room": "gamma"}
     - action_correct_room
     - slot{"current_room": "Gamma"}
     - slot{"room": null}
@@ -204,6 +270,7 @@
 ## reserve_room_this_without_date
     - slot{"date": null}
 * reserve_room{"room": "this"}
+    - slot{"room": "this"}
     - action_correct_room
     - slot{"room": null}
     - utter_ask_for_booking_date
@@ -211,6 +278,7 @@
 ## reserve_room_with_room_alpha
     - slot{"date": "28.11.2018"}
 * reserve_room{"room": "alpha"}
+    - slot{"room": "alpha"}
     - action_correct_room
     - slot{"current_room": "Alpha"}
     - slot{"room": null}
@@ -219,6 +287,7 @@
 ## reserve_room_with_room_beta
     - slot{"date": "28.11.2018"}
 * reserve_room{"room": "beta"}
+    - slot{"room": "beta"}
     - action_correct_room
     - slot{"current_room": "Beta"}
     - slot{"room": null}
@@ -227,6 +296,7 @@
 ## reserve_room_with_room_gamma
     - slot{"date": "28.11.2018"}
 * reserve_room{"room": "Gamma"}
+    - slot{"room": "Gamma"}
     - action_correct_room
     - slot{"current_room": "Gamma"}
     - slot{"room": null}
@@ -235,6 +305,9 @@
 ## reserve_room_with_room_it
     - slot{"date": "28.11.2018"}
 * reserve_room{"room": "it"}
+    - slot{"room": "it"}
+    - action_correct_room
+    - slot{"room": null}
     - utter_confirm_booking
 
 ## provide_name
