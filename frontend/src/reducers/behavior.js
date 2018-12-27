@@ -2,7 +2,8 @@ import { AUTHENTICATE } from '../actions';
 import { patch } from './helper';
 
 const initialState = {
-  authenticationEnabled: Boolean(process.env.REACT_APP_AUTHENTICATION_ENABLED),
+  // .dotenv does not cast to booleans
+  authenticationEnabled: process.env.REACT_APP_AUTHENTICATION_ENABLED === 'true',
   authenticated: false,
 };
 
