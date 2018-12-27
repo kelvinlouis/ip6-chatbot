@@ -3,17 +3,11 @@ import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import Fab from '@material-ui/core/Fab';
 import Icon from '@material-ui/core/Icon';
-
+import { isJustEnterKey } from '../../utils';
 import './InputMask.scss';
 import { addUserMessage } from '../../actions';
 
-/**
- * Enter key for events
- * @type {number}
- */
-const KEY_CODE_ENTER = 13;
-
-export class InputMask extends Component {
+class InputMask extends Component {
   static propTypes = {
     onMessageSend: PropTypes.func,
     spellCheck: PropTypes.bool,
@@ -49,15 +43,6 @@ export class InputMask extends Component {
   }
 
   /**
-   * Checks whether the enter key was pressed without using shift.
-   * @param event
-   * @returns {boolean}
-   */
-  isJustEnterKey(event) {
-    return event.keyCode === KEY_CODE_ENTER && !event.shiftKey;
-  }
-
-  /**
    * Checks if the input is empty.
    * @returns {boolean}
    */
@@ -66,7 +51,7 @@ export class InputMask extends Component {
     return text.trim().length === 0;
   }
 
-  onSendButtonClick = (event) => {
+  onSendButtonClick = () => {
     if (!this.isEmpty()) {
       this.sendMessage();
       this.clearInput();
@@ -75,7 +60,7 @@ export class InputMask extends Component {
   };
 
   onKeyDown = (event) => {
-    if (this.isJustEnterKey(event)) {
+    if (isJustEnterKey(event)) {
       if (!this.isEmpty()) {
         this.sendMessage();
         this.clearInput();

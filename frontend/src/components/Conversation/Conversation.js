@@ -5,7 +5,7 @@ import Message from '../Message/Message';
 import ThinkingIndicator from '../ThinkingIndicator/ThinkingIndicator';
 import './Conversation.scss';
 
-export class Conversation extends Component {
+class Conversation extends Component {
   static propTypes = {
     messages: PropTypes.array,
     thinking: PropTypes.bool,

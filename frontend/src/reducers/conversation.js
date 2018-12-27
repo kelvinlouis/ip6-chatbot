@@ -1,10 +1,12 @@
 import moment from 'moment';
 import {
   ADD_BOT_MESSAGE,
-  ADD_USER_MESSAGE, SET_PARTICIPANT_ID,
+  ADD_USER_MESSAGE,
+  AUTHENTICATE,
   START_THINKING,
   STOP_THINKING
 } from '../actions';
+import { patch } from './helper';
 
 const initialState = {
   participantId: `participant-${moment().unix()}`,
@@ -30,8 +32,6 @@ function messages(state = [], action) {
 }
 
 export function conversation(state = initialState, action) {
-  // Curried function for cleaner code to update the state
-  const patch = state => parts => Object.assign({}, state, parts);
   const patchState = patch(state);
 
   switch (action.type) {
@@ -42,7 +42,7 @@ export function conversation(state = initialState, action) {
       return patchState({ thinking: true });
     case STOP_THINKING:
       return patchState({ thinking: false });
-    case SET_PARTICIPANT_ID:
+    case AUTHENTICATE:
       return patchState({ participantId: action.participantId });
     default:
       return state;

@@ -2,11 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore, applyMiddleware } from 'redux';
 import { Provider } from 'react-redux';
-// import { createMuiTheme, MuiThemeProvider } from '@material-ui/core/styles';
+import { MuiThemeProvider } from '@material-ui/core/styles';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { socketConnectorMiddleware, initSocketConnector } from './socketConnector';
 import appReducers from './reducers';
+import theme from './styles/mui-theme';
 
 // Creates the Redux Store and applies the socket middleware,
 // to intercept actions and emit them to the backend
@@ -31,7 +32,9 @@ initSocketConnector(store);
 
 ReactDOM.render(
   <Provider store={store}>
-    <App />
+    <MuiThemeProvider theme={theme}>
+      <App />
+    </MuiThemeProvider>
   </Provider>,
   document.getElementById('root')
 );
