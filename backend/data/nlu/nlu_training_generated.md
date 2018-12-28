@@ -1431,15 +1431,25 @@
 - [second](room) room
 - [third](room) one
 - [third](room) room
+- [All](room) of them
 - [all](room) of them
-- [all](room) three rooms
+- [All](room) three rooms
 - [all](room) of the three rooms
-- [all](room) of the rooms
+- [All](room) of the rooms
 - [all](room) of them
+- [All](room) rooms
 - [all](room) rooms
+- [all](room) rooms
+- [each](room) one of them
+- [each](room) of them
+- [Each](room) of them
 - [all](room)
 - for [every](room) room
 - [every](room) room
+- [Every](room) room
+- [every](room) one of them
+- [Every](room) one
+- [every](room) one
 - Give me details about [every](room) room
 - Give me details about [all](room) of them
 - Give me details about [all](room) three rooms

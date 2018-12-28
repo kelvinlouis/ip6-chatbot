@@ -10,7 +10,7 @@ python -m rasa_core.train interactive -o models/dialogue -d domain.yml -c config
 # Interactive learning without training
 python -m rasa_core.train interactive -o models/dialogue -d domain.yml -c config_core.yml --core models/dialogue -u models/nlu/default/test --endpoints endpoints.yml
 
-# Run Core
+# Train Core without interactive learning
 python -m rasa_core.train default -o models/dialogue -d domain.yml -c config_core.yml -s data/stories
 
 # Run Action Server
