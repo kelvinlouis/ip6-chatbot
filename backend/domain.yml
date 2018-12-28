@@ -67,7 +67,7 @@ actions:
 - utter_budget_limitation_1400
 - utter_generic_atmosphere_options
 - utter_generic_highlight_options
-- utter_generic_lightning_options
+- utter_generic_lighting_options
 - utter_generic_pricing_options
 - utter_generic_seating_options
 - utter_ask_for_budget
@@ -294,7 +294,7 @@ templates:
   - text: The rooms have a very different vibe
   utter_generic_highlight_options:
   - text: One room has a cinema like screen, one is on the 15th floor with a incredible view and the third has a original 1920s decoration.
-  utter_generic_lightning_options:
+  utter_generic_lighting_options:
   - text: For room Alpha and Gamma lighting should not be a issue, a part of room Beta is outside so keep that in mind
   utter_generic_pricing_options:
   - text: Our rooms are not expensive for Toronto, all are below 1300.-
@@ -352,8 +352,8 @@ templates:
   - text: Room Alpha is a theater. It does not have natural light. But has the latest
       multimedia technology for presentations.
   utter_room_alpha_lighting:
-  - text: Room Alpha has no natural light as it is in downstairs. There are however
-      enough lamps for the room. Lighting should not be a issue.
+  - text: Room Alpha has no natural light as it is downstairs. There are however
+      enough lamps in the room. Lighting should not be a issue.
   utter_room_alpha_people_limit:
   - text: Room Alpha has space for up to 270 people
   - text: The Alpha room has a stage and space for 270 people
