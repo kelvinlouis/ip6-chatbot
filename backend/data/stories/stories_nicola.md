@@ -292,7 +292,7 @@
 * deny
     - utter_goodbye
 ## Generated Story 5286531684760156366
-* ask_for_options
+* greet+ask_for_options
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Joel Fischer"}

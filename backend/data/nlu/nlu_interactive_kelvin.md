@@ -18,6 +18,8 @@
 - Good, that is exactly in my price range!
 - Very good!
 - Yes please
+- That sounds good
+- Yes please
 
 ## intent:ask_for_directions
 - Yes, what is the best way to get to your hotel?
@@ -47,6 +49,9 @@
 - And what about the [first](room) room?
 - What about [gamma](room)?
 - What about [each](room) room?
+- And in [gamma](room)?
+- And [Alpha](room)?
+- And in [gamma](room)?
 
 ## intent:ask_for_room_atmosphere
 - Is the atmosphere nice?
@@ -56,6 +61,7 @@
 - how is [the](room) room decorated?
 - How is [the](room) room decorated?
 - Yes, how does [the](room) room look like?
+- How is the decoration in the rooms?
 
 ## intent:ask_for_room_equipment
 - I need to show a presentation
@@ -74,6 +80,7 @@
 - do you have a [stage](equipment) in [the](room) room [beta](room)?
 - Can I show a presentation?
 - And can I show a presentation?
+- Interesting. Can I show a presentation in [Alpha](room)?
 
 ## intent:ask_for_room_highlight
 - Is there anything special about [the](room) room?
@@ -101,6 +108,7 @@
 - How much is the price?
 - How expensive is [it](room)?
 - What are the costs of the [last](room) one?
+- Good. How expensive are they
 
 ## intent:ask_for_room_seating
 - So I can't move tables?
@@ -124,6 +132,7 @@
 - Do you have a room with space for [150](nr_of_people) people
 - Dear Ladies and Gentleman, I am looking for a room with space for [150](nr_of_people) people.
 - I need a room that has space for [200](nr_of_people) people. Do you have that?
+- Hi there I need a room for [200](nr_of_people) people
 
 ## intent:deny
 - No
@@ -134,6 +143,7 @@
 - no thank you
 - No, oops sorry wrong date!
 - No i don't need anything else
+- No that's all
 
 ## intent:disagree
 - That's not good!
@@ -150,6 +160,7 @@
 - Ok great! Good bye and thanks again
 - thanks goodbye!
 - Thanks! Goodbye!
+- Bye!
 
 ## intent:greet
 - Hi, how are you?
@@ -175,6 +186,7 @@
 - On the [21st of June 2019](date)
 - Yes, the [22nd of June 2019](date)
 - Yes, is [the](room) room free for the [21 December in 2019](date)?
+- [20th of January](date)
 
 ## intent:provide_budget
 - Perfect! I have a budget of [1500](budget) Swiss francs. So I think I will book [it](room).
@@ -186,6 +198,7 @@
 - my name is [sherin](name)
 - [Adis Seferovic](name)
 - My name is [Melvin Tats](name)
+- My name is [Philipp Bachmann](name)
 
 ## intent:provide_nr_of_people
 - [150](nr_of_people)
@@ -208,6 +221,8 @@
 - could you please book [the](room) room [gamma](room) for me?
 - Could you please make a reservation for the [12th of january](date)
 - Can I book [the](room) room?
+- Is [the](room) room free?
+- Is [the](room) room available?
 
 ## intent:thanks
 - Thank you! You were very helpful

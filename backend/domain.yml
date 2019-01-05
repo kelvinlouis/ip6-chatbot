@@ -97,6 +97,10 @@ intents:
   - ask_for_room_seating
   - ask_for_room_size
   - ask_for_room_catering
+  - greet+ask_for_options
+  - greet+ask_for_room_size
+  - greet+ask_for_room_equipment
+  - greet+ask_for_room_price
   - deny
   - disagree
   - farewell

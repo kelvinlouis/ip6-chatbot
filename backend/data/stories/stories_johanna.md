@@ -228,7 +228,7 @@
 * farewell
 
 ## Generated Story -4473528322610655305
-* ask_for_options
+* greet+ask_for_options
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Donita"}

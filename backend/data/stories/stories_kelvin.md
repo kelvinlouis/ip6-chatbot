@@ -919,3 +919,74 @@
 * thanks
     - utter_thanks
 
+## Generated Story 2267034108717563910
+* ask_for_room_size{"nr_of_people": "200"}
+    - slot{"nr_of_people": "200"}
+    - action_set_topic
+    - slot{"topic": "size"}
+    - utter_greet
+    - utter_ask_for_name
+* provide_name{"name": "Philipp Bachmann"}
+    - slot{"name": "Philipp Bachmann"}
+    - utter_confirm
+    - utter_available_rooms_200_people
+    - utter_room_alpha_people_limit
+    - utter_room_gamma_people_limit
+* ask_for_room_equipment{"room": "Alpha"}
+    - slot{"room": "Alpha"}
+    - action_set_topic
+    - slot{"topic": "equipment"}
+    - action_correct_room
+    - slot{"current_room": "Alpha"}
+    - slot{"room": null}
+    - utter_room_alpha_equipment
+* ask_for_room{"room": "gamma"}
+    - slot{"room": "gamma"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_room_gamma_equipment
+* ask_for_room_price
+    - action_set_topic
+    - slot{"topic": "price"}
+    - utter_room_gamma_price
+* ask_for_room{"room": "Alpha"}
+    - slot{"room": "Alpha"}
+    - action_correct_room
+    - slot{"current_room": "Alpha"}
+    - slot{"room": null}
+    - utter_room_alpha_price
+* ask_for_room_atmosphere
+    - action_set_topic
+    - slot{"topic": "atmosphere"}
+    - utter_room_alpha_atmosphere
+* ask_for_room{"room": "gamma"}
+    - slot{"room": "gamma"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_room_gamma_atmosphere
+* affirm
+    - utter_satisfied
+    - utter_ask_for_additional_service
+* reserve_room{"room": "the"}
+    - slot{"room": "the"}
+    - action_default_fallback
+    - rewind
+* reserve_room{"room": "the"}
+    - slot{"room": "the"}
+    - action_correct_room
+    - slot{"room": null}
+    - utter_confirm
+    - utter_ask_for_booking_date
+* provide_booking_date{"date": "20th of January"}
+    - slot{"date": "20th of January"}
+    - utter_ask_for_booking_confirmation
+* affirm
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
+* deny
+    - utter_goodbye
+* farewell
+    - utter_thanks
+

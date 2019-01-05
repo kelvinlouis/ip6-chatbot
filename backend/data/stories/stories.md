@@ -53,7 +53,7 @@
 * farewell
 
 ## inspired by chat 1-6 (Nicola)
-* ask_for_options
+* greet+ask_for_options
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Luca Hauser"}
@@ -100,7 +100,7 @@
     - utter_goodbye
 
 ## inspired by chat 9-10 (Kelvin)
-* ask_for_options
+* greet+ask_for_options
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Jennifer Meier"}
@@ -178,7 +178,7 @@
     - utter_goodbye
 
 ## inspired by chat 11-12 (Kelvin)
-* ask_for_options
+* greet+ask_for_options
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Mark"}
@@ -314,7 +314,7 @@
     - utter_thanks
 
 ## inspired by chat 3-2 (Kelvin)
-* greet+provide_name{"name": "Laura Steiner", "company": "Inselspital"}
+* greet+provide_name{"name": "Laura Markov", "company": "Inselspital"}
     - utter_greet_with_name
     - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "150"}
@@ -366,7 +366,7 @@
     - utter_thanks
 
 ## Inspired by chat 5-4 (Johanna)
-* ask_for_options
+* greet+ask_for_options
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Mergime"}
