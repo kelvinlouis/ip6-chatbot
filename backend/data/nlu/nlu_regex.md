@@ -19,6 +19,9 @@
 ## regex:date dd MMM yyyy
 - ((31(?!\ (Feb(ruary)?|Apr(il)?|June?|(Sep(?=\b|t)t?|Nov)(ember)?)))|((30|29)(?!\ Feb(ruary)?))|(29(?=\ Feb(ruary)?\ (((1[6-9]|[2-9]\d)(0[48]|[2468][048]|[13579][26])|((16|[2468][048]|[3579][26])00)))))|(0?[1-9])|1\d|2[0-8])\ (Jan(uary)?|Feb(ruary)?|Ma(r(ch)?|y)|Apr(il)?|Ju((ly?)|(ne?))|Aug(ust)?|Oct(ober)?|(Sep(?=\b|t)t?|Nov|Dec)(ember)?)\ ((1[6-9]|[2-9]\d)\d{2})
 
+## regex:date dumb
+- [\d]{0,2}\s?(rd|th|st)?\.?(\sof)?\s?([Jj]an(uary)?|[Ff]eb(ruary)?|[Mm]a(r(ch)?|y)|[Aa]pr(il)?|[Jj]u((ly?)|(ne?))|[Aa]ug(ust)?|[Oo]ct(ober)?|([Ss]ep(?=\b|t)t?|[Nn]ov|[Dd]ec)(ember)?)\s?(([\d]{4})|[\d]{1,2}\s?(rd|th|st)?(\s[\d]{2,4})?)?
+
 ## regex:nr of people 10 - 599
 - [^\D]?[1-9]{1}[0-9]{1,3}[^\D]?\b|people|persons|employees|guests
 
