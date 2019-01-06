@@ -20,6 +20,8 @@
 - Yes please
 - That sounds good
 - Yes please
+- That sounds great!
+- Yes
 
 ## intent:ask_for_directions
 - Yes, what is the best way to get to your hotel?
@@ -144,6 +146,7 @@
 - No, oops sorry wrong date!
 - No i don't need anything else
 - No that's all
+- No I am good!
 
 ## intent:disagree
 - That's not good!
@@ -168,8 +171,11 @@
 - hey there!
 - Hi there
 
+## intent:greet+ask_for_room_price
+- Hi I need a room that is bellow [2000 CHF](budget)
+
 ## intent:greet+provide_name
-- Hi my name is [Silvia Parankeymalil](name). I am looking for a room.
+- Hi my name is [Silvia Nanikulamathil](name). I am looking for a room.
 - Hi my name is [Kelvin](name)
 - Hi I am [Leo Huppenbauer](name) and I am looking for a room
 - Hi Francis, my name is [Christoph Zeller](name)
@@ -187,6 +193,7 @@
 - Yes, the [22nd of June 2019](date)
 - Yes, is [the](room) room free for the [21 December in 2019](date)?
 - [20th of January](date)
+- [20. December](date)
 
 ## intent:provide_budget
 - Perfect! I have a budget of [1500](budget) Swiss francs. So I think I will book [it](room).
@@ -199,6 +206,7 @@
 - [Adis Seferovic](name)
 - My name is [Melvin Tats](name)
 - My name is [Philipp Bachmann](name)
+- [Nicolas Cage](name)
 
 ## intent:provide_nr_of_people
 - [150](nr_of_people)
@@ -214,6 +222,7 @@
 
 ## intent:provide_room
 - I meant [gamma](room)
+- [Gamma](room)
 
 ## intent:reserve_room
 - Okay. Can I book [the](room) room?
@@ -223,6 +232,7 @@
 - Can I book [the](room) room?
 - Is [the](room) room free?
 - Is [the](room) room available?
+- Is it possible to make a reservation?
 
 ## intent:thanks
 - Thank you! You were very helpful
@@ -235,3 +245,4 @@
 - thank you
 - Thank you!
 - Thanks you too
+- Thanks you too!

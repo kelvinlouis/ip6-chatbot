@@ -11,6 +11,7 @@
     - utter_options
     - utter_ask_to_narrow_options
 * ask_for_room_size{"nr_of_people": "100"}
+    - slot{"nr_of_people": "100"}
     - action_set_topic
     - slot{"topic": "size"}
     - utter_available_rooms_150_people
@@ -60,6 +61,7 @@
     - utter_greet_with_name
     - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "150"}
+    - slot{"nr_of_people": "150"}
     - action_set_topic
     - slot{"topic": "size"}
     - utter_confirm
@@ -106,6 +108,7 @@
 * provide_name{"name": "Jennifer Meier"}
     - utter_ask_for_nr_of_people
 * provide_nr_of_people{"nr_of_people": "150"}
+    - slot{"nr_of_people": "150"}
     - utter_available_rooms_150_people
     - utter_room_alpha_people_limit
     - utter_room_beta_people_limit
@@ -184,6 +187,7 @@
 * provide_name{"name": "Mark"}
     - utter_ask_for_nr_of_people
 * ask_for_room_size{"nr_of_people": "150"}
+    - slot{"nr_of_people": "150"}
     - action_set_topic
     - slot{"topic": "size"}
     - utter_confirm
@@ -318,6 +322,7 @@
     - utter_greet_with_name
     - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "150"}
+    - slot{"nr_of_people": "150"}
     - action_set_topic
     - slot{"topic": "size"}
     - utter_available_rooms_150_people
@@ -370,11 +375,12 @@
     - utter_greet
     - utter_ask_for_name
 * provide_name{"name": "Mergime"}
+    - utter_thanks_with_name
     - utter_ask_for_nr_of_people
 * ask_for_room_size{"nr_of_people": "150"}
+    - slot{"nr_of_people": "150"}
     - action_set_topic
     - slot{"topic": "size"}
-    - utter_thanks_with_name
     - utter_confirm
     - utter_available_rooms_150_people
     - utter_room_alpha_people_limit

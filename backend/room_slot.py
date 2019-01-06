@@ -7,46 +7,46 @@ logger = logging.getLogger(__name__)
 class RoomSlot(Slot):
 
     def feature_dimensionality(self):
-        return 7
+        return 6
 
     def as_feature(self):
         '''
-        [0,0,0,0,0,0,0] - Not set
-        [1,1,0,0,0,0,0] - Alpha, first...
-        [1,0,1,0,0,0,0] - Beta, second...
-        [1,0,0,1,0,0,0] - Gamma, third...
-        [1,0,0,0,1,0,0] - other, others...
-        [1,0,0,0,0,1,0] - this, it...
-        [1,0,0,0,0,0,1] - all
+        [0,0,0,0,0,0] - Not set
+        [1,0,0,0,0,0] - Alpha, first...
+        [0,1,0,0,0,0] - Beta, second...
+        [0,0,1,0,0,0] - Gamma, third...
+        [0,0,0,1,0,0] - other, others...
+        [0,0,0,0,1,0] - this, it...
+        [0,0,0,0,0,1] - all
         '''
 
         r = [0.0] * self.feature_dimensionality()
 
         lookup = {
-            "alpha":    1,
-            "first":    1,
+            "alpha":    0,
+            "first":    0,
 
-            "beta":     2,
-            "second":   2,
+            "beta":     1,
+            "second":   1,
 
-            "gamma":    3,
-            "third":    3,
-            "last":     3,
+            "gamma":    2,
+            "third":    2,
+            "last":     2,
 
-            "other":    4,
-            "others":   4,
-            "different": 4,
-            "another":  4,
+            "other":    3,
+            "others":   3,
+            "different": 3,
+            "another":  3,
 
-            "this":     5,
-            "that":     5,
-            "it":       5,
-            "the":      5,
-            "there":    5,
+            "this":     4,
+            "that":     4,
+            "it":       4,
+            "the":      4,
+            "there":    4,
 
-            "all":      6,
-            "every":    6,
-            "each":     6,
+            "all":      5,
+            "every":    5,
+            "each":     5,
         }
 
         try:
@@ -55,7 +55,6 @@ class RoomSlot(Slot):
 
                 try:
                     idx_r = lookup[lower_value]
-                    r[0] = 1.0
                     r[idx_r] = 1.0
                     #logger.debug("{} is in lookup table".format(lower_value))
                 except KeyError:

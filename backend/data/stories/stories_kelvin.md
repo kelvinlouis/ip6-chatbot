@@ -225,9 +225,9 @@
     - utter_greet_with_name
     - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "200"}
+    - slot{"nr_of_people": "200"}
     - action_set_topic
     - slot{"topic": "size"}
-    - slot{"nr_of_people": "200"}
     - utter_available_rooms_200_people
     - utter_room_alpha_people_limit
     - utter_room_gamma_people_limit
@@ -315,9 +315,9 @@
     - utter_greet_with_name
     - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "250"}
+    - slot{"nr_of_people": "250"}
     - action_set_topic
     - slot{"topic": "size"}
-    - slot{"nr_of_people": "250"}
     - utter_available_rooms_270_people
     - utter_room_alpha_people_limit
 * ask_for_room_price{"room": "alpha"}
@@ -750,7 +750,7 @@
     - utter_thanks
 
 ## Generated Story -6758454970928526451
-* ask_for_room_size{"nr_of_people": "150"}
+* greet+ask_for_room_size{"nr_of_people": "150"}
     - slot{"nr_of_people": "150"}
     - action_set_topic
     - slot{"topic": "size"}
@@ -758,7 +758,7 @@
     - utter_ask_for_name
 * provide_name{"name": "Adis Seferovic"}
     - slot{"name": "Adis Seferovic"}
-    - utter_confirm
+    - utter_thanks_with_name
     - utter_available_rooms_150_people
     - utter_room_alpha_people_limit
     - utter_room_beta_people_limit
@@ -920,7 +920,7 @@
     - utter_thanks
 
 ## Generated Story 2267034108717563910
-* ask_for_room_size{"nr_of_people": "200"}
+* greet+ask_for_room_size{"nr_of_people": "200"}
     - slot{"nr_of_people": "200"}
     - action_set_topic
     - slot{"topic": "size"}
@@ -928,7 +928,7 @@
     - utter_ask_for_name
 * provide_name{"name": "Philipp Bachmann"}
     - slot{"name": "Philipp Bachmann"}
-    - utter_confirm
+    - utter_thanks_with_name
     - utter_available_rooms_200_people
     - utter_room_alpha_people_limit
     - utter_room_gamma_people_limit
@@ -988,5 +988,40 @@
 * deny
     - utter_goodbye
 * farewell
+    - utter_thanks
+
+## Generated Story 5681509169342593390
+* greet+ask_for_room_price{"budget": "2000 CHF"}
+    - slot{"budget": "2000 CHF"}
+    - action_set_topic
+    - utter_greet
+    - utter_ask_for_name
+* provide_name{"name": "Nicolas Cage"}
+    - slot{"name": "Nicolas Cage"}
+    - utter_thanks_with_name
+    - utter_budget_limitation_1400
+    - utter_room_alpha_price
+    - utter_room_beta_price
+    - utter_room_gamma_price
+* affirm
+    - utter_satisfied
+    - utter_ask_for_additional_service
+* reserve_room
+    - utter_ask_for_room
+* provide_room{"room": "Gamma"}
+    - slot{"room": "Gamma"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_ask_for_booking_date
+* provide_booking_date{"date": "20. December"}
+    - slot{"date": "20. December"}
+    - utter_ask_for_booking_confirmation
+* affirm
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
+* deny
+    - utter_goodbye
+* thanks
     - utter_thanks
 

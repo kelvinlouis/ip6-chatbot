@@ -175,9 +175,9 @@
     - utter_options
     - utter_ask_to_narrow_options
 * ask_for_room_size{"nr_of_people": "200"}
+    - slot{"nr_of_people": "200"}
     - action_set_topic
     - slot{"topic": "size"}
-    - slot{"nr_of_people": "200"}
     - utter_room_alpha_people_limit
     - utter_room_gamma_people_limit
 > 3982048685169040827.1
@@ -299,9 +299,9 @@
     - slot{"name": "Joel Fischer"}
     - utter_ask_to_narrow_options
 * ask_for_room_equipment{"nr_of_people": "200"}
+    - slot{"nr_of_people": "200"}
     - action_set_topic
     - slot{"topic": "equipment"}
-    - slot{"nr_of_people": "200"}
     - utter_confirm
     - utter_available_rooms_200_people
     - utter_room_alpha_people_limit
@@ -357,9 +357,9 @@
     - utter_greet_with_name
     - utter_ask_for_service
 * ask_for_room_size{"nr_of_people": "170"}
+    - slot{"nr_of_people": "170"}
     - action_set_topic
     - slot{"topic": "size"}
-    - slot{"nr_of_people": "170"}
     - utter_available_rooms_200_people
     - utter_room_alpha_people_limit
     - utter_room_gamma_people_limit

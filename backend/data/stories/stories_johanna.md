@@ -85,9 +85,9 @@
     - utter_confirm
     - utter_options
 * ask_for_room_size{"nr_of_people": "150"}
+    - slot{"nr_of_people": "150"}
     - action_set_topic
     - slot{"topic": "size"}
-    - slot{"nr_of_people": "150"}
     - utter_confirm
     - utter_available_rooms_150_people
     - utter_room_alpha_people_limit

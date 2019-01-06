@@ -319,14 +319,14 @@ templates:
   utter_greet:
   - text: Hi, this is Francis Peterson of One King Hotel. Thank you for your interest.
       I will gladly help you find a room
-  - text: Hi, this is One King Hotel
+  - text: Hi, this is One King Hotel. My name is Francis.
   - text: Welcome to One King Hotel. My name is Francis Peterson. I will assist you
       shortly.
   - text: Hi, my name is Francis. I'm happy to help you find a room for your event.
   utter_greet_with_name:
   - text: Hi {name}, this Francis Peterson of One King Hotel. Thank you for your interest.
       I will gladly help you find a room
-  - text: Hi {name}, this is One King Hotel
+  - text: Hi {name}, this is One King Hotel. My name is Francis.
   - text: Hi {name}, welcome to One King Hotel. My name is Francis Peterson. I will assist you
       shortly.
   - text: Hi {name}, my name is Francis. I'm happy to help you find a room for your event.
