@@ -1024,3 +1024,34 @@
 * thanks
     - utter_thanks
 
+## Generated Story 2090444463184153321
+* greet+ask_for_room_size{"nr_of_people": "150"}
+    - slot{"nr_of_people": "150"}
+    - action_set_topic
+    - slot{"topic": "size"}
+    - utter_greet
+    - utter_ask_for_name
+* provide_name{"name": "Pablo"}
+    - slot{"name": "Pablo"}
+    - utter_thanks_with_name
+    - utter_available_rooms_150_people
+    - utter_room_alpha_people_limit
+    - utter_room_beta_people_limit
+    - utter_room_gamma_people_limit
+* reserve_room{"room": "Gamma"}
+    - slot{"room": "Gamma"}
+    - action_correct_room
+    - slot{"current_room": "Gamma"}
+    - slot{"room": null}
+    - utter_ask_for_booking_date
+* provide_booking_date{"date": "14th Sep"}
+    - slot{"date": "14th Sep"}
+    - utter_ask_for_booking_confirmation
+* affirm
+    - utter_confirm_booking
+    - utter_ask_for_additional_service
+* deny
+    - utter_goodbye
+* thanks
+    - utter_thanks
+

@@ -147,6 +147,7 @@
 - No i don't need anything else
 - No that's all
 - No I am good!
+- No that's all thanks!
 
 ## intent:disagree
 - That's not good!
@@ -174,6 +175,9 @@
 ## intent:greet+ask_for_room_price
 - Hi I need a room that is bellow [2000 CHF](budget)
 
+## intent:greet+ask_for_room_size
+- Hi there I need a room for [150](nr_of_people) people. Do you have that?
+
 ## intent:greet+provide_name
 - Hi my name is [Silvia Nanikulamathil](name). I am looking for a room.
 - Hi my name is [Kelvin](name)
@@ -194,6 +198,7 @@
 - Yes, is [the](room) room free for the [21 December in 2019](date)?
 - [20th of January](date)
 - [20. December](date)
+- [14th Sep](date)
 
 ## intent:provide_budget
 - Perfect! I have a budget of [1500](budget) Swiss francs. So I think I will book [it](room).
@@ -207,6 +212,7 @@
 - My name is [Melvin Tats](name)
 - My name is [Philipp Bachmann](name)
 - [Nicolas Cage](name)
+- [Pablo](name)
 
 ## intent:provide_nr_of_people
 - [150](nr_of_people)
@@ -233,6 +239,7 @@
 - Is [the](room) room free?
 - Is [the](room) room available?
 - Is it possible to make a reservation?
+- Can I make a reservation for [Gamma](room)?
 
 ## intent:thanks
 - Thank you! You were very helpful
@@ -246,3 +253,4 @@
 - Thank you!
 - Thanks you too
 - Thanks you too!
+- Thanks. You too!

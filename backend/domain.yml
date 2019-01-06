@@ -249,7 +249,7 @@ templates:
   utter_available_rooms_270_people:
   - text: We have one event room for {nr_of_people} people
   - text: We have one room for {nr_of_people} people
-  - text: We have one room that are suitable for {nr_of_people} guests
+  - text: We have one room that is suitable for {nr_of_people} guests
   - text: There is one room for {nr_of_people} people
   utter_confirm:
   - text: Sure

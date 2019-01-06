@@ -75,6 +75,21 @@
     - utter_room_beta_people_limit
     - utter_room_gamma_people_limit
 
+## start_greet_without_name_ask_for_room_size 150 twice
+* greet+ask_for_room_size{"nr_of_people": "150"}
+    - slot{"nr_of_people": "150"}
+    - action_set_topic
+    - slot{"topic": "size"}
+    - utter_greet
+    - utter_ask_for_name
+* provide_name{"name": "Magdalena"}
+    - slot{"name": "Magdalena"}
+    - utter_thanks_with_name
+    - utter_available_rooms_150_people
+    - utter_room_alpha_people_limit
+    - utter_room_beta_people_limit
+    - utter_room_gamma_people_limit
+
 ## start_greet_with_name_ask_for_room_size 150
 * greet+ask_for_room_size{"name": "Michael", "nr_of_people": "150"}
     - slot{"name": "Michael"}
