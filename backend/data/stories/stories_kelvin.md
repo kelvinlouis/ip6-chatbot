@@ -314,8 +314,8 @@
     - slot{"name": "Moritz Berger"}
     - utter_greet_with_name
     - utter_ask_for_service
-* ask_for_room_size{"nr_of_people": "250"}
-    - slot{"nr_of_people": "250"}
+* ask_for_room_size{"nr_of_people": "270"}
+    - slot{"nr_of_people": "270"}
     - action_set_topic
     - slot{"topic": "size"}
     - utter_available_rooms_270_people
@@ -972,7 +972,6 @@
 * reserve_room{"room": "the"}
     - slot{"room": "the"}
     - action_default_fallback
-    - rewind
 * reserve_room{"room": "the"}
     - slot{"room": "the"}
     - action_correct_room
