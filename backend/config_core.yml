@@ -1,9 +1,9 @@
 policies:
   - name: KerasPolicy
     epochs: 100
-    max_history: 5
+    max_history: 8
   - name: MemoizationPolicy
-    max_history: 5
+    max_history: 8
   - name: FallbackPolicy
     nlu_threshold: 0.6
     core_threshold: 0.4
