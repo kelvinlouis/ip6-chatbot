@@ -173,7 +173,7 @@
 - Hi there
 
 ## intent:greet+ask_for_room_price
-- Hi I need a room that is bellow [2000 CHF](budget)
+- Hi I need a room that is below [2000 CHF](budget)
 
 ## intent:greet+ask_for_room_size
 - Hi there I need a room for [150](nr_of_people) people. Do you have that?
