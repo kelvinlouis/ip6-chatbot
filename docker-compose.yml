@@ -46,6 +46,16 @@ services:
       - ${PWD}/backend/logs/rasa_core_sdk:/app/logs
     command: start --actions actions -p ${ACTION_PORT}
   
+  languagetool:
+    image: languagetool:latest
+    ports: 
+      - "127.0.0.1:${LT_PORT}:${LT_PORT}"
+    restart: always
+    volumes:
+      - ${PWD}/backend/languagetool/.languagetool.cfg:/.languagetool.cfg
+      - ${PWD}/backend/languagetool/language-model:/language-model
+    command: java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port ${LT_PORT} --config .languagetool.cfg --allow-origin '*' --public
+  
   mongo:
     image: mongo
     ports: 
