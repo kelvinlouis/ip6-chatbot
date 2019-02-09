@@ -8,5 +8,3 @@ RUN apk --update add unzip \
     && rm LanguageTool-$VERSION.zip
 
 WORKDIR /LanguageTool-$VERSION
-
-VOLUME ["/LanguageTool-$VERSION/language-model"]
