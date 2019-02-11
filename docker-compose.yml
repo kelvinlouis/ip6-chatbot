@@ -64,10 +64,10 @@ services:
       - "127.0.0.1:${MONGOD_PORT}:${MONGOD_PORT}"
     restart: always
     volumes:
-      - ${PWD}/docker-templates/mongodb/initdb.d/:/docker-entrypoint-initdb.d/
-      - ${PWD}/docker-templates/mongodb/data:/data/db
-      - ${PWD}/docker-templates/mongodb/mongod.conf:/etc/mongo/mongod.conf
-      - ${PWD}/docker-templates/logs/mongodb:/var/log/mongodb
+      - ${PWD}/mongodb/initdb.d/:/docker-entrypoint-initdb.d/
+      - ${PWD}/mongodb/data:/data/db
+      - ${PWD}/mongodb/mongod.conf:/etc/mongo/mongod.conf
+      - ${PWD}/mongodb/logs:/var/log/mongodb
     command: mongod
   
   mongo-express:
