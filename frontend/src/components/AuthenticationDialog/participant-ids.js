@@ -1,4 +1,11 @@
 export const VALID_PARTICIPANT_IDS = [
+  // Codes for testing
+  'BET-REU-111',  // Johanna
+  'BET-REU-222',  // xxx
+  'BET-REU-333',  // xxx
+  'BET-REU-444',  // Manfred Vogel
+  'BET-REU-555',  // Ivo Nussbaumer
+  'DEV-DEV-DEV',  // Developers
   'UGR-ZC3-869',
   'QWH-MJ8-FSN',
   'W87-E2W-ZEY',
@@ -9,6 +16,8 @@ export const VALID_PARTICIPANT_IDS = [
   '68X-FWZ-NK7',
   'PPM-8W6-HBH',
   '5VC-E76-KAH',
+
+  // Codes for production
   '889-DPT-XUS',
   'SJW-W61-A1M',
   '8ZP-EVS-NKB',
