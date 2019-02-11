@@ -48,18 +48,18 @@ class ActionSetTopic(Action):
 
         if intent != None:
             if intent == "ask_for_room_atmosphere":
-            return [SlotSet("topic", "atmosphere")]
+                return [SlotSet("topic", "atmosphere")]
             elif intent == "ask_for_room_lighting":
-            return [SlotSet("topic", "lighting")]
+                return [SlotSet("topic", "lighting")]
             elif intent == "ask_for_room_equipment" or intent == "greet+ask_for_room_equipment":
-            return [SlotSet("topic", "equipment")]
+                return [SlotSet("topic", "equipment")]
             elif intent == "ask_for_room_highlight":
-            return [SlotSet("topic", "highlight")]
+                return [SlotSet("topic", "highlight")]
             elif intent == "ask_for_room_price" or intent == "greet+ask_for_room_price":
-            return [SlotSet("topic", "price")]
+                return [SlotSet("topic", "price")]
             elif intent == "ask_for_room_seating":
-            return [SlotSet("topic", "seating")]
+                return [SlotSet("topic", "seating")]
             elif intent == "ask_for_room_size" or intent == "greet+ask_for_room_size":
-            return [SlotSet("topic", "size")]
+                return [SlotSet("topic", "size")]
 
         return []
