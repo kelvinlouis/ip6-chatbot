@@ -51,10 +51,12 @@ class Conversation extends Component {
       <div className="conversation" ref={this.messagesElement}>
         {messages.map((m, index) => (
           <Message
+            id={m.messageId}
             key={m.timestamp}
             author={m.author}
             text={m.text}
             timestamp={m.timestamp}
+            errors={m.errors}
             showAvatar={!this.isPriorMessageSameAuthor(index)}
           />
         ))}

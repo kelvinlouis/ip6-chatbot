@@ -14,8 +14,8 @@ services:
       - ${PWD}/backend/no_of_people_slot.py:/app/no_of_people_slot.py
       - ${PWD}/backend/domain.yml:/app/domain.yml
       - ${PWD}/backend/config_core.yml:/app/config_core.yml
-      - ${PWD}/backend/endpoints_template.yml:/app/endpoints_template.yml
-      - ${PWD}/backend/credentials_template.yml:/app/credentials_template.yml
+      - ${PWD}/docker-templates/endpoints_template.yml:/app/endpoints_template.yml
+      - ${PWD}/docker-templates/credentials_template.yml:/app/credentials_template.yml
       - ${PWD}/backend/logs/rasa_core:/app/logs
     command: python -m rasa_core.train default -o models/dialogue -d domain.yml -c config_core.yml -s data/stories 
   

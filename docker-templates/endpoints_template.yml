@@ -1,0 +1,11 @@
+action_endpoint:
+  url: "http://${ACTION_URL}:${ACTION_PORT}/webhook"
+
+nlu:
+    url: "http://${NLU_URL}:${NLU_PORT}"
+
+tracker_store:
+  store_type: mongod
+  url: mongodb://${MONGOD_URL}:${MONGOD_PORT}
+  username: ${MONGO_RASA_USERNAME}
+  password: ${MONGO_RASA_PASSWORD}

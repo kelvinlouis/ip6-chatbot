@@ -4,12 +4,12 @@ import os
 import shutil
 import zipfile
 
-'''
+class ConversationLoggerManager:
+    """
     The manager is responsible for creating an individual logger per request,
     in order to keep the logger stateless.
     Every logger gets a db connection and the necessary ids.
-'''
-class ConversationLoggerManager:
+    """
     def __init__(self, mongo_url, mongo_username, mongo_password, mongo_database, enabled=False):
         self.enabled = enabled
 
@@ -22,16 +22,20 @@ class ConversationLoggerManager:
         self._db = self._client[mongo_database]
         self._conversations = self._db["conversations"]
 
-    # Creates an instance of a logger
     def create(self, conversation_id, participant_id):
+        """Creates an instance of a logger."""
         if self.enabled == False:
             return ConversationDummyLogger()
 
         return ConversationLogger(
             self._db, self._conversations, conversation_id, participant_id)
     
-    # Creates a txt file for every conversation and zips it
     def export(self):
+        """
+        Extracts the conversations from the Mongo DB.
+        It creates a txt file for every conversation and zips all of them.
+        The path to the zip file is returned.
+        """
         # Remove previously created temporary files
         shutil.rmtree("temp/", ignore_errors=True)
 
@@ -60,12 +64,12 @@ class ConversationLoggerManager:
 
         return os.path.abspath(zip_name + ".zip")
 
-'''
+class ConversationLogger:
+    """
     This logger stores the messages of the bot and the user of a participant.
     Messages are logged/stored in a mongo database. If logging is enabled,
     instances of it will be created by the manager.
-'''
-class ConversationLogger:
+    """
     def __init__(self, db, conversations, conversation_id, participant_id):
         self._db = db
         self._conversations = conversations
@@ -80,11 +84,6 @@ class ConversationLogger:
     # Logs a message sent by the user
     def user_sent_message(self, text):
         message = self._create_message("user_sent_message", "User", text)
-        self._add_message(message)
-
-    # Logs a message corrected by the user
-    def user_corrected_message(self, text):
-        message = self._create_message("user_corrected_message", "User", text)
         self._add_message(message)
 
     # Logs a message sent by the bot
@@ -127,19 +126,17 @@ class ConversationLogger:
 
             self._conversations.insert_one(conversation)
 
-'''
+class ConversationDummyLogger:
+    """
     Functions as a dummy/empty logger, so clients of the logger
     do not have to worry if logging is enabled or not.
     This is used if logging is disabled.
-'''
-class ConversationDummyLogger:
+    """
+
     def __init__(self):
         ''''''
 
     def user_sent_message(self, text):
-        ''''''
-
-    def user_corrected_message(self, text):
         ''''''
 
     def bot_sent_message(self, text):

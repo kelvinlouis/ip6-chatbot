@@ -5,12 +5,18 @@ from rasa_core.slots import Slot
 logger = logging.getLogger(__name__)
 
 class RoomSlot(Slot):
+    """
+    Custom slot that maps a set of words to specific rooms.
+    This ensures that words 'like' this or 'it' refer to the current room,
+    and words like 'other' to all rooms except the current room.
+    The slot is one hot encoded (see below).
+    """
 
     def feature_dimensionality(self):
         return 6
 
     def as_feature(self):
-        '''
+        """
         [0,0,0,0,0,0] - Not set
         [1,0,0,0,0,0] - Alpha, first...
         [0,1,0,0,0,0] - Beta, second...
@@ -18,7 +24,7 @@ class RoomSlot(Slot):
         [0,0,0,1,0,0] - other, others...
         [0,0,0,0,1,0] - this, it...
         [0,0,0,0,0,1] - all
-        '''
+        """
 
         r = [0.0] * self.feature_dimensionality()
 

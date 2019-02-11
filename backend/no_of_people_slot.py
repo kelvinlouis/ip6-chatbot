@@ -5,19 +5,25 @@ from rasa_core.slots import Slot
 logger = logging.getLogger(__name__)
 
 class NumberOfPeopleSlot(Slot):
+    """
+    Custom slot that maps a received number to a categorical value.
+    The rooms are suitable for a certain amount (range) of people.
+    The slot is one hot encoded (see below).
+    """
+    
     type_name = "nr_of_people"
 
     def feature_dimensionality(self):
         return 4
 
     def as_feature(self):
-        '''
+        """
         [0,0,0,0] - Not set
         [1,0,0,0] - x <= 190
         [0,1,0,0] - 190 < x <= 200
         [0,0,1,0] - 200 < x <= 270
         [0,0,0,1] - 270 < x
-        '''
+        """
         
         r = [0.0] * self.feature_dimensionality()
         try:

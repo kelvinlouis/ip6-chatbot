@@ -38,6 +38,18 @@ $message-max-width: 600px;
   animation: 0.4s fadeInUp ease-in-out;
 }
 
+.message__error {
+  background-color: $bg-language-error;
+}
+
+.message__error--grammar {
+  background-color: $bg-grammar-error;
+}
+
+.message__error--spelling {
+  background-color: $bg-spelling-error;
+}
+
 .message--avatar {
   margin-top: 1.25rem;
 

@@ -1,7 +1,7 @@
 import io from 'socket.io-client';
 import {
   ADD_USER_MESSAGE,
-  addBotMessage,
+  addBotMessage, addLanguageErrors,
   startThinking,
   stopThinking
 } from './actions';
@@ -27,6 +27,7 @@ export const socketConnectorMiddleware = store => next => action => {
 
     socket.emit('user_uttered', {
       message: action.text,
+      message_id: action.messageId,
       participant_id: store.getState().conversation.participantId,
     });
   }
@@ -59,12 +60,18 @@ export function initSocketConnector(store) {
   // so the user isn't bombarded with responses
   const delayedQueue = [];
 
-  socket.on('bot_uttered', data => {
+  // Invoked whenever the bot sends a text message
+  socket.on('bot_uttered', (data) => {
     // Marks the response as scheduled
     delayedQueue.push({
-      text: data.text,
+      ...data,
       scheduled: false,
     });
+  });
+
+  // Invoked whenever the bot found errors in a message of a user
+  socket.on('bot_found_errors', (data) => {
+    store.dispatch(addLanguageErrors(data.messageId, data.errors));
   });
 
   // Polls and checks if there are any responses to display.
@@ -72,7 +79,7 @@ export function initSocketConnector(store) {
     if (delayedQueue.length > 0) {
       // Only handle response, if it isn't scheduled yet.
       if (!delayedQueue[0].scheduled) {
-        const { text } = delayedQueue[0];
+        const { text, errors } = delayedQueue[0];
         delayedQueue[0].scheduled = true;
 
         store.dispatch(startThinking());
@@ -80,7 +87,7 @@ export function initSocketConnector(store) {
         // Artificial delay based on string length
         setTimeout(() => {
           store.dispatch(stopThinking());
-          store.dispatch(addBotMessage(text));
+          store.dispatch(addBotMessage(text, errors));
 
           // Removes item from the queue
           delayedQueue.splice(0, 1);
