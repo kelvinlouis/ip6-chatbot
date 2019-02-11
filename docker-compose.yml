@@ -20,8 +20,8 @@ services:
       - ${PWD}/backend/webapp.py:/app/webapp.py
       - ${PWD}/backend/conversation_logger.py:/app/conversation_logger.py
       - ${PWD}/backend/domain.yml:/app/domain.yml
-      - ${PWD}/backend/endpoints_template.yml:/app/endpoints_template.yml
-      - ${PWD}/backend/credentials_template.yml:/app/credentials_template.yml
+      - ${PWD}/docker-templates/endpoints_template.yml:/app/endpoints_template.yml
+      - ${PWD}/docker-templates/credentials_template.yml:/app/credentials_template.yml
       - ${PWD}/backend/logs/rasa_core:/app/logs
     command: python -m rasa_core.run -d models/dialogue --endpoints endpoints.yml --port ${CORE_PORT} --credentials credentials.yml -o logs/core.log --enable_api -u ${NLU_PROJECT}/${NLU_MODEL} -v
   
@@ -49,12 +49,12 @@ services:
   languagetool:
     image: languagetool:latest
     ports: 
-      - "127.0.0.1:${LT_PORT}:${LT_PORT}"
+      - "127.0.0.1:${LANGUAGETOOL_PORT}:${LANGUAGETOOL_PORT}"
     restart: always
     volumes:
-      - ${PWD}/backend/languagetool/.languagetool.cfg:/LanguageTool-${LT_VERSION}/.languagetool.cfg
-      - ${PWD}/backend/languagetool/language-model:/LanguageTool-${LT_VERSION}/language-model
-    command: java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port ${LT_PORT} --config .languagetool.cfg --allow-origin '*' --public
+      - ${PWD}/backend/languagetool/.languagetool.cfg:/LanguageTool-${LANGUAGETOOL_VERSION}/.languagetool.cfg
+      - ${PWD}/backend/languagetool/language-model:/LanguageTool-${LANGUAGETOOL_VERSION}/language-model
+    command: java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port ${LANGUAGETOOL_PORT} --config .languagetool.cfg --allow-origin '*' --public
   
   mongo:
     image: mongo
@@ -62,10 +62,10 @@ services:
       - "127.0.0.1:${MONGOD_PORT}:${MONGOD_PORT}"
     restart: always
     volumes:
-      - ${PWD}/backend/mongodb/initdb.d/:/docker-entrypoint-initdb.d/
-      - ${PWD}/backend/mongodb/data:/data/db
-      - ${PWD}/backend/mongodb/mongod.conf:/etc/mongo/mongod.conf
-      - ${PWD}/backend/logs/mongodb:/var/log/mongodb
+      - ${PWD}/docker-templates/mongodb/initdb.d/:/docker-entrypoint-initdb.d/
+      - ${PWD}/docker-templates/mongodb/data:/data/db
+      - ${PWD}/docker-templates/mongodb/mongod.conf:/etc/mongo/mongod.conf
+      - ${PWD}/docker-templates/logs/mongodb:/var/log/mongodb
     command: mongod
   
   mongo-express:
@@ -84,6 +84,6 @@ services:
       - rasa-core
     restart: always
     volumes:
-      - ${PWD}/backend/nginx_template.conf:/etc/nginx/conf.d/default.conf
+      - ${PWD}/docker-templates/nginx_template.conf:/etc/nginx/conf.d/default.conf
       - ${PWD}/frontend/build:/usr/share/nginx/html:ro
       - ${PWD}/backend/.htpasswd:/etc/nginx/.htpasswd

@@ -15,7 +15,13 @@ from rasa_nlu.training_data import Message
 logger = logging.getLogger(__name__)
 
 class NoneIntentClassifier(Component):
-
+    """
+    This is a custom component for the NLU pipeline.
+    RASA NLU has issues identifying an intent if just a word or two are mentioned.
+    This component ensures that the correct intent is mapped, if it detected a certain entity.
+    Examples: '200 people' -> provide_nr_of_people, 'Mark' -> provide_name
+    """
+    
     name = "intent_classifier_none"
 
     provides = ["intent"]
@@ -72,16 +78,16 @@ class NoneIntentClassifier(Component):
 
         logger.debug("current_intent: {}".format(current_intent))
 
-        if current_intent['name'] == None:         
+        if current_intent["name"] == None:         
             found_entities = []
             for entity in entities:
-                found_entities.append(entity['entity'])
+                found_entities.append(entity["entity"])
 
             found_entities.sort()
             
             for substitution_rule in substitution_rules:
-                if substitution_rule['entity'] == found_entities:
-                        corrected_intent = {"name": substitution_rule['intent'], "confidence": 1.0}
+                if substitution_rule["entity"] == found_entities:
+                        corrected_intent = {"name": substitution_rule["intent"], "confidence": 1.0}
                         message.set("intent", corrected_intent, add_to_output=True)
                         logger.debug("corrected_intent: {}".format(corrected_intent))
                     

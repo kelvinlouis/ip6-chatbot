@@ -5,18 +5,23 @@ from rasa_core.slots import Slot
 logger = logging.getLogger(__name__)
 
 class BudgetSlot(Slot):
+    """
+    Custom slot that maps a received number to a categorical value.
+    Depending on the budget of the user, certain rooms are suitable.
+    The slot is one hot encoded (see below).
+    """
 
     def feature_dimensionality(self):
         return 4
 
     def as_feature(self):
-        '''
+        """
         [0,0,0,0] - Not set
         [1,0,0,0] - x <= 900
         [0,1,0,0] - 900 < x <= 1100
         [0,0,1,0] - 1100 < x <= 1400
         [0,0,0,1] - 1400 < x
-        '''
+        """
 
         r = [0.0] * self.feature_dimensionality()
         try:

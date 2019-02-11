@@ -16,7 +16,13 @@ python -m rasa_core.train default -o models/dialogue -d domain.yml -c config_cor
 # Run Action Server
 python -m rasa_core_sdk.endpoint --actions actions
 
-# Endpoint: ws://localhost:5002/socket.io/
+# Run Core Server
+python -m rasa_core.run -d models/dialogue --endpoints endpoints.yml --port 5002 --credentials credentials.yml -o logs/core.log --enable_api -u default/test -v
+
+# Run NLU Server
+python -m rasa_nlu.server --path models/nlu --response_log logs/response.log -w logs/nlu.log -P 5000
+
+# Run NLU + Core together: Endpoint: ws://localhost:5002/socket.io/
 python -m rasa_core.run -d models/dialogue -u models/nlu/default/test --endpoints endpoints.yml --port 5002 --credentials credentials.yml -o logs/core.log
 
 # Evaluate NLU
