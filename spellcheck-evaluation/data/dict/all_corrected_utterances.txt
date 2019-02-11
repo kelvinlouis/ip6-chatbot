@@ -1,0 +1,680 @@
+You are very welcome!
+You are welcome!
+I'm glad you like it.
+Very well! Do you want to book room Alpha?
+For what date do you want to reserve room Alpha?
+Okay, do you want to book it?
+So, you want to book room Alpha for the ?
+So, I will book room Alpha on the ?
+Should I book the room Beta for the ?
+Just to verify: Should I book room Beta for the ?
+Thank you. So, I'm booking Beta for the . Correct?
+For what date do you want to book the room?
+For what date should I reserve room Beta for you?
+What would be the date for the booking?
+On which date do you arrive?
+For what date do you want to reserve room Beta?
+What do you want to know?
+What are you interested in?
+Is that ok?
+Sounds good?
+Who am I chatting with?
+Please tell me, who am I speaking to?
+What is your name?
+How many people are you expecting?
+For how many people do you need a room?
+Which room do you mean?
+Which one do you mean?
+Which room are you interested in?
+Which one are you interested in?
+Are you searching for a specific room?
+Are you searching for something specific?
+Are you searching for something special?
+Are you looking for a specific room?
+Are you looking for something specific?
+Are you looking for something special?
+How can I help you today, ?
+How may I help you today, ?
+How can I help you, ?
+How may I help you, ?
+How may I assist you, ?
+How may I assist you today, ?
+How can I help you today?
+How may I help you today?
+How can I help you?
+How may I help you?
+How may I assist you?
+How may I assist you today?
+If there's anything I can do to help, please let me know
+If there's anything I can help you with, please let me know
+Glad you like it.
+Happy to hear you like it.
+Nice to hear you like it.
+I am happy you like it.
+Good to hear.
+Do you have something different in mind?
+Do you want something different?
+Is there another option?
+Is there anything else?
+Do you need anything else?
+Do you have other questions?
+What other questions do you have?
+Is there anything else I can do for you?
+Is there anything else I can help you with?
+We have three event rooms for people
+We have three rooms for people
+We have three rooms that are suitable for guests
+There are three rooms for people
+We have two event rooms for people
+We have two rooms for people
+We have two rooms that are suitable for guests
+There are two rooms for people
+We have one event room for people
+We have one room for people
+We have one room that is suitable for guests
+There is one room for people
+Sure
+Yes
+Ok
+No problem
+Alright
+Yes, sure
+Ok, sure
+Definitely
+The price of one room is below CHF 
+One room is below the price of 
+One room is in your price range
+The prices of two rooms are below CHF 
+Two rooms are below the price of 
+Two the rooms are in your price range
+The prices of all rooms are below CHF 
+All rooms are below the price of 
+All the rooms are in your price range
+We have multiple offerings
+We have multiple rooms available
+We have multiple rooms available for you
+Perfect! We just booked the room for you.
+Sure, I will reserve room Gamma for you
+All set! Thank you for your reservation.
+Great! The room is booked for you.
+Okay, it is booked!
+Sorry to hear
+Good choice, you won't be disappointed
+Great choice
+None of our rooms are that expensive.
+All three rooms are capable of showing a presentation
+All three rooms got the necessary equipment to do presentations
+It is possible to show presentations in all of the rooms
+The atmosphere of the three rooms is quite different
+The rooms have a very different vibe
+One room has a cinema like screen, one is on the floor with an incredible view and the third has an original decoration.
+For room Alpha and Gamma lighting should not be an issue. Keep in mind that part of room Beta is outside.
+Our rooms are not expensive for Toronto, all are below
+We have rooms for gatherings, workshops or business events
+What is your budget?
+What is the amount you can spend?
+Take care and have a nice day!
+Goodbye, .
+We will see us then, goodbye
+We will see us then, goodbye 
+Thank you for choosing One King Hotel. I wish you a very nice day!
+I wish you a very nice day!
+Take care and have a nice day!
+Thank you for choosing One King Hotel. Have a great day!
+Hi, this is of One King Hotel. Thank you for your interest. I will gladly help you find a room
+Hi, this is One King Hotel. My name is.
+Welcome to One King Hotel. My name is. I will assist you shortly.
+Hi, my name is. I'm happy to help you find a room for your event.
+Hi , this of One King Hotel. Thank you for your interest. I will gladly help you find a room
+Hi , this is One King Hotel. My name is.
+Hi , welcome to One King Hotel. My name is. I will assist you shortly.
+Hi , my name is. I'm happy to help you find a room for your event.
+No, I am sorry. You will have to organize it yourself.
+Unfortunately, we do not provide any catering. You will have to organize it yourself.
+Room Alpha is perfect for presentations. It is like a cinema. You have seats and a huge stage where a presentation can be held. It is not ideal for workshops however.
+Room Alpha has a cinema atmosphere
+Room Alpha is our biggest space. It's an auditorium, located at the basement floor of the hotel
+Room Alpha has state-of-the-art equipment: a big screen, projector and Dolby sound system. It is ideal for big presentations or keynote speeches
+Room Alpha has a big screen, sound and light system as well as a stage. You can host big presentations like keynotes in there
+Room Alpha has a big screen and a state-of-the-art projector and audio system
+Alpha has a state-of-the-art multimedia set including a big screen, multiple beamers and all-around Dolby sound system. We have used it for big keynote speeches in the past
+Room Alpha has the latest multimedia set including a big screen, projector, sound and light system. It is perfect for big presentations
+ It has a magnificent stage. It is ideal for big presentations.
+Room Alpha has a stage and fixed seating. It's like a theater
+Room Alpha is a theater. It does not have natural light. But has the latest multimedia technology for presentations.
+Room Alpha has no natural light as it is downstairs. There are however enough lamps in the room. Lighting should not be an issue.
+Room Alpha has space for up to people
+The Alpha room has a stage and space for people
+Room Alpha has space for up to people. It has fixed seats and a huge stage
+There is space for people in the room Alpha
+Room Alpha would cost you CHF
+Room Alpha is the most expensive. It costs CHF
+Alpha costs CHF
+Alpha is CHF
+Room Alpha will cost you CHF
+Alpha has fixed seating and no tables, it is like a cinema
+Room Alpha is like a cinema, with fixed seating and a stage
+Room Alpha is like a cinema or theater. The seating is fixed. You can't move them. It is ideal for a series of presentations or demonstrations. It isn't suited for a lot of movement
+Room Alpha is a theater. The seats are fixed. It is difficult to hold conversations.
+The chairs in the Alpha room cannot be moved and there are no tables.
+Room Alpha is a theater and thus has fixed seats. It is not suited for moving around or to do workshops. It has no tables.
+Room Beta is on the floor and oversees the entire city. It has a modern vibe. Also, it has a lovely terrace, so your guests can also be outside.
+The outdoor section in room Beta has a nice view over the whole city and natural light indoors
+Beta has a modern touch. It is on the floor and offers incredible views. Natural light is provided by the glass roof. The terrace has a lounge and bar tables.
+Room Beta has portable screens, a projector and loudspeakers. Presentations are possible
+Room Beta has a moving screen and projector combo. You can do presentations
+Room Beta has a portable screen, a beamer and some loudspeakers. You can show presentations on the screen using the beamer
+Beta offers a projector and movable screen as well as loudspeakers. You can show presentations on the screen
+Room Beta has a portable screen, projector and loudspeakers. It is quite good if you have to do a presentation for a short period. It does not have a stage. But you can still hold presentations indoors.
+Room Beta is on the floor, has a bar and has a terrace to lounge. The view is incredible!
+The room Beta has a very modern touch. It's on the floor and has a nice view of the city. It has a bar and a terrace that.
+Room Beta has a lot of natural light, because of the glass ceiling.
+Room Beta has space for guests and a terrace for an additional people
+Room Beta is split in seats indoors and seats outdoors
+The Beta room has space for a total of people
+Room Beta is somewhat special. It has a terrace that can hold up to people. The room itself covers people. So in total you have room for people
+Room Beta has space for guests and a terrace for an additional people
+Room Beta is a space for people inside and on the terrace
+Room Beta comes at a cost of CHF. This includes the price of the terrace.
+Beta is the cheapest option at CHF, including the terrace.
+It's CHF for Beta, including the terrace.
+You can get Beta for CHF. The terrace is included in the price.
+Indoors room Beta has tables for four people. On the terrace there is lounge furniture and bar tables with chairs.
+Room Beta has two sections, the indoor area has tables for people and a bar, the outdoor area has low lounge furniture and high bar tables with chairs
+Room Beta offers tables for up to four people. The terrace also has seating capabilities. There is enough room to walk around or form groups
+In room Beta there are tables for up to people and a bar where you can sit. The terrace has lounges and bar tables to sit and talk.
+Room Beta has an inside area with a bar as well as tables that seat people each. The outside terrace has a lounge atmosphere with several intimate corners, each equipped with low tables and comfortable chairs.
+Room Beta has a bar, tables for up to people each and on the terrace, there are bar tables and lounge seats. There is enough space to move around.
+Gamma is on the first floor and still has its original decoration from the.
+Room Gamma has an original decoration
+Room Gamma has the original decoration from the
+Gamma has two large screen that can be moved and loudspeakers. You can show presentations on both screens
+Room Gamma has two big portable screens and loudspeakers. You can do presentations
+Room Gamma has two mobile TVs and speakers. You should be able to do presentations
+Gamma has two big portable tv screens and loudspeakers. Presentations are possible
+Room Gamma has two tv screens and loudspeakers. The screens can be moved around. It is enough for shorter presentations. It does not have a stage. But you can still hold presentations.
+Room Gamma is on the first floor and the original decoration from is preserved. You can move the seating arrangement.
+Room Gamma still has the original decoration from the. It was well preserved.
+Room Gamma is well-lit. There are enough lamps that can be used.
+Room Gamma can fit up to people.
+The Gamma room will fit people with ease
+Room Gamma has room for guests
+The Gamma room can fit up to people
+There is space for people in room Gamma
+Room Gamma has space for people
+Room Gamma will cost you CHF
+It's CHF CHF for room Gamma
+Room Gamma costs CHF
+The price of Gamma is CHF
+Room Gamma is equipped with tables for people. You can move the tables around.
+Room Gamma is equipped with tables and chairs for persons each, you can move these around
+Room Gamma has tables for up to people. You can rearrange the entire room. It is ideal for workshops
+Room Gamma is an open room. It has tables for up to eight people. All the furniture can be moved.
+Room Gamma allows you to move the furniture around. It has round tables for up to people.
+There are moveable tables for people in room Gamma
+Room Gamma is a big room with round tables for about guests each. You can also move them if you need to.
+Thank you very much for choosing One King Hotel as your resort
+Thanks!
+Thanks !
+Thank you, !
+You can take the subway from the airport to the hotel
+You can take the train from the airport. It's only a minute walk from the station to the hotel
+You can take the subway from the airport. It's only a minute walk from the station to the hotel
+There is a subway from the airport to the hotel, you cannot miss it
+It's only a minute walk from the airport to the hotel
+You can take the subway to the hotel
+You can take the train. It's only a minute walk from the station to the hotel
+You can take the subway. It's only a minute walk from the station to the hotel
+There is a subway to the hotel, you cannot miss it
+It's only a minute walk from the station to the hotel
+Excuse me, can you rephrase this please?
+Excuse me, can you please rephrase your last message?
+Sorry, I don't understand. What do you mean?
+I'm sorry, I didn't get that. What do you mean?
+I don't understand. Can you say it again?
+Yes please
+Yes please!
+This is correct.
+Yes please!
+Yes
+Yes please
+Of course!
+Yes
+perfect
+perfect
+yes
+yes at please
+that's good!
+That sounds perfect!
+Yes please!
+Yes please
+Good, that is exactly in my price range!
+Very good!
+Yes please
+That sounds good
+Yes please
+That sounds great!
+Yes
+Yes, what is the best way to get to your hotel?
+Yes I have one more question. Is it possible to take public transport?
+Yes, what's the best way to get to the hotel?
+Thank you! What is the best way to get to your hotel from the airport?
+What rooms do you have?
+I am looking for a room
+What rooms do you have?
+What rooms do you have?
+Well, I have a question
+What about the third room?
+What about the other rooms?
+And the others?
+And the other rooms?
+Are the others capable too?
+What about the others?
+And beta?
+And the other rooms?
+In this one
+Okay and the other options?
+That sounds nice! Does Gamma have this too?
+And what about the first room?
+What about gamma?
+What about each room?
+And in gamma?
+And Alpha?
+And in gamma?
+Is the atmosphere nice?
+Beta and Gamma sound good. How do the rooms look like?
+How does the room look like?
+how does the gamma room look?
+how is the room decorated?
+How is the room decorated?
+Yes, how does the room look like?
+How is the decoration in the rooms?
+I need to show a presentation
+Can I show a presentation in this room?
+As I said before. I need to make a presentation.
+Are there TVs in the last room?
+Is it possible to do a presentation?
+And show presentation?
+Can I hold a presentation there?
+Is it possible to show a video?
+Do you have audio in room Gamma?
+Does it have a stage?
+can I stand on a stage?
+Do the other rooms also have a stage?
+what about the audio system?
+do you have a stage in the room beta?
+Can I show a presentation?
+And can I show a presentation?
+Interesting. Can I show a presentation in Alpha?
+Is there anything special about the room?
+Okay. What makes it special?
+Is there anything special about Gamma?
+Is there enough light in there?
+How are the lights?
+what about the lighting in the room gamma?
+Sounds nice! How expensive is room alpha?
+How expensive is this room?
+Interesting! How expensive is room gamma?
+Which room is the cheapest?
+I see. How expensive is beta?
+I need a cheap room for a presentation.
+How expensive is gamma?
+How much does it cost?
+How expensive is the second room?
+That is cheap! Are the others more expensive?
+how much is the pricing for each room?
+is the outdoor section included in the price for room beta?
+How much is the price?
+How expensive is it?
+What are the costs of the last one?
+Good. How expensive are they
+So I can't move tables?
+Can I move the chairs in Alpha? I need to make small groups.
+Can I form small groups?
+Can I do small groups?
+Okay, can people talk in small groups in the room?
+Can I do small groups and show a presentation?
+Is it possible to form groups in the room?
+But can I form groups in there?
+can we make small groups as well?
+do you have any tables in the room beta?
+Very good! Can I make small groups for discussions?
+Is possible to make groups for workshops?
+Can there be  people?
+I need a room for  people
+This sounds good. How many people fit in it?
+Hello do you have a room for  people?
+Do you have a room with space for  people
+Dear Ladies and Gentleman, I am looking for a room with space for  people.
+I need a room that has space for  people. Do you have that?
+Hi there I need a room for  people
+No
+No you helped me enough! Thanks
+Nope
+I do not want to reserve yet
+no that's all
+no thank you
+No, oops sorry wrong date!
+No i don't need anything else
+No that's all
+No I am good!
+No that's all thanks!
+That's not good!
+That's a little bit too much
+No. You helped enough. Thank you very much!
+No other questions! Have a nice day!
+Bye!
+Bye take care!
+Thanks. Take care!
+Thanks, you take care!
+Thanks again for your help. Take care!
+Ok great! Good bye and thanks again
+thanks goodbye!
+Thanks! Goodbye!
+Bye!
+Hi, how are you?
+Hi there! I need a room
+hey there!
+Hi there
+Hi I need a room that is bellow 
+Hi there I need a room for  people. Do you have that?
+Hi my name is . I am looking for a room.
+Hi my name is 
+Hi I am  and I am looking for a room
+Hi, my name is 
+Hi this is !
+We will need the room for the 
+Ok. I would like to book the room. Is it available on the ?
+I would like to book it for the 
+Yes, can I book it for the ?
+Sometime 
+The event is planned for the 
+can I make a reservation for the room beta at the ?
+On the 
+Yes, the 
+Yes, is the room free for the ?
+Perfect! I have a budget of  Swiss francs. So I think I will book it.
+I need a room. I have a budget of 
+I have a budget of 
+This is 
+my name is 
+My name is 
+My name is 
+We will have  people in this event
+I think there will be  guests
+Only  people
+Oh, I like Gamma the best!
+Interesting! I think Gamma is the best for me
+I think Beta sounds the best!
+Interesting beta sounds good
+I meant gamma
+Gamma
+Okay. Can I book the room?
+Sounds good. Can I book this room?
+could you please book the room gamma for me?
+Could you please make a reservation for the 
+Can I book the room?
+Is the room free?
+Is the room available?
+Is it possible to make a reservation?
+Can I make a reservation for Gamma?
+Thank you! You were very helpful
+Thank you very much!
+Perfect, thank you very much!
+Okay thanks
+That was fast thank you :)
+Thank you!
+ok fine. thank you
+thank you
+Thank you!
+Thanks you too
+Thanks you too!
+Thanks. You too!
+yes please
+Yes. Don't ask me again or I'll change my mind.
+Yes, that's correct
+i want to get a room
+You could help me by giving me more information about your event rooms.
+Can you tell me more about them?
+I need some information about your rooms, please
+Please tell me about your rooms
+how about the other rooms?
+Okay, and Beta?
+Okay. And the second one?
+Okay good. And the last one?
+Can you describe room Alpha a bit more please?
+What are these two rooms like otherwise?
+Which one do you like most?
+How about the others?
+And the last one?
+how is the atmosphere in the first room?
+What do the rooms look like?
+That sounds a bit old-fashioned. How about room Beta?
+Which one is the nicest?
+i want to do a presentation
+We need to do a presentation in the room. Is that possible?
+What about the rest of the equipment? Is there a projector and speakers?
+Do they also have a projector and audio system?
+Actually, wait... Is it really suitable to do a presentation in room Beta? The bar and lounge setup isn't really good for that, is it?
+What's the light like?
+how expensive is beta?
+how expensive are the others?
+How much are they?
+And what's the price difference in the three rooms?
+Okay cool. And how much is it?
+can i move the tables in this room?
+Cool! Can we sit in small groups?
+okay I like room Beta the most so far. Can we work in small groups there?
+Is it possible to sit in small groups in these rooms?
+And what is the seating like?
+Is there one for  people?
+no i am fine
+no that's all. thank you for your help!
+No thank you, that's all. Bye
+bye
+Yes, see you then
+goodbye
+Hi this is  in Bern. I have some questions about your event rooms.
+Hello
+hello
+For the .
+For the 
+For the evening of 
+You're speaking to me, .
+for  people
+Yes, we need a room for  guests. Or maybe there will be more
+For at least 
+Let's start with the first one, room Alpha
+Gamma
+Let's start with Alpha
+sounds good, is the room available?
+And is it available?
+I think I'll go with Beta
+Well okay. I'll take it
+I think I'll take that one.
+Great, thank you too!
+Yes, thanks
+yes
+sounds good
+yes
+correct
+yes please
+Hi, i would like to reserve a room
+ok, what about gamma?
+how about room gamma?
+and in room alpha?
+My company wants to do a presentation and we need a meeting room
+can we do a presentation in room alpha?
+yes, a room for  people to do a presentation
+We need to do a presentation, is this possible?
+how much is it?
+how much is room alpha?
+how expensive is this room?
+how much for gamma?
+is it possible to work in small groups in this room?
+can we do a workshop in this room?
+Is it possible to work in small groups?
+it should have space for  people
+I am search for a room for  people
+no it's ok
+no i'm ok
+no
+goodbye
+Thank you, goodbye
+Hello
+Hello
+Hello
+is this room free on the ?
+on the 
+I want to do a reservation for  people
+ok, room gamma sounds good
+awesome, can i book this room?
+ok, then i will book room gamma
+thank you
+hello
+Good morning
+How can I help you ?
+so you want to reserve one meeting room
+?
+how many people you are ?
+we have one room for people, one for  people inside outside  people and one room for  people
+the question is
+you want a room inside and outside or just inside
+the prices of this rooms
+room for people CHF 
+room for inside and people outside CHF 
+room for people costs CHF
+The room for people have two big TVs with audio function
+It's old the decoration is from 
+but it has a lot of table and chairs
+but you can choose where you want the furniture
+the room Beta is
+It's inside but also outside
+are you sure ?
+yes this room is in the middle from Toronto
+when do you have time ?
+yes that's good for me
+on by the train station
+so I can also come to the airport ?
+how do you like
+Yes so I will come to the airport at and we will meet as by the taxi station
+I come with my car and then we drive to the room
+that's not a problem for me
+so I will be there on
+yes
+perfect
+when you have any other questions please ask me
+so we will meet as and after we drive to the room
+if you don't like them I will show you the other two rooms
+okay ?
+as you like
+thank you for your interest
+we will see
+Morning
+Sure! 
+We have three rooms for your event.
+Room Alpha is for  people, 
+With a big stage and a fix delivery.
+The technical equipment is modern with a big screen
+The price for this room is
+Yes!
+Room Beta is for  people inside and outside people
+Room Gamma is for  people
+How many people are invited for the event?
+i think room Gamma is perfect for you event. It cost we have monitors with a stereo?
+You can also take room Beta but you have only space people inside the room?  And  people outside
+Do you have a presentation?
+Sure
+Good! The room Gamma is for people you have table for people with chairs we can put the tables away if you want? The decoration is from. We have two big monitors with a stereo. All that cost
+Where you from?
+We reserve you a taxi for you team and the guest from the airport?
+Sure, can you say me which time you arrive?
+Great! Send you the reservation with the taxi and de information!
+Have nice day!
+Good morning
+I can offer you a very special room. The room has a projector and speakers.  persons can sit inside and people outside. This room costs dollars. Would this room be something for you? 
+Kind regards, 
+Then I search the perfect room for this event with a good atmosphere.
+Yes of course! 
+The first room is a big event room with a lot of technical services (projector, speakers). This room is made for people and costs. It's a very big room, so I think it's not the perfect place for your event. 
+The second one is the one I told you about a few minutes ago. 
+And the last one is an historic room, made with love to the detail. Everything is in the style of. This room is made for people and costs
+Is the atmosphere by the second room good? Then we will a room where the people feel well and can form small groups.
+Thank you very much.
+Yes, what for an event are your planning?
+How many persons will be there?
+How much must it cost?
+And shall the room be classic or modern?
+I will present to you two rooms and then you can choose which one you like
+Do you agree?
+Okay
+First, we have a cheaper room
+Which is modern but is in the floor
+It costs  swiss francs
+It has a bar and the tables are for four persons and each table has a light
+It has a terrace
+So the room inside is just for  persons but in the terrace it has place for other  persons
+The other one is a bit classic
+The original decoration is from 
+But it is in the first stock
+So, you don't have to use the lift
+The tables are for - persons
+So, you can make bigger groups
+The first one the modern one costs just  swiss francs
+And the second one the classic one costs  swiss francs
+I have another one but I think it is not the room you want
+Because you can't make groups there
+And it is too big
+It is for persons
+And it don't have tables
+For groups
+Okay I well arrange it for you
+Yes
+Yes it has
+And another special thing is that you can see the city view
+I'm afraid not!
+When does the event take place?
+Which day?
+Dear Madam, thank you for contacting us. Absolutely, please ask any questions you have.
+We have three possible event rooms on offer which are suitable. a stage with fixed seats a bar with tables and a lounge terrace. a big hall with tables and chairs. All big enough for your required size.
+All rooms are within your budget. I think the stage (room) isn't ideal because the seats cannot be moved. Room offers seats for people inside and you could also use the outdoor terrace lounge. Room Alpha is indoors only but tables & chairs can be moved during the event.
+Does it matter to you on which floor the room is?
+It's  francs. The decoration is in the s style, very impressive - a good choice! I'm happy to place a reservation for you!
+If you send me your company details the booking is done.
+Thank you for your interest in the rooms of One King hotel.
+I have for you  options.
+The first is the for people and the other is for  and the last is for  people.
+Which do you need? You can ask my questions about the rooms
+In the room for  people do you have a modern multimedia equipment with a big screen and a protector and a very nice light and a perfect music.
+And the room costs
+In the room for  people you have round tables for - people with chairs. And you can move the table and the chairs.
+The decoration is from the years.
+You have two big TVs and a good music audience
+It is on the first floor
+Its cost '
+And the last one is the room for  people plus people more with the terrace.
+You have a bar with bar chairs and   tables for people.
+you have also a big screen and a projector and it is in the  floor and cost francs
+Yes, you have very good light in this room! That is the special in this room
+The room costs more than the others is that ok for you?
+Yes that's true.
+Then it's not a problem for you
+That's perfect. Then I send you the information and you can pay the cash. Is that okay for you?
+That's nice. Thank you for your interest about the hotel One King. I wish you a very nice day. See you.
+We have different event rooms. 
+One has a capacity of people.
+The second one for  people and the last one for  people.
+The first and the second one has a beamer
+The third one has big TVs
+The first one costs CHF, the second one CHF and the third one CHF.
+The first one has a capacity for  people
+The room has a big stage and many chairs
+The second one has a capacity for  people but I think this one is too small for your event
+But it has also place outside for  people. So that  people can find a place.
+The third one has a capacity for  people
+So you want the second room?
+Do you have any other questions?
+Yes, we have tables for people
+We have tables and chairs for people, but at one table can only sit  people
+Yes, we have free WLAN
+Yes, we will book and prepare the room for your event

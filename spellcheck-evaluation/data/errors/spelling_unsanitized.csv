@@ -1,0 +1,71 @@
+id,origin,input,error_pos
+1,ux test,"hello i would like to take a room for our Networking-event and saw on your website that you have 3 rooms
+could you give me more informations about the rooms Alpha, Beta and Gamma?",26
+2,ux test,is it also possible to schow a presentation in the room Beta?,5
+3,ux test,and room gemma?,2
+5,pilot,"yes, my name is unknown and I'm the tranee from the unknown.",8
+6,pilot,Me and my Colleges will organisie a Networkevent in Toronto,"3,5,7"
+7,pilot,oke and what will be the prises of this 3 rooms,6
+8,pilot,i'm intressted by the room gamma,1
+9,pilot,the prises of this rooms,1
+10,pilot,and how is the atmosphare there,4
+11,pilot,It's old the dekoration is from 1920,3
+12,pilot,but you can chose where do you want the mobiliar,9
+13,pilot,yes this room is in the midle from toronto,6
+14,pilot,on 14:00 by the trainstation,4
+15,pilot,ehm soory but I'am from switzerland,"1,3"
+16,pilot,when you have any other quedtions please ask me,5
+17,pilot,thank you for your intress,4
+18,pilot,i have to organisate a room for our companie,"3,8"
+19,pilot,can i have some informations about?,4
+20,pilot,or should i talr room alpha?,3
+21,pilot,our team arrives at the first ougust in toronto,6
+22,pilot,Sure can you say me witch time you arrives?,5
+23,pilot,So the room inside is just for 130 persons but in the terrase it has palce for other 60 persons,"12,15"
+24,pilot,Okay i well arange it for you,3
+25,pilot,but is the terass covert?,"3,4"
+26,pilot,becouse when its rain i have a problem,0
+27,pilot,When does the event take palce,5
+30,pilot,"Dear Ms unknown. Im in the apprentice ship in the unknown Company. Im looking for a Event Room in the One King hotel.
+We need space for 150 People or more. Which Informations do you need?","3,7,12,32"
+33,pilot,"In the room for 200 people you habe round tables for 6-8 peoples with chears.
+And you can switch the tablet and the chaers.","7,14,20,23"
+34,pilot,And the last one ist the room for 130 peopel plus 60 people more with the terass,"4,9,16"
+35,pilot,Yes thats troue.,"1,2"
+36,pilot,No thats perfect. We have evereything we need and the price is under our maximum.,"1,5"
+37,pilot,The room cust more than the others is that ok fore you?,"2,10"
+38,pilot,The thir one has 2 big tv's,"1,6"
+39,pilot,"Yes, we have tables for 4 personnes",6
+46,ux test,Our event also includes some workshop-elements. Is that possible in room Beta?,5
+50,ux test,"if im going to change my mind about which room we want to have our networking event at, is
+it possible to change the room?",1
+52,pilot,Can we use for aour event a room from you,4
+53,pilot,we had planed with 150. people,2
+59,pilot,perfekt,0
+60,pilot,do you have planed somthings after them?,"3,4"
+63,pilot,or should i talr room Gamma?,3
+64,pilot,so can i have informations for room Gamma,4
+65,pilot,wich is the fastest way from the trainstation?,"0,7"
+66,pilot,Our company have next month a networking-event in toronto (kanada). We need an optimal room for this event.,9
+69,pilot,On the website i have see that you have 3 different rooms can you tell me the diffrenet & costs for this rooms?,17
+70,pilot,Then i search the perfect room for this event with a good atmosphare.,12
+72,pilot,Is the atmosphare by the second room good?,2
+74,pilot,ehm 150 persons and ih need e room who i can show a presentation and i can make littel groups for speek,"4,6,18,21"
+79,pilot,can you giv me an other rom,"2,6"
+81,pilot,and the terass has also table?,2
+82,pilot,ou yes okey thats very beautifull,"2,3,5"
+84,pilot,i don't know the exate date,4
+85,pilot,"I'm interested to do a reservation for our company next month,
+we are oranising an Networking-Event for minimal 150 people. Do you have rooms for so many people?",13
+86,pilot,"That's great, we should be able to do some things in one of these room, to present our presentations,
+disscus in small teams, good atmosphere",19
+87,pilot,"No it doesn't matter we just should be able to do our planned list in this room,
+I thing option 3 is something I exepted","18,24"
+90,pilot,You said before ir costs 1'400? Our maximum is 1'500 so thats not the problem,"3,11"
+92,pilot,Wer have a meeting with 150 people,0
+94,ux test,which room has the best athmosphere,5
+97,ux test,"We are looking for a room, which has enough space for 150 persons.
+We also want to make a Powerpoint presentation for our employes.
+The participants should also be able to make conversations after the presentation.
+It would be nice if the room could have a good atmosphere and is goodlooking.","23,50"
+100,ux test,wich room has the best atmosphare?,"0,5"
