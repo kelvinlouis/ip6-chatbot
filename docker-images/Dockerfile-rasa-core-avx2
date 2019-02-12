@@ -18,7 +18,7 @@ COPY ./rasa-core-entrypoint.sh ./entrypoint.sh
 
 RUN pip install -U "https://anaconda.org/intel/tensorflow/1.10.0/download/tensorflow-1.10.0-cp36-cp36m-linux_x86_64.whl-avx2.whl"
 
-RUN pip install -U rasa_core
+RUN pip install -U rasa-core==0.12.4
 
 VOLUME ["/app/data/stories", "/app/models/dialogue", "/app/logs"]
 
