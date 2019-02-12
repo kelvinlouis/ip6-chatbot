@@ -1,0 +1,3744 @@
+{
+    "results": [
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:31.217Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABCD Corp",
+                    "name": "Mark Muller."
+                },
+                "contexts": [],
+                "resolvedQuery": "Hey, my name is Mark Muller. I am an intern at ABCD Corp",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9755e25e-0aae-4f25-ad38-dfd34914809a"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:31.479Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABCD Corp",
+                    "name": "Mark Muller."
+                },
+                "contexts": [],
+                "resolvedQuery": "Good morning, my name is Mark Muller. I am in an internship at ABCD Corp",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9c092eac-a4c3-4538-a2c1-49e19d3a1e43"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:31.682Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                    "name": "Mark Muller."
+                },
+                "contexts": [],
+                "resolvedQuery": "Good morning, this is Mark Muller.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e47eaaa8-7dee-4d0e-9aab-85e7b6c304f8"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:31.901Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                    "name": "Mrs Hutchinson."
+                },
+                "contexts": [],
+                "resolvedQuery": "Hi, how is it going? I am Mrs Hutchinson.",
+                "source": "agent",
+                "score": 0.9700000286102295,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "95cb4c04-4ff6-48fa-8b74-ab8af793d268",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "greet",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "d11c907a-6b12-44c4-9247-a713cf0e6662"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:32.136Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ACME.",
+                    "name": "Jennifer Hutchinson."
+                },
+                "contexts": [],
+                "resolvedQuery": "Hey, my name is Jennifer Hutchinson. I am an intern at ACME.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "f3cdf6b7-1e1b-4b99-a9af-217c4dcbb877"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:32.402Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ACME.",
+                    "name": "Mark Muller."
+                },
+                "contexts": [],
+                "resolvedQuery": "Good afternoon, my name is Mark Muller. I am in an internship at ACME.",
+                "source": "agent",
+                "score": 0.9408172355899713,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "95cb4c04-4ff6-48fa-8b74-ab8af793d268",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "greet",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8150be38-af01-4413-98e0-04a88172bd74"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:32.672Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABCD Corp",
+                    "name": "Jennifer."
+                },
+                "contexts": [],
+                "resolvedQuery": "Good morning, this is Jennifer. I am in an internship at ABCD Corp",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "c31a17c6-0c00-494d-98cd-ef3b03dbcf8d"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:32.948Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ACME.",
+                    "name": "Mr. Mark Muller."
+                },
+                "contexts": [],
+                "resolvedQuery": "Hello, I am Mr. Mark Muller. I am an intern at ACME.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "6347a293-0311-475f-a76e-2eab76521e05"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:33.307Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                    "name": "Mr Muller."
+                },
+                "contexts": [],
+                "resolvedQuery": "Hey, how is it going? My name is Mr Muller.",
+                "source": "agent",
+                "score": 0.949999988079071,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "95cb4c04-4ff6-48fa-8b74-ab8af793d268",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "greet",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "242f791d-a551-4d31-98d1-afc72303510c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:33.598Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABCD Corp",
+                    "name": "Mark."
+                },
+                "contexts": [],
+                "resolvedQuery": "Good afternoon, I am Mark. I am in an internship at ABCD Corp",
+                "source": "agent",
+                "score": 0.9408172355899713,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "95cb4c04-4ff6-48fa-8b74-ab8af793d268",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "greet",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "91edb0bc-75ee-418a-aefa-fbf7284b6cfa"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:33.922Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABCD Corp",
+                    "name": "Mrs Hutchinson."
+                },
+                "contexts": [],
+                "resolvedQuery": "Good afternoon, this is Mrs Hutchinson. I am in an internship at ABCD Corp",
+                "source": "agent",
+                "score": 0.9408172355899713,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "95cb4c04-4ff6-48fa-8b74-ab8af793d268",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "greet",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "abbb49ed-63e8-4f95-890b-2ec2bba102ed"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:34.166Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                    "name": "Mrs. Jennifer Hutchinson."
+                },
+                "contexts": [],
+                "resolvedQuery": "Good evening, how are you? My name is Mrs. Jennifer Hutchinson.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "95cb4c04-4ff6-48fa-8b74-ab8af793d268",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "greet",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "cfbf359a-4b0d-4bbe-91f5-53f2023076fb"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:34.409Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABCD Corp",
+                    "name": "Mrs Hutchinson."
+                },
+                "contexts": [],
+                "resolvedQuery": "Good evening, I am Mrs Hutchinson. I work for ABCD Corp",
+                "source": "agent",
+                "score": 0.9408172355899713,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "95cb4c04-4ff6-48fa-8b74-ab8af793d268",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "greet",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "749b65de-10b0-4a7b-917b-cf40b036a4b6"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:34.613Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                    "name": "Mr Muller."
+                },
+                "contexts": [],
+                "resolvedQuery": "Hello, my name is Mr Muller.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "95cb4c04-4ff6-48fa-8b74-ab8af793d268",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "greet",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "02f4b545-f165-469e-8a84-f210bc30024b"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:34.837Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABCD Corp",
+                    "name": "Mrs Hutchinson."
+                },
+                "contexts": [],
+                "resolvedQuery": "Hello, this is Mrs Hutchinson. I work for ABCD Corp",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "23c4ee76-55e5-44c1-998a-632511205b45"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:35.045Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "",
+                    "name": ""
+                },
+                "contexts": [],
+                "resolvedQuery": "Good morning, this is Mr Muller. I work for ACME.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b4598c55-7f12-4878-9b3f-37e4643c3f8d"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:35.245Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                    "name": "Mark Muller."
+                },
+                "contexts": [],
+                "resolvedQuery": "Hi, how is it going? I am Mark Muller.",
+                "source": "agent",
+                "score": 0.9700000286102295,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "95cb4c04-4ff6-48fa-8b74-ab8af793d268",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "greet",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "86d70ccc-0b89-40de-b1e1-b6f9b48e614c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:35.519Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "",
+                    "name": ""
+                },
+                "contexts": [],
+                "resolvedQuery": "Good morning, my name is Jennifer. I work for ACME.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "064f5b3e-97f5-4a2d-9f4e-98d18b6526e3"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:35.8Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABCD Corp",
+                    "name": "Mrs Hutchinson."
+                },
+                "contexts": [],
+                "resolvedQuery": "Good afternoon, this is Mrs Hutchinson. I am an intern at ABCD Corp",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b34e4ba7-b4b5-4158-86f6-c940b34796d3"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:36.097Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ACME.",
+                    "name": "Jennifer."
+                },
+                "contexts": [],
+                "resolvedQuery": "Hi, my name is Jennifer. I work for ACME.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8c3141c9-d166-4802-b9b9-506d1ea28545"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:36.359Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ACME",
+                    "name": "Mr. Mark Muller"
+                },
+                "contexts": [],
+                "resolvedQuery": "My name is Mr. Mark Muller i am an intern at ACME",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "991877dd-dbc7-4cc9-9a06-5a4faa7eb73f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:36.64Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ACME",
+                    "name": "Mr. Mark Muller"
+                },
+                "contexts": [],
+                "resolvedQuery": "This is Mr. Mark Muller i am in an internship at ACME",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "3f586da8-04ff-41b8-8caa-dae9c1795407"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:36.864Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                    "name": "Jennifer Hutchinson"
+                },
+                "contexts": [],
+                "resolvedQuery": "My name is Jennifer Hutchinson",
+                "source": "agent",
+                "score": 0.75,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "6fc245ae-aafa-4ee3-bce5-c02e6135710a"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:37.154Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABC COMPANY",
+                    "name": "Mark Muller"
+                },
+                "contexts": [],
+                "resolvedQuery": "My name is Mark Muller i work for ABC COMPANY",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "7ee36ea1-f166-42b9-bcae-71399cb83d9c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:37.356Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABC COMPANY",
+                    "name": "Mr. Mark Muller"
+                },
+                "contexts": [],
+                "resolvedQuery": "Mr. Mark Muller from ABC COMPANY",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "de266607-5447-4cad-b925-0d1f199d50e5"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:37.59Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABC COMPANY",
+                    "name": "Mrs hutchinson"
+                },
+                "contexts": [],
+                "resolvedQuery": "Mrs hutchinson from ABC COMPANY",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "01e267f0-cc8e-49fb-a34a-2e5e4b9d414c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:37.81Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                    "name": "Jennifer Hutchinson"
+                },
+                "contexts": [],
+                "resolvedQuery": "Yes, I am Jennifer Hutchinson",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "57a85703-a84c-460d-bb12-7a3f299b63f2"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:38.071Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABC COMPANY",
+                    "name": "Mrs. Jennifer Hutchinson"
+                },
+                "contexts": [],
+                "resolvedQuery": "My name is Mrs. Jennifer Hutchinson i work for ABC COMPANY",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "3c4c8f16-dd7d-49ca-a629-689c6d546c08"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:38.341Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABC COMPANY",
+                    "name": "Mr muller"
+                },
+                "contexts": [],
+                "resolvedQuery": "My name is Mr muller i am an intern at ABC COMPANY",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "72d67cd8-d009-41d1-8ee7-80b21eea9449"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:38.758Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABC COMPANY",
+                    "name": "Mark"
+                },
+                "contexts": [],
+                "resolvedQuery": "My name is Mark i am in an internship at ABC COMPANY",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "ecb2fdb4-9109-4384-ad64-29a97032af0d"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:38.957Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                    "name": "Mr. Mark Muller"
+                },
+                "contexts": [],
+                "resolvedQuery": "Yes, This is Mr. Mark Muller",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5e294451-10b8-4f9f-8e10-7c5f903c9276"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:39.268Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABC COMPANY",
+                    "name": "Jennifer"
+                },
+                "contexts": [],
+                "resolvedQuery": "I am Jennifer i am in an internship at ABC COMPANY",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "7188732b-4789-4809-9550-2ed0f6e383a9"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:39.497Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ACME",
+                    "name": "Jennifer Hutchinson"
+                },
+                "contexts": [],
+                "resolvedQuery": "My name is Jennifer Hutchinson from ACME",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8b394324-e263-40d1-8f4d-9b60d5eb7295"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:39.806Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABC COMPANY",
+                    "name": "Mrs hutchinson"
+                },
+                "contexts": [],
+                "resolvedQuery": "Mrs hutchinson i am in an internship at ABC COMPANY",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "92f0b9ea-e9cb-41ce-a7ac-f3ddb9809749"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:40.048Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                    "name": "Mrs hutchinson"
+                },
+                "contexts": [],
+                "resolvedQuery": "I am Mrs hutchinson",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "772b226f-c7f6-4f5d-a3de-26d475b84c2f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:40.286Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ACME",
+                    "name": "Mr muller"
+                },
+                "contexts": [],
+                "resolvedQuery": "My name is Mr muller i work for ACME",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e171be14-bf15-47d4-b762-5b5682c52bc6"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:40.53Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ACME",
+                    "name": "Mark"
+                },
+                "contexts": [],
+                "resolvedQuery": "Mark i am in an internship at ACME",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5d38900e-9884-45f1-8b06-e2d769835dc6"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:40.777Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABC COMPANY",
+                    "name": "Mark"
+                },
+                "contexts": [],
+                "resolvedQuery": "This is Mark from ABC COMPANY",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "bd2eec89-4453-40d8-af9a-f1d58ed1c6d4"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:40.997Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                    "name": "Mrs hutchinson"
+                },
+                "contexts": [],
+                "resolvedQuery": "This is Mrs hutchinson",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "d4ce59a7-1fa2-4c0b-a3f7-ac06334323c6"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:41.246Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "company": "ABC COMPANY",
+                    "name": "Mrs. Jennifer Hutchinson"
+                },
+                "contexts": [],
+                "resolvedQuery": "This is Mrs. Jennifer Hutchinson i work for ABC COMPANY",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fb1088fd-19d4-4cf2-b0c1-96400c77f58a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_name",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "c69b60bf-2408-4588-b9e7-85158a979790"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:41.571Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "What kind of meeting rooms do you provide that has room for 150 people in the one king hotel?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b87787ad-d562-4cfc-bdb6-6fbfc4d44d23"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:41.896Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "What kind of rooms do you have for 250 employees?",
+                "source": "agent",
+                "score": 0.7400000095367432,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "53b34fd2-5512-4eec-ae15-dc0d6bdfb3b3"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:42.149Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                },
+                "contexts": [],
+                "resolvedQuery": "We are interested in a place in the one king hotel",
+                "source": "agent",
+                "score": 0.7200000286102295,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8269bc11-de17-4818-9718-6cb084f65ecc"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:42.45Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "I need a room for 150 employees in your hotel",
+                "source": "agent",
+                "score": 0.6000000238418579,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "09fd7243-d407-4a61-937a-f79a1d34ad39"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:42.809Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "200"
+                },
+                "contexts": [],
+                "resolvedQuery": "We would like to reserve an event room for 200 people",
+                "source": "agent",
+                "score": 0.7400000095367432,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "3007f738-c335-42a5-ae1a-b88997088cfa"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:43.093Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "How many rooms do you have that has room for 250 persons in the one king hotel?",
+                "source": "agent",
+                "score": 0.9800000190734863,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "4848bd66-0a9c-4185-911f-3a13fd17722f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:43.519Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "I am searching an event room that has room for 150 people in the one king hotel",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "cd587809-49bf-4c5e-8e1a-3c2b58da0780"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:43.791Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We are looking for a meeting room that fits 250 people",
+                "source": "agent",
+                "score": 0.9300000071525574,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b7a0f16f-c779-48a7-90ed-d1c9ba74e578"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:44.077Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "I am searching a location for 150 guests in your hotel",
+                "source": "agent",
+                "score": 0.7900000214576721,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "c1b97dc8-5add-46f8-95f1-554f5e876086"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:44.334Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "I'm looking for a room that has room for 150 people",
+                "source": "agent",
+                "score": 0.9599999785423279,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "1d8501c8-5c69-472d-ab75-450dd0d8943f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:44.6Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "What event rooms do you have for 150 persons in the one king hotel?",
+                "source": "agent",
+                "score": 0.9599999785423279,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "1498991c-f64d-4f26-8bf3-327ac86939e6"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:44.907Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "What meeting rooms do you provide for 150 employees?",
+                "source": "agent",
+                "score": 0.7300000190734863,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "53bf7559-309d-4098-ae94-07aca773457e"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:45.214Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We would like to reserve a meeting room that fits 250 guests",
+                "source": "agent",
+                "score": 0.7400000095367432,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "f01f6010-f530-4b2c-86d9-aef5a9f2203d"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:45.542Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "200"
+                },
+                "contexts": [],
+                "resolvedQuery": "We are looking for a meeting room that has room for 200 persons in the one king hotel",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "743daf8c-49a4-4d03-bfc4-bd51259dfa83"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:45.801Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "What event rooms do you provide that has room for 250 persons in your hotel?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9553898e-936f-46c2-9eb1-cb47036ac4ea"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:46.078Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "200"
+                },
+                "contexts": [],
+                "resolvedQuery": "I need an event room for 200 guests in the one king hotel",
+                "source": "agent",
+                "score": 0.8799999952316284,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "7cbcc677-0b9a-4859-95e3-62c4a03585d1"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:46.392Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We need a location that has room for 250 people",
+                "source": "agent",
+                "score": 0.7799999713897705,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "d51cdcf1-0fbc-4ddd-a60e-10f3c06043ad"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:46.718Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "I would like to reserve a room for an event that fits 150 guests in your hotel",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "10559cf4-2c7f-450e-b640-30d440694899"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:46.978Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "How many meeting rooms do you have that fits 150 persons in the one king hotel?",
+                "source": "agent",
+                "score": 0.949999988079071,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "476cbaa3-89b9-41c0-aa3a-0b53d3272183"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:47.284Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "200"
+                },
+                "contexts": [],
+                "resolvedQuery": "What kind of event rooms do you provide that has room for 200 guests?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "783adcb0-1133-4374-bbe7-4ffd3ec5de48",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "ask_for_rooms",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b754bf47-19ba-4bd0-b130-83c22421754a"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:47.527Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "200"
+                },
+                "contexts": [],
+                "resolvedQuery": "We are expecting 200 employees",
+                "source": "agent",
+                "score": 0.8700000047683716,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "19028d38-42c4-42f2-b305-dd5a446d0040"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:47.736Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "200"
+                },
+                "contexts": [],
+                "resolvedQuery": "We planned for 200 people",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "28489cdd-a205-4ad8-9e61-f94df283e1da"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:48.018Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "200"
+                },
+                "contexts": [],
+                "resolvedQuery": "We have to get a room for 200 people",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "3a6c608f-625e-4070-afda-b4515f5abe9f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:48.217Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "150 guests",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "ced4555d-8a07-4239-badf-667176a74cd4"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:48.447Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "We planned for 150 persons",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "ce919972-1962-4b96-96e0-c166e821665a"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:48.673Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "The event will be for 150",
+                "source": "agent",
+                "score": 0.8999999761581421,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "df4639be-d99f-4a42-aacb-277965ff553c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:48.911Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We need a room for 250 persons",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "007a3047-9020-4a5d-83d0-ce01ffe18724"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:49.149Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We need a room for 250 employees",
+                "source": "agent",
+                "score": 0.949999988079071,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "ec22f1e6-da5a-4140-8f80-4c060bf6dca6"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:49.361Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We are expecting 250 guests",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e8589ddd-5ba5-4a0b-97c0-caae8c931966"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:49.671Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We have to get a room for 250 guests",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "7f2b72ef-2400-4e34-b431-0d6bcf6f1af2"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:49.906Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We are planning for 250",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "401fbf83-299c-4ec1-a043-b2ec1b5b0086"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:50.121Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "200"
+                },
+                "contexts": [],
+                "resolvedQuery": "We planned for 200 employees",
+                "source": "agent",
+                "score": 0.9200000166893005,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "20c5cf76-34c7-4d61-a4e7-d7a8c14828c6"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:50.365Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We are expecting 250 employees",
+                "source": "agent",
+                "score": 0.8700000047683716,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e738a1bc-9c8e-456c-b187-85722f61fe79"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:50.605Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "200"
+                },
+                "contexts": [],
+                "resolvedQuery": "The event will be for 200",
+                "source": "agent",
+                "score": 0.8999999761581421,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "66128654-5372-40db-9802-f426a2ee7669"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:50.826Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We are expecting 250",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "cc5492a8-a410-4e38-8b9c-a54c43f025b3"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:51.06Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "150"
+                },
+                "contexts": [],
+                "resolvedQuery": "We are planning for 150 employees",
+                "source": "agent",
+                "score": 0.9200000166893005,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "87995138-8781-4af2-b8c2-516bf5f2765f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:51.237Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "200"
+                },
+                "contexts": [],
+                "resolvedQuery": "200",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "fee02bf0-a90c-4fcb-8660-3d9746e10f03"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:51.467Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We are planning for 250 employees",
+                "source": "agent",
+                "score": 0.9200000166893005,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "37aec9f9-da5b-42f6-9535-142f6534053f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:51.732Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "250"
+                },
+                "contexts": [],
+                "resolvedQuery": "We have to get a room for 250",
+                "source": "agent",
+                "score": 0.8799999952316284,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "80e10544-b405-4d1d-8d5b-c8505c928fef"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:51.956Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "nr_of_people": "200"
+                },
+                "contexts": [],
+                "resolvedQuery": "We need a room for 200 people",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "4a98e98e-f24e-4ddd-8349-c8bbc725c22e",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "provide_nr_of_people",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "50add32b-8d56-4e5d-a302-907f34e5b83f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:52.186Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "A."
+                },
+                "contexts": [],
+                "resolvedQuery": "Thanks! I want to book room A.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "f1c3e3e8-6fec-46f5-9a5a-494d586aae78"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:52.401Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "last"
+                },
+                "contexts": [],
+                "resolvedQuery": "Thank you! I will take the last room.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "3a1b8cce-a4b4-4c2c-a622-512e0a61adb7"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:52.612Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "B."
+                },
+                "contexts": [],
+                "resolvedQuery": "Thanks! I will book room B.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "1b30f02a-afe7-4df3-a08a-621406222684"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:52.822Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "first"
+                },
+                "contexts": [],
+                "resolvedQuery": "Ok! I will book the first room.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "70b239a8-5897-4ce9-a8d6-a5df1e4b5dd2"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:53.042Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    
+                },
+                "contexts": [],
+                "resolvedQuery": "Can we reserve the room right now?",
+                "source": "agent",
+                "score": 0.6600000262260437,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e44fccaa-6ac3-4a41-b315-3734cdb17844"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:53.253Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "third"
+                },
+                "contexts": [],
+                "resolvedQuery": "Thank you! We will book the third room.",
+                "source": "agent",
+                "score": 0.9300000071525574,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "63cefcc6-49a5-4399-9b11-96d3018ce76e"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:53.467Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "A."
+                },
+                "contexts": [],
+                "resolvedQuery": "We take room A.",
+                "source": "agent",
+                "score": 0.8999999761581421,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "84b84ffc-73e3-43d1-9c1e-1c488ead7139"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:53.748Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "second"
+                },
+                "contexts": [],
+                "resolvedQuery": "Thank you very much for your help. We will reserve the second room.",
+                "source": "agent",
+                "score": 0.8999999761581421,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "d9ea15df-26bb-4bdf-a615-3939138c27e2"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:54.04Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "C."
+                },
+                "contexts": [],
+                "resolvedQuery": "I will book room C.",
+                "source": "agent",
+                "score": 0.9800000190734863,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "ddc0a07c-68fb-429f-849c-be7c334b7f2a"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:54.469Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "last"
+                },
+                "contexts": [],
+                "resolvedQuery": "Ok! I will take the last room.",
+                "source": "agent",
+                "score": 0.8999999761581421,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "960664cc-66db-451f-8e02-5aff930850db"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:54.699Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "first"
+                },
+                "contexts": [],
+                "resolvedQuery": "Thanks for your help! We will reserve the first room.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "316f0ca7-75ad-4b2a-8f55-da62d333a737"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:54.979Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "C."
+                },
+                "contexts": [],
+                "resolvedQuery": "Thank you very much for your help. I take room C.",
+                "source": "agent",
+                "score": 0.8899999856948853,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "beaa8b8e-af8c-48ad-9bb6-8d18c49048a7"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:55.223Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "A."
+                },
+                "contexts": [],
+                "resolvedQuery": "Thank you! We want to book room A.",
+                "source": "agent",
+                "score": 0.949999988079071,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9ccdd1f1-72e0-4063-8fc8-ddc32b345b0e"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:55.427Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "third"
+                },
+                "contexts": [],
+                "resolvedQuery": "Thanks! We take the third room.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "c3d7e6c3-4bec-440b-b6be-2ba27e10b2e0"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:55.692Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "A."
+                },
+                "contexts": [],
+                "resolvedQuery": "Thanks for your help! I want to reserve room A.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "56139ee5-11f2-43fe-8b72-d76dd9b91b66"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:55.887Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": ""
+                },
+                "contexts": [],
+                "resolvedQuery": "Thanks! I will reserve room C.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "796741f4-37b2-44a7-b96a-5748c4c35d36"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:56.121Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "first"
+                },
+                "contexts": [],
+                "resolvedQuery": "I want to book the first room.",
+                "source": "agent",
+                "score": 0.9700000286102295,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "47502729-09ed-47c7-9393-b2d276d04757"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:56.388Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "B."
+                },
+                "contexts": [],
+                "resolvedQuery": "Thanks for your help! I will book room B.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "f6bd24de-ddc6-49aa-8a1d-51963eca4c7c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:56.608Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "second"
+                },
+                "contexts": [],
+                "resolvedQuery": "I will take the second room.",
+                "source": "agent",
+                "score": 0.9200000166893005,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "1063aecd-0bd4-41d0-b0d4-73f1b6dbab64"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-22T11:42:56.854Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "room": "third"
+                },
+                "contexts": [],
+                "resolvedQuery": "Ok! I will reserve the third room.",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "894cab5e-2909-4587-b62c-882187507ddb",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "reserve_room",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8e8bf93e-131f-4e80-b96f-9abeeda62747"
+        }
+    ]
+}
