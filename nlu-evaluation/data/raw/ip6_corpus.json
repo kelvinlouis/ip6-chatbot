@@ -1,0 +1,4507 @@
+{
+	"name": "IP6Corpus",
+  "desc": "",
+  "lang": "en",
+  "sentences": [{
+    "text": "Hello, this is Mrs. Jennifer Hutchinson.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 39,
+      "entity": "name",
+      "start": 15,
+      "text": "Mrs. Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "Good afternoon",
+    "intent": "greet",
+    "training": true,
+    "entities": []
+  }, {
+    "text": "Hello, this is Jennifer. I am an intern at ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "name",
+      "start": 15,
+      "text": "Jennifer"
+    }, {
+      "stop": 47,
+      "entity": "company",
+      "start": 43,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Hey, how are you?",
+    "intent": "greet",
+    "training": true,
+    "entities": []
+  }, {
+    "text": "Good evening, how are you? My name is Mark.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 42,
+      "entity": "name",
+      "start": 38,
+      "text": "Mark"
+    }]
+  }, {
+    "text": "Hi, I am Jennifer Hutchinson. I am an intern at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 28,
+      "entity": "name",
+      "start": 9,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 57,
+      "entity": "company",
+      "start": 48,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good afternoon, my name is Mr. Mark Muller. I work for ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 42,
+      "entity": "name",
+      "start": 27,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 64,
+      "entity": "company",
+      "start": 55,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good evening, how is it going? This is Mrs. Jennifer Hutchinson.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 63,
+      "entity": "name",
+      "start": 39,
+      "text": "Mrs. Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "Hey, this is Mark Muller. I am an intern at ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 24,
+      "entity": "name",
+      "start": 13,
+      "text": "Mark Muller"
+    }, {
+      "stop": 48,
+      "entity": "company",
+      "start": 44,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Good evening, my name is Mr. Mark Muller. I am in an internship at ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 40,
+      "entity": "name",
+      "start": 25,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 71,
+      "entity": "company",
+      "start": 67,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Good afternoon, I am Mark Muller. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 32,
+      "entity": "name",
+      "start": 21,
+      "text": "Mark Muller"
+    }, {
+      "stop": 68,
+      "entity": "company",
+      "start": 59,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good morning, my name is Mark.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "name",
+      "start": 25,
+      "text": "Mark"
+    }]
+  }, {
+    "text": "Good afternoon, how is it going? This is Jennifer.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 49,
+      "entity": "name",
+      "start": 41,
+      "text": "Jennifer"
+    }]
+  }, {
+    "text": "Good morning, this is Mr Muller. I am an intern at ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 31,
+      "entity": "name",
+      "start": 22,
+      "text": "Mr Muller"
+    }, {
+      "stop": 55,
+      "entity": "company",
+      "start": 51,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Good evening, I am Mark Muller. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 30,
+      "entity": "name",
+      "start": 19,
+      "text": "Mark Muller"
+    }, {
+      "stop": 66,
+      "entity": "company",
+      "start": 57,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good morning, my name is Mr Muller. I work for ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 34,
+      "entity": "name",
+      "start": 25,
+      "text": "Mr Muller"
+    }, {
+      "stop": 51,
+      "entity": "company",
+      "start": 47,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Hi, my name is Mr. Mark Muller. I am an intern at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 30,
+      "entity": "name",
+      "start": 15,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 59,
+      "entity": "company",
+      "start": 50,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good morning, how is it going? I am Mr Muller.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 45,
+      "entity": "name",
+      "start": 36,
+      "text": "Mr Muller"
+    }]
+  }, {
+    "text": "Hi, my name is Mark Muller. I work for ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 26,
+      "entity": "name",
+      "start": 15,
+      "text": "Mark Muller"
+    }, {
+      "stop": 43,
+      "entity": "company",
+      "start": 39,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Good evening, this is Jennifer Hutchinson. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 41,
+      "entity": "name",
+      "start": 22,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 77,
+      "entity": "company",
+      "start": 68,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good evening, I am Mark Muller.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 30,
+      "entity": "name",
+      "start": 19,
+      "text": "Mark Muller"
+    }]
+  }, {
+    "text": "Hello, how is it going? I am Mr Muller.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 38,
+      "entity": "name",
+      "start": 29,
+      "text": "Mr Muller"
+    }]
+  }, {
+    "text": "Hi, my name is Mrs. Jennifer Hutchinson. I work for ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 39,
+      "entity": "name",
+      "start": 15,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 61,
+      "entity": "company",
+      "start": 52,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hi, my name is Jennifer. I am an intern at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "name",
+      "start": 15,
+      "text": "Jennifer"
+    }, {
+      "stop": 52,
+      "entity": "company",
+      "start": 43,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good evening, this is Mark. I work for ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 26,
+      "entity": "name",
+      "start": 22,
+      "text": "Mark"
+    }, {
+      "stop": 48,
+      "entity": "company",
+      "start": 39,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good afternoon, how are you? This is Jennifer.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 45,
+      "entity": "name",
+      "start": 37,
+      "text": "Jennifer"
+    }]
+  }, {
+    "text": "Good morning, I am Jennifer. I am in an internship at ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 27,
+      "entity": "name",
+      "start": 19,
+      "text": "Jennifer"
+    }, {
+      "stop": 58,
+      "entity": "company",
+      "start": 54,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Hi, I am Mark. I am an intern at ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 13,
+      "entity": "name",
+      "start": 9,
+      "text": "Mark"
+    }, {
+      "stop": 37,
+      "entity": "company",
+      "start": 33,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Hello, my name is Mrs. Jennifer Hutchinson. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 42,
+      "entity": "name",
+      "start": 18,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 78,
+      "entity": "company",
+      "start": 69,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good evening, how are you? My name is Mr Muller.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 47,
+      "entity": "name",
+      "start": 38,
+      "text": "Mr Muller"
+    }]
+  }, {
+    "text": "Hey, I am Jennifer Hutchinson.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "name",
+      "start": 10,
+      "text": "Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "Hey, this is Mr Muller. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "name",
+      "start": 13,
+      "text": "Mr Muller"
+    }, {
+      "stop": 58,
+      "entity": "company",
+      "start": 49,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good afternoon, my name is Mr. Mark Muller. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 42,
+      "entity": "name",
+      "start": 27,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 78,
+      "entity": "company",
+      "start": 69,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hello, my name is Mark Muller. I work for ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "name",
+      "start": 18,
+      "text": "Mark Muller"
+    }, {
+      "stop": 46,
+      "entity": "company",
+      "start": 42,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Good afternoon, how is it going? My name is Mrs. Jennifer Hutchinson.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 68,
+      "entity": "name",
+      "start": 44,
+      "text": "Mrs. Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "Hey, I am Mark. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 14,
+      "entity": "name",
+      "start": 10,
+      "text": "Mark"
+    }, {
+      "stop": 50,
+      "entity": "company",
+      "start": 41,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hey, I am Mr Muller. I work for ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 19,
+      "entity": "name",
+      "start": 10,
+      "text": "Mr Muller"
+    }, {
+      "stop": 41,
+      "entity": "company",
+      "start": 32,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hey, how are you? My name is Mr. Mark Muller.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 44,
+      "entity": "name",
+      "start": 29,
+      "text": "Mr. Mark Muller"
+    }]
+  }, {
+    "text": "Hey, I am Mark. I am an intern at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 14,
+      "entity": "name",
+      "start": 10,
+      "text": "Mark"
+    }, {
+      "stop": 43,
+      "entity": "company",
+      "start": 34,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good afternoon, my name is Mr. Mark Muller.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 42,
+      "entity": "name",
+      "start": 27,
+      "text": "Mr. Mark Muller"
+    }]
+  }, {
+    "text": "Good evening, this is Mark. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 26,
+      "entity": "name",
+      "start": 22,
+      "text": "Mark"
+    }, {
+      "stop": 62,
+      "entity": "company",
+      "start": 53,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hey, my name is Mrs. Jennifer Hutchinson. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 40,
+      "entity": "name",
+      "start": 16,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 76,
+      "entity": "company",
+      "start": 67,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hello, how is it going? I am Mr. Mark Muller.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 44,
+      "entity": "name",
+      "start": 29,
+      "text": "Mr. Mark Muller"
+    }]
+  }, {
+    "text": "Hey, this is Mr Muller. I am an intern at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "name",
+      "start": 13,
+      "text": "Mr Muller"
+    }, {
+      "stop": 51,
+      "entity": "company",
+      "start": 42,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good afternoon, this is Mrs. Jennifer Hutchinson. I work for ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 48,
+      "entity": "name",
+      "start": 24,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 70,
+      "entity": "company",
+      "start": 61,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good afternoon, I am Mark.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "name",
+      "start": 21,
+      "text": "Mark"
+    }]
+  }, {
+    "text": "Good evening, I am Mr Muller. I work for ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 28,
+      "entity": "name",
+      "start": 19,
+      "text": "Mr Muller"
+    }, {
+      "stop": 50,
+      "entity": "company",
+      "start": 41,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good afternoon, how is it going? This is Mark Muller.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 52,
+      "entity": "name",
+      "start": 41,
+      "text": "Mark Muller"
+    }]
+  }, {
+    "text": "Good afternoon, I am Mrs Hutchinson. I am in an internship at ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 35,
+      "entity": "name",
+      "start": 21,
+      "text": "Mrs Hutchinson"
+    }, {
+      "stop": 66,
+      "entity": "company",
+      "start": 62,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Hello, my name is Mr Muller. I work for ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 27,
+      "entity": "name",
+      "start": 18,
+      "text": "Mr Muller"
+    }, {
+      "stop": 44,
+      "entity": "company",
+      "start": 40,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Hello, I am Mrs. Jennifer Hutchinson. I work for ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 36,
+      "entity": "name",
+      "start": 12,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 58,
+      "entity": "company",
+      "start": 49,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hi, how are you? I am Mr. Mark Muller.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 37,
+      "entity": "name",
+      "start": 22,
+      "text": "Mr. Mark Muller"
+    }]
+  }, {
+    "text": "Good evening, my name is Mark Muller. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 36,
+      "entity": "name",
+      "start": 25,
+      "text": "Mark Muller"
+    }, {
+      "stop": 72,
+      "entity": "company",
+      "start": 63,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good evening, I am Mr Muller. I am in an internship at ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 28,
+      "entity": "name",
+      "start": 19,
+      "text": "Mr Muller"
+    }, {
+      "stop": 59,
+      "entity": "company",
+      "start": 55,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Good morning, how is it going? I am Jennifer.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 44,
+      "entity": "name",
+      "start": 36,
+      "text": "Jennifer"
+    }]
+  }, {
+    "text": "Good evening, my name is Jennifer Hutchinson.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 44,
+      "entity": "name",
+      "start": 25,
+      "text": "Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "Good afternoon, my name is Jennifer Hutchinson. I work for ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 46,
+      "entity": "name",
+      "start": 27,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 68,
+      "entity": "company",
+      "start": 59,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hey, my name is Mrs Hutchinson. I am in an internship at ACME.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 30,
+      "entity": "name",
+      "start": 16,
+      "text": "Mrs Hutchinson"
+    }, {
+      "stop": 61,
+      "entity": "company",
+      "start": 57,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Good afternoon, this is Mrs. Jennifer Hutchinson. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 48,
+      "entity": "name",
+      "start": 24,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 84,
+      "entity": "company",
+      "start": 75,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hi, how are you? I am Mrs. Jennifer Hutchinson.",
+    "intent": "greet",
+    "training": true,
+    "entities": [{
+      "stop": 46,
+      "entity": "name",
+      "start": 22,
+      "text": "Mrs. Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "Yes, This is Mark",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 17,
+      "entity": "name",
+      "start": 13,
+      "text": "Mark"
+    }]
+  }, {
+    "text": "My name is Jennifer Hutchinson i work for ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 30,
+      "entity": "name",
+      "start": 11,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 46,
+      "entity": "company",
+      "start": 42,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "This is Mrs hutchinson i work for ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "name",
+      "start": 8,
+      "text": "Mrs hutchinson"
+    }, {
+      "stop": 38,
+      "entity": "company",
+      "start": 34,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Mark Muller i am in an internship at ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 11,
+      "entity": "name",
+      "start": 0,
+      "text": "Mark Muller"
+    }, {
+      "stop": 41,
+      "entity": "company",
+      "start": 37,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "I am Mrs hutchinson i am an intern at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 19,
+      "entity": "name",
+      "start": 5,
+      "text": "Mrs hutchinson"
+    }, {
+      "stop": 49,
+      "entity": "company",
+      "start": 38,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "I am Mark i work for ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 9,
+      "entity": "name",
+      "start": 5,
+      "text": "Mark"
+    }, {
+      "stop": 25,
+      "entity": "company",
+      "start": 21,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Yes, This is Mark Muller",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 24,
+      "entity": "name",
+      "start": 13,
+      "text": "Mark Muller"
+    }]
+  }, {
+    "text": "This is Jennifer Hutchinson i work for ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 27,
+      "entity": "name",
+      "start": 8,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 50,
+      "entity": "company",
+      "start": 39,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "This is Mr. Mark Muller from ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "name",
+      "start": 8,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 33,
+      "entity": "company",
+      "start": 29,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Jennifer i am in an internship at ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 8,
+      "entity": "name",
+      "start": 0,
+      "text": "Jennifer"
+    }, {
+      "stop": 38,
+      "entity": "company",
+      "start": 34,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "This is Mark",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 12,
+      "entity": "name",
+      "start": 8,
+      "text": "Mark"
+    }]
+  }, {
+    "text": "This is Mr muller i am in an internship at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 17,
+      "entity": "name",
+      "start": 8,
+      "text": "Mr muller"
+    }, {
+      "stop": 54,
+      "entity": "company",
+      "start": 43,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "Mr muller i am in an internship at ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 9,
+      "entity": "name",
+      "start": 0,
+      "text": "Mr muller"
+    }, {
+      "stop": 39,
+      "entity": "company",
+      "start": 35,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "This is Mr. Mark Muller i work for ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "name",
+      "start": 8,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 39,
+      "entity": "company",
+      "start": 35,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "My name is Mrs. Jennifer Hutchinson i am an intern at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 35,
+      "entity": "name",
+      "start": 11,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 65,
+      "entity": "company",
+      "start": 54,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "Mark",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 4,
+      "entity": "name",
+      "start": 0,
+      "text": "Mark"
+    }]
+  }, {
+    "text": "Mrs. Jennifer Hutchinson from ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 24,
+      "entity": "name",
+      "start": 0,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 41,
+      "entity": "company",
+      "start": 30,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "This is Mr. Mark Muller i work for ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "name",
+      "start": 8,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 46,
+      "entity": "company",
+      "start": 35,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "My name is Mark Muller i am an intern at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "name",
+      "start": 11,
+      "text": "Mark Muller"
+    }, {
+      "stop": 52,
+      "entity": "company",
+      "start": 41,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "I am Jennifer i am in an internship at ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 13,
+      "entity": "name",
+      "start": 5,
+      "text": "Jennifer"
+    }, {
+      "stop": 43,
+      "entity": "company",
+      "start": 39,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "I am Jennifer Hutchinson",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 24,
+      "entity": "name",
+      "start": 5,
+      "text": "Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "This is Mark Muller from ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 19,
+      "entity": "name",
+      "start": 8,
+      "text": "Mark Muller"
+    }, {
+      "stop": 36,
+      "entity": "company",
+      "start": 25,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "My name is Mrs. Jennifer Hutchinson from ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 35,
+      "entity": "name",
+      "start": 11,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 45,
+      "entity": "company",
+      "start": 41,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Mrs. Jennifer Hutchinson i am an intern at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 24,
+      "entity": "name",
+      "start": 0,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 54,
+      "entity": "company",
+      "start": 43,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "Yes, My name is Mark Muller",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 27,
+      "entity": "name",
+      "start": 16,
+      "text": "Mark Muller"
+    }]
+  }, {
+    "text": "My name is Mark from ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 15,
+      "entity": "name",
+      "start": 11,
+      "text": "Mark"
+    }, {
+      "stop": 25,
+      "entity": "company",
+      "start": 21,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Mrs hutchinson i work for ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 14,
+      "entity": "name",
+      "start": 0,
+      "text": "Mrs hutchinson"
+    }, {
+      "stop": 30,
+      "entity": "company",
+      "start": 26,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "I am Mr muller i work for ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 14,
+      "entity": "name",
+      "start": 5,
+      "text": "Mr muller"
+    }, {
+      "stop": 37,
+      "entity": "company",
+      "start": 26,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "My name is Mrs hutchinson i am an intern at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "name",
+      "start": 11,
+      "text": "Mrs hutchinson"
+    }, {
+      "stop": 55,
+      "entity": "company",
+      "start": 44,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "Yes, Mark Muller",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 16,
+      "entity": "name",
+      "start": 5,
+      "text": "Mark Muller"
+    }]
+  }, {
+    "text": "I am Mrs. Jennifer Hutchinson i work for ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "name",
+      "start": 5,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 52,
+      "entity": "company",
+      "start": 41,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "My name is Jennifer i am in an internship at ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 19,
+      "entity": "name",
+      "start": 11,
+      "text": "Jennifer"
+    }, {
+      "stop": 49,
+      "entity": "company",
+      "start": 45,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "This is Mr muller from ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 17,
+      "entity": "name",
+      "start": 8,
+      "text": "Mr muller"
+    }, {
+      "stop": 27,
+      "entity": "company",
+      "start": 23,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "My name is Jennifer i work for ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 19,
+      "entity": "name",
+      "start": 11,
+      "text": "Jennifer"
+    }, {
+      "stop": 35,
+      "entity": "company",
+      "start": 31,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Yes, I am Mrs hutchinson",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 24,
+      "entity": "name",
+      "start": 10,
+      "text": "Mrs hutchinson"
+    }]
+  }, {
+    "text": "Mr muller i am an intern at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 9,
+      "entity": "name",
+      "start": 0,
+      "text": "Mr muller"
+    }, {
+      "stop": 39,
+      "entity": "company",
+      "start": 28,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "Mr. Mark Muller i work for ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 15,
+      "entity": "name",
+      "start": 0,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 31,
+      "entity": "company",
+      "start": 27,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Yes, Mr muller",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 14,
+      "entity": "name",
+      "start": 5,
+      "text": "Mr muller"
+    }]
+  }, {
+    "text": "I am Jennifer Hutchinson i am in an internship at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 24,
+      "entity": "name",
+      "start": 5,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 61,
+      "entity": "company",
+      "start": 50,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "This is Mr. Mark Muller i am in an internship at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "name",
+      "start": 8,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 60,
+      "entity": "company",
+      "start": 49,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "This is Mrs hutchinson i am in an internship at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "name",
+      "start": 8,
+      "text": "Mrs hutchinson"
+    }, {
+      "stop": 59,
+      "entity": "company",
+      "start": 48,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "Yes, I am Mrs. Jennifer Hutchinson",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 34,
+      "entity": "name",
+      "start": 10,
+      "text": "Mrs. Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "I am Mrs. Jennifer Hutchinson i am in an internship at ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "name",
+      "start": 5,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 59,
+      "entity": "company",
+      "start": 55,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "I am Jennifer Hutchinson from ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 24,
+      "entity": "name",
+      "start": 5,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 41,
+      "entity": "company",
+      "start": 30,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "Mark i am an intern at ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 4,
+      "entity": "name",
+      "start": 0,
+      "text": "Mark"
+    }, {
+      "stop": 27,
+      "entity": "company",
+      "start": 23,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Yes, My name is Mr. Mark Muller",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 31,
+      "entity": "name",
+      "start": 16,
+      "text": "Mr. Mark Muller"
+    }]
+  }, {
+    "text": "I am Mrs hutchinson from ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 19,
+      "entity": "name",
+      "start": 5,
+      "text": "Mrs hutchinson"
+    }, {
+      "stop": 29,
+      "entity": "company",
+      "start": 25,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Jennifer Hutchinson i am in an internship at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 19,
+      "entity": "name",
+      "start": 0,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 56,
+      "entity": "company",
+      "start": 45,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "My name is Mark i work for ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 15,
+      "entity": "name",
+      "start": 11,
+      "text": "Mark"
+    }, {
+      "stop": 31,
+      "entity": "company",
+      "start": 27,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "I am Mr. Mark Muller i am in an internship at ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 20,
+      "entity": "name",
+      "start": 5,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 57,
+      "entity": "company",
+      "start": 46,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "I am Jennifer",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 13,
+      "entity": "name",
+      "start": 5,
+      "text": "Jennifer"
+    }]
+  }, {
+    "text": "My name is Jennifer i am an intern at ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 19,
+      "entity": "name",
+      "start": 11,
+      "text": "Jennifer"
+    }, {
+      "stop": 42,
+      "entity": "company",
+      "start": 38,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "This is Jennifer Hutchinson from ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 27,
+      "entity": "name",
+      "start": 8,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 44,
+      "entity": "company",
+      "start": 33,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "This is Mrs hutchinson i am an intern at ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "name",
+      "start": 8,
+      "text": "Mrs hutchinson"
+    }, {
+      "stop": 45,
+      "entity": "company",
+      "start": 41,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Yes, My name is Jennifer",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 24,
+      "entity": "name",
+      "start": 16,
+      "text": "Jennifer"
+    }]
+  }, {
+    "text": "Mrs hutchinson i work for ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 14,
+      "entity": "name",
+      "start": 0,
+      "text": "Mrs hutchinson"
+    }, {
+      "stop": 37,
+      "entity": "company",
+      "start": 26,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "This is Mark Muller i work for ABC COMPANY",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 19,
+      "entity": "name",
+      "start": 8,
+      "text": "Mark Muller"
+    }, {
+      "stop": 42,
+      "entity": "company",
+      "start": 31,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "This is Jennifer Hutchinson i work for ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 27,
+      "entity": "name",
+      "start": 8,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 43,
+      "entity": "company",
+      "start": 39,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "This is Mrs. Jennifer Hutchinson",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 32,
+      "entity": "name",
+      "start": 8,
+      "text": "Mrs. Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "This is Mr muller i work for ACME",
+    "intent": "provide_name",
+    "training": true,
+    "entities": [{
+      "stop": 17,
+      "entity": "name",
+      "start": 8,
+      "text": "Mr muller"
+    }, {
+      "stop": 33,
+      "entity": "company",
+      "start": 29,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "I am interested in a room for an event that fits 250 persons",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 52,
+      "entity": "nr_of_people",
+      "start": 49,
+      "text": "250"
+    }]
+  }, {
+    "text": "I am looking for a place",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": []
+  }, {
+    "text": "How many locations are available that has room for 200 persons?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 54,
+      "entity": "nr_of_people",
+      "start": 51,
+      "text": "200"
+    }]
+  }, {
+    "text": "I'm looking for an event room",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": []
+  }, {
+    "text": "Tell me about your event rooms",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": []
+  }, {
+    "text": "How many locations do you provide?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": []
+  }, {
+    "text": "Can you give me information about your rooms?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": []
+  }, {
+    "text": "What kind of rooms are available that fits 250 employees in your hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 46,
+      "entity": "nr_of_people",
+      "start": 43,
+      "text": "250"
+    }]
+  }, {
+    "text": "I would like to reserve a place that has room for 150 guests in your hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 53,
+      "entity": "nr_of_people",
+      "start": 50,
+      "text": "150"
+    }]
+  }, {
+    "text": "We are searching a room for 250 guests",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 31,
+      "entity": "nr_of_people",
+      "start": 28,
+      "text": "250"
+    }]
+  }, {
+    "text": "I am searching a room that has room for 200 guests",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 43,
+      "entity": "nr_of_people",
+      "start": 40,
+      "text": "200"
+    }]
+  }, {
+    "text": "What locations are available that has room for 200 employees in the one king hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 50,
+      "entity": "nr_of_people",
+      "start": 47,
+      "text": "200"
+    }]
+  }, {
+    "text": "I am searching a room for 200 persons in your hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "nr_of_people",
+      "start": 26,
+      "text": "200"
+    }]
+  }, {
+    "text": "I am searching a location for 250 people in your hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 33,
+      "entity": "nr_of_people",
+      "start": 30,
+      "text": "250"
+    }]
+  }, {
+    "text": "What rooms do you have that fits 150 people?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 36,
+      "entity": "nr_of_people",
+      "start": 33,
+      "text": "150"
+    }]
+  }, {
+    "text": "We are searching a room that has room for 200 guests",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 45,
+      "entity": "nr_of_people",
+      "start": 42,
+      "text": "200"
+    }]
+  }, {
+    "text": "What event rooms are available that has room for 200 employees in the one king hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 52,
+      "entity": "nr_of_people",
+      "start": 49,
+      "text": "200"
+    }]
+  }, {
+    "text": "We are interested in a meeting room that fits 200 employees in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 49,
+      "entity": "nr_of_people",
+      "start": 46,
+      "text": "200"
+    }]
+  }, {
+    "text": "We need a location that has room for 250 persons",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 40,
+      "entity": "nr_of_people",
+      "start": 37,
+      "text": "250"
+    }]
+  }, {
+    "text": "What event rooms are available for 200 employees in your hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 38,
+      "entity": "nr_of_people",
+      "start": 35,
+      "text": "200"
+    }]
+  }, {
+    "text": "I would like to reserve an event room that has room for 150 people",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 59,
+      "entity": "nr_of_people",
+      "start": 56,
+      "text": "150"
+    }]
+  }, {
+    "text": "I am looking for a meeting room that has room for 250 persons in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 53,
+      "entity": "nr_of_people",
+      "start": 50,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are interested in an event room for 250 guests",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 42,
+      "entity": "nr_of_people",
+      "start": 39,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are searching a meeting room that has room for 250 people",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 53,
+      "entity": "nr_of_people",
+      "start": 50,
+      "text": "250"
+    }]
+  }, {
+    "text": "What rooms are available that fits 200 guests?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 38,
+      "entity": "nr_of_people",
+      "start": 35,
+      "text": "200"
+    }]
+  }, {
+    "text": "What locations do you provide for 200 employees in your hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 37,
+      "entity": "nr_of_people",
+      "start": 34,
+      "text": "200"
+    }]
+  }, {
+    "text": "We would like to reserve a room for an event that fits 250 persons in your hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 58,
+      "entity": "nr_of_people",
+      "start": 55,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are looking for a place that fits 150 employees in your hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 40,
+      "entity": "nr_of_people",
+      "start": 37,
+      "text": "150"
+    }]
+  }, {
+    "text": "I am interested in a place that has room for 150 guests in your hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 48,
+      "entity": "nr_of_people",
+      "start": 45,
+      "text": "150"
+    }]
+  }, {
+    "text": "What rooms do you provide for 250 persons in the one king hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 33,
+      "entity": "nr_of_people",
+      "start": 30,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are searching an event room that fits 250 guests",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 44,
+      "entity": "nr_of_people",
+      "start": 41,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are looking for a meeting room that fits 200 persons in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 47,
+      "entity": "nr_of_people",
+      "start": 44,
+      "text": "200"
+    }]
+  }, {
+    "text": "What rooms are available that has room for 250 employees?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 46,
+      "entity": "nr_of_people",
+      "start": 43,
+      "text": "250"
+    }]
+  }, {
+    "text": "What kind of event rooms are available for 150 people in your hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 46,
+      "entity": "nr_of_people",
+      "start": 43,
+      "text": "150"
+    }]
+  }, {
+    "text": "We need a location that has room for 250 employees",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 40,
+      "entity": "nr_of_people",
+      "start": 37,
+      "text": "250"
+    }]
+  }, {
+    "text": "We would like to reserve a room that has room for 250 persons in your hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 53,
+      "entity": "nr_of_people",
+      "start": 50,
+      "text": "250"
+    }]
+  }, {
+    "text": "I would like to reserve a place for 200 people in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 39,
+      "entity": "nr_of_people",
+      "start": 36,
+      "text": "200"
+    }]
+  }, {
+    "text": "What kind of event rooms do you provide for 250 guests in your hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 47,
+      "entity": "nr_of_people",
+      "start": 44,
+      "text": "250"
+    }]
+  }, {
+    "text": "We're looking for an event room for 200 guests",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 39,
+      "entity": "nr_of_people",
+      "start": 36,
+      "text": "200"
+    }]
+  }, {
+    "text": "I am interested in a location for 150 employees in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 37,
+      "entity": "nr_of_people",
+      "start": 34,
+      "text": "150"
+    }]
+  }, {
+    "text": "We are interested in a place that fits 200 persons in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 42,
+      "entity": "nr_of_people",
+      "start": 39,
+      "text": "200"
+    }]
+  }, {
+    "text": "I am interested in a location that has room for 200 people in your hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 51,
+      "entity": "nr_of_people",
+      "start": 48,
+      "text": "200"
+    }]
+  }, {
+    "text": "What kind of locations are available for 250 guests?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 44,
+      "entity": "nr_of_people",
+      "start": 41,
+      "text": "250"
+    }]
+  }, {
+    "text": "What meeting rooms are available for 150 people in the one king hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 40,
+      "entity": "nr_of_people",
+      "start": 37,
+      "text": "150"
+    }]
+  }, {
+    "text": "We are interested in a room that has room for 250 employees",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 49,
+      "entity": "nr_of_people",
+      "start": 46,
+      "text": "250"
+    }]
+  }, {
+    "text": "I would like to reserve a location that fits 200 employees",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 48,
+      "entity": "nr_of_people",
+      "start": 45,
+      "text": "200"
+    }]
+  }, {
+    "text": "How many rooms do you provide for 250 people in the one king hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 37,
+      "entity": "nr_of_people",
+      "start": 34,
+      "text": "250"
+    }]
+  }, {
+    "text": "I am looking for a meeting room that has room for 250 persons",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 53,
+      "entity": "nr_of_people",
+      "start": 50,
+      "text": "250"
+    }]
+  }, {
+    "text": "I need a meeting room that has room for 200 guests in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 43,
+      "entity": "nr_of_people",
+      "start": 40,
+      "text": "200"
+    }]
+  }, {
+    "text": "We would like to reserve a meeting room for 150 employees",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 47,
+      "entity": "nr_of_people",
+      "start": 44,
+      "text": "150"
+    }]
+  }, {
+    "text": "I am looking for an event room that has room for 150 people in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 52,
+      "entity": "nr_of_people",
+      "start": 49,
+      "text": "150"
+    }]
+  }, {
+    "text": "What kind of rooms do you have for 250 people in your hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 38,
+      "entity": "nr_of_people",
+      "start": 35,
+      "text": "250"
+    }]
+  }, {
+    "text": "What rooms do you provide that fits 250 persons?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 39,
+      "entity": "nr_of_people",
+      "start": 36,
+      "text": "250"
+    }]
+  }, {
+    "text": "I need a room for 200 employees in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 21,
+      "entity": "nr_of_people",
+      "start": 18,
+      "text": "200"
+    }]
+  }, {
+    "text": "I need an event room that fits 200 people in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 34,
+      "entity": "nr_of_people",
+      "start": 31,
+      "text": "200"
+    }]
+  }, {
+    "text": "We would like to reserve an event room that fits 200 people in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 52,
+      "entity": "nr_of_people",
+      "start": 49,
+      "text": "200"
+    }]
+  }, {
+    "text": "What locations are available for 200 guests in your hotel?",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 36,
+      "entity": "nr_of_people",
+      "start": 33,
+      "text": "200"
+    }]
+  }, {
+    "text": "I would like to reserve a room that fits 150 employees",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 44,
+      "entity": "nr_of_people",
+      "start": 41,
+      "text": "150"
+    }]
+  }, {
+    "text": "I am looking for a room that fits 150 employees",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 37,
+      "entity": "nr_of_people",
+      "start": 34,
+      "text": "150"
+    }]
+  }, {
+    "text": "I am looking for a room for an event that has room for 150 guests",
+    "intent": "ask_for_rooms",
+    "training": true,
+    "entities": [{
+      "stop": 58,
+      "entity": "nr_of_people",
+      "start": 55,
+      "text": "150"
+    }]
+  }, {
+    "text": "We have a meeting for 150 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "150"
+    }]
+  }, {
+    "text": "200 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "200"
+    }]
+  }, {
+    "text": "We planned for 250 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 18,
+      "entity": "nr_of_people",
+      "start": 15,
+      "text": "250"
+    }]
+  }, {
+    "text": "We need a room for 200 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "nr_of_people",
+      "start": 19,
+      "text": "200"
+    }]
+  }, {
+    "text": "We need a room for 150",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "nr_of_people",
+      "start": 19,
+      "text": "150"
+    }]
+  }, {
+    "text": "We need a room for 150 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "nr_of_people",
+      "start": 19,
+      "text": "150"
+    }]
+  }, {
+    "text": "We have to get a room for 200 employees",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "nr_of_people",
+      "start": 26,
+      "text": "200"
+    }]
+  }, {
+    "text": "We are planning for 200",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "nr_of_people",
+      "start": 20,
+      "text": "200"
+    }]
+  }, {
+    "text": "We are expecting 150",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "150"
+    }]
+  }, {
+    "text": "We are expecting 150 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "150"
+    }]
+  }, {
+    "text": "We planned for 150 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 18,
+      "entity": "nr_of_people",
+      "start": 15,
+      "text": "150"
+    }]
+  }, {
+    "text": "We planned for 250",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 18,
+      "entity": "nr_of_people",
+      "start": 15,
+      "text": "250"
+    }]
+  }, {
+    "text": "We planned for 250 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 18,
+      "entity": "nr_of_people",
+      "start": 15,
+      "text": "250"
+    }]
+  }, {
+    "text": "250 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "250"
+    }]
+  }, {
+    "text": "We need a room for 200",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "nr_of_people",
+      "start": 19,
+      "text": "200"
+    }]
+  }, {
+    "text": "We have to get a room for 250 employees",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "nr_of_people",
+      "start": 26,
+      "text": "250"
+    }]
+  }, {
+    "text": "We have a meeting for 250 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "250"
+    }]
+  }, {
+    "text": "The event will be for 200 employees",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "200"
+    }]
+  }, {
+    "text": "We planned for 200",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 18,
+      "entity": "nr_of_people",
+      "start": 15,
+      "text": "200"
+    }]
+  }, {
+    "text": "We are expecting 150 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "150"
+    }]
+  }, {
+    "text": "We have to get a room for 150 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "nr_of_people",
+      "start": 26,
+      "text": "150"
+    }]
+  }, {
+    "text": "250 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "250"
+    }]
+  }, {
+    "text": "The event will be for 250 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "250"
+    }]
+  }, {
+    "text": "We need a room for 200 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "nr_of_people",
+      "start": 19,
+      "text": "200"
+    }]
+  }, {
+    "text": "We have to get a room for 250 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "nr_of_people",
+      "start": 26,
+      "text": "250"
+    }]
+  }, {
+    "text": "The event will be for 150 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "150"
+    }]
+  }, {
+    "text": "150 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "150"
+    }]
+  }, {
+    "text": "We are planning for 200 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "nr_of_people",
+      "start": 20,
+      "text": "200"
+    }]
+  }, {
+    "text": "We need a room for 150 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "nr_of_people",
+      "start": 19,
+      "text": "150"
+    }]
+  }, {
+    "text": "We have a meeting for 250 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "250"
+    }]
+  }, {
+    "text": "We have to get a room for 200 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "nr_of_people",
+      "start": 26,
+      "text": "200"
+    }]
+  }, {
+    "text": "We planned for 150 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 18,
+      "entity": "nr_of_people",
+      "start": 15,
+      "text": "150"
+    }]
+  }, {
+    "text": "250 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are expecting 200 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "200"
+    }]
+  }, {
+    "text": "The event will be for 250 employees",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "250"
+    }]
+  }, {
+    "text": "The event will be for 150 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "150"
+    }]
+  }, {
+    "text": "We have a meeting for 150",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "150"
+    }]
+  }, {
+    "text": "We have a meeting for 250",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "250"
+    }]
+  }, {
+    "text": "150 employees",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "150"
+    }]
+  }, {
+    "text": "We are expecting 200 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "200"
+    }]
+  }, {
+    "text": "200 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "200"
+    }]
+  }, {
+    "text": "We are planning for 200 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "nr_of_people",
+      "start": 20,
+      "text": "200"
+    }]
+  }, {
+    "text": "We have to get a room for 150 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "nr_of_people",
+      "start": 26,
+      "text": "150"
+    }]
+  }, {
+    "text": "The event will be for 200 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "200"
+    }]
+  }, {
+    "text": "We planned for 250 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 18,
+      "entity": "nr_of_people",
+      "start": 15,
+      "text": "250"
+    }]
+  }, {
+    "text": "250 employees",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "250"
+    }]
+  }, {
+    "text": "The event will be for 200 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "200"
+    }]
+  }, {
+    "text": "The event will be for 150 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "150"
+    }]
+  }, {
+    "text": "We are expecting 200",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "200"
+    }]
+  }, {
+    "text": "150 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "150"
+    }]
+  }, {
+    "text": "We are expecting 250 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "250"
+    }]
+  }, {
+    "text": "We have a meeting for 200 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "200"
+    }]
+  }, {
+    "text": "The event will be for 150 employees",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "150"
+    }]
+  }, {
+    "text": "200 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "200"
+    }]
+  }, {
+    "text": "We have a meeting for 200 employees",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "200"
+    }]
+  }, {
+    "text": "The event will be for 200 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "200"
+    }]
+  }, {
+    "text": "We have to get a room for 250 people",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "nr_of_people",
+      "start": 26,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are expecting 150 persons",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "150"
+    }]
+  }, {
+    "text": "We are planning for 150",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "nr_of_people",
+      "start": 20,
+      "text": "150"
+    }]
+  }, {
+    "text": "We have a meeting for 250 guests",
+    "intent": "provide_nr_of_people",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "250"
+    }]
+  }, {
+    "text": "I will reserve the second room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "room",
+      "start": 19,
+      "text": "second"
+    }]
+  }, {
+    "text": "Thanks for your help! I want to reserve room C.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 46,
+      "entity": "room",
+      "start": 45,
+      "text": "C"
+    }]
+  }, {
+    "text": "Can I book the room now?",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": []
+  }, {
+    "text": "Thank you very much for your help. I will take the first room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 56,
+      "entity": "room",
+      "start": 51,
+      "text": "first"
+    }]
+  }, {
+    "text": "Thanks for your help! We will book room A.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 41,
+      "entity": "room",
+      "start": 40,
+      "text": "A"
+    }]
+  }, {
+    "text": "Ok! We will take the last room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "room",
+      "start": 21,
+      "text": "last"
+    }]
+  }, {
+    "text": "I will reserve room B.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 21,
+      "entity": "room",
+      "start": 20,
+      "text": "B"
+    }]
+  }, {
+    "text": "We want to book the first room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "room",
+      "start": 20,
+      "text": "first"
+    }]
+  }, {
+    "text": "Thanks for your help! We will reserve the third room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 47,
+      "entity": "room",
+      "start": 42,
+      "text": "third"
+    }]
+  }, {
+    "text": "Ok! I take room C.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 17,
+      "entity": "room",
+      "start": 16,
+      "text": "C"
+    }]
+  }, {
+    "text": "Ok! We will reserve the third room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "room",
+      "start": 24,
+      "text": "third"
+    }]
+  }, {
+    "text": "Thanks for your help! We will reserve room A.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 44,
+      "entity": "room",
+      "start": 43,
+      "text": "A"
+    }]
+  }, {
+    "text": "We will take the last room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 21,
+      "entity": "room",
+      "start": 17,
+      "text": "last"
+    }]
+  }, {
+    "text": "Thanks! I will book room C.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 26,
+      "entity": "room",
+      "start": 25,
+      "text": "C"
+    }]
+  }, {
+    "text": "Thank you! I will book the last room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 31,
+      "entity": "room",
+      "start": 27,
+      "text": "last"
+    }]
+  }, {
+    "text": "Ok! I want to book the second room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "room",
+      "start": 23,
+      "text": "second"
+    }]
+  }, {
+    "text": "Thanks! I will take room B.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 26,
+      "entity": "room",
+      "start": 25,
+      "text": "B"
+    }]
+  }, {
+    "text": "Thank you very much for your help. We take the first room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 52,
+      "entity": "room",
+      "start": 47,
+      "text": "first"
+    }]
+  }, {
+    "text": "Thanks for your help! I will reserve room B.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 43,
+      "entity": "room",
+      "start": 42,
+      "text": "B"
+    }]
+  }, {
+    "text": "Thanks for your help! I want to reserve the third room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 49,
+      "entity": "room",
+      "start": 44,
+      "text": "third"
+    }]
+  }, {
+    "text": "Thanks! We will take room C.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 27,
+      "entity": "room",
+      "start": 26,
+      "text": "C"
+    }]
+  }, {
+    "text": "Thank you! I will reserve the first room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 35,
+      "entity": "room",
+      "start": 30,
+      "text": "first"
+    }]
+  }, {
+    "text": "Ok! We take the second room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "room",
+      "start": 16,
+      "text": "second"
+    }]
+  }, {
+    "text": "Thanks for your help! I will book room A.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 40,
+      "entity": "room",
+      "start": 39,
+      "text": "A"
+    }]
+  }, {
+    "text": "Can I make a reservation right now?",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": []
+  }, {
+    "text": "Thanks! I will take the second room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 30,
+      "entity": "room",
+      "start": 24,
+      "text": "second"
+    }]
+  }, {
+    "text": "Ok! We will take room C.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "room",
+      "start": 22,
+      "text": "C"
+    }]
+  }, {
+    "text": "Thank you very much for your help. I want to reserve the first room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 62,
+      "entity": "room",
+      "start": 57,
+      "text": "first"
+    }]
+  }, {
+    "text": "Thanks for your help! We will reserve room B.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 44,
+      "entity": "room",
+      "start": 43,
+      "text": "B"
+    }]
+  }, {
+    "text": "Thank you very much for your help. I want to book the third room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 59,
+      "entity": "room",
+      "start": 54,
+      "text": "third"
+    }]
+  }, {
+    "text": "I will reserve room C.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 21,
+      "entity": "room",
+      "start": 20,
+      "text": "C"
+    }]
+  }, {
+    "text": "Ok! I will reserve the first room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 28,
+      "entity": "room",
+      "start": 23,
+      "text": "first"
+    }]
+  }, {
+    "text": "Ok! I will book room C.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "room",
+      "start": 21,
+      "text": "C"
+    }]
+  }, {
+    "text": "Thanks for your help! We will book the last room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 43,
+      "entity": "room",
+      "start": 39,
+      "text": "last"
+    }]
+  }, {
+    "text": "Thank you! We will reserve room B.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 33,
+      "entity": "room",
+      "start": 32,
+      "text": "B"
+    }]
+  }, {
+    "text": "I will book the last room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 20,
+      "entity": "room",
+      "start": 16,
+      "text": "last"
+    }]
+  }, {
+    "text": "We will take the second room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 23,
+      "entity": "room",
+      "start": 17,
+      "text": "second"
+    }]
+  }, {
+    "text": "Thank you! We will reserve room A.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 33,
+      "entity": "room",
+      "start": 32,
+      "text": "A"
+    }]
+  }, {
+    "text": "Thanks for your help! I want to reserve the first room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 49,
+      "entity": "room",
+      "start": 44,
+      "text": "first"
+    }]
+  }, {
+    "text": "Thanks! I want to reserve room B.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 32,
+      "entity": "room",
+      "start": 31,
+      "text": "B"
+    }]
+  }, {
+    "text": "Ok! I will book the last room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 24,
+      "entity": "room",
+      "start": 20,
+      "text": "last"
+    }]
+  }, {
+    "text": "Thank you very much for your help. We want to book room A.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 57,
+      "entity": "room",
+      "start": 56,
+      "text": "A"
+    }]
+  }, {
+    "text": "Thank you! I will take the third room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 32,
+      "entity": "room",
+      "start": 27,
+      "text": "third"
+    }]
+  }, {
+    "text": "Can I book the room right now?",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": []
+  }, {
+    "text": "Thank you! I take the second room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 28,
+      "entity": "room",
+      "start": 22,
+      "text": "second"
+    }]
+  }, {
+    "text": "We take the last room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 16,
+      "entity": "room",
+      "start": 12,
+      "text": "last"
+    }]
+  }, {
+    "text": "Thanks! I will reserve room A.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 29,
+      "entity": "room",
+      "start": 28,
+      "text": "A"
+    }]
+  }, {
+    "text": "Thanks! We will reserve the third room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 33,
+      "entity": "room",
+      "start": 28,
+      "text": "third"
+    }]
+  }, {
+    "text": "Ok! We take room C.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 18,
+      "entity": "room",
+      "start": 17,
+      "text": "C"
+    }]
+  }, {
+    "text": "Thank you! We take the last room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 27,
+      "entity": "room",
+      "start": 23,
+      "text": "last"
+    }]
+  }, {
+    "text": "Thank you very much for your help. We want to reserve the second room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 64,
+      "entity": "room",
+      "start": 58,
+      "text": "second"
+    }]
+  }, {
+    "text": "Thank you very much for your help. I will reserve room B.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 56,
+      "entity": "room",
+      "start": 55,
+      "text": "B"
+    }]
+  }, {
+    "text": "Thank you very much for your help. I will book room B.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 53,
+      "entity": "room",
+      "start": 52,
+      "text": "B"
+    }]
+  }, {
+    "text": "Thanks! I want to reserve room C.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 32,
+      "entity": "room",
+      "start": 31,
+      "text": "C"
+    }]
+  }, {
+    "text": "Thank you very much for your help. I will reserve the second room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 60,
+      "entity": "room",
+      "start": 54,
+      "text": "second"
+    }]
+  }, {
+    "text": "Thank you! We want to reserve the third room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 39,
+      "entity": "room",
+      "start": 34,
+      "text": "third"
+    }]
+  }, {
+    "text": "Ok! I will book room A.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "room",
+      "start": 21,
+      "text": "A"
+    }]
+  }, {
+    "text": "Thanks for your help! I will take the last room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 42,
+      "entity": "room",
+      "start": 38,
+      "text": "last"
+    }]
+  }, {
+    "text": "Thanks! We take room C.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 22,
+      "entity": "room",
+      "start": 21,
+      "text": "C"
+    }]
+  }, {
+    "text": "Thanks! I take the second room.",
+    "intent": "reserve_room",
+    "training": true,
+    "entities": [{
+      "stop": 25,
+      "entity": "room",
+      "start": 19,
+      "text": "second"
+    }]
+  },
+  {
+    "text": "Hey, my name is Mark Muller. I am an intern at ABCD Corp",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 27,
+      "entity": "name",
+      "start": 16,
+      "text": "Mark Muller"
+    }, {
+      "stop": 56,
+      "entity": "company",
+      "start": 47,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good morning, my name is Mark Muller. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 36,
+      "entity": "name",
+      "start": 25,
+      "text": "Mark Muller"
+    }, {
+      "stop": 72,
+      "entity": "company",
+      "start": 63,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good morning, this is Mark Muller.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 33,
+      "entity": "name",
+      "start": 22,
+      "text": "Mark Muller"
+    }]
+  }, {
+    "text": "Hi, how is it going? I am Mrs Hutchinson.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 40,
+      "entity": "name",
+      "start": 26,
+      "text": "Mrs Hutchinson"
+    }]
+  }, {
+    "text": "Hey, my name is Jennifer Hutchinson. I am an intern at ACME.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 35,
+      "entity": "name",
+      "start": 16,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 59,
+      "entity": "company",
+      "start": 55,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Good afternoon, my name is Mark Muller. I am in an internship at ACME.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 38,
+      "entity": "name",
+      "start": 27,
+      "text": "Mark Muller"
+    }, {
+      "stop": 69,
+      "entity": "company",
+      "start": 65,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Good morning, this is Jennifer. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 30,
+      "entity": "name",
+      "start": 22,
+      "text": "Jennifer"
+    }, {
+      "stop": 66,
+      "entity": "company",
+      "start": 57,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hello, I am Mr. Mark Muller. I am an intern at ACME.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 27,
+      "entity": "name",
+      "start": 12,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 51,
+      "entity": "company",
+      "start": 47,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Hey, how is it going? My name is Mr Muller.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 42,
+      "entity": "name",
+      "start": 33,
+      "text": "Mr Muller"
+    }]
+  }, {
+    "text": "Good afternoon, I am Mark. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 25,
+      "entity": "name",
+      "start": 21,
+      "text": "Mark"
+    }, {
+      "stop": 61,
+      "entity": "company",
+      "start": 52,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good afternoon, this is Mrs Hutchinson. I am in an internship at ABCD Corp",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 38,
+      "entity": "name",
+      "start": 24,
+      "text": "Mrs Hutchinson"
+    }, {
+      "stop": 74,
+      "entity": "company",
+      "start": 65,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good evening, how are you? My name is Mrs. Jennifer Hutchinson.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 62,
+      "entity": "name",
+      "start": 38,
+      "text": "Mrs. Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "Good evening, I am Mrs Hutchinson. I work for ABCD Corp",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 33,
+      "entity": "name",
+      "start": 19,
+      "text": "Mrs Hutchinson"
+    }, {
+      "stop": 55,
+      "entity": "company",
+      "start": 46,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hello, my name is Mr Muller.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 27,
+      "entity": "name",
+      "start": 18,
+      "text": "Mr Muller"
+    }]
+  }, {
+    "text": "Hello, this is Mrs Hutchinson. I work for ABCD Corp",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 29,
+      "entity": "name",
+      "start": 15,
+      "text": "Mrs Hutchinson"
+    }, {
+      "stop": 51,
+      "entity": "company",
+      "start": 42,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Good morning, this is Mr Muller. I work for ACME.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 31,
+      "entity": "name",
+      "start": 22,
+      "text": "Mr Muller"
+    }, {
+      "stop": 48,
+      "entity": "company",
+      "start": 44,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Hi, how is it going? I am Mark Muller.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 37,
+      "entity": "name",
+      "start": 26,
+      "text": "Mark Muller"
+    }]
+  }, {
+    "text": "Good morning, my name is Jennifer. I work for ACME.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 33,
+      "entity": "name",
+      "start": 25,
+      "text": "Jennifer"
+    }, {
+      "stop": 50,
+      "entity": "company",
+      "start": 46,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Good afternoon, this is Mrs Hutchinson. I am an intern at ABCD Corp",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 38,
+      "entity": "name",
+      "start": 24,
+      "text": "Mrs Hutchinson"
+    }, {
+      "stop": 67,
+      "entity": "company",
+      "start": 58,
+      "text": "ABCD Corp"
+    }]
+  }, {
+    "text": "Hi, my name is Jennifer. I work for ACME.",
+    "intent": "greet",
+    "training": false,
+    "entities": [{
+      "stop": 23,
+      "entity": "name",
+      "start": 15,
+      "text": "Jennifer"
+    }, {
+      "stop": 40,
+      "entity": "company",
+      "start": 36,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "My name is Mr. Mark Muller i am an intern at ACME",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 26,
+      "entity": "name",
+      "start": 11,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 49,
+      "entity": "company",
+      "start": 45,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "This is Mr. Mark Muller i am in an internship at ACME",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 23,
+      "entity": "name",
+      "start": 8,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 53,
+      "entity": "company",
+      "start": 49,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "My name is Jennifer Hutchinson",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 30,
+      "entity": "name",
+      "start": 11,
+      "text": "Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "My name is Mark Muller i work for ABC COMPANY",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 22,
+      "entity": "name",
+      "start": 11,
+      "text": "Mark Muller"
+    }, {
+      "stop": 45,
+      "entity": "company",
+      "start": 34,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "Mr. Mark Muller from ABC COMPANY",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 15,
+      "entity": "name",
+      "start": 0,
+      "text": "Mr. Mark Muller"
+    }, {
+      "stop": 32,
+      "entity": "company",
+      "start": 21,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "Mrs hutchinson from ABC COMPANY",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 14,
+      "entity": "name",
+      "start": 0,
+      "text": "Mrs hutchinson"
+    }, {
+      "stop": 31,
+      "entity": "company",
+      "start": 20,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "Yes, I am Jennifer Hutchinson",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 29,
+      "entity": "name",
+      "start": 10,
+      "text": "Jennifer Hutchinson"
+    }]
+  }, {
+    "text": "My name is Mrs. Jennifer Hutchinson i work for ABC COMPANY",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 35,
+      "entity": "name",
+      "start": 11,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 58,
+      "entity": "company",
+      "start": 47,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "My name is Mr muller i am an intern at ABC COMPANY",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 20,
+      "entity": "name",
+      "start": 11,
+      "text": "Mr muller"
+    }, {
+      "stop": 50,
+      "entity": "company",
+      "start": 39,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "My name is Mark i am in an internship at ABC COMPANY",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 15,
+      "entity": "name",
+      "start": 11,
+      "text": "Mark"
+    }, {
+      "stop": 52,
+      "entity": "company",
+      "start": 41,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "Yes, This is Mr. Mark Muller",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 28,
+      "entity": "name",
+      "start": 13,
+      "text": "Mr. Mark Muller"
+    }]
+  }, {
+    "text": "I am Jennifer i am in an internship at ABC COMPANY",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 13,
+      "entity": "name",
+      "start": 5,
+      "text": "Jennifer"
+    }, {
+      "stop": 50,
+      "entity": "company",
+      "start": 39,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "My name is Jennifer Hutchinson from ACME",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 30,
+      "entity": "name",
+      "start": 11,
+      "text": "Jennifer Hutchinson"
+    }, {
+      "stop": 40,
+      "entity": "company",
+      "start": 36,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Mrs hutchinson i am in an internship at ABC COMPANY",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 14,
+      "entity": "name",
+      "start": 0,
+      "text": "Mrs hutchinson"
+    }, {
+      "stop": 51,
+      "entity": "company",
+      "start": 40,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "I am Mrs hutchinson",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 19,
+      "entity": "name",
+      "start": 5,
+      "text": "Mrs hutchinson"
+    }]
+  }, {
+    "text": "My name is Mr muller i work for ACME",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 20,
+      "entity": "name",
+      "start": 11,
+      "text": "Mr muller"
+    }, {
+      "stop": 36,
+      "entity": "company",
+      "start": 32,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "Mark i am in an internship at ACME",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 4,
+      "entity": "name",
+      "start": 0,
+      "text": "Mark"
+    }, {
+      "stop": 34,
+      "entity": "company",
+      "start": 30,
+      "text": "ACME"
+    }]
+  }, {
+    "text": "This is Mark from ABC COMPANY",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 12,
+      "entity": "name",
+      "start": 8,
+      "text": "Mark"
+    }, {
+      "stop": 29,
+      "entity": "company",
+      "start": 18,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "This is Mrs hutchinson",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 22,
+      "entity": "name",
+      "start": 8,
+      "text": "Mrs hutchinson"
+    }]
+  }, {
+    "text": "This is Mrs. Jennifer Hutchinson i work for ABC COMPANY",
+    "intent": "provide_name",
+    "training": false,
+    "entities": [{
+      "stop": 32,
+      "entity": "name",
+      "start": 8,
+      "text": "Mrs. Jennifer Hutchinson"
+    }, {
+      "stop": 55,
+      "entity": "company",
+      "start": 44,
+      "text": "ABC COMPANY"
+    }]
+  }, {
+    "text": "What kind of meeting rooms do you provide that has room for 150 people in the one king hotel?",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 63,
+      "entity": "nr_of_people",
+      "start": 60,
+      "text": "150"
+    }]
+  }, {
+    "text": "What kind of rooms do you have for 250 employees?",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 38,
+      "entity": "nr_of_people",
+      "start": 35,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are interested in a place in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": []
+  }, {
+    "text": "I need a room for 150 employees in your hotel",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 21,
+      "entity": "nr_of_people",
+      "start": 18,
+      "text": "150"
+    }]
+  }, {
+    "text": "We would like to reserve an event room for 200 people",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 46,
+      "entity": "nr_of_people",
+      "start": 43,
+      "text": "200"
+    }]
+  }, {
+    "text": "How many rooms do you have that has room for 250 persons in the one king hotel?",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 48,
+      "entity": "nr_of_people",
+      "start": 45,
+      "text": "250"
+    }]
+  }, {
+    "text": "I am searching an event room that has room for 150 people in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 50,
+      "entity": "nr_of_people",
+      "start": 47,
+      "text": "150"
+    }]
+  }, {
+    "text": "We are looking for a meeting room that fits 250 people",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 47,
+      "entity": "nr_of_people",
+      "start": 44,
+      "text": "250"
+    }]
+  }, {
+    "text": "I am searching a location for 150 guests in your hotel",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 33,
+      "entity": "nr_of_people",
+      "start": 30,
+      "text": "150"
+    }]
+  }, {
+    "text": "I'm looking for a room that has room for 150 people",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 44,
+      "entity": "nr_of_people",
+      "start": 41,
+      "text": "150"
+    }]
+  }, {
+    "text": "What event rooms do you have for 150 persons in the one king hotel?",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 36,
+      "entity": "nr_of_people",
+      "start": 33,
+      "text": "150"
+    }]
+  }, {
+    "text": "What meeting rooms do you provide for 150 employees?",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 41,
+      "entity": "nr_of_people",
+      "start": 38,
+      "text": "150"
+    }]
+  }, {
+    "text": "We would like to reserve a meeting room that fits 250 guests",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 53,
+      "entity": "nr_of_people",
+      "start": 50,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are looking for a meeting room that has room for 200 persons in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 55,
+      "entity": "nr_of_people",
+      "start": 52,
+      "text": "200"
+    }]
+  }, {
+    "text": "What event rooms do you provide that has room for 250 persons in your hotel?",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 53,
+      "entity": "nr_of_people",
+      "start": 50,
+      "text": "250"
+    }]
+  }, {
+    "text": "I need an event room for 200 guests in the one king hotel",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 28,
+      "entity": "nr_of_people",
+      "start": 25,
+      "text": "200"
+    }]
+  }, {
+    "text": "We need a location that has room for 250 people",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 40,
+      "entity": "nr_of_people",
+      "start": 37,
+      "text": "250"
+    }]
+  }, {
+    "text": "I would like to reserve a room for an event that fits 150 guests in your hotel",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 57,
+      "entity": "nr_of_people",
+      "start": 54,
+      "text": "150"
+    }]
+  }, {
+    "text": "How many meeting rooms do you have that fits 150 persons in the one king hotel?",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 48,
+      "entity": "nr_of_people",
+      "start": 45,
+      "text": "150"
+    }]
+  }, {
+    "text": "What kind of event rooms do you provide that has room for 200 guests?",
+    "intent": "ask_for_rooms",
+    "training": false,
+    "entities": [{
+      "stop": 61,
+      "entity": "nr_of_people",
+      "start": 58,
+      "text": "200"
+    }]
+  }, {
+    "text": "We are expecting 200 employees",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "200"
+    }]
+  }, {
+    "text": "We planned for 200 people",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 18,
+      "entity": "nr_of_people",
+      "start": 15,
+      "text": "200"
+    }]
+  }, {
+    "text": "We have to get a room for 200 people",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 29,
+      "entity": "nr_of_people",
+      "start": 26,
+      "text": "200"
+    }]
+  }, {
+    "text": "150 guests",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "150"
+    }]
+  }, {
+    "text": "We planned for 150 persons",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 18,
+      "entity": "nr_of_people",
+      "start": 15,
+      "text": "150"
+    }]
+  }, {
+    "text": "The event will be for 150",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "150"
+    }]
+  }, {
+    "text": "We need a room for 250 persons",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 22,
+      "entity": "nr_of_people",
+      "start": 19,
+      "text": "250"
+    }]
+  }, {
+    "text": "We need a room for 250 employees",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 22,
+      "entity": "nr_of_people",
+      "start": 19,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are expecting 250 guests",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "250"
+    }]
+  }, {
+    "text": "We have to get a room for 250 guests",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 29,
+      "entity": "nr_of_people",
+      "start": 26,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are planning for 250",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 23,
+      "entity": "nr_of_people",
+      "start": 20,
+      "text": "250"
+    }]
+  }, {
+    "text": "We planned for 200 employees",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 18,
+      "entity": "nr_of_people",
+      "start": 15,
+      "text": "200"
+    }]
+  }, {
+    "text": "We are expecting 250 employees",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "250"
+    }]
+  }, {
+    "text": "The event will be for 200",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 25,
+      "entity": "nr_of_people",
+      "start": 22,
+      "text": "200"
+    }]
+  }, {
+    "text": "We are expecting 250",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 20,
+      "entity": "nr_of_people",
+      "start": 17,
+      "text": "250"
+    }]
+  }, {
+    "text": "We are planning for 150 employees",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 23,
+      "entity": "nr_of_people",
+      "start": 20,
+      "text": "150"
+    }]
+  }, {
+    "text": "200",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 3,
+      "entity": "nr_of_people",
+      "start": 0,
+      "text": "200"
+    }]
+  }, {
+    "text": "We are planning for 250 employees",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 23,
+      "entity": "nr_of_people",
+      "start": 20,
+      "text": "250"
+    }]
+  }, {
+    "text": "We have to get a room for 250",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 29,
+      "entity": "nr_of_people",
+      "start": 26,
+      "text": "250"
+    }]
+  }, {
+    "text": "We need a room for 200 people",
+    "intent": "provide_nr_of_people",
+    "training": false,
+    "entities": [{
+      "stop": 22,
+      "entity": "nr_of_people",
+      "start": 19,
+      "text": "200"
+    }]
+  }, {
+    "text": "Thanks! I want to book room A.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 29,
+      "entity": "room",
+      "start": 28,
+      "text": "A"
+    }]
+  }, {
+    "text": "Thank you! I will take the last room.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 31,
+      "entity": "room",
+      "start": 27,
+      "text": "last"
+    }]
+  }, {
+    "text": "Thanks! I will book room B.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 26,
+      "entity": "room",
+      "start": 25,
+      "text": "B"
+    }]
+  }, {
+    "text": "Ok! I will book the first room.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 25,
+      "entity": "room",
+      "start": 20,
+      "text": "first"
+    }]
+  }, {
+    "text": "Can we reserve the room right now?",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": []
+  }, {
+    "text": "Thank you! We will book the third room.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 33,
+      "entity": "room",
+      "start": 28,
+      "text": "third"
+    }]
+  }, {
+    "text": "We take room A.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 14,
+      "entity": "room",
+      "start": 13,
+      "text": "A"
+    }]
+  }, {
+    "text": "Thank you very much for your help. We will reserve the second room.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 61,
+      "entity": "room",
+      "start": 55,
+      "text": "second"
+    }]
+  }, {
+    "text": "I will book room C.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 18,
+      "entity": "room",
+      "start": 17,
+      "text": "C"
+    }]
+  }, {
+    "text": "Ok! I will take the last room.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 24,
+      "entity": "room",
+      "start": 20,
+      "text": "last"
+    }]
+  }, {
+    "text": "Thanks for your help! We will reserve the first room.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 47,
+      "entity": "room",
+      "start": 42,
+      "text": "first"
+    }]
+  }, {
+    "text": "Thank you very much for your help. I take room C.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 48,
+      "entity": "room",
+      "start": 47,
+      "text": "C"
+    }]
+  }, {
+    "text": "Thank you! We want to book room A.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 33,
+      "entity": "room",
+      "start": 32,
+      "text": "A"
+    }]
+  }, {
+    "text": "Thanks! We take the third room.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 25,
+      "entity": "room",
+      "start": 20,
+      "text": "third"
+    }]
+  }, {
+    "text": "Thanks for your help! I want to reserve room A.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 46,
+      "entity": "room",
+      "start": 45,
+      "text": "A"
+    }]
+  }, {
+    "text": "Thanks! I will reserve room C.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 29,
+      "entity": "room",
+      "start": 28,
+      "text": "C"
+    }]
+  }, {
+    "text": "I want to book the first room.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 24,
+      "entity": "room",
+      "start": 19,
+      "text": "first"
+    }]
+  }, {
+    "text": "Thanks for your help! I will book room B.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 40,
+      "entity": "room",
+      "start": 39,
+      "text": "B"
+    }]
+  }, {
+    "text": "I will take the second room.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 22,
+      "entity": "room",
+      "start": 16,
+      "text": "second"
+    }]
+  }, {
+    "text": "Ok! I will reserve the third room.",
+    "intent": "reserve_room",
+    "training": false,
+    "entities": [{
+      "stop": 28,
+      "entity": "room",
+      "start": 23,
+      "text": "third"
+    }]
+  }]
+}
