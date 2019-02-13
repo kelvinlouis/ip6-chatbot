@@ -1,4 +1,5 @@
 ## NLU evaluation scripts
+Needs python 2.x  
 Forked from [kanbehmw/NLU-Evaluation-Scripts](https://github.com/kanbehmw/NLU-Evaluation-Scripts)  
 Thanks to [Daniel Braun](https://wwwmatthes.in.tum.de/pages/41usp76zyc49/Daniel-Braun) et al. for the original implementation.
 
