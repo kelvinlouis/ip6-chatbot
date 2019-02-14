@@ -173,6 +173,7 @@ class LanguageToolApi:
             "METRIC_UNITS_EN_US",
             "I_LOWERCASE",
             "PUNCTUATION_PARAGRAPH_END",
+            "NOW",
         ]
 
         # Ensures the post parameters and response are printed

@@ -9,6 +9,11 @@ import {
 } from '../actions';
 import { patch } from './helper';
 
+/**
+ * The initial state of the store.
+ * The participantId is overwritten, if a participant id is
+ * provided through a dispatched action.
+ */
 const initialState = {
   participantId: `participant-${moment().unix()}`,
   messages: [],
