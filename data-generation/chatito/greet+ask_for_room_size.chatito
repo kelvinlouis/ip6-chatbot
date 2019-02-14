@@ -1,0 +1,198 @@
+%[greet+ask_for_room_size]('training': '430')
+    ~[hi], ~[how_are_you?] Is ~[specific_room] ~[large] ~[enough]?
+    ~[hi], ~[how_are_you?] Is ~[specific_room] ~[large] ~[enough] for @[nr_of_people] ~[people]?
+    ~[hi], ~[how_are_you?] Is ~[specific_room] ~[large] ~[enough] for @[nr_of_people]?
+    ~[hi], ~[how_are_you?] Can @[nr_of_people] ~[people?] ~[be_in] ~[specific_room]?
+    ~[hi], ~[how_are_you?] Does ~[specific_room] ~[have_space] @[nr_of_people] ~[people]?
+    ~[hi], ~[how_are_you?] Does ~[specific_room] ~[have_space] @[nr_of_people]?
+    ~[hi], ~[how_are_you?] ~[how_big_is] ~[specific_room]?
+    ~[hi], ~[how_are_you?] ~[question_start] ~[space]?
+    ~[hi], ~[how_are_you?] ~[question_start] ~[space] for @[nr_of_people]?
+    ~[hi], ~[how_are_you?] ~[question_start] ~[space] for @[nr_of_people] ~[people]?
+    ~[hi], ~[how_are_you?] ~[what] ~[rooms] ~[do_you_have] ~[for] @[nr_of_people]?
+    ~[hi], ~[how_are_you?] ~[what] ~[rooms] ~[do_you_have] ~[for] @[nr_of_people] ~[people]?
+    ~[hi], ~[how_are_you?] ~[what] ~[rooms] ~[have] ~[space] ~[for] @[nr_of_people]?
+    ~[hi], ~[how_are_you?] ~[what] ~[rooms] ~[have] ~[space] ~[for] @[nr_of_people] ~[people]?
+    ~[hi], ~[how_are_you?] ~[we] ~[need] ~[a_room] ~[for] @[nr_of_people] ~[people?]
+    ~[hi], ~[how_are_you?] ~[are_there] ~[rooms] ~[for] @[nr_of_people]?
+    ~[hi], ~[how_are_you?] ~[are_there] ~[rooms] ~[for] @[nr_of_people] ~[people]?
+    ~[hi], ~[how_are_you?] ~[are_there] ~[rooms] ~[for_between] ~[number] to @[nr_of_people] ~[people]?
+
+@[nr_of_people]
+    ~[number]
+
+~[number]
+    150
+    160
+    170
+    180
+    190
+    200
+    210
+    220
+    250
+    300
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+~[hi]
+    Hi
+    Hello
+    Hey
+    Good morning
+    Good afternoon
+    Good evening
+    Hey there
+    Hi there
+    Hello there
+    Hey man
+
+~[how_are_you]
+    how are you?
+    how is it going?
+    how is life?
+    how are things?
+
+~[people]
+    people
+    persons
+    colleagues
+    guests
+
+~[large]
+    large
+    big
+
+~[biggest]
+    biggest
+    largest
+    smallest
+
+~[space]
+    space
+    room
+
+~[spaces]
+    ~[space]s
+
+~[room_with_one]
+    one
+    ~[space]
+
+~[room_with_ones]
+    ones
+    ~[spaces]
+
+~[larger]
+    larger
+    bigger
+
+~[how_big_is]
+    How ~[large] is
+
+~[how_many_people]
+    How many ~[people]
+
+~[how_many_people_end]
+    does @[room#it] fit
+    can sit @[room#there]
+    can be in @[room#there]
+
+~[how_much_start]
+    How much
+
+~[how_much_end]
+    does it have
+
+~[question_start]
+    Does @[room#it] have enough
+    Will @[room#it] have enough
+
+~[and_the_other]
+    And the @[room#other]
+
+~[are_the]
+    Are the
+
+~[we_should_be_able]
+    ~[we] ~[need]
+
+~[we]
+    we
+    I
+
+~[need]
+    need
+    would like
+    want
+    should have
+
+~[between]
+    between
+    to
+
+~[specific_room]
+    ~[room?] @[room#letter]
+
+~[in_room]
+    in ~[specific_room]
+
+~[what]
+    What
+    What kind of
+    How many
+
+~[rooms]
+    ~[room]s
+
+~[room#c]
+    room
+    meeting room
+
+~[room#v]
+    event room
+
+~[a_room]
+    an ~[room#v]
+    a ~[room#c]
+
+~[do_you_have]
+    do you have
+    do you provide
+    are available
+
+~[are_there]
+    Are there
+    Do you have
+    Do you provide
+
+~[have]
+    have
+
+~[for]
+    for
+    that fits
+    that has room for
+    for at least
+    for a minimum of
+    for circa
+    for up to
+    for about
+
+~[for_between]
+    for between
+    that fits between
+
+~[be_in]
+    be in
+    fit in
+
+~[have_space]
+    have space for
+    fit

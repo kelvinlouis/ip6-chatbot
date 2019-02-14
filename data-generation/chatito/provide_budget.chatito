@@ -1,0 +1,96 @@
+%[provide_budget]('training': '500')
+    ~[statement_start] @[budget]
+
+@[budget]
+    ~[money]
+
+~[money]
+    ~[currency_prefix]~[amount]
+    ~[currency_prefix_with_space] ~[amount]
+    ~[amount]~[currency_postfix]
+    ~[amount] ~[Swiss francs]
+
+~[currency_prefix]
+    $
+    €
+    £
+
+~[currency_prefix_with_space]
+    CHF
+    GBP
+    USD
+    Fr.
+
+~[currency_postfix]
+    .-
+
+~[Swiss francs]
+    ~[Swiss?] francs
+    euro~[s?]
+    dollars
+    pounds
+
+~[amount]
+    500
+    600
+    700
+    800
+    900
+    1000
+    1200
+    1400
+    1500
+    1'000
+    1'200
+    1'400
+    1'500
+    1,000
+    1,200
+    1,400
+    1,500
+
+~[statement_start]
+    ~[We] have a ~[limit] of ~[maximum?]
+    It ~[has] be ~[under]
+    ~[We] can pay ~[maximum?]
+    It cannot cost ~[over]
+    It can't cost ~[over]
+    ~[We] have
+    ~[We] can ~[spend] ~[maximum?]
+    The cost should be ~[maximum]
+    Our ~[limit] is
+    The ~[limit] is
+
+~[has]
+    has to
+    needs to
+    must
+    should
+
+~[under]
+    under
+    below
+
+~[over]
+    over
+    more than
+
+~[spend]
+    spend
+    pay
+
+~[maximum]
+    maximum
+    max
+    at most
+    no more than
+
+~[limit]
+    limit
+    budget
+    maximum
+    max
+
+~[We]
+    We
+    I

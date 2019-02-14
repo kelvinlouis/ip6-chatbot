@@ -1,0 +1,155 @@
+%[ask_for_room_highlight]('training': '500')
+    ~[what_is] ~[special_about] ~[specific_room]?
+    ~[what_is] ~[special_about] the ~[others]?
+    ~[what_is] the highlight of ~[specific_room]?
+    Is ~[specific_room] ~[special]?
+    Will the ~[guests] be impressed with ~[specific_room]?
+    ~[we] ~[need] ~[a_special] ~[room]
+    ~[we_are] ~[needing] ~[a_special] ~[room]
+    ~[we] want to ~[impress] ~[our_guests]
+    ~[are_there] ~[special] ~[rooms]?
+    ~[is_there] ~[a_special] ~[room]?
+    ~[is_there] ~[a_room] ~[which_is] ~[special]?
+    Which ~[room] is ~[special]?
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+@[room#number]
+    first
+    second
+    third
+    last
+    other
+
+@[room#other]
+    other
+
+@[room#others]
+    others
+
+@[room#this]
+    this
+
+@[room#it]
+    it
+
+@[room#the]
+    the
+
+~[what_is]
+    What is
+    What's
+
+~[is_there]
+    Is there
+    Do you have
+
+~[guests]
+    guests
+    people
+
+~[special]
+    special
+    unique
+    nice
+    ~[specialv]
+
+~[specialv]
+    outstanding
+    exceptional
+    exclusive
+    impressive
+    interesting
+
+~[a_special]
+    a ~[special]
+    an ~[specialv]
+
+~[special_about]
+    ~[special] about
+
+// Handled like this to limit the entity (room) to [other]
+// instead of [other room], [other event room] etc.
+~[others]
+    @[room#other] ~[rooms]
+    @[room#others]
+
+~[specific_room]
+    ~[room?] @[room#letter]
+    the @[room#number] ~[room_with_one]
+    @[room#this] ~[room_with_one?]
+    @[room#it]
+    @[room#the] ~[room]
+
+~[room]
+    room
+    event room
+    meeting room
+    location
+    option
+
+~[rooms]
+    ~[room]s
+
+~[room_with_one]
+    ~[room]
+    one
+
+~[a_room]
+    an ~[room#v]
+    a ~[room#c]
+
+~[room#c]
+    room
+    meeting room
+    location
+
+~[room#v]
+    event room
+    option
+
+~[we]
+    We
+    I
+
+~[need]
+    need
+    would like
+    like
+    search for
+    look for
+    want
+
+~[we_are]
+    We're
+    We are
+    I am
+    I'm
+
+~[needing]
+    searching for
+    looking for
+
+~[impress]
+    impress
+    make a good impression on
+    wow
+
+~[our_guests]
+    our guests
+    the guests
+    the people
+
+~[are_there]
+    Are there
+    Do you have
+
+~[which_is]
+    which is
+    that is

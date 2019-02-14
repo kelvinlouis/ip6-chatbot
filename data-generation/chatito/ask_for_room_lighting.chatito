@@ -1,0 +1,116 @@
+%[ask_for_room_lighting]('training': '500')
+    ~[we] ~[need] ~[a_room] with ~[a_good_lighting]
+    ~[is_there] ~[a_good_lighting] ~[in_room]?
+    Does ~[specific_room] have ~[a_good_lighting]?
+    How is the ~[lighting] in ~[specific_room]?
+    What is the ~[lighting] ~[like?] in ~[specific_room]?
+    How are the ~[lamps] ~[like?] in ~[specific_room]?
+    Are there ~[many] ~[lamps]?
+    Are there ~[many] ~[lamps] in ~[specific_room]?
+    Is there enough ~[lighting] in ~[specific_room]?
+    ~[we] ~[need] ~[a_room] with ~[a_good_lighting]
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+@[room#number]
+    first
+    second
+    third
+    last
+    other
+
+@[room#other]
+    other
+
+@[room#others]
+    others
+
+@[room#this]
+    this
+
+@[room#it]
+    it
+
+@[room#the]
+    the
+
+~[is_there]
+    Is there
+    Do you have
+
+~[good]
+    good
+    enough
+    a lot of
+    natural
+
+~[many]
+    many
+    a lot of
+    good
+
+~[natural]
+    natural
+
+~[lighting]
+    light
+    lighting
+
+~[lamps]
+    lamps
+    lights
+
+~[a_good_lighting]
+    ~[good] lighting
+    ~[good] light
+    ~[many] lamps
+
+~[specific_room]
+    ~[room?] @[room#letter]
+    the @[room#number] ~[room_with_one]
+    @[room#this] ~[room_with_one?]
+    @[room#it]
+    @[room#the] ~[room]
+
+~[in_room]
+    in ~[specific_room]
+    in the @[room#other] ~[room_with_ones]
+    in the @[room#others]
+
+~[a_room]
+    an ~[room#v]
+    a ~[room#c]
+
+~[room#c]
+    room
+    meeting room
+
+~[room#v]
+    event room
+
+~[room_with_one]
+    ~[room]
+    one
+
+~[room_with_ones]
+    ~[room_with_one]s
+
+~[rooms]
+    ~[room]s
+
+~[we]
+    We
+    I
+
+~[need]
+    need
+    would like
+    look for
+    searching for
+    want

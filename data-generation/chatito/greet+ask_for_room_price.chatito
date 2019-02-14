@@ -1,0 +1,176 @@
+﻿%[greet+ask_for_room_price]('training': '220')
+    ~[hi] ~[how_are_you?] ~[whats] the price of ~[specific_room]?
+    ~[hi] ~[how_are_you?] ~[what_are] the prices of the ~[rooms]?
+    ~[hi] ~[how_are_you?] How much does ~[specific_room] cost?
+    ~[hi] ~[how_are_you?] How much is ~[specific_room]?
+    ~[hi] ~[how_are_you?] How much are the ~[rooms]?
+    ~[hi] ~[how_are_you?] How much do the ~[rooms] cost?
+    ~[hi] ~[how_are_you?] How ~[expensive] is ~[specific_room]?
+    ~[hi] ~[how_are_you?] ~[is_there] ~[a_room] ~[for_singular] @[budget]?
+    ~[hi] ~[how_are_you?] ~[are_there] ~[rooms] ~[for_plural] @[budget]?
+    ~[hi] ~[how_are_you?] ~[can_we] ~[rent] ~[a_room] ~[for_singular] @[budget]?
+    ~[hi] ~[how_are_you?] Which ~[room] is the ~[cheapest]?
+    ~[hi] ~[how_are_you?] ~[is_there] ~[a_cheap] ~[room]?
+    ~[hi] ~[how_are_you?] ~[are_there] ~[expensive] ~[rooms]?
+
+@[budget]
+    ~[money]
+
+~[money]
+    ~[currency_prefix]~[amount]
+    ~[currency_prefix_with_space] ~[amount]
+    ~[amount]~[currency_postfix]
+    ~[amount] ~[Swiss francs]
+
+~[currency_prefix]
+    $
+    €
+    £
+
+~[currency_prefix_with_space]
+    CHF
+    GBP
+    USD
+    Fr.
+
+~[currency_postfix]
+    .-
+
+~[Swiss francs]
+    ~[Swiss?] francs
+    euro~[s?]
+    dollars
+    pounds
+
+~[amount]
+    500
+    600
+    700
+    800
+    900
+    1000
+    1200
+    1400
+    1500
+    1'000
+    1'200
+    1'400
+    1'500
+    1,000
+    1,200
+    1,400
+    1,500
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+~[hi]
+    Hi
+    Hello
+    Hey
+    Good morning
+    Good afternoon
+    Good evening
+    Hey there
+    Hi there
+    Hello there
+    Hey man
+
+~[how_are_you]
+    how are you?
+    how is it going?
+    how is life?
+    how are things?
+
+~[specific_room]
+    ~[room?] @[room#letter]
+
+~[a_room]
+    an ~[room#v]
+    a ~[room#c]
+    ~[specific_room]
+
+~[room#c]
+    room
+    meeting room
+    location
+
+~[room#v]
+    event room
+    option
+
+~[whats]
+    What's
+    What is
+
+~[what_are]
+    What are
+    What're
+
+~[rent]
+    rent
+    get
+    book
+
+~[rooms]
+    ~[room]s
+
+~[can_we]
+    Can we
+    Could we
+    Is it possible to
+    Is there a possibility to
+    Do you have
+
+~[a_cheap]
+    a cheap
+    an expensive
+    an affordable
+
+~[cheaper]
+    cheaper
+    the same price
+    more expensive
+    cheaper or more expensive
+
+~[cheapest]
+    cheapest
+    most expensive
+    most affordable
+
+~[expensive]
+    expensive
+    cheap
+
+~[is_there]
+    Is there
+    ~[do_you]
+
+~[are_there]
+    Are there
+    Are there any
+    ~[do_you]
+
+~[do_you]
+    Do you have
+    Do you provide
+    Do you offer
+
+~[for_singular]
+    for
+    that costs
+    for lower than
+    for less than
+    that costs less than
+
+~[for_plural]
+    for
+    that cost
+    for lower than
+    for less than
+    that cost less than

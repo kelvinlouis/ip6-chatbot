@@ -1,0 +1,88 @@
+%[ask_for_directions]('training': '300')
+    ~[whats] ~[route_property] way from the @[start_location] ~[to_hotel] ~[by_transport]?
+    ~[whats] ~[route_property] way from the @[start_location] ~[by_transport]?
+    ~[whats] ~[route_property] way from the @[start_location] ~[to_hotel]?
+    ~[whats] ~[route_property] way from the @[start_location]?
+    ~[is_there] ~[a_transport] from the @[start_location]?
+    ~[is_there] ~[a_transport] from the @[start_location] ~[to_hotel]?
+    Is there an ~[easy] way to get to ~[hotel]?
+    What are the directions to ~[hotel]?
+    How can ~[we] get to ~[hotel]?
+    How do ~[we] get to ~[hotel]?
+    How do ~[we] get there?
+    Can you give me ~[the?] directions to ~[hotel]?
+    Can you give me directions?
+    Tell me what's the ~[route_property] way to get to ~[hotel]?
+    Give me directions
+    Please give me directions
+    Tell me how to get there
+    Tell me how to get to ~[hotel]
+    Where is ~[hotel]?
+    Where is ~[hotel] located?
+    Is ~[hotel] far away?
+    Do you have a good location?
+
+@[start_location]
+    rail station
+    train station
+    station
+    airport
+
+~[is_there]
+    Is there
+    Can I take
+    Can we take
+
+~[whats]
+    What's the
+    What is the
+
+~[route_property]
+    fastest
+    shortest
+    best
+    easiest
+    quickest
+
+~[easy]
+    easy
+    fast
+    direct
+    quick
+    simple
+
+~[a_transport]
+    a ~[transport#c]
+    public transport
+    public transportation
+
+~[transport#c]
+    taxi
+    train
+    subway
+    shuttle
+    car
+    bike
+
+~[by_transport]
+    by ~[transport#c]
+    by public transport
+    by public transportation
+
+~[start_location]
+    rail station
+    train station
+    airport
+
+~[hotel]
+    your hotel
+    the hotel
+    One King Hotel
+    the place
+
+~[to_hotel]
+    to ~[hotel]
+
+~[we]
+    we
+    I

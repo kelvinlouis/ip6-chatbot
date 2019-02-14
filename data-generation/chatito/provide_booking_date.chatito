@@ -1,0 +1,224 @@
+%[provide_booking_date]('training': '750')
+    Is the ~[room] available ~[on] ~[the?] @[date] ~[time?]
+    ~[statement_start] ~[book] the ~[room] ~[on] ~[the?] @[date] ~[time?]
+    ~[statement_start] ~[book] the ~[room] ~[on] ~[the?] @[date]
+    ~[booking] for ~[the?] @[date]
+    ~[booking] for ~[the?] @[date] ~[time?]
+    The date of the event is ~[the?] @[date] ~[time?]
+    The ~[networking?] event ~[take_place] @[time] ~[on the?] @[date] 
+    Is the ~[room] available @[time] ~[on_the_date?]
+    ~[statement_start] ~[book] the ~[room] @[time] ~[on_the_date?]
+    ~[booking] for @[time] ~[on_the_date?]
+    The time of the event is @[time?] ~[on_the_date?]
+    The ~[networking?] event ~[take_place] @[time] ~[on_the_date?]
+    The ~[networking?] event ~[take_place] ~[next]
+    @[date] ~[time?]
+
+~[on_the_date]
+    on the @[date]
+
+~[on]
+    on
+    for 
+
+~[we]
+    I 
+    we
+
+~[booking]
+    The booking is
+    The reservation is
+    It's
+    It is
+
+~[book]
+    book
+    reserve
+    have
+    get  
+
+~[room]
+    room
+    venue
+    place
+    location
+
+~[take_place]
+    takes place
+    will take place
+    is taking place
+    is happening
+    is
+    is going to be
+    will be
+
+~[next]
+    next year
+    next month 
+    next week
+
+~[statement_start]
+    Can ~[we]
+    Could ~[we]
+    ~[we]'d like to
+    ~[we] would like to
+    ~[we] want to
+    ~[we] need to
+    Is it possible to
+    Would it be possible to
+
+@[date]
+    ~[day_number] ~[month] ~[year]
+    ~[day_number_ord] ~[of?] ~[month] ~[year]
+    ~[day_number].~[month_number].~[year]
+    ~[day_number]/~[month_number]/~[year]
+    ~[day_number]-~[month_number]-~[year]
+    ~[day_number] ~[of?] ~[month] ~[year]
+    ~[day_number_ord] ~[of?] ~[month] ~[year]
+
+~[day_number]
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+    17
+    18
+    19
+    20
+    21
+    22
+    23
+    24
+    25
+    26
+    27
+    28
+    29
+    30
+    31
+
+~[day_number_ord]
+    1st
+    2nd
+    3rd
+    4th
+    5th
+    6th
+    7th
+    8th
+    9th
+    10th
+    11th
+    12th
+    13th
+    14th
+    15th
+    16th
+    17th
+    18th
+    19th
+    20th
+    21th
+    22th
+    23th
+    24th
+    25th
+    26th
+    27th
+    28th
+    29th
+    30th
+    31st
+
+~[month]
+    Jan~[uary?]
+    Feb~[ruary?]
+    Mar~[ch?]
+    Apr~[il?]
+    May
+    Jun~[e?]
+    Jul~[y?]
+    Aug~[ust?]
+    Sep~[tember?]
+    Oct~[ober?]
+    Nov~[ember?]
+    Dec~[ember?]
+
+~[month_number]
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+
+~[year]
+    2018
+    2019
+    2020
+
+~[time]
+    @[time]
+
+@[time]
+    at ~[month_number] ~[p.m.?]
+    at ~[month_number] ~[a.m.?]
+    at ~[month_number] ~[o'clock]
+    at 1 in the afternoon
+    at 2 in the afternoon
+    at 3 in the afternoon
+    at 4 in the afternoon
+    at 5 in the evening
+    at 6 in the evening
+    at 7 in the evening
+    at 8 in the morning
+    at 9 in the morning
+    at 10 in the morning
+    at 11 in the morning
+    at 13~[:]00
+    at 14~[:]00
+    at 15~[:]00
+    at 16~[:]00
+    at 17~[:]00
+    at 18~[:]00
+    at 19~[:]00
+    at 20~[:]00
+    at 21~[:]00
+    at 22~[:]00 
+    at 23~[:]00 
+    at 24~[:]00 
+    in the morning
+    at noon
+    in the afternoon
+    in the evening
+    at night
+    during the day
+~[:]
+    :
+    .
+
+~[p.m.]
+    p.m.
+    pm
+
+~[a.m.]
+    a.m.
+    am

@@ -1,0 +1,190 @@
+%[ask_for_room_equipment]('training': '500')
+    ~[is_there] ~[equipment]?
+    ~[is_there] ~[equipment] ~[to_present]?
+    ~[is_there] ~[equipment] ~[for_staff]?
+    ~[is_there] ~[equipment] ~[in_room]?
+    ~[is_there] ~[equipment] ~[to_present] ~[for_staff]?
+    ~[is_there] ~[equipment] ~[for_staff] ~[in_room]?
+    ~[is_there] ~[equipment] ~[to_present] ~[in_room]?
+    ~[is_there] ~[equipment] ~[to_present] ~[for_staff] ~[in_room]?
+    ~[is_there] ~[a_room] ~[which has] ~[equipment]?
+    ~[is_there] ~[a_room] ~[which has] ~[equipment] ~[to_present]?
+    ~[is_there] ~[a_room] ~[which has] ~[equipment] ~[for_staff]?
+    ~[is_there] ~[a_room] ~[which has] ~[equipment] ~[to_present] ~[for_staff]?
+    ~[does] ~[specific_room] ~[have] ~[equipment]?
+    ~[does] ~[specific_room] ~[have] ~[equipment] ~[to_present]?
+    ~[does] ~[specific_room] ~[have] ~[equipment] ~[for_staff]?
+    ~[does] ~[specific_room] ~[have] ~[equipment] ~[to_present] ~[for_staff]?
+    ~[can_we] ~[present]?
+    ~[can_we] ~[present] ~[in_room]?
+    ~[can_we] ~[present] ~[for_staff]?
+    ~[can_we] ~[present] ~[in_room] ~[for_staff]?
+    ~[we] ~[also?] ~[need] ~[equipment] ~[in_room?]
+    ~[we] ~[also?] ~[need] ~[to_present]
+    ~[are_there] @[equipment#plural] ~[in_room]?
+    ~[are_there] ~[rooms] ~[which have] ~[equipment]?
+    Which ~[room] has ~[equipment]?
+    In which ~[room] can ~[we] ~[present]?
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+@[room#number]
+    first
+    second
+    third
+    last
+    other
+
+@[room#other]
+    other
+
+@[room#others]
+    others
+
+@[room#this]
+    this
+
+@[room#it]
+    it
+
+@[room#the]
+    the
+
+~[specific_room]
+    ~[room?] @[room#letter]
+    the @[room#number] ~[room_with_one]
+    @[room#this] ~[room_with_one?]
+    @[room#it]
+    @[room#the] ~[room]
+
+~[in_room]
+    in ~[specific_room]
+    in the @[room#other] ~[room_with_ones]
+    in the @[room#others]
+
+~[is_there]
+    Is there
+    Do you have
+    Do you provide
+
+~[are_there]
+    Do you have
+    Are there
+
+~[which has]
+    which has
+    that has
+    with
+
+~[which have]
+    which have
+    that have
+    with
+
+~[equipment]
+    equipment
+    ~[a_equipment]
+    @[equipment#plural]
+
+~[a_equipment]
+    a @[equipment#c]
+    an @[equipment#v]
+
+@[equipment#c]
+    video system
+    projector
+    screen
+    TV
+    light system
+    beamer
+    speaker
+    loudspeaker
+
+@[equipment#v]
+    audio/video system
+    audio system
+
+@[equipment#plural]
+    video systems
+    projectors
+    screens
+    TVs
+    light systems
+    beamers
+    audio systems
+    speakers
+    loudspeakers
+
+~[to_present]
+    to ~[present]
+
+~[present]
+    do a presentation
+    hold a presentation
+    show a presentation
+    do a talk
+    show a powerpoint presentation
+    do a powerpoint presentation
+    present
+    make a presentation
+
+~[a_room]
+    an ~[room#v]
+    a ~[room#c]
+
+~[room#c]
+    room
+    meeting room
+    location
+
+~[room#v]
+    event room
+    option
+
+~[room_with_one]
+    ~[room]
+    one
+
+~[room_with_ones]
+    ~[room_with_one]s
+
+~[rooms]
+    ~[room]s
+
+~[for_staff]
+    for our staff
+    for our employees
+    for the team
+    for my colleagues
+
+~[have]
+    have
+
+~[can_we]
+    Can ~[we]
+    Could ~[we]
+    Are we able to
+    ~[we] should be able to
+    Is it possible to
+    Is there a possibility to
+
+~[we]
+    we
+    I
+
+~[need]
+    need
+    would like
+    want
+    like
+    have
+    must
+
+~[does]
+    Does

@@ -1,0 +1,150 @@
+%[ask_for_room_atmosphere]('training': '500')
+    ~[what_is] ~[the_atmosphere] ~[in_room]?
+    ~[what_is] ~[the_atmosphere] ~[in_room] ~[like]?
+    ~[what_is] ~[the_atmosphere] ~[like] ~[in_room]?
+    ~[we] ~[need] ~[a_room] with ~[a_good_atmosphere]
+    ~[is_there] ~[a_good_atmosphere] ~[in_room]?
+    ~[what_is] ~[specific_room] like?
+    Does ~[specific_room] have ~[a_good_atmosphere]?
+    What does ~[specific_room] look like?
+    Is ~[specific_room] ~[nice]?
+    Is it ~[nice] ~[in_room]?
+    Is ~[specific_room] the nicest ~[room]?
+    Which ~[room] ~[is_better]?
+    Which ~[room] has ~[a_good_atmosphere]?
+    ~[are_there] ~[nice] ~[rooms]?
+    ~[are_there] ~[rooms] ~[which have] ~[a_good_atmosphere]?
+    ~[is_there] ~[a_room] ~[which has] ~[a_good_atmosphere]?
+    How is the decoration?
+    How are the rooms decorated?
+    How is the decoration ~[in_room]?
+    How is ~[specific_room] decorated?
+    What does the decoration in ~[specific_room] look like?
+    Are there any decorations in ~[specific_room]?
+    Is the decoration ~[in_room] ~[nice]?
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+@[room#number]
+    first
+    second
+    third
+    last
+    other
+
+@[room#other]
+    other
+
+@[room#others]
+    others
+
+@[room#this]
+    this
+
+@[room#it]
+    it
+
+@[room#the]
+    the
+
+~[what_is]
+    What is
+    What's
+
+~[is_there]
+    Is there
+    Do you have
+
+~[a_good_atmosphere]
+    a good atmosphere
+    a nice atmosphere
+    a good vibe
+    a modern feel
+    a classic feel
+    a modern touch
+    a classic touch
+    a classic design
+    a modern design
+    an old-fashioned design
+
+~[the_atmosphere]
+    the atmosphere
+    the vibe
+
+~[specific_room]
+    ~[room?] @[room#letter]
+    the @[room#number] ~[room_with_one]
+    @[room#this] ~[room_with_one?]
+    @[room#it]
+    @[room#the] ~[room]
+
+~[in_room]
+    in ~[specific_room]
+    in the @[room#other] ~[room_with_ones]
+    in the @[room#others]
+
+~[a_room]
+    an ~[room#v]
+    a ~[room#c]
+
+~[room#c]
+    room
+    meeting room
+    location
+
+~[room#v]
+    event room
+    option
+
+~[room_with_one]
+    ~[room]
+    one
+
+~[room_with_ones]
+    ~[room_with_one]s
+
+~[rooms]
+    ~[room]s
+
+~[we]
+    We
+    I
+
+~[need]
+    need
+    would like
+    look for
+    search for
+    want
+
+~[nice]
+    nice
+    modern
+    old
+
+~[which has]
+    which has
+    that has
+    with
+
+~[which have]
+    which have
+    that have
+    with
+
+~[are_there]
+    Are there
+    Do you have
+
+~[is_better]
+    is the nicest
+    looks better
+    is more modern
+    is not too flashy
+    is not too modern

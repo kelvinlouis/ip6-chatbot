@@ -1,0 +1,139 @@
+%[ask_for_room]('training': '500')
+    ~[do_you_have] ~[information] about ~[specific_room]?
+    ~[what_about] ~[specific_room]?
+    ~[What] is ~[specific_room] like?
+    Does the @[room#number] ~[room_with_one?] ~[have_it]?
+    Do the ~[others] ~[have_it]?
+    How are the ~[others]?
+    Are the ~[others] ~[good]?
+    Is ~[specific_room] ~[good]?
+    ~[demand_start] ~[others]
+    ~[demand_particular_room] ~[specific_room]
+    ~[question_alternative_start] a @[room#other] ~[room_with_one]?
+    Do you have @[room#another] ~[room_with_one]?
+    What about @[room#another] ~[room_with_one]?
+    ~[question_alternative_start] ~[others]?
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+@[room#number]
+    first
+    second
+    third
+    last
+    other
+
+// Handled like this to limit the entity (room) to [other]
+// instead of [other room], [other event room] etc.
+~[others]
+    @[room#other] ~[rooms]
+    @[room#others]
+
+@[room#other]
+    other
+
+@[room#another]
+    another
+
+@[room#others]
+    others
+
+@[room#this]
+    this
+
+@[room#it]
+    it
+
+@[room#the]
+    the
+
+~[specific_room]
+    ~[room?] @[room#letter]
+    the @[room#number] ~[room_with_one]
+    @[room#this] ~[room?]
+    @[room#it]
+    @[room#the] ~[room]
+
+~[room]
+    room
+    event room
+    meeting room
+    location
+    option
+
+~[room_with_one]
+    ~[room]
+    one
+
+~[rooms]
+    ~[room]s
+
+~[information]
+    information
+    info
+    facts
+
+~[we]
+    we
+    I
+
+~[do_you_have]
+    Do you have
+    Can you provide
+    Can ~[we] have
+
+~[what_about]
+    What about
+    And
+    And in
+    How about
+    How is
+    Can you describe
+    Can you tell me about
+
+~[What]
+    What
+    How
+
+~[have_it]
+    have this
+    have it
+
+~[is_the]
+    Is the
+    Does the
+
+~[good]
+    good
+    nice
+    better
+
+~[demand_start]
+    Tell me about your
+    I have a question about your
+    Give me information about your
+    Say something about your
+    I'd like to know more about the
+    I want to hear more about the
+
+~[question_alternative_start]
+    Do you have
+    Are there
+    What about
+
+~[demand_particular_room]
+    I am interested in
+    I want to know about
+    I want to know more about
+    Tell me about
+    Give me information ~[info_about]
+
+~[info_about]
+    about
+    on

@@ -1,0 +1,176 @@
+%[ask_for_room_seating]('training': '500')
+    ~[we_should_be_able] ~[form] ~[small?] ~[groups]
+    ~[we_should_be_able] ~[move] ~[tables]
+    ~[we_should_be_able] ~[move] ~[tables] ~[in_room]
+    ~[do_you_have#cap] ~[tables] ~[in_room]?
+    ~[can_we] ~[form] ~[small?] ~[groups]?
+    ~[can_we] ~[form] ~[small?] ~[groups] ~[in_room]?
+    ~[can_we] ~[move] ~[tables] ~[in_room]?
+    ~[question_start_arrangement] the seating arrangement?
+    ~[question_start_arrangement] the seating arrangement ~[in_room]?
+    Which ~[room] has ~[tables]?
+    Which ~[rooms] have ~[tables]?
+    ~[do_you_have#cap] ~[moveable] ~[tables]?
+    ~[how_many] ~[moveable?] ~[tables] ~[do_you_have#lower]?
+    ~[how_many] ~[moveable?] ~[tables] ~[do_you_have#lower] ~[in_room]?
+    ~[can_we] ~[do] ~[workshops]?
+    ~[can_we] ~[do] ~[workshops] ~[in_room]?
+    ~[we_should_be_able] ~[do] ~[workshops]
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+@[room#number]
+    first
+    second
+    third
+    last
+    other
+
+@[room#multiple]
+    others
+    other rooms
+
+@[room#other]
+    other
+
+@[room#others]
+    others
+
+@[room#this]
+    this
+
+@[room#it]
+    it
+    there
+
+@[room#the]
+    the
+
+~[we_should_be_able]
+    ~[we] ~[need]  
+
+~[how_many]
+    How many
+
+~[do_you_have#cap]
+    Do you have
+    Are there
+
+~[do_you_have#lower]
+    do you have
+    are there
+
+~[tables]
+    tables
+    chairs
+    chairs and tables
+    tables and chairs
+
+~[moveable]
+    moveable
+
+~[workshops]
+    workshops
+    work shops
+
+~[can_we]
+    Can ~[we]
+    Is it possible to
+    Is there a possibility to
+    Will ~[guests] be able to
+    Are ~[guests] able to
+    Can ~[guests]
+
+~[do]
+    do
+    conduct
+    make
+    create
+    have
+    form
+
+~[move]
+    move
+
+~[need]
+    need to
+    would like to
+    want to
+    have to
+    should be able to
+
+~[question_start_arrangement]
+    Tell me more about
+    What can you tell me about
+    What's
+    How about
+    What is
+    And what is
+    And how is
+
+~[guests]
+    the guests
+    the people
+    we
+
+~[we]
+    we
+    I
+
+~[room]
+    room
+    event room
+    meeting room
+    location
+    option
+
+~[rooms]
+    ~[room]s
+
+~[room_with_one]
+    one
+    ~[room]
+
+~[room_with_ones]
+    ~[room_with_one]s
+
+~[small]
+    small
+    smaller
+
+~[groups]
+    groups
+    teams
+
+~[form]
+    form
+    create
+    make
+    sit in
+    have ~[discussions] in
+    chat in 
+    talk in
+    sit together in
+
+~[discussions]
+    discussions
+    conversations
+    chats
+
+~[specific_room]
+    ~[room?] @[room#letter]
+    the @[room#number] ~[room_with_one]
+    @[room#this] ~[room_with_one?]
+    @[room#it]
+    @[room#the] ~[room]
+
+~[in_room]
+    in ~[specific_room]
+    in the @[room#other] ~[room_with_ones]
+    in the @[room#others]

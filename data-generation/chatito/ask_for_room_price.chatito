@@ -1,0 +1,207 @@
+﻿%[ask_for_room_price]('training': '500')
+    ~[whats] the price of ~[specific_room]?
+    ~[what_are] the prices of the ~[rooms]?
+    ~[whats] the price of the ~[others]?
+    How much does ~[specific_room] cost?
+    How much is ~[specific_room]?
+    How much are the ~[rooms]?
+    How much are the ~[others]?
+    How much do the ~[rooms] cost?
+    How much do they cost?
+    How ~[expensive] are they?
+    How ~[expensive] is ~[specific_room]?
+    Are they ~[expensive]?
+    Are the ~[others] ~[expensive]?
+    Is ~[specific_room] ~[expensive]?
+    Is ~[specific_room] ~[cheaper]?
+    ~[is_there] ~[a_room] ~[for_singular] @[budget]?
+    ~[is_there] ~[a_room] between ~[money] and @[budget]?
+    ~[are_there] ~[rooms] ~[for_plural] @[budget]?
+    ~[are_there] ~[rooms] between ~[money] and @[budget]?
+    ~[can_we] ~[rent] ~[a_room] ~[for_singular] @[budget]?
+    Which ~[room] is the ~[cheapest]?
+    ~[is_there] ~[a_cheap] ~[room]?
+    ~[are_there] ~[expensive] ~[rooms]?
+
+@[budget]
+    ~[money]
+
+~[money]
+    ~[currency_prefix]~[amount]
+    ~[currency_prefix_with_space] ~[amount]
+    ~[amount]~[currency_postfix]
+    ~[amount] ~[Swiss francs]
+
+~[currency_prefix]
+    $
+    €
+    £
+
+~[currency_prefix_with_space]
+    CHF
+    GBP
+    USD
+    Fr.
+
+~[currency_postfix]
+    .-
+
+~[Swiss francs]
+    ~[Swiss?] francs
+    euro~[s?]
+    dollars
+    pounds
+
+~[amount]
+    500
+    600
+    700
+    800
+    900
+    1000
+    1200
+    1400
+    1500
+    1'000
+    1'200
+    1'400
+    1'500
+    1,000
+    1,200
+    1,400
+    1,500
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+@[room#number]
+    first
+    second
+    third
+    last
+    other
+
+@[room#other]
+    other
+
+@[room#others]
+    others
+
+@[room#this]
+    this
+
+@[room#it]
+    it
+
+@[room#the]
+    the
+
+// Handled like this to limit the entity (room) to [other]
+// instead of [other room], [other event room] etc.
+~[others]
+    @[room#other] ~[rooms]
+    @[room#others]
+
+~[specific_room]
+    ~[room?] @[room#letter]
+    the @[room#number] ~[room_with_one]
+    @[room#this] ~[room_with_one?]
+    @[room#it]
+    @[room#the] ~[room]
+
+~[a_room]
+    an ~[room#v]
+    a ~[room#c]
+    ~[specific_room]
+
+~[room#c]
+    room
+    meeting room
+    location
+
+~[room#v]
+    event room
+    option
+
+~[whats]
+    What's
+    What is
+
+~[what_are]
+    What are
+    What're
+
+~[rent]
+    rent
+    get
+    book
+
+~[room_with_one]
+    ~[room]
+    one
+
+~[room_with_ones]
+    ~[room_with_one]s
+
+~[rooms]
+    ~[room]s
+
+~[can_we]
+    Can we
+    Could we
+    Is it possible to
+    Is there a possibility to
+    Do you have
+
+~[a_cheap]
+    a cheap
+    an expensive
+    an affordable
+
+~[cheaper]
+    cheaper
+    the same price
+    more expensive
+    cheaper or more expensive
+
+~[cheapest]
+    cheapest
+    most expensive
+    most affordable
+
+~[expensive]
+    expensive
+    cheap
+
+~[is_there]
+    Is there
+    ~[do_you]
+
+~[are_there]
+    Are there
+    Are there any
+    ~[do_you]
+
+~[do_you]
+    Do you have
+    Do you provide
+    Do you offer
+
+~[for_singular]
+    for
+    that costs
+    for lower than
+    for less than
+    that costs less than
+
+~[for_plural]
+    for
+    that cost
+    for lower than
+    for less than
+    that cost less than

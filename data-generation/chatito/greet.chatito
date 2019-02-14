@@ -1,0 +1,29 @@
+%[greet]('training': '42')
+    ~[hi]
+    ~[hi], ~[how_are_you]
+    ~[hi], ~[who_am_i_speaking_to]
+
+~[hi]
+    Hi
+    Hello
+    Hey
+    Good morning
+    Good afternoon
+    Good evening
+    Hey there
+    Hi there
+    Hello there
+    Hey man
+
+~[how_are_you]
+    how are you?
+    how is it going?
+    how is life?
+    how are things?
+
+~[who_am_i_speaking_to]
+    who am I speaking to?
+    who is there?
+    who am I talking to?
+    who am I chatting with?
+    who are you?
