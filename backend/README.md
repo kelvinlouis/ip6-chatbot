@@ -33,10 +33,3 @@
 
 ### Evaluate different Policies
 `python -m rasa_core.train compare -c config_core.yml config_core_redp.zml -d domain.yml -s stories_folder -o comparison_models --runs 3 --percentages 0 5 25 50 70 90 95`
-
-### Generate md files
-```
-cd preprocessing/
-npx chatito chatito --outputPath=out/
-node create-md.js -i out/default_dataset_training.json -o ../data/nlu/nlu_greet_provide_name.md
-```
