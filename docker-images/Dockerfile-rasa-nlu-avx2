@@ -18,7 +18,7 @@ COPY ./rasa-nlu-entrypoint.sh ./entrypoint.sh
 
 RUN pip install -U "https://anaconda.org/intel/tensorflow/1.10.0/download/tensorflow-1.10.0-cp36-cp36m-linux_x86_64.whl-avx2.whl"
 
-RUN pip install -U rasa_nlu[tensorflow]
+RUN pip install -U rasa-nlu[tensorflow]==0.13.8
 
 VOLUME ["/app/data/nlu", "/app/models/nlu", "/app/logs"]
 

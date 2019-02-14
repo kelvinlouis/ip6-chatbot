@@ -7,24 +7,22 @@ export const VALID_PARTICIPANT_IDS = [
   'BET-REU-555',  // Ivo Nussbaumer
   'DEV-DEV-DEV',  // Developers
   'UGR-ZC3-869',
-  'QWH-MJ8-FSN',
+  'QWH-MJ8-FSN', // Usability test 2
   'W87-E2W-ZEY',
   'BR6-XNU-138',
-  'UTR-8TV-43J',
+  'UTR-8TV-43J', // Usability test 3
   'L6X-GRY-BZH',
   'Z1Z-3HJ-4CP',
-  '68X-FWZ-NK7',
+  '68X-FWZ-NK7', // Usability test 4
   'PPM-8W6-HBH',
   '5VC-E76-KAH',
-
-  // Codes for production
-  '889-DPT-XUS',
+  '889-DPT-XUS', // Usability test 5
   'SJW-W61-A1M',
   '8ZP-EVS-NKB',
-  'ZG8-3WN-AU3',
+  'ZG8-3WN-AU3', // Usability test 6
   'JMT-1DZ-QEU',
   '4HP-QQ9-9QT',
-  'HSJ-A9C-SJB',
+  'HSJ-A9C-SJB', // Production
   '57W-S5Z-6UL',
   'P4W-8KQ-B9N',
   'MCV-YWZ-3YC',

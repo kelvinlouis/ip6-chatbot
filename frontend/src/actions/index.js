@@ -38,5 +38,5 @@ export const stopThinking = () => ({
 
 export const authenticate = (participantId) => ({
   type: AUTHENTICATE,
-  participantId,
+  participantId: participantId.toUpperCase(),
 });
