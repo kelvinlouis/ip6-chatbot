@@ -1,5 +1,22 @@
 import requests
 import re
+import os
+
+def load_ignore_file():
+    """Loads a file containing additional stop words that are not ignored by LanguageTool"""
+    directory = os.path.dirname(__file__)
+    file_path = "ignore.txt"
+    complete_path = os.path.join(directory, file_path)
+
+    # A file containing a list of words to be ignored
+    ignore_file = open(complete_path)
+    ignore_list = [line.rstrip() for line in ignore_file]
+    ignore_file.close()
+
+    return ignore_list
+
+# A list of words to be ignored, load once keep in memory
+ignore_list = load_ignore_file()
 
 class LanguageError:
     """
@@ -116,11 +133,15 @@ class LanguageToolApiCheckResponse:
         return self.error_count() / word_count
     
     def ignore_hesitation_errors(self):
-        """Removes hesitation words (uhm, eh, ehm, etc.) from the list of errors"""
+        """Ignores hesitation words (uhm, eh, ehm, etc.) from the list of errors"""
         def is_hesitation(err):
             word = err.error
             word = re.sub('[\.\,\:\(\)\?\!\&]', '', word)
             word = word.lower()
+            
+            if (word in ignore_list) == True:
+                return True
+
             return re.search('^[haeou][hmour]+$', word) != None
         
         self.errors = list(filter(lambda err: not is_hesitation(err), self.errors))

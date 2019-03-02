@@ -18,6 +18,7 @@ services:
       - ${PWD}/backend/no_of_people_slot.py:/app/no_of_people_slot.py
       - ${PWD}/backend/room_slot.py:/app/room_slot.py
       - ${PWD}/backend/languagetool/api.py:/app/languagetool/api.py
+      - ${PWD}/backend/languagetool/ignore.txt:/app/languagetool/ignore.txt
       - ${PWD}/backend/nlu/api.py:/app/nlu/api.py
       - ${PWD}/backend/webapp.py:/app/webapp.py
       - ${PWD}/backend/conversation_logger.py:/app/conversation_logger.py
