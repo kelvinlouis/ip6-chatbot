@@ -87,6 +87,9 @@ class LanguageErrorOther(LanguageError):
     def __init__(self, match):
         LanguageError.__init__(self, match)
         self.type = "other"
+        
+        if ("shortMessage" in match) == True:
+            self.message = match["shortMessage"]
 
 
 class LanguageErrorFactory:
