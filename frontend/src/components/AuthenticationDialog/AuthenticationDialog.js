@@ -52,14 +52,14 @@ class AuthenticationDialog extends Component {
 
   /**
    * Checks whether a dash should be added to the input.
-   * They are added on the fourth and 8th position.
-   * XXX-XXX-XXX
+   * They are added on the fourth position.
+   * XXX-XXX
    */
   addDash = () => {
     let participantId = this.participantIdRef.current.value;
 
     if (participantId != null && participantId > this.state.participantId) {
-      if (participantId.length === 3 || participantId.length === 7) {
+      if (participantId.length === 3) {
         // Automatically adds dashes at these positions
         participantId = `${participantId}-`;
         this.participantIdRef.current.value = participantId;
@@ -109,7 +109,7 @@ class AuthenticationDialog extends Component {
             id="participantId"
             label="Participant ID"
             onChange={this.addDash}
-            inputProps={{ maxLength: 11 }}
+            inputProps={{ maxLength: 7 }}
             type="text"
             required
             error={invalidParticipantId}

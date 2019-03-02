@@ -39,15 +39,20 @@ $message-max-width: 600px;
 }
 
 .message__error {
-  background-color: $bg-language-error;
-}
+  position: relative;
 
-.message__error--grammar {
-  background-color: $bg-grammar-error;
-}
-
-.message__error--spelling {
-  background-color: $bg-spelling-error;
+  &:after {
+    content: '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 1rem;
+    margin-top: -0.7em;
+    overflow: hidden;
+    color: $language-error-color;
+    letter-spacing: -0.25em;
+  }
 }
 
 .message--avatar {
