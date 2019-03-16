@@ -1,0 +1,92 @@
+%[provide_preference]('training': '300')
+    I ~[think] ~[room] @[room#letter] ~[is_best]
+    I ~[think] the @[room#number] ~[room_with_choice] ~[is_best]
+    I ~[think] @[room#this] ~[room_with_one] ~[is_best]
+    I ~[think] @[room#it] ~[is_best]
+    I ~[prefer] the @[room#number] ~[room_with_one]
+    I ~[prefer] @[room#this] ~[room_with_one]
+    I ~[prefer] @[room#it]
+    I ~[prefer] ~[room?] @[room#letter]
+    I ~[prefer] @[room#the] ~[room]
+    ~[room?] @[room#letter] ~[is_best]
+    @[room#it] ~[is_best]
+    @[room#the] ~[room] ~[is_best]
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+@[room#number]
+    first
+    second
+    third
+    last
+
+@[room#this]
+    this
+
+@[room#it]
+    it
+
+@[room#the]
+    the
+
+~[think]
+    think
+    believe
+    guess
+
+~[is_best]
+    is the best ~[room?]
+    is ~[good_expected]
+    works
+    should work
+    should be fine
+    would be ~[good_expected]
+    meets our expectations
+    is suitable
+    seems ~[good]
+    sounds ~[good]
+
+~[room]
+    room
+
+~[room_with_one]
+    ~[room]
+    one
+
+~[room_with_choice]
+    ~[room]
+    choice
+    option
+
+~[good]
+    good
+    perfect
+    the best
+    ideal
+    great
+    fine
+    okay
+    ok
+
+~[good_expected]
+    ~[good]
+    what we're looking for
+    what I'm looking for
+    what I've expected
+    what I expected
+    what we expected
+    what I was looking for
+    what I need
+    what we need
+
+~[prefer]
+    prefer
+    like
+    choose
+    want

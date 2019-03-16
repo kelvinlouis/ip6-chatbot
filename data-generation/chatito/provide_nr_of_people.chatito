@@ -1,0 +1,78 @@
+%[provide_nr_of_people]('training': '200')
+    @[nr_of_people] ~[people?]
+    ~[expecting] @[nr_of_people] ~[people?]
+    ~[expecting] ~[number] to @[nr_of_people] ~[people?]
+    ~[expecting_between] ~[number] to @[nr_of_people] ~[people?]
+
+@[nr_of_people]
+    ~[number]
+
+~[number]
+    150
+    160
+    170
+    180
+    190
+    200
+    210
+    220
+    250
+    300
+
+~[expecting]
+    ~[We_are] expecting
+    ~[We_are] planning for
+    ~[We] need ~[a_room] for
+    The event will be for
+    ~[We] planned for
+    ~[We] have to get ~[a_room] for
+    ~[We] have a meeting with
+    ~[We] have an event for
+    ~[We]'re planning an event for
+    ~[We] need space for
+    There will be
+    It is going to have
+    It will have
+    You can expect
+    For
+    For at least
+    For a minimum of
+    At least
+    About
+    For about
+    Probably
+    Maybe
+
+~[expecting_between]
+    ~[We_are] expecting between
+    ~[We] need ~[a_room] for between
+    There will be between
+    It will have between
+    You can expect between
+
+~[We_are]
+    We are
+    I am
+
+~[We]
+    We
+    I
+
+~[people]
+    people
+    persons
+    employees
+    guests
+
+~[room#v]
+    event room
+
+~[room#c]
+    room
+    location
+    meeting room
+    space
+
+~[a_room]
+    an ~[room#v]
+    a ~[room#c]

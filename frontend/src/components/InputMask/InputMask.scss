@@ -1,0 +1,47 @@
+@import '../../styles/variables';
+
+.input-mask {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 1rem;
+
+  // Override MUI Theme
+  .input-mask__button {
+    color: $white;
+    background-color: $primary;
+
+    &:hover {
+      background-color: darken($primary, 20%);
+    }
+  }
+}
+
+.input-mask__input-wrapper {
+  width: 690px;
+  padding: 1rem;
+  line-height: 1.5;
+
+  background: $bg-white;
+  box-shadow: 0px 2px 2px rgba($black, 0.24), 0px 0px 2px rgba($black, 0.12);
+  border-radius: $border-radius-default;
+}
+
+.input-mask__input {
+  max-height: 200px;
+
+  // Include width of scrollbar
+  padding: 0 1rem 0 0;
+  overflow: auto;
+  cursor: text;
+
+  &:focus {
+    outline-width: 0;
+  }
+
+  &:empty:before {
+    content: attr(placeholder);
+    display: block;
+    color: rgba($black, 0.6);
+  }
+}

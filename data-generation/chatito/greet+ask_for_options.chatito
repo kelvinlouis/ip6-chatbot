@@ -1,0 +1,93 @@
+%[greet+ask_for_options]('training': '120')
+    ~[hi] ~[how_are_you?] ~[question_start] ~[rooms]?
+    ~[hi] ~[how_are_you?] ~[demand_start] ~[rooms]
+    ~[hi] ~[how_are_you?] ~[search] ~[a_room]
+    ~[hi] ~[how_are_you?] ~[search] ~[a_room] ~[where]
+    ~[hi] ~[how_are_you?] ~[what] ~[rooms] ~[have]?
+
+~[hi]
+    Hi
+    Hello
+    Hey
+    Good morning
+    Good afternoon
+    Good evening
+    Hey there
+    Hi there
+    Hello there
+    Hey man
+
+~[how_are_you]
+    how are you?
+    how is it going?
+    how is life?
+    how are things?
+
+~[question_start]
+    Can you give me information about your
+    Do you have any information about your
+    Can you tell me more about the
+    Do you have
+    Do you provide
+
+~[demand_start]
+    Tell me about your
+    I have a question about your
+    Give me information about your
+    Say something about your
+    Please say something about your
+    I'd like to know more about the
+    I want to hear more about the
+    Please give me
+
+~[search]
+    I am looking for
+    I'm looking for
+    I would like to ~[reserve]
+    I am interested in
+    I am searching
+    I need
+    We are looking for
+    We're looking for
+    We would like to ~[reserve]
+    We are interested in
+    We are searching
+    We need
+
+~[what]
+    What
+    What kind of
+    How many
+
+~[a_room]
+    an ~[room#v]
+    a ~[room#c]
+
+~[rooms]
+    rooms
+    event rooms
+    meeting rooms
+
+~[room#c]
+    room
+    meeting room
+    location
+
+~[room#v]
+    event room
+
+~[room_with_one]
+    one
+    ~[room]
+
+~[have]
+    do you have
+    do you provide
+    are available
+
+~[where]
+    in your hotel
+
+~[reserve]
+    book
+    reserve

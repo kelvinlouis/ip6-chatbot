@@ -1,0 +1,42 @@
+%[provide_room]('training': '108')
+    ~[i_mean?] @[room#letter]
+    ~[the?] @[room#number] ~[room_with_one]
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+@[room#number]
+    first
+    second
+    third
+    last
+
+~[the]
+    the
+    I mean the
+    I meant the
+    I am talking about the
+    I'm talking about the
+
+~[i_mean]
+    I mean ~[room]
+    I am talking about
+    I'm talking about
+    I'm referring to
+    Give me details about
+    Tell me about
+    Let me know about
+    Room
+    I meant ~[room]
+
+~[room]
+    room
+
+~[room_with_one]
+    one
+    ~[room]

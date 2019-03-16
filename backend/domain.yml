@@ -1,0 +1,463 @@
+%YAML 1.2
+---
+actions:
+- utter_room_beta_highlight
+- utter_ask_for_booking_date
+- utter_available_rooms_150_people
+- utter_available_rooms_200_people
+- utter_available_rooms_270_people
+- utter_catering_options
+- utter_confirm
+- utter_room_gamma_people_limit
+- utter_ask_for_service
+- utter_options
+- utter_thanks_with_name
+- utter_ask_for_confirmation
+- utter_room_alpha_price
+- utter_dissatisfaction
+- utter_ask_for_alternative
+- utter_confirm_booking
+- utter_ask_for_nr_of_people
+- utter_thanks
+- action_get_room_price
+- utter_ask_for_name
+- utter_generic_equipment_options
+- action_get_room_size
+- utter_room_gamma_atmosphere
+- utter_greet
+- utter_room_beta_seating
+- utter_room_gamma_seating
+- utter_enough_budget
+- utter_confirm_preference_positive
+- utter_room_beta_equipment
+- utter_room_gamma_price
+- action_correct_room
+- action_set_topic
+- utter_room_gamma_highlight
+- utter_room_beta_price
+- utter_room_gamma_lighting
+- utter_room_alpha_people_limit
+- utter_room_alpha_equipment
+- utter_ask_for_room
+- utter_goodbye
+- utter_room_beta_atmosphere
+- utter_room_alpha_atmosphere
+- utter_room_alpha_highlight
+- utter_room_alpha_lighting
+- utter_room_gamma_equipment
+- utter_room_alpha_equipment_stage
+- utter_room_beta_equipment_stage
+- utter_room_gamma_equipment_stage
+- utter_ask_book_room
+- utter_room_beta_lighting
+- utter_room_alpha_seating
+- utter_ask_for_booking_confirmation
+- utter_room_beta_people_limit
+- utter_ask_what_info
+- utter_ask_to_narrow_options
+- utter_ask_for_additional_service
+- utter_satisfied
+- utter_ask_for_service_with_name
+- utter_greet_with_name
+- utter_appreciation
+- utter_directions_with_start_location
+- utter_directions_without_start_location
+- utter_budget_limitation_900
+- utter_budget_limitation_1100
+- utter_budget_limitation_1400
+- utter_generic_atmosphere_options
+- utter_generic_highlight_options
+- utter_generic_lighting_options
+- utter_generic_pricing_options
+- utter_generic_seating_options
+- utter_ask_for_budget
+config:
+  store_entities_as_slots: true
+entities:
+- company
+- date
+- time
+- room
+- name
+- budget
+- nr_of_people
+- current_room
+- start_location
+forms: []
+intents:
+  - affirm
+  - ask_for_room
+  - ask_for_directions
+  - ask_for_options
+  - ask_for_room_atmosphere
+  - ask_for_room_lighting
+  - ask_for_room_equipment
+  - ask_for_room_highlight
+  - ask_for_room_price
+  - ask_for_room_seating
+  - ask_for_room_size
+  - ask_for_room_catering
+  - greet+ask_for_options
+  - greet+ask_for_room_size
+  - greet+ask_for_room_equipment
+  - greet+ask_for_room_price
+  - deny
+  - disagree
+  - farewell
+  - greet
+  - greet+provide_name
+  - provide_booking_date
+  - provide_budget
+  - provide_name
+  - provide_nr_of_people
+  - provide_preference
+  - provide_room
+  - reserve_room
+  - thanks
+slots:
+  topic:
+    auto_fill: true
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - atmosphere
+    - lighting
+    - equipment
+    - highlight
+    - price
+    - seating
+    - size
+  budget:
+    auto_fill: true
+    type: budget_slot.BudgetSlot
+  company:
+    auto_fill: true
+    type: rasa_core.slots.TextSlot
+  date:
+    auto_fill: true
+    type: rasa_core.slots.TextSlot
+  current_room:
+    auto_fill: true
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - Alpha
+    - Beta
+    - Gamma
+  name:
+    auto_fill: true
+    type: rasa_core.slots.TextSlot
+  nr_of_people:
+    auto_fill: true
+    type: no_of_people_slot.NumberOfPeopleSlot
+  room:
+    auto_fill: true
+    type: room_slot.RoomSlot
+  time:
+    auto_fill: true
+    type: rasa_core.slots.TextSlot
+  start_location:
+    auto_fill: true
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_appreciation:
+  - text: You are very welcome.
+  - text: You are welcome.
+  - text: I am glad I could be of assistance to you.
+  utter_ask_book_room:
+  - text: Very well. Would you like to book room {current_room}?
+  - text: For what date would you like to reserve room {current_room}?
+  - text: Sure. Would you like to book it?
+  utter_ask_for_booking_confirmation:
+  - text: Please could you confirm if you would like to book room {current_room} for the {date}?
+  - text: So, I will book room {current_room} on the {date} for you. Could you please confirm if you would like me to proceed? 
+  - text: Would you like me to book room {current_room} for the {date}?
+  - text: I will reserve room {current_room} for the {date}. Could you please confirm if this is correct? 
+  - text: Thank you. So, I will book {current_room} for the {date}. Could you please confirm if this is correct?
+  utter_ask_for_booking_date:
+  - text: For what date would you like to make the reservation?
+  - text: For what date would you like me to reserve room {current_room} for you?
+  - text: What would be the date for the booking?
+  - text: Could you please give me the date for the reservation?
+  - text: For what date would you like to reserve room {current_room}?
+  utter_ask_what_info:
+  - text: What information can I help you with?
+  - text: I will be happy to help. What are you interested in?
+  utter_ask_for_confirmation:
+  - text: Could you please confirm if this is correct?
+  - text: Please could you confirm if this is correct?
+  utter_ask_for_name:
+  - text: Please could you tell me who I am chatting with?
+  - text: Please could you give me your name?
+  - text: Could you please tell me your name?
+  utter_ask_for_nr_of_people:
+  - text: How many guests are you expecting?
+  - text: Please could you give me the number of guests? 
+  utter_ask_for_room:
+  - text: Could you please tell me which room you are referring to? 
+  - text: Please could you give me the name of the room? 
+  - text: Could you tell me which room you are interested in?
+  utter_ask_to_narrow_options:
+  - text: Are you searching for a specific room?
+  - text: Are you searching for something specific?
+  - text: Are you searching for something in particular?
+  - text: Are you looking for a specific room?
+  - text: Are you looking for something specific?
+  - text: Are you looking for something in particular?
+  utter_ask_for_service_with_name:
+  - text: How can I help you today, {name}?
+  - text: How may I help you today, {name}?
+  - text: How can I help you, {name}?
+  - text: How may I help you, {name}?
+  - text: How may I assist you, {name}?
+  - text: How may I assist you today, {name}?
+  utter_ask_for_service:
+  - text: How can I help you today?
+  - text: How may I help you today?
+  - text: How can I help you?
+  - text: How may I help you?
+  - text: How may I assist you?
+  - text: How may I assist you today?
+  - text: I will be happy to assist you. How can I help?
+  utter_satisfied:
+  - text: I am glad you like it.
+  - text: I am pleased to hear that you like it.
+  - text: I am happy you like it.
+  utter_ask_for_alternative:
+  - text: Would you prefer something different?
+  - text: Would you like to see something different?
+  - text: Would you like to see another option?
+  utter_ask_for_additional_service:
+  - text: Could I help you with anything else? 
+  - text: Could I assist you with anything else?
+  - text: Is there anything else I can do for you?
+  - text: Is there anything else I can help you with?
+  - text: Could I be of assistance with anything else?
+  utter_available_rooms_150_people:
+  - text: We have three event rooms on offer for {nr_of_people} people. 
+  - text: We have three rooms available for {nr_of_people} people.
+  - text: We have three rooms that are suitable for {nr_of_people} guests.
+  - text: There are three rooms available for {nr_of_people} people.
+  utter_available_rooms_200_people:
+  - text: We have two event rooms on offer for {nr_of_people} people.
+  - text: We have two rooms available for {nr_of_people} people.
+  - text: We have two rooms that are suitable for {nr_of_people} guests.
+  - text: There are two rooms available for {nr_of_people} people.
+  utter_available_rooms_270_people:
+  - text: We have one event room on offer for {nr_of_people} people.
+  - text: We have one room available for {nr_of_people} people.
+  - text: We have one room that is suitable for {nr_of_people} guests.
+  - text: There is one room available for {nr_of_people} people.
+  utter_confirm:
+  - text: Yes, sure.
+  - text: Yes, absolutely.
+  - text: Yes, certainly.
+  utter_budget_limitation_900:
+  - text: There is one room on offer that is below {budget}.
+  - text: We have one room available that is below the price of {budget}.
+  - text: We can offer you one room for this price.
+  utter_budget_limitation_1100:
+  - text: There are two rooms on offer that are below {budget}.
+  - text: We have two rooms available that are below the price of {budget}.
+  - text: We can offer you two rooms for this price.
+  utter_budget_limitation_1400:
+  - text: All our rooms are below {budget}.
+  - text: All our rooms are below the price of {budget}.
+  - text: All the rooms are in your price range.
+  utter_options:
+  - text: We have multiple offerings. 
+  - text: We have multiple rooms available.
+  - text: We have multiple rooms available for you.
+  utter_confirm_booking:
+  - text: Perfect, the room has just been booked for you.
+  - text: Room {current_room} has just been reserved for you.
+  - text: Thank you, we have made the reservation.
+  - text: Thank you, the room has been booked for you.
+  - text: Thank you, the room has just been booked.
+  utter_dissatisfaction:
+  - text: I am sorry to hear that.
+  utter_confirm_preference_positive:
+  - text: That is a very good choice. I am sure you and your guests will enjoy the room. 
+  - text: Great choice. I think this room will be perfect for your event.
+  utter_enough_budget:
+  - text: All of our rooms are below your price limit.
+  - text: All three rooms fit well within your budget.
+  utter_generic_equipment_options:
+  - text: I can confirm that all three rooms have the necessary equipment to show a presentation.
+  - text: All three rooms are supplied with the necessary equipment to hold a presentation.
+  - text: All of the three rooms are equipped for presentations.
+  utter_generic_atmosphere_options:
+  - text: Each room has its own unique ambience. 
+  - text: There is a unique atmosphere in each room. 
+  utter_generic_highlight_options:
+  - text: One room is a spacious auditorium with all modern facilities and comfortable seating. The second room is located on the 15th floor and offers an incredible view of the city. And the third room is an elegant space with original 1920s decoration.
+  utter_generic_lighting_options:
+  - text: The lighting in all three rooms may be adjusted to your needs.
+  utter_generic_pricing_options:
+  - text: We offer competitive pricing for all our rooms. The prices are all below 1300.
+  utter_generic_seating_options:
+  - text: We have rooms for various occasions.
+  utter_ask_for_budget:
+  - text: Could you please tell me what the budget would be?
+  - text: Please could you give me an idea of the budget you have available?
+  utter_goodbye:
+  - text: Thank you for your reservation and have a nice day.
+  - text: Thank you very much. Goodbye, {name}.
+  - text: We are looking forward to welcoming you at One King Hotel. Goodbye.
+  - text: We look forward to welcoming you at One King Hotel. Goodbye, {name}.
+  - text: Thank you for choosing One King Hotel. I wish you a very nice day. Goodbye.
+  - text: I wish you a very nice day. Goodbye and thank you for choosing One King Hotel.
+  - text: Thank you very much for your reservation. Have a nice day. 
+  - text: Thank you for choosing One King Hotel. Have a great day.
+  utter_greet:
+  - text: Thank you for contacting One King Hotel. I will gladly assist you in finding a room.
+  - text: Welcome to One King Hotel. I am happy to assist you.
+  - text: Thank you for contacting One King Hotel. I am happy to help you find a room for your event.
+  utter_greet_with_name:
+  - text: Thank you for contacting One King Hotel, {name}. I will gladly assist you in finding a room.
+  - text: Welcome at One King Hotel, {name}.
+  - text: Thank you for contacting One King Hotel, {name}. I am happy to help you find a room for your event.
+  utter_catering_options:
+  - text: I am afraid we do not offer a catering option. 
+  - text: Unfortunately, we do not offer any catering services. 
+  utter_room_alpha_atmosphere:
+  - text: Room Alpha is an auditorium with a stage and rows of seats. It is located on the basement floor and is furnished with state-of-the-art multimedia equipment including a lighting system.
+  - text: Room Alpha is a spacious auditorium on the basement floor with comfortable seating and a stage. It is equipped with multimedia facilities and a lighting system.
+  - text: Room Alpha is a spacious room located on the basement floor of the hotel. It is an auditorium furnished with a stage, rows of seats, and a multimedia and lighting system.  
+  utter_room_alpha_equipment:
+  - text: Room Alpha offers a stage, state-of-the-art equipment including a large screen, a projector and
+      dolby sound system. 
+  - text: Room Alpha is equipped with a big screen, a sound and lighting system as well as a stage. 
+  - text: Room Alpha has a big screen and a state-of-the-art projector and audio system.
+  - text: Alpha is equipped with a state-of-the-art multimedia set including a big screen, projector and sound system. 
+  - text: Room Alpha has the latest multimedia set including a big screen, projector, sound and light system.
+  utter_room_alpha_equipment_stage:
+  - It has a magnificent stage including a lighting and sound system that can be adjusted to your needs. 
+  utter_room_alpha_highlight:
+  - text: Room Alpha offers plenty of space for your guests. It has a stage and comfortable fixed seating as well as the latest multimedia equipment.
+  - text: Room Alpha is an auditorium with a stage and rows of seats. It is located on the basement floor and offers the latest multimedia technology for presentations.
+  utter_room_alpha_lighting:
+  - text: Room Alpha has no natural light as it is located on the basement floor. There is however a fully equipped lighting system. 
+  utter_room_alpha_people_limit:
+  - text: Room Alpha provides space for up to 270 people.
+  - text: The Alpha room holds up to 270 people.
+  - text: Room Alpha has space for up to 270 people. 
+  - text: There is space for 270 people in room Alpha.
+  utter_room_alpha_price:
+  - text: The price for room Alpha is CHF 1400.
+  - text: The cost for Room Alpha is CHF 1400.
+  - text: Alpha costs CHF 1400.
+  - text: The cost for Alpha would be CHF 1400.
+  - text: Room Alpha would be CHF 1400.
+  utter_room_alpha_seating:
+  - text: Alpha has fixed seating and no tables. It is an auditorium with a stage and rows of seats.
+  - text: Room Alpha is an auditorium with fixed seating and a stage.
+  - text: Room Alpha is an auditorium where the guests are seated in rows. The chairs are fixed and there are no tables.
+  - text: Room Alpha is an auditorium with fixed seating and a stage.  
+  - text: The seats in the Alpha room cannot be moved and there are no tables.
+  - text: Room Alpha is an auditorium where the guests sit in rows facing the stage. It has no tables.
+  utter_room_beta_atmosphere:
+  - text: Room Beta is on the 15th floor and oversees the entire city. It has a modern ambience and connects to a lovely outside terrace.
+  - text: The outdoor section in room Beta offers a great view over the whole city. The indoor area has modern furnishing and a lot of natural light from the glass roof.
+  - text: Beta has a modern touch. It is located on the 15th floor and offers incredible views. The glass roof brings in natural light and creates a beautiful atmosphere. 
+  utter_room_beta_equipment:
+  - text: Room Beta has a portable screen, a projector and loudspeakers. 
+  - text: Room Beta can be equipped with a moveable screen, projector, and loudspeakers.
+  - text: Room Beta has a portable screen, a projector, and loudspeakers. 
+  - text: It is possible to add a portable screen as well as projector and loudspeakers to Beta. 
+  utter_room_beta_equipment_stage:
+  - It does not have a stage. There is however enough space to hold a presentation or speech.
+  utter_room_beta_highlight:
+  - text: Room Beta is located on the 15th floor. It has a bar as well as a large seating area with tables and chairs. There is also an outdoor space that offers incredible city views.
+  - text: Room Beta is a modern space on the 15th floor with a bar and seating area under a glass roof. It also connects to an outside terrace and offers a nice view of the city. 
+  utter_room_beta_lighting:
+  - text: Room Beta has a lot of natural light from its glass ceiling.
+  utter_room_beta_people_limit:
+  - text: Room Beta has indoor space for 130 guests and a terrace for an additional 60 people.
+  - text: Room Beta offers 130 seats indoors and 60 seats outdoors.
+  - text: The Beta room has space for a total of 190 people, indoor and outdoor.
+  - text: Room Beta has a terrace that can hold up to 60 people.
+      The room itself is for 130 people. So in total room Beta provides space for 190 guests.
+  - text: Room Beta has space for 130 guests and a terrace for an additional 60 people.
+  - text: Room Beta offers space for 130 people inside and another 60 guests on the terrace.
+  utter_room_beta_price:
+  - text: Room Beta comes at a cost of CHF 900. This includes the price for the terrace.
+  - text: Beta is CHF 900 including the terrace.
+  - text: The price is CHF 900 for Beta, including the terrace.
+  - text: The cost for Beta would be CHF 900. The terrace is included in the price.
+  utter_room_beta_seating:
+  - text: The indoor seating area in room Beta has tables for four people as well as a bar with stools. The terrace is equipped with lounge furniture and bar tables with stools.
+  - text: Room Beta has two sections. The indoor area has tables for four people as well as
+      a bar. The outdoor area has low lounge furniture and high bar tables with stools.
+  - text: Room Beta offers tables for up to four people. The terrace also has a seating
+     area with lounge tables and chairs. 
+  - text: In room Beta there are tables for up to four people and a bar where you can
+      sit. The terrace has lounge furniture and bar tables with stools.
+  - text: Room Beta has an inside area with a bar as well as tables that seat four people
+      each. On the outside terrace there are several lounge corners,
+      each equipped with low tables and chairs.
+  - text: Room Beta has a bar and tables for up to four people each. On the terrace there
+      are bar tables and lounge seats. 
+  utter_room_gamma_atmosphere:
+  - text: Gamma is on the first floor. Its original decoration from the
+      1920s creates a very elegant atmosphere.
+  - text: Room Gamma is decorated in the original 1920s stlye. It is located on the first floor of the hotel.
+  - text: Room Gamma has the original decoration from the 1920s which gives the room an elegant look.
+  utter_room_gamma_equipment:
+  - text: Gamma has two large screens and loudspeakers that can be moved freely. 
+  - text: Room Gamma has two large portable screens and loudspeakers. 
+  - text: Room Gamma has two moveable monitors and speakers. 
+  - text: Gamma has two big portable screens and loudspeakers. 
+  - text: Room Gamma has two large screens and loudspeakers. The screens can be moved
+      around. 
+  utter_room_gamma_equipment_stage:
+  - It does not have a stage. It does however offer you the space and equipment to hold a presentation.
+  utter_room_gamma_highlight:
+  - text: Room Gamma is on the first floor. It is a spacious room with an elegant original decoration from the 1920s. 
+  - text: Room Gamma still has the original decoration from the 1920s. It is located on the first floor of the hotel and offers plenty of space.
+  utter_room_gamma_lighting:
+  - text: Room Gamma is well-lit with lighting that can be adjusted to your needs.
+  utter_room_gamma_people_limit:
+  - text: Room Gamma offers space for up to 200 people.
+  - text: The Gamma room will fit 200 guests comfortably.
+  - text: Room Gamma has room for 200 guests.
+  - text: The Gamma room can fit up to 200 people.
+  - text: There is space for 200 people in room Gamma.
+  - text: Room Gamma has space for 200 people.
+  utter_room_gamma_price:
+  - text: Room Gamma would be CHF 1100.
+  - text: The price is CHF 1100 CHF for room Gamma.
+  - text: Room Gamma costs CHF 1100.
+  - text: The price for Gamma is 1100 CHF.
+  utter_room_gamma_seating:
+  - text: Room Gamma is equipped with tables for six to eight people. The tables can be moved around.
+  - text: Room Gamma is equipped with tables and chairs for 6-8 people each. The furniture can be moved.
+  - text: Room Gamma has tables for up to eight people. The entire furniture can be rearranged.
+  - text: Room Gamma is a spacious room with tables for up to eight people. All the
+      furniture can be moved.
+  - text: Room Gamma allows to move the furniture around. It has round tables
+      for up to eight people.
+  - text: There are moveable tables for 6-8 guests in room Gamma.
+  - text: Room Gamma is a spacious room with round tables
+      for about 6-8 guests each. If you wish, the tables can be moved around.
+  utter_thanks:
+  - text: Thank you very much for choosing One King Hotel.
+  - text: Thank you so much.
+  utter_thanks_with_name:
+  - text: Thank you, {name}!
+  utter_directions_with_start_location:
+  - text: I would recommend you travel by subway from the {start_location} to our hotel.
+  - text: I suggest that you travel by train from the {start_location}. It is only a 5 minute walk from the station to our hotel.
+  - text: I recommend that you take the subway from the {start_location}. It is only a 5 minute walk from the station to the hotel.
+  - text: You can easily reach us by subway from the {start_location}. 
+  - text: It is only a 5 minute walk from the {start_location} to our hotel.
+  utter_directions_without_start_location:
+  - text: I would recommend that you take the subway to our hotel.
+  - text: I suggest that you take the train. It is only a 5 minute walk from the station to our hotel.
+  - text: You can easily reach us by foot from the station. It is an easy 5 minute walk to the hotel.
+  - text: I recommend that you travel by subway.
+  - text: From the station you can easily reach us by foot. 
+  utter_default:
+  - text: Excuse me, could you rephrase this please?
+  - text: Excuse me, can you please rephrase your last message?
+  - text: I am afraid I have trouble understanding. Please could you rephrase?
+  - text: I am sorry, I did not understand that. Could you please try one more time?
+  - text: So sorry, I could not understand your last message. Could you please say it again?

@@ -1,0 +1,397 @@
+%[greet+provide_name]('training': '30')
+    ~[hi], ~[how_are_you] ~[introduction_after_question] @[name]
+    ~[hi], ~[who_am_i_speaking_to] ~[introduction_after_question] @[name]
+    ~[hi], ~[introduction_after_comma] @[name]
+    ~[hi], ~[introduction_after_comma] @[name]. ~[additional_information]
+
+@[name]
+    Mr. ~[male_name]
+    ~[male_name]
+    Mrs. ~[female_name]
+    Miss ~[female_name]
+    ~[female_name]
+
+@[company]
+    ABB
+    Alcon
+    Ascom
+    AMAG
+    Roche
+    Zurich Insurance
+    UBS
+    Credit Suisse
+    Nestlé
+    Coop
+    Migros
+    Manor AG
+    PwC
+    Swisscom
+    Novartis
+    Ernst & Young
+    AXA Versicherung
+    Siemens
+    Swiss
+    Kuoni
+    Holcim
+
+~[additional_information]
+    ~[work] @[company]
+
+~[work]
+    i work for
+    I'm an apprentice at
+    I work as a assistant at
+    I am an employee at
+
+~[hi]
+    Hi
+    Hello
+    Hey
+    Good morning
+    Good afternoon
+    Good evening
+    Hey there
+    Hi there
+    Hello there
+    Hey man
+
+~[introduction_after_comma]
+    my name is
+    I am
+    this is
+    you're speaking to
+
+~[introduction_after_question]
+    My name is
+    I am
+    This is
+    You're speaking to
+
+~[how_are_you]
+    how are you?
+    how is it going?
+    how is life?
+    how are things?
+
+~[who_am_i_speaking_to]
+    who am I speaking to?
+    who is there?
+    who am I talking to?
+    who am I chatting with?
+    who are you?
+
+~[female_name]
+    ~[female_firstname] ~[surname]
+    ~[surname]
+    ~[female_firstname]
+
+~[male_name]
+    ~[male_firstname] ~[surname]
+    ~[surname]
+    ~[male_firstname]
+
+~[female_firstname]
+    Sarah
+    Laura
+    Amélie
+    Nina
+    Lea
+    Sophie
+    Anna
+    Julie
+    Céline
+    Sara
+    Emma
+    Gaëlle
+    Jessica
+    Michelle
+    Lara
+    Marie
+    Océane
+    Chloé
+    Julia
+    Manon
+    Delphine
+    Lena
+    Emilie
+    Audrey
+    Camille
+    Noémie
+    Salomé
+    Kelly
+    Melanie
+    Anaïs
+    Laetitia
+    Charlotte
+    Eva
+    Lisa
+    Maeva
+    Marion
+    Selina
+    Sonja
+    Mathilde
+    Zoe
+    Vanessa
+    Mélissa
+    Louise
+    Mary
+    Célia
+    Maria
+    Caroline
+    Sabrina
+    Samantha
+    Tiffany
+    Ines
+    Rebecca
+    Justine
+    Victoria
+    Alicia
+    Nora
+    Romane
+    Larissa
+    Olivia
+    Amina
+    Aurelia
+    Leïla
+    Estelle
+    Léane
+    Nadia
+    Yasmina
+    Catherine
+    Maude
+    Stéphanie
+    Fabienne
+    Yasmine
+    Anne
+    Lina
+    Juliette
+    Amy
+    Alexandra
+    Alyssa
+    Morgane
+    Patricia
+    Chiara
+    Nathalie
+    Lucie
+    Deborah
+    Marine
+    Manuela
+    Tania
+    Christelle
+    Noémi
+    Alice
+    Kenza
+    Sofia
+    Rachel
+    Karen
+    Christine
+    Éléonore
+    Rahel
+    Jade
+    Pauline
+    Lili
+    Aline
+
+~[male_firstname]
+    Luca
+    Simon
+    Julien
+    Jonas
+    Joel
+    Chet
+    Kevin
+    Florian
+    Alex
+    Nicolas
+    Cedric
+    Jonathan
+    Pierre
+    Adrien
+    Samuel
+    Daniel
+    Raphael
+    Colin
+    Romain
+    Patrick
+    Maxime
+    Théo
+    Jérôme
+    Dylan
+    Yann
+    Bryan
+    Lucas
+    Mathieu
+    Bastien
+    Dorian
+    Jorim
+    Chris
+    Stefano
+    Marc
+    Philippe
+    Markus
+    Jérémie
+    Valentin
+    Miguel
+    léo
+    Frédéric
+    Marwan
+    Beranger
+    Matthieu
+    Nathan
+    Steffen
+    Lorenzo
+    Johan
+    Ruben
+    Yolan
+    Lukas
+    Benjamin
+    Thierry
+    Quentin
+    Aram
+    Antonio
+    David
+    Jan
+    Gabriel
+    Sven
+    Jessy
+    Nathanaël
+    Momo
+    Nick
+    Nils
+    Steven
+    Jens
+    Angelo
+    Yan
+    Ulysse
+    Louis
+    Felipe
+    Philipp
+    Albin
+    Andy
+    Wubshet
+    Alexander
+    Giovanni
+    Ben
+    Philipp
+    Alessio
+    Ashvin
+    Giani
+    Charles
+    Tomi
+    Patrik
+    Malaka
+    Alexis
+    Ismaël
+    Quan
+    Jetlir
+    Eliott
+    Marius
+    Benji
+    Antony
+    Boris
+    Olivier
+    Wanja
+    Valentino
+    Zayd
+
+~[surname]
+    Müller
+    Meier
+    Schmid
+    Keller
+    Weber
+    Schneider
+    Huber
+    Meyer
+    Steiner
+    Fischer
+    Brunner
+    Gerber
+    Frei
+    Baumann
+    Zimmermann
+    Widmer
+    Moser
+    Graf
+    Wyss
+    Roth
+    Baumgartner
+    Bachmann
+    Suter
+    Kaufmann
+    Buhler
+    Kunz
+    Studer
+    Bucher
+    Luthi
+    Berger
+    Hofer
+    Marti
+    Lehmann
+    Christen
+    Frey
+    Koch
+    Arnold
+    Egli
+    Wuthrich
+    Pfister
+    Schweizer
+    Zurcher
+    Stalder
+    Fuchs
+    Kohler
+    Wenger
+    Peter
+    Maurer
+    Gasser
+    Koller
+    Bieri
+    Furrer
+    Burri
+    Ruegg
+    Leuenberger
+    Egger
+    Hofmann
+    Ammann
+    Hess
+    Michel
+    Hug
+    Hunziker
+    Tanner
+    Kalin
+    Hauser
+    Sutter
+    Vogel
+    Gisler
+    Schar
+    Blaser
+    Schuler
+    Fluckiger
+    Wagner
+    Martin
+    Hartmann
+    Siegenthaler
+    Senn
+    Hasler
+    Fankhauser
+    Lang
+    Scherrer
+    Zbinden
+    Stucki
+    Vogt
+    Kuhn
+    Kung
+    Favre
+    Zaugg
+    Schwarz
+    Scheidegger
+    Odermatt
+    Imhof
+    Sommer
+    Brugger
+    Portmann
+    Schmidt
+    Jaggi
+    Liechti
+    Scharer
+    Seiler

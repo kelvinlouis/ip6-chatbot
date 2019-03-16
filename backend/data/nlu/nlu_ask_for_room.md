@@ -1,0 +1,3698 @@
+## intent:ask_for_room
+- And [alpha](room)?
+- And [Beta](room)?
+- And [gamma](room)?
+- And [it](room)?
+- And [this](room) event room?
+- And [this](room) location?
+- And [this](room) meeting room?
+- And [this](room) room?
+- And [this](room)?
+- And a [different](room) one?
+- And all the [other](room) rooms?
+- And event room [alpha](room)?
+- And event room [Alpha](room)?
+- And event room [beta](room)?
+- And event room [Gamma](room)?
+- And event room [gamma](room)?
+- And in [Alpha](room)?
+- And in [alpha](room)?
+- And in [beta](room)?
+- And in [Beta](room)?
+- And in [gamma](room)?
+- And in [Gamma](room)?
+- And in [it](room)?
+- And in [this](room) event room?
+- And in [this](room) location?
+- And in [this](room) meeting room?
+- And in [this](room) room?
+- And in [this](room)?
+- And in all [other](room) rooms?
+- And in all [other](room) event rooms?
+- And in event room [alpha](room)?
+- And in event room [beta](room)?
+- And in event room [Beta](room)?
+- And in event room [gamma](room)?
+- And in event room [Gamma](room)?
+- And in location [alpha](room)?
+- And in location [Beta](room)?
+- And in location [gamma](room)?
+- And in meeting room [Alpha](room)?
+- And in meeting room [beta](room)?
+- And in meeting room [Gamma](room)?
+- And in meeting room [gamma](room)?
+- And in room [Alpha](room)?
+- And in room [alpha](room)?
+- And in room [Beta](room)?
+- And in room [gamma](room)?
+- And in room [Gamma](room)?
+- And in the [others](room)?
+- And in the [first](room) event room?
+- And in the [first](room) location?
+- And in the [first](room) meeting room?
+- And in the [first](room) one?
+- And in the [first](room) room?
+- And in the [last](room) event room?
+- And in the [last](room) location?
+- And in the [last](room) meeting room?
+- And in the [last](room) one?
+- And in the [last](room) room?
+- And in the [other](room) event room?
+- And in the [other](room) location?
+- And in the [other](room) meeting room?
+- And in the [other](room) one?
+- And in the [other](room) room?
+- And in the [second](room) meeting room?
+- And in the [second](room) one?
+- And in the [second](room) room?
+- And in the [third](room) event room?
+- And in the [third](room) location?
+- And in the [third](room) meeting room?
+- And in the [third](room) one?
+- And location [Alpha](room)?
+- And location [beta](room)?
+- And location [Beta](room)?
+- And location [Gamma](room)?
+- And meeting room [Alpha](room)?
+- And meeting room [alpha](room)?
+- And meeting room [Beta](room)?
+- And meeting room [Gamma](room)?
+- And room [Alpha](room)?
+- And room [Beta](room)?
+- And room [gamma](room)?
+- And the [first](room) event room?
+- And the [first](room) location?
+- And the [first](room) meeting room?
+- And the [first](room) one?
+- And the [last](room) location?
+- And the [last](room) meeting room?
+- And the [last](room) one?
+- And the [others](room)?
+- And the [other](room) event room?
+- And the [other](room) location?
+- And the [other](room) meeting room?
+- And the [other](room) one?
+- And the [second](room) event room?
+- And the [second](room) location?
+- And the [second](room) meeting room?
+- And the [second](room) one?
+- And the [second](room) room?
+- And the [third](room) event room?
+- And the [third](room) location?
+- And the [third](room) one?
+- And the [third](room) room?
+- Are the [other](room) event rooms better?
+- Are the [other](room) event rooms good?
+- Are the [other](room) event rooms nice?
+- Are the [other](room) locations better?
+- Are the [other](room) locations good?
+- Are the [other](room) locations nice?
+- Are the [other](room) meeting rooms better?
+- Are the [other](room) meeting rooms good?
+- Are the [other](room) meeting rooms nice?
+- Are the [other](room) options better?
+- Are the [other](room) options good?
+- Are the [other](room) options nice?
+- Are the [other](room) rooms better?
+- Are the [other](room) rooms good?
+- Are the [other](room) rooms nice?
+- Are the [others](room) better?
+- Are the [others](room) good?
+- Are the [others](room) nice?
+- Are there [other](room) event rooms?
+- Are there [other](room) locations?
+- Are there [other](room) meeting rooms?
+- Are there [other](room) options?
+- Are there [other](room) rooms?
+- Are there [others](room)?
+- Can I have facts about [all](room) rooms?
+- Can I have facts about [all](room) event rooms?
+- Can I have facts about [all](room) options?
+- Can I have facts about event room [Gamma](room)?
+- Can I have facts about the [other](room) event room?
+- Can I have info about [all](room) rooms?
+- Can I have info about [all](room) event rooms?
+- Can I have info about [all](room) options?
+- Can I have info about [the](room) meeting room?
+- Can I have info about [this](room) option?
+- Can I have info about option [Alpha](room)?
+- Can I have info about the [third](room) one?
+- Can I have information about [beta](room)?
+- Can I have information about [Gamma](room)?
+- Can I have information about [it](room)?
+- Can I have information about [the](room) meeting room?
+- Can I have information about room [Beta](room)?
+- Can I have information about [all](room) rooms?
+- Can I have information about [all](room) event rooms?
+- Can I have information about [all](room) options?
+- Can we have facts about room [gamma](room)?
+- Can we have facts about the [first](room) one?
+- Can we have facts about the [first](room) option?
+- Can we have facts about the [other](room) one?
+- Can we have facts about the [other](room) option?
+- Can we have facts about the [second](room) one?
+- Can we have facts about the [third](room) event room?
+- Can we have info about [the](room) location?
+- Can we have info about [this](room) meeting room?
+- Can we have info about [this](room) room?
+- Can we have info about location [alpha](room)?
+- Can we have info about meeting room [alpha](room)?
+- Can we have info about option [Beta](room)?
+- Can we have info about the [first](room) event room?
+- Can we have info about the [first](room) one?
+- Can we have info about the [second](room) room?
+- Can we have info about [all](room) rooms?
+- Can we have info about [all](room) event rooms?
+- Can we have info about [all](room) options?
+- Can we have information about [Alpha](room)?
+- Can we have information about [it](room)?
+- Can we have information about [the](room) meeting room?
+- Can we have information about [this](room) location?
+- Can we have information about [this](room) meeting room?
+- Can we have information about [this](room)?
+- Can we have information about [all](room) rooms?
+- Can we have information about [all](room) event rooms?
+- Can we have information about [all](room) options?
+- Can we have information about location [Beta](room)?
+- Can we have information about the [first](room) event room?
+- Can we have information about the [other](room) option?
+- Can we have information about the [second](room) one?
+- Can we have information about the [third](room) room?
+- Can you describe [beta](room) room for me?
+- Can you describe [all](room) rooms for me?
+- Can you describe [all](room) rooms?
+- Can you describe [gamma](room) meeting room?
+- Can you describe meeting room [alpha](room)?
+- Can you describe the [last](room) one for me?
+- Can you provide facts about [all](room) rooms?
+- Can you provide facts about [all](room) of them?
+- Can you provide facts about [Alpha](room)?
+- Can you provide facts about [it](room)?
+- Can you provide facts about [this](room) event room?
+- Can you provide facts about [this](room) location?
+- Can you provide facts about [this](room) option?
+- Can you provide facts about [this](room) room?
+- Can you provide facts about location [Alpha](room)?
+- Can you provide facts about meeting room [Gamma](room)?
+- Can you provide facts about option [Gamma](room)?
+- Can you provide facts about the [last](room) one?
+- Can you provide facts about the [other](room) meeting room?
+- Can you provide facts about the [second](room) one?
+- Can you provide info about [all](room) rooms?
+- Can you provide info about [all](room) of them?
+- Can you provide info about [it](room)?
+- Can you provide info about [the](room) event room?
+- Can you provide info about [the](room) location?
+- Can you provide info about [the](room) meeting room?
+- Can you provide info about [the](room) option?
+- Can you provide info about [this](room) meeting room?
+- Can you provide info about [this](room) room?
+- Can you provide info about room [Beta](room)?
+- Can you provide info about the [first](room) location?
+- Can you provide info about the [first](room) one?
+- Can you provide info about the [last](room) meeting room?
+- Can you provide info about the [second](room) one?
+- Can you provide information about [all](room) rooms?
+- Can you provide information about [all](room) of them?
+- Can you provide information about [this](room) event room?
+- Can you provide information about event room [Gamma](room)?
+- Can you provide information about option [gamma](room)?
+- Can you provide information about room [gamma](room)?
+- Can you provide information about the [first](room) location?
+- Can you provide information about the [first](room) one?
+- Can you provide information about the [last](room) event room?
+- Can you provide information about the [other](room) one?
+- Can you provide information about the [second](room) event room?
+- Can you provide information about the [second](room) one?
+- Can you provide information about the [second](room) option?
+- Can you provide information about the [third](room) event room?
+- Can you provide information about the [third](room) one?
+- Can you tell me about [all](room) rooms?
+- Can you tell me about [all](room) of them?
+- Can you tell me about [beta](room)?
+- Can you tell me about [the](room) room?
+- Can you tell me about the [others](room)?
+- Can you tell me about the [first](room) room?
+- Can you tell me about the [other](room) one?
+- Can you tell me about the [second](room) room?
+- Can you tell me about the [third](room) option?
+- Do [all](room) event rooms have it?
+- Do [all](room) of them have it?
+- Do the [other](room) event rooms have it?
+- Do the [other](room) event rooms have this?
+- Do the [other](room) locations have it?
+- Do the [other](room) locations have this?
+- Do the [other](room) meeting rooms have it?
+- Do the [other](room) meeting rooms have this?
+- Do the [other](room) options have it?
+- Do the [other](room) options have this?
+- Do the [other](room) rooms have it?
+- Do the [other](room) rooms have this?
+- Do the [others](room) have it?
+- Do the [others](room) have this?
+- Do you have [another](room) event room?
+- Do you have [another](room) location?
+- Do you have [another](room) meeting room?
+- Do you have [another](room) one?
+- Do you have [another](room) option?
+- Do you have [another](room) room?
+- Do you have [different](room) locations?
+- Do you have [different](room) ones?
+- Do you have [other](room) event rooms?
+- Do you have [other](room) locations?
+- Do you have [other](room) meeting rooms?
+- Do you have [other](room) options?
+- Do you have [other](room) rooms?
+- Do you have [others](room)?
+- Do you have a [other](room) event room?
+- Do you have a [other](room) location?
+- Do you have a [other](room) meeting room?
+- Do you have a [other](room) one?
+- Do you have a [other](room) option?
+- Do you have a [other](room) room?
+- Do you have facts about [it](room)?
+- Do you have facts about [all](room) rooms?
+- Do you have facts about [all](room) of them?
+- Do you have facts about location [Gamma](room)?
+- Do you have facts about meeting room [beta](room)?
+- Do you have facts about room [Alpha](room)?
+- Do you have facts about room [gamma](room)?
+- Do you have facts about the [first](room) one?
+- Do you have facts about the [last](room) location?
+- Do you have info about [all](room) rooms?
+- Do you have info about [all](room) of them?
+- Do you have info about [it](room)?
+- Do you have info about [the](room) location?
+- Do you have info about event room [beta](room)?
+- Do you have info about location [alpha](room)?
+- Do you have info about the [other](room) one?
+- Do you have info about the [second](room) meeting room?
+- Do you have info about the [second](room) one?
+- Do you have information about [all](room) rooms?
+- Do you have information about [all](room) of them?
+- Do you have information about [it](room)?
+- Do you have information about [the](room) location?
+- Do you have information about [this](room) location?
+- Do you have information about [this](room) option?
+- Do you have information about location [Gamma](room)?
+- Do you have information about meeting room [alpha](room)?
+- Do you have information about option [beta](room)?
+- Do you have information about room [alpha](room)?
+- Do you have information about the [other](room) location?
+- Do you have information about the [second](room) location?
+- Do you have information about the [second](room) one?
+- Does the [first](room) event room have this?
+- Does the [first](room) have it?
+- Does the [first](room) have this?
+- Does the [first](room) one have it?
+- Does the [first](room) one have this?
+- Does the [first](room) option have it?
+- Does the [last](room) event room have this?
+- Does the [last](room) have this?
+- Does the [last](room) location have it?
+- Does the [other](room) event room have it?
+- Does the [other](room) have it?
+- Does the [other](room) have this?
+- Does the [other](room) one have it?
+- Does the [other](room) room have this?
+- Does the [second](room) have it?
+- Does the [second](room) one have it?
+- Does the [second](room) room have this?
+- Does the [third](room) have this?
+- Does the [third](room) one have it?
+- Does the [third](room) one have this?
+- Give me information about [all](room) rooms
+- Give me information about [all](room) of them
+- Give me information about [all](room) rooms
+- Give me information about [all](room) of them
+- Give me information about [the](room) option
+- Give me information about [this](room) event room
+- Give me information about [this](room) location
+- Give me information about [this](room) option
+- Give me information about event room [gamma](room)
+- Give me information about meeting room [alpha](room)
+- Give me information about option [Beta](room)
+- Give me information about option [beta](room)
+- Give me information about room [Alpha](room)
+- Give me information about the [second](room) event room
+- Give me information about the [second](room) one
+- Give me information about the [third](room) location
+- Give me information about the [third](room) one
+- Give me information about your [other](room) event rooms
+- Give me information about your [other](room) locations
+- Give me information about your [other](room) meeting rooms
+- Give me information about your [other](room) options
+- Give me information about your [other](room) rooms
+- Give me information about your [others](room)
+- Give me information on [gamma](room)
+- Give me information on [it](room)
+- Give me information on [this](room)
+- Give me information on a [different](room) room
+- Give me information on event room [Beta](room)
+- Give me information on option [gamma](room)
+- Give me information on room [Gamma](room)
+- Give me information on the [first](room) event room
+- Give me information on the [first](room) room
+- Give me info about [all](room) rooms
+- Give me info about [all](room) of them
+- Give me info about [all](room) rooms
+- Give me info about [all](room) of them
+- Give me info about [the](room) option
+- Give me info about [this](room) event room
+- Give me info about [this](room) location
+- Give me info about [this](room) option
+- Give me info about event room [gamma](room)
+- Give me info about meeting room [alpha](room)
+- Give me info about option [Beta](room)
+- Give me info about option [beta](room)
+- Give me info about room [Alpha](room)
+- Give me info about the [second](room) event room
+- Give me info about the [second](room) one
+- Give me info about the [third](room) location
+- Give me info about the [third](room) one
+- Give me info about your [other](room) event rooms
+- Give me info about your [other](room) locations
+- Give me info about your [other](room) meeting rooms
+- Give me info about your [other](room) options
+- Give me info about your [other](room) rooms
+- Give me info about your [others](room)
+- Give me info on [gamma](room)
+- Give me info on [it](room)
+- Give me info on [this](room)
+- Give me info on a [different](room) room
+- Give me info on event room [Beta](room)
+- Give me info on option [gamma](room)
+- Give me info on room [Gamma](room)
+- Give me info on the [first](room) event room
+- Give me info on the [first](room) room
+- How about [Alpha](room)?
+- How about [Gamma](room)?
+- How about [gamma](room)?
+- How about [it](room)?
+- How about [this](room) event room?
+- How about [this](room) location?
+- How about [this](room) meeting room?
+- How about [this](room) room?
+- How about [this](room)?
+- How about [other](room) rooms?
+- How about [all](room) other rooms?
+- How about event room [alpha](room)?
+- How about event room [Alpha](room)?
+- How about event room [beta](room)?
+- How about event room [Beta](room)?
+- How about event room [gamma](room)?
+- How about location [Alpha](room)?
+- How about location [alpha](room)?
+- How about location [Beta](room)?
+- How about location [beta](room)?
+- How about location [Gamma](room)?
+- How about meeting room [alpha](room)?
+- How about meeting room [Alpha](room)?
+- How about meeting room [beta](room)?
+- How about meeting room [Beta](room)?
+- How about meeting room [gamma](room)?
+- How about meeting room [Gamma](room)?
+- How about room [alpha](room)?
+- How about room [Alpha](room)?
+- How about room [Beta](room)?
+- How about room [beta](room)?
+- How about room [Gamma](room)?
+- How about the [first](room) event room?
+- How about the [first](room) location?
+- How about the [first](room) one?
+- How about the [last](room) event room?
+- How about the [last](room) meeting room?
+- How about the [last](room) one?
+- How about the [other](room) meeting room?
+- How about the [other](room) one?
+- How about the [other](room) room?
+- How about the [others](room)?
+- How about the [second](room) event room?
+- How about the [second](room) location?
+- How about the [second](room) one?
+- How about the [second](room) room?
+- How about the [third](room) one?
+- How about the [third](room) room?
+- How are the [other](room) event rooms?
+- How are the [other](room) locations?
+- How are the [other](room) meeting rooms?
+- How are the [other](room) options?
+- How are the [other](room) rooms?
+- How are the [others](room)?
+- How are all the [others](room)?
+- How is [alpha](room)?
+- How is [beta](room) like?
+- How is [beta](room)?
+- How is [gamma](room)?
+- How is [it](room)?
+- How is [this](room) event room?
+- How is [this](room) location?
+- How is [this](room) meeting room?
+- How is [this](room) room?
+- How is [this](room)?
+- How is event room [Alpha](room)?
+- How is event room [alpha](room)?
+- How is event room [beta](room)?
+- How is event room [gamma](room)?
+- How is location [Alpha](room)?
+- How is location [Beta](room)?
+- How is location [Gamma](room)?
+- How is meeting room [Alpha](room)?
+- How is meeting room [alpha](room)?
+- How is meeting room [beta](room)?
+- How is meeting room [gamma](room)?
+- How is room [Alpha](room)?
+- How is room [alpha](room)?
+- How is room [beta](room)?
+- How is room [Beta](room)?
+- How is room [gamma](room)?
+- How is room [Gamma](room)?
+- How is room [gamma](room)?
+- How is the [first](room) event room?
+- How is the [first](room) location?
+- How is the [first](room) one?
+- How is the [last](room) one like?
+- How is the [last](room) one?
+- How is the [other](room) event room?
+- How is the [other](room) location?
+- How is the [other](room) meeting room?
+- How is the [other](room) one?
+- How is the [other](room) room?
+- How is the [second](room) meeting room?
+- How is the [second](room) one?
+- How is the [third](room) event room?
+- How is the [third](room) one?
+- How is the [third](room) room?
+- I am interested in [it](room)
+- I am interested in [the](room) meeting room
+- I am interested in [the](room) option
+- I am interested in [the](room) room
+- I am interested in location [alpha](room)
+- I am interested in location [Beta](room)
+- I am interested in location [gamma](room)
+- I am interested in meeting room [gamma](room)
+- I am interested in option [alpha](room)
+- I am interested in option [Beta](room)
+- I am interested in option [beta](room)
+- I am interested in option [gamma](room)
+- I am interested in room [alpha](room)
+- I am interested in room [beta](room)
+- I am interested in room [gamma](room)
+- I am interested in the [last](room) meeting room
+- I am interested in the [other](room) meeting room
+- I am interested in the [other](room) one
+- I am interested in the [first](room) room
+- I am interested in the [second](room) room
+- I am interested in the [third](room) one
+- I am interested in the [third](room) option
+- I am interested in the [third](room) room
+- I have a question about [all](room) your rooms
+- I have a question about [all](room) of the rooms
+- I have a question about [all](room) rooms
+- I have a question about your [other](room) event rooms
+- I have a question about your [other](room) locations
+- I have a question about your [other](room) meeting rooms
+- I have a question about your [other](room) options
+- I have a question about your [other](room) rooms
+- I have a question about your [others](room)
+- I want to hear more about the [other](room) event rooms
+- I want to hear more about the [other](room) locations
+- I want to hear more about the [other](room) meeting rooms
+- I want to hear more about the [other](room) options
+- I want to hear more about the [other](room) rooms
+- I want to hear more about the [others](room)
+- I want to hear more about [Alpha](room)
+- I want to hear more about [Beta](room)
+- I want to hear more about [Gamma](room)
+- I want to hear more about [all](room) three rooms
+- I want to hear more about [all](room) of the three rooms
+- I want to hear more about [all](room) of them
+- I want to hear more about [every](room) room
+- I want to hear more about [each](room) room
+- I want to know about [all](room) three rooms
+- I want to know about [all](room) of them
+- I want to know about [all](room) rooms
+- I want to know about [every](room) room
+- I want to know about [each](room) room
+- I want to know about [Alpha](room)
+- I want to know about [Beta](room)
+- I want to know about [Gamma](room)
+- I want to know about [it](room)
+- I want to know about [the](room) event room
+- I want to know about [this](room)
+- I want to know about a [different](room) one
+- I want to know about a [different](room) room
+- I want to know about event room [alpha](room)
+- I want to know about event room [Alpha](room)
+- I want to know about event room [beta](room)
+- I want to know about event room [Gamma](room)
+- I want to know about location [alpha](room)
+- I want to know about location [Beta](room)
+- I want to know about meeting room [alpha](room)
+- I want to know about meeting room [Alpha](room)
+- I want to know about option [Alpha](room)
+- I want to know about option [Gamma](room)
+- I want to know about the [first](room) event room
+- I want to know about the [last](room) one
+- I want to know about the [last](room) room
+- I want to know about the [other](room) event room
+- I want to know about the [other](room) location
+- I want to know about the [second](room) one
+- I want to know about the [third](room) one
+- I want to know more about [all](room) three rooms
+- I want to know more about [all](room) of the three rooms
+- I want to know more about [all](room) of them
+- I want to know more about [every](room) room
+- I want to know more about [each](room) room
+- I want to know more about [Alpha](room)
+- I want to know more about [Beta](room)
+- I want to know more about [Gamma](room)
+- I want to know more about [it](room)
+- I want to know more about [the](room) option
+- I want to know more about [the](room) room
+- I want to know more about [this](room) room
+- I want to know more about meeting room [Beta](room)
+- I want to know more about room [alpha](room)
+- I want to know more about room [Beta](room)
+- I want to know more about the [first](room) one
+- I want to know more about the [first](room) room
+- I want to know more about the [last](room) one
+- I want to know more about the [other](room) location
+- I want to know more about the [other](room) one
+- I want to know more about the [other](room) option
+- I want to know more about the [third](room) one
+- I'd like to know more about [all](room) your rooms
+- I'd like to know more about [all](room) of the three rooms
+- I'd like to know more about [all](room) of them
+- I'd like to know more about [every](room) room
+- I'd like to know more about [each](room) room
+- I'd like to know more about the [other](room) event rooms
+- I'd like to know more about the [other](room) locations
+- I'd like to know more about the [other](room) meeting rooms
+- I'd like to know more about the [other](room) options
+- I'd like to know more about the [other](room) rooms
+- I'd like to know more about the [others](room)
+- Is [Beta](room) good?
+- Is [beta](room) good?
+- Is [gamma](room) better?
+- Is [Gamma](room) better?
+- Is [gamma](room) good?
+- Is [it](room) better?
+- Is [it](room) good?
+- Is [it](room) nice?
+- Is [this](room) better?
+- Is [this](room) event room better?
+- Is [this](room) event room good?
+- Is [this](room) good?
+- Is [this](room) meeting room better?
+- Is [this](room) meeting room good?
+- Is [this](room) meeting room nice?
+- Is [this](room) nice?
+- Is [this](room) option better?
+- Is [this](room) option good?
+- Is [this](room) option nice?
+- Is [this](room) room better?
+- Is [this](room) room good?
+- Is [this](room) room nice?
+- Is a [different](room) one better?
+- Is a [different](room) one nicer?
+- Is event room [alpha](room) good?
+- Is event room [alpha](room) nice?
+- Is event room [Alpha](room) nice?
+- Is event room [Beta](room) better?
+- Is event room [beta](room) nice?
+- Is event room [Gamma](room) better?
+- Is event room [gamma](room) good?
+- Is event room [Gamma](room) good?
+- Is event room [Gamma](room) nice?
+- Is meeting room [alpha](room) better?
+- Is meeting room [Alpha](room) good?
+- Is meeting room [beta](room) nice?
+- Is meeting room [Beta](room) nice?
+- Is meeting room [gamma](room) nice?
+- Is option [Alpha](room) better?
+- Is option [alpha](room) good?
+- Is option [alpha](room) nice?
+- Is option [Alpha](room) nice?
+- Is option [Beta](room) better?
+- Is option [beta](room) better?
+- Is option [Beta](room) nice?
+- Is room [Alpha](room) good?
+- Is room [alpha](room) nice?
+- Is room [Beta](room) better?
+- Is room [Beta](room) good?
+- Is room [beta](room) good?
+- Is room [beta](room) nice?
+- Is room [Beta](room) nice?
+- Is room [gamma](room) nice?
+- Is the [first](room) event room good?
+- Is the [first](room) event room nice?
+- Is the [first](room) one better?
+- Is the [first](room) one good?
+- Is the [first](room) option good?
+- Is the [last](room) meeting room better?
+- Is the [last](room) meeting room good?
+- Is the [last](room) meeting room nice?
+- Is the [last](room) one good?
+- Is the [last](room) one nice?
+- Is the [last](room) option better?
+- Is the [last](room) room nice?
+- Is the [other](room) event room better?
+- Is the [other](room) event room good?
+- Is the [other](room) meeting room better?
+- Is the [other](room) meeting room nice?
+- Is the [other](room) one better?
+- Is the [other](room) one nice?
+- Is the [other](room) room better?
+- Is the [other](room) room nice?
+- Is the [second](room) event room better?
+- Is the [second](room) event room nice?
+- Is the [second](room) one good?
+- Is the [second](room) one nice?
+- Is the [second](room) option nice?
+- Is the [second](room) room better?
+- Is the [second](room) room good?
+- Is the [third](room) meeting room better?
+- Is the [third](room) option good?
+- Is there a [different](room) one?
+- Is there a [different](room) room?
+- Is there a [other](room) event room?
+- Is there a [other](room) meeting room?
+- Is there an [other](room) location?
+- Is there an [other](room) one?
+- Is there an [other](room) option?
+- Is there an [other](room) room?
+- Say something about your [other](room) event rooms
+- Say something about your [other](room) locations
+- Say something about your [other](room) meeting rooms
+- Say something about your [other](room) options
+- Say something about your [other](room) rooms
+- Say something about your [others](room)
+- Tell me about [it](room)
+- Tell me about [the](room) meeting room
+- Tell me about [this](room) event room
+- Tell me about [this](room) location
+- Tell me about a [different](room) one
+- Tell me about location [Beta](room)
+- Tell me about option [alpha](room)
+- Tell me about room [gamma](room)
+- Tell me about the [first](room) one
+- Tell me about the [last](room) one
+- Tell me about the [other](room) meeting room
+- Tell me about the [other](room) one
+- Tell me about the [second](room) event room
+- Tell me about the [second](room) one
+- Tell me about the [third](room) event room
+- Tell me about the [third](room) location
+- Tell me about your [other](room) event rooms
+- Tell me about your [other](room) locations
+- Tell me about your [other](room) meeting rooms
+- Tell me about your [other](room) options
+- Tell me about your [other](room) rooms
+- Tell me about your [others](room)
+- Tell me about [all](room) your rooms
+- Tell me about [all](room) of them
+- Tell me about [all](room) rooms
+- Tell me about [every](room) room
+- Tell me about [each](room) room
+- What about [Alpha](room)?
+- What about [alpha](room)?
+- What about [another](room) event room?
+- What about [another](room) location?
+- What about [another](room) meeting room?
+- What about [another](room) one?
+- What about [another](room) option?
+- What about [another](room) room?
+- What about [Beta](room)?
+- What about [beta](room)?
+- What about [gamma](room)?
+- What about [it](room)?
+- What about [other](room) event rooms?
+- What about [other](room) locations?
+- What about [other](room) meeting rooms?
+- What about [other](room) options?
+- What about [other](room) rooms?
+- What about [others](room)?
+- What about [this](room) event room?
+- What about [this](room) location?
+- What about [this](room) meeting room?
+- What about [this](room) room?
+- What about [this](room)?
+- What about a [different](room) one?
+- What about a [different](room) option?
+- What about a [different](room) room?
+- What about a [other](room) event room?
+- What about a [other](room) location?
+- What about a [other](room) meeting room?
+- What about a [other](room) one?
+- What about a [other](room) option?
+- What about a [other](room) room?
+- What about event room [Alpha](room)?
+- What about event room [Beta](room)?
+- What about event room [beta](room)?
+- What about location [Alpha](room)?
+- What about location [alpha](room)?
+- What about location [beta](room)?
+- What about location [Beta](room)?
+- What about location [Gamma](room)?
+- What about location [gamma](room)?
+- What about meeting room [alpha](room)?
+- What about meeting room [beta](room)?
+- What about meeting room [gamma](room)?
+- What about meeting room [Gamma](room)?
+- What about room [Alpha](room)?
+- What about room [beta](room)?
+- What about room [Beta](room)?
+- What about room [gamma](room)?
+- What about room [Gamma](room)?
+- What about the [first](room) event room?
+- What about the [first](room) location?
+- What about the [first](room) meeting room?
+- What about the [first](room) one?
+- What about the [first](room) room?
+- What about the [last](room) location?
+- What about the [last](room) one?
+- What about the [other](room) event room?
+- What about the [other](room) one?
+- What about the [other](room) room?
+- What about the [second](room) event room?
+- What about the [second](room) location?
+- What about the [second](room) one?
+- What about the [second](room) room?
+- What about the [third](room) meeting room?
+- What about the [third](room) one?
+- What about the [third](room) room?
+- What is [Alpha](room) like?
+- What is meeting room [beta](room) like?
+- What is meeting room [Gamma](room) like?
+- What is the [first](room) room like?
+
+## intent:ask_for_room_atmosphere
+- Are [all](room) your rooms nice?
+- Are [all](room) of the rooms nice?
+- Are [all](room) rooms nice?
+- Are [all](room) of the three rooms old?
+- Are [all](room) of the rooms old?
+- Are [all](room) rooms old?
+- Are [all](room) your rooms modern?
+- Are [all](room) of the three rooms modern?
+- Are [all](room) of them modern?
+- Are [all](room) three rooms old-fashioned?
+- Are [all](room) of the rooms old-fashioned?
+- Are [all](room) of them old-fashioned?
+- Are there modern rooms?
+- Are there rooms that have a classic design?
+- Are there rooms which have a good vibe?
+- Are there rooms with a classic feel?
+- Do you have a classic design in room [gamma](room)?
+- Do you have a classic design in the [other](room) ones?
+- Do you have a good atmosphere in [gamma](room)?
+- Do you have a good atmosphere in [the](room) room?
+- Do you have a good atmosphere in the [last](room) room?
+- Do you have a good atmosphere in the [others](room)?
+- Do you have a good atmosphere in the [third](room) one?
+- Do you have a good vibe in [Alpha](room)?
+- Do you have a good vibe in [beta](room)?
+- Do you have a good vibe in [gamma](room)?
+- Do you have a good vibe in room [Alpha](room)?
+- Do you have a good vibe in room [beta](room)?
+- Do you have a good vibe in the [last](room) one?
+- Do you have a good vibe in the [other](room) ones?
+- Do you have a good vibe in the [other](room) rooms?
+- Do you have a good vibe in the [others](room)?
+- Do you have a good vibe in the [second](room) one?
+- Do you have a good vibe in the [third](room) one?
+- Do you have a meeting room that has a classic feel?
+- Do you have a meeting room that has a classic touch?
+- Do you have a meeting room that has a good atmosphere?
+- Do you have a meeting room that has a modern touch?
+- Do you have a meeting room with a modern design?
+- Do you have a nice atmosphere in [Alpha](room)?
+- Do you have a nice atmosphere in [Beta](room)?
+- Do you have a nice atmosphere in [this](room) room?
+- Do you have a nice atmosphere in room [Alpha](room)?
+- Do you have a nice atmosphere in room [Beta](room)?
+- Do you have a nice atmosphere in room [Gamma](room)?
+- Do you have a nice atmosphere in the [last](room) one?
+- Do you have a nice atmosphere in the [last](room) room?
+- Do you have a nice atmosphere in the [third](room) room?
+- Do you have an old-fashioned design in the [other](room) rooms?
+- Do you have an option which has a good vibe?
+- Do you have an option with a good atmosphere?
+- Do you have an option with a good vibe?
+- Do you have an option with a nice atmosphere?
+- Do you have nice rooms?
+- Do you have rooms that have a good atmosphere?
+- Do [all](room) three rooms have a good atmosphere?
+- Do [all](room) of the rooms have a good atmosphere?
+- Do [all](room) rooms have a good atmosphere?
+- Do [all](room) your rooms have a nice atmosphere?
+- Do [all](room) three rooms have a nice atmosphere?
+- Do [all](room) of the rooms have a nice atmosphere?
+- Does [every](room) room have a good atmosphere?
+- Does [every](room) room have a nice atmosphere?
+- Does [Alpha](room) have a good atmosphere?
+- Does [alpha](room) have a good atmosphere?
+- Does [Beta](room) have a good atmosphere?
+- Does [Gamma](room) have a good vibe?
+- Do [all](room) your rooms have a good vibe?
+- Do [all](room) of the rooms have a good vibe?
+- Do [all](room) rooms have a good vibe?
+- Does [every](room) room have a good vibe?
+- Does [alpha](room) have a classic touch?
+- Does [beta](room) have a classic touch?
+- Does [every](room) room have a classic touch?
+- Does [it](room) have a classic touch?
+- Does [it](room) have a good vibe?
+- Does [it](room) have a nice atmosphere?
+- Does [the](room) room have a classic touch?
+- Does [the](room) room have a good atmosphere?
+- Does [the](room) room have a modern design?
+- Does [the](room) room have a nice atmosphere?
+- Does [this](room) one have a modern touch?
+- Does a [different](room) room have a better atmosphere?
+- Does room [Alpha](room) have a good vibe?
+- Does room [Alpha](room) have a modern feel?
+- Does room [Beta](room) have a good atmosphere?
+- Does room [Beta](room) have a good vibe?
+- Does room [gamma](room) have a good atmosphere?
+- Does the [first](room) room have a good vibe?
+- Does the [last](room) one have a good vibe?
+- Does the [last](room) one have a modern touch?
+- Does the [last](room) room have a nice atmosphere?
+- Does the [other](room) one have a good vibe?
+- Does the [second](room) one have a classic design?
+- Does the [second](room) room have a good atmosphere?
+- Does the [second](room) room have a good vibe?
+- Does the [second](room) room have a nice atmosphere?
+- Does the [third](room) one have a nice atmosphere?
+- Does the [third](room) room have a nice atmosphere?
+- I am looking for an event room with a modern design
+- I am looking for an event room with a classic design
+- I am looking for an event room with a old-fashioned design
+- I look for a location with a good atmosphere
+- I look for a location with a good vibe
+- I look for a location with a nice atmosphere
+- I look for a meeting room with a good vibe
+- I look for a room with a good atmosphere
+- I look for a room with a good vibe
+- I look for an event room with a good atmosphere
+- I look for an event room with a good vibe
+- I look for an event room with a good vibe
+- I look for an event room with a nice atmosphere
+- I look for an option with a nice atmosphere
+- I need a location with a good atmosphere
+- I need a location with a good atmosphere
+- I need a meeting room with a nice atmosphere
+- I need a room with a classic feel
+- I need a room with a good vibe
+- I need an event room with a modern touch
+- I need an option with a nice atmosphere
+- I search for a location with a good vibe
+- I search for a location with a nice atmosphere
+- I search for a room with a good atmosphere
+- I search for a room with a good vibe
+- I search for an event room with a good atmosphere
+- I search for an event room with a nice atmosphere
+- I search for an option with a good atmosphere
+- I search for an option with a nice atmosphere
+- I want a location with a good vibe
+- I want a location with a nice atmosphere
+- I want an event room with a good atmosphere
+- I want an event room with a good vibe
+- I want an event room with a good vibe
+- I want an event room with a nice atmosphere
+- I want an option with a good atmosphere
+- I would like a location with a good atmosphere
+- I would like a location with a nice atmosphere
+- I would like a meeting room with a good vibe
+- I would like an event room with a modern feel
+- I would like an event room with a nice atmosphere
+- I would like an option with a good atmosphere
+- I would like an option with a good vibe
+- I would like an option with a nice atmosphere
+- Is [alpha](room) nice?
+- Is [every](room) room nice?
+- Is [every](room) room old?
+- Is [Alpha](room) old?
+- Is [Alpha](room) the nicest room?
+- Is [Beta](room) nice?
+- Is [gamma](room) nice?
+- Is [it](room) nice?
+- Is [it](room) the nicest room?
+- Is [the](room) room modern?
+- Is [this](room) one the nicest room?
+- Is it modern in room [Alpha](room)?
+- Is it modern in the [other](room) ones?
+- Is it nice in [Alpha](room)?
+- Is it nice in [alpha](room)?
+- Is it nice in [Gamma](room)?
+- Is it nice in [the](room) room?
+- Is it nice in room [alpha](room)?
+- Is it nice in room [beta](room)?
+- Is it nice in the [last](room) one?
+- Is it nice in the [other](room) ones?
+- Is it nice in the [others](room)?
+- Is it nice in the [second](room) one?
+- Is room [alpha](room) nice?
+- Is room [alpha](room) the nicest room?
+- Is room [Beta](room) the nicest room?
+- Is the [first](room) room modern looking?
+- Is the [first](room) room nice?
+- Is the [first](room) room the nicest room?
+- Is the [last](room) one nice?
+- Is the [other](room) room nice?
+- Is the [second](room) one the nicest room?
+- Is the [third](room) one nice?
+- Is the [third](room) room the nicest room?
+- Is there a classic design in the [third](room) one?
+- Is there a classic touch in the [other](room) rooms?
+- Is there a classic touch in the [others](room)?
+- Is there a good atmosphere in [all](room) of the three rooms?
+- Is there a good atmosphere in [all](room) of the rooms?
+- Is there a good atmosphere in [all](room) rooms?
+- Is there a good atmosphere in [every](room) room?
+- Is there a good atmosphere in [this](room) one?
+- Is there a good atmosphere in room [Beta](room)?
+- Is there a good atmosphere in the [first](room) one?
+- Is there a good atmosphere in the [last](room) one?
+- Is there a good atmosphere in the [other](room) ones?
+- Is there a good atmosphere in the [other](room) rooms?
+- Is there a good vibe in [all](room) three rooms?
+- Is there a good vibe in [all](room) of the three rooms?
+- Is there a good vibe in [all](room) of them?
+- Is there a good vibe in [every](room) room?
+- Is there a good vibe in [alpha](room)?
+- Is there a good vibe in [Beta](room)?
+- Is there a good vibe in [it](room)?
+- Is there a good vibe in [this](room) room?
+- Is there a good vibe in room [Gamma](room)?
+- Is there a good vibe in the [first](room) room?
+- Is there a good vibe in the [last](room) one?
+- Is there a good vibe in the [other](room) ones?
+- Is there a good vibe in the [others](room)?
+- Is there a good vibe in the [second](room) one?
+- Is there a good vibe in the [second](room) room?
+- Is there a good vibe in the [third](room) room?
+- Is there a meeting room that has a classic design?
+- Is there a modern design in [it](room)?
+- Is there a modern design in [this](room) one?
+- Is there a modern design in [all](room) three rooms?
+- Is there a modern design in [all](room) of the rooms?
+- Is there a modern design in [all](room) rooms?
+- Is there a modern design in [every](room) room?
+- Is there a modern design in the [other](room) ones?
+- Is there a modern touch in [the](room) room?
+- Is there a modern touch in the [other](room) rooms?
+- Is there a nice atmosphere in [all](room) three rooms?
+- Is there a nice atmosphere in [all](room) of the three rooms?
+- Is there a nice atmosphere in [all](room) of them?
+- Is there a nice atmosphere in [every](room) room?
+- Is there a nice atmosphere in [alpha](room)?
+- Is there a nice atmosphere in [beta](room)?
+- Is there a nice atmosphere in [the](room) room?
+- Is there a nice atmosphere in room [alpha](room)?
+- Is there a nice atmosphere in room [Alpha](room)?
+- Is there a nice atmosphere in room [Beta](room)?
+- Is there a nice atmosphere in the [last](room) room?
+- Is there a nice atmosphere in the [other](room) rooms?
+- Is there an event room that has a good vibe?
+- Is there an old-fashioned design in [gamma](room)?
+- Is there an old-fashioned design in [other](room) rooms?
+- Is there an option which has a good vibe?
+- Is there an option with a good atmosphere?
+- Is there an option with a nice atmosphere?
+- We look for a location with a good atmosphere
+- We look for a location with a nice atmosphere
+- We look for a meeting room with a nice atmosphere
+- We look for a room with a good atmosphere
+- We look for a room with a good vibe
+- We look for a room with a modern feel
+- We look for an event room with a good atmosphere
+- We look for an event room with a good atmosphere
+- We look for an event room with a nice atmosphere
+- We look for an event room with a nice atmosphere
+- We look for an option with a good atmosphere
+- We need a location with a nice atmosphere
+- We need a meeting room with a good vibe
+- We need a room with a good atmosphere
+- We need a room with a good vibe
+- We need an event room with a good atmosphere
+- We need an event room with a good atmosphere
+- We need an event room with a good vibe
+- We need an event room with a nice atmosphere
+- We need an option with a good atmosphere
+- We need an option with a good vibe
+- We need an option with a nice atmosphere
+- We search for a location with a good atmosphere
+- We search for a location with a good atmosphere
+- We search for a meeting room with a good vibe
+- We search for a meeting room with a modern design
+- We search for a meeting room with a nice atmosphere
+- We search for a room with a good atmosphere
+- We search for a room with a modern design
+- We search for a room with a nice atmosphere
+- We search for an option with a classic touch
+- We search for an option with a good vibe
+- We want a location with a good atmosphere
+- We want a location with a nice atmosphere
+- We want a room with a good atmosphere
+- We want a room with a good vibe
+- We want an event room with a good atmosphere
+- We want an option with a good atmosphere
+- We want an option with a nice atmosphere
+- We would like a location with a good atmosphere
+- We would like a room with a modern feel
+- We would like an event room with a good vibe
+- We would like an event room with a good vibe
+- We would like an event room with a nice atmosphere
+- We would like an option with a good atmosphere
+- What do [all](room) your rooms look like?
+- What do [all](room) of the rooms look like?
+- What do [all](room) rooms look like?
+- What does [every](room) room look like?
+- What does [each](room) room look like?
+- What does [alpha](room) look like?
+- What does [gamma](room) look like?
+- What does [it](room) look like?
+- What does [the](room) room look like?
+- What does the [first](room) one look like?
+- What does the [first](room) room look like?
+- What does the [last](room) one look like?
+- What does the [second](room) one look like?
+- What does the [third](room) room look like?
+- What are [other](room) rooms like?
+- What are [all](room) of the rooms like?
+- What are [all](room) of them like?
+- What are [all](room) rooms like?
+- What is [every](room) room like?
+- What is [Alpha](room) like?
+- What is [it](room) like?
+- What is [the](room) room like?
+- What is room [gamma](room) like?
+- What is the [first](room) room like?
+- What is the [last](room) room like?
+- What is the [other](room) room like?
+- What is the [second](room) room like?
+- What is the [third](room) one like?
+- What is the [third](room) room like?
+- What is the atmosphere in [all](room) your rooms like?
+- What is the atmosphere in [all](room) three rooms like?
+- What is the atmosphere in [all](room) of the three rooms like?
+- What is the atmosphere in [every](room) room like?
+- What is the atmosphere in [Beta](room) like?
+- What is the atmosphere in [Gamma](room)?
+- What is the atmosphere in [gamma](room)?
+- What is the atmosphere in room [alpha](room) like?
+- What is the atmosphere in room [Beta](room) like?
+- What is the atmosphere in room [beta](room) like?
+- What is the atmosphere in room [Gamma](room)?
+- What is the atmosphere in the [first](room) room like?
+- What is the atmosphere in the [other](room) rooms like?
+- What is the atmosphere in the [other](room) rooms?
+- What is the atmosphere in the [third](room) room like?
+- What is the atmosphere like in [Alpha](room)?
+- What is the atmosphere like in [beta](room)?
+- What is the atmosphere like in [Gamma](room)?
+- What is the atmosphere like in [this](room) room?
+- What is the atmosphere like in room [alpha](room)?
+- What is the atmosphere like in the [other](room) ones?
+- What is the atmosphere like in the [other](room) rooms?
+- What is the atmosphere like in the [others](room)?
+- What is the atmosphere like in the [second](room) room?
+- What is the atmosphere like in the [third](room) room?
+- What is the vibe in [all](room) three rooms like?
+- What is the vibe in [all](room) of the rooms like?
+- What is the vibe in [all](room) rooms like?
+- What is the vibe in [every](room) room like?
+- What is the vibe in [Beta](room)?
+- What is the vibe in [Gamma](room)?
+- What is the vibe in [it](room) like?
+- What is the vibe in room [beta](room) like?
+- What is the vibe in room [gamma](room) like?
+- What is the vibe in room [gamma](room)?
+- What is the vibe in the [first](room) one?
+- What is the vibe in the [first](room) room?
+- What is the vibe in the [last](room) one like?
+- What is the vibe in the [other](room) rooms like?
+- What is the vibe in the [other](room) rooms?
+- What is the vibe in the [others](room)?
+- What is the vibe in the [second](room) room?
+- What is the vibe in the [third](room) one like?
+- What is the vibe like in [alpha](room)?
+- What is the vibe like in [beta](room)?
+- What is the vibe like in [Gamma](room)?
+- What is the vibe like in room [alpha](room)?
+- What is the vibe like in the [other](room) rooms?
+- What is the vibe like in the [others](room)?
+- What is the vibe like in the [third](room) room?
+- What's [every](room) room like?
+- What's [each](room) room like?
+- What's [Alpha](room) like?
+- What's [Gamma](room) like?
+- What's the [third](room) one like?
+- What's the [third](room) room like?
+- What's the atmosphere in [alpha](room) like?
+- What's the atmosphere in [Beta](room) like?
+- What's the atmosphere in [the](room) room?
+- What's the atmosphere in [this](room) room?
+- What's the atmosphere in room [alpha](room) like?
+- What's the atmosphere in room [beta](room) like?
+- What's the atmosphere in room [beta](room)?
+- What's the atmosphere in room [gamma](room) like?
+- What's the atmosphere in the [first](room) room like?
+- What's the atmosphere in the [other](room) one?
+- What's the atmosphere in the [other](room) ones?
+- What's the atmosphere in the [other](room) rooms like?
+- What's the atmosphere in the [others](room) like?
+- What's the atmosphere in the [others](room)?
+- What's the atmosphere in the [second](room) one?
+- What's the atmosphere in the [third](room) one?
+- What's the atmosphere in the [third](room) room?
+- What's the atmosphere like in [Gamma](room)?
+- What's the atmosphere like in [gamma](room)?
+- What's the atmosphere like in room [Beta](room)?
+- What's the atmosphere like in the [first](room) one?
+- What's the atmosphere like in the [first](room) room?
+- What's the atmosphere like in the [other](room) rooms?
+- What's the atmosphere like in the [others](room)?
+- What's the atmosphere like in the [third](room) one?
+- What's the atmosphere like in the [third](room) room?
+- What's the vibe in [alpha](room) like?
+- What's the vibe in [Alpha](room)?
+- What's the vibe in [alpha](room)?
+- What's the vibe in [Beta](room)?
+- What's the vibe in [beta](room)?
+- What's the vibe in [gamma](room)?
+- What's the vibe in [it](room) like?
+- What's the vibe in room [beta](room) like?
+- What's the vibe in room [Beta](room) like?
+- What's the vibe in room [Beta](room)?
+- What's the vibe in room [beta](room)?
+- What's the vibe in room [gamma](room) like?
+- What's the vibe in room [Gamma](room)?
+- What's the vibe in the [first](room) one?
+- What's the vibe in the [last](room) room like?
+- What's the vibe in the [other](room) one?
+- What's the vibe in the [other](room) ones like?
+- What's the vibe in the [other](room) rooms?
+- What's the vibe in the [others](room) like?
+- What's the vibe in the [others](room)?
+- What's the vibe like in [Beta](room)?
+- What's the vibe like in [beta](room)?
+- What's the vibe like in [this](room) one?
+- What's the vibe like in room [Alpha](room)?
+- What's the vibe like in room [beta](room)?
+- What's the vibe like in the [first](room) one?
+- What's the vibe like in the [other](room) ones?
+- What's the vibe like in the [others](room)?
+- What's the vibe like in the [second](room) room?
+- What's the vibe like in the [third](room) room?
+- Which has the best vibe?
+- Which is the nicest?
+- Which room has a good vibe?
+- Which room has a modern design?
+- Which room has a modern feel?
+- Which room has a nice atmosphere?
+- Which room has the best vibe?
+- Which room is not too flashy?
+- Which room is the nicest?
+- How are the rooms decorated?
+- How are [all](room) decorated?
+- Is the decoration in the [other](room) rooms nice?
+- Are there any decorations in the [second](room) one?
+- How is the decoration?
+- How is the decoration in the [other](room) rooms?
+- How is [every](room) one decorated?
+- How is [every](room) room decorated?
+- How is [Gamma](room) decorated?
+- How is [that](room) room decorated?
+- What does the decoration in [it](room) look like?
+- Is the decoration in a [different](room) room better?
+- Is the decoration in the [other](room) rooms modern?
+- How is the decoration in the [other](room) ones?
+- Are there any decorations in [the](room) room?
+- Are [all](room) rooms decorated?
+- How is [Alpha](room) decorated?
+- Is the decoration in [all](room) of them modern?
+- Is the decoration in the [others](room) modern?
+- Is the decoration in the [other](room) ones old?
+- Is the decoration in a [different](room) room old?
+- How is the decoration in the [first](room) one?
+- Are there any decorations in the [other](room) one?
+- How is [gamma](room) decorated?
+- Is the decoration in the [others](room) old?
+- Is the decoration in the [third](room) one nice?
+- How is [the](room) room decorated?
+- Are there any decorations in [this](room) one?
+- What does the decoration in [the](room) room look like?
+- What does the decoration in a [different](room) room look like?
+- Is the decoration in the [other](room) ones modern?
+- Is the decoration in [Beta](room) modern?
+- What does the decoration in [this](room) room look like?
+- Is the decoration in [this](room) nice?
+- How is the decoration in [every](room) room?
+- How is the decoration in the [others](room)?
+- Is the decoration in [this](room) room old?
+- Is the decoration in a [different](room) room modern?
+- Is the decoration in [there](room) modern?
+- Are there any decorations in [it](room)?
+- Is the decoration in [the](room) room nice?
+- How is the decoration in [it](room)?
+- Is the decoration in room [Alpha](room) nice?
+- Are there any decorations in the [third](room) room?
+- How is the decoration in [the](room) room?
+- Is the decoration in the [other](room) rooms old?
+- Is the decoration in [this](room) room modern?
+- How is [this](room) one decorated?
+- How is [that](room) room decorated?
+- What does the decoration in [this](room) look like?
+- Are there any decorations in [gamma](room)?
+- Is the decoration in the [other](room) ones nice?
+- What does the decoration in [alpha](room) look like?
+- Are there any decorations in room [Alpha](room)?
+- Is the decoration in [beta](room) modern?
+- Are there any decorations in the [first](room) one?
+- Is the decoration in [this](room) modern?
+- How is the decoration in [this](room)?
+- How is the decoration in [there](room)?
+- Is the decoration in the [second](room) one modern?
+- Is the decoration in [every](room) room modern?
+- How is [this](room) decorated?
+- How is the decoration in the [second](room) one?
+- Is the decoration in the [first](room) one modern?
+- What does the decoration in the [third](room) room look like?
+- How is [it](room) decorated?
+- Is the decoration in room [alpha](room) modern?
+- How is the decoration in the [first](room) room?
+- How is room [Beta](room) decorated?
+- How is room [beta](room) decorated?
+- How is it decorated in [there](room)?
+- Is the decoration in room [gamma](room) modern?
+- What does the decoration in [beta](room) look like?
+- How is [alpha](room) decorated?
+
+## intent:ask_for_room_equipment
+- Are there beamers in [all](room) your rooms?
+- Are there beamers in [all](room) of the three rooms?
+- Are there beamers in [all](room) of them?
+- Are there beamers in [every](room) room?
+- Are there beamers in [each](room) room?
+- Are there beamers in [beta](room)?
+- Are there beamers in the [other](room) ones?
+- Are there beamers in the [others](room)?
+- Are there beamers in the [third](room) one?
+- Are there light systems in the [other](room) ones?
+- Are there projectors in [all](room) of the rooms?
+- Are there projectors in [all](room) of them?
+- Are there projectors in [all](room) rooms?
+- Are there projectors in [every](room) room?
+- Are there projectors in [each](room) room?
+- Are there projectors in room [Alpha](room)?
+- Are there projectors in the [others](room)?
+- Are there screens in [the](room) room?
+- Are there screens in the [other](room) ones?
+- Are there speakers in [the](room) room?
+- Are there speakers in the [others](room)?
+- Are there video systems in [the](room) room?
+- Are there rooms that have a loudspeaker?
+- Are there rooms that have a projector?
+- Are we able to do a presentation in [all](room) your rooms for the team?
+- Are we able to do a presentation in [all](room) three rooms for the team?
+- Are we able to do a presentation in [all](room) of the three rooms for the team?
+- Are we able to do a presentation in [every](room) room for the team?
+- Are we able to do a presentation in the [others](room) for the team?
+- Are we able to do a presentation in [all](room) of the rooms?
+- Are we able to do a presentation in [all](room) of them?
+- Are we able to do a presentation in [all](room) rooms?
+- Are we able to do a presentation in [every](room) room?
+- Are we able to do a presentation in the [others](room)?
+- Are we able to do a talk in the [second](room) one for the team?
+- Are we able to hold a presentation in [all](room) your rooms for our staff?
+- Are we able to hold a presentation in [all](room) of the three rooms for our staff?
+- Are we able to hold a presentation in [all](room) rooms for our staff?
+- Are we able to hold a presentation in [every](room) room for our staff?
+- Are we able to hold a presentation in the [other](room) ones for our staff?
+- Are we able to show a powerpoint presentation in [Gamma](room) for the team?
+- Are we able to show a presentation in room [alpha](room) for my colleagues?
+- Are we able to show a presentation in room [alpha](room)?
+- Are we able to show a presentation in room [beta](room)?
+- Are we able to show a presentation in room [gamma](room)?
+- Are we able to show a presentation in the [third](room) one for the team?
+- Are we able to show a presentation in the [third](room) room for my colleagues?
+- Are we able to show a presentation in the [third](room) room for our staff?
+- Can I do a powerpoint presentation for the team?
+- Can I do a powerpoint presentation in the [third](room) one?
+- Can I do a presentation for our employees?
+- Can I do a presentation in room [gamma](room)?
+- Can I do a presentation in the [third](room) one?
+- Can I do a presentation in the [other](room) one?
+- Can I do a presentation in the [others](room)?
+- Can I do a presentation in [all](room) your rooms?
+- Can I do a presentation in [all](room) of the three rooms?
+- Can I do a presentation in [all](room) of them?
+- Can I do a presentation in [every](room) room?
+- Can I do a presentation?
+- Can I hold a presentation in the [others](room)?
+- Can I hold a presentation in the [third](room) one for my colleagues?
+- Can my company do a talk in the [other](room) ones?
+- Can my company show a presentation?
+- Can we do a powerpoint presentation in the [second](room) one for my colleagues?
+- Can we do a talk in [alpha](room)?
+- Can we do a talk in [Gamma](room)?
+- Can we hold a presentation in [alpha](room) for our staff?
+- Can we hold a presentation in room [beta](room)?
+- Can we hold a presentation in the [last](room) room?
+- Can we show a powerpoint presentation in [Gamma](room) for the team?
+- Can we show a presentation in [gamma](room) for the team?
+- Can we show a presentation in [all](room) of the rooms?
+- Can we show a presentation in [all](room) of them?
+- Can we show a presentation in [all](room) rooms?
+- Can we show a presentation in [every](room) room?
+- Can we show a presentation in the [last](room) one?
+- Could I do a powerpoint presentation in the [first](room) room?
+- Could I do a powerpoint presentation in the [other](room) rooms for my colleagues?
+- Could I do a presentation in [Beta](room) for our staff?
+- Could I do a talk in the [others](room)?
+- Could I do a talk?
+- Could I hold a presentation in [all](room) your rooms?
+- Could I hold a presentation in [all](room) of them?
+- Could I hold a presentation in [all](room) rooms?
+- Could I hold a presentation in [every](room) room?
+- Could I hold a presentation in [Alpha](room) for my colleagues?
+- Could I hold a presentation in the [second](room) room for my colleagues?
+- Could I show a powerpoint presentation in the [second](room) one for my colleagues?
+- Could I show a presentation for my colleagues?
+- Could I show a presentation in [gamma](room) for our staff?
+- Could I show a presentation in the [others](room)?
+- Could we do a powerpoint presentation in [alpha](room) for our employees?
+- Could we do a presentation in [alpha](room) for our staff?
+- Could we do a presentation in the [first](room) one?
+- Could we do a talk in [Beta](room)?
+- Could we show a powerpoint presentation in the [first](room) room for our employees?
+- Could we show a presentation in room [Gamma](room)?
+- Do you have audio systems in [all](room) your rooms?
+- Do you have audio systems in [all](room) three rooms?
+- Do you have audio systems in [all](room) of the three rooms?
+- Do you have audio systems in [every](room) room?
+- Do you have audio systems in the [other](room) ones?
+- Do you have audio systems in the [others](room)?
+- Do you have beamers in [it](room)?
+- Do you have beamers in the [other](room) ones?
+- Do you have light systems in the [other](room) rooms?
+- Do you have loudspeakers in [the](room) room?
+- Do you have loudspeakers in [this](room)?
+- Do you have loudspeakers in the [other](room) ones?
+- Do you have loudspeakers in the [others](room)?
+- Do you have projectors in [gamma](room)?
+- Do you have projectors in the [other](room) rooms?
+- Do you have screens in [it](room)?
+- Do you have screens in the [other](room) ones?
+- Do you have screens in the [others](room)?
+- Do you have speakers in the [other](room) rooms?
+- Do you have speakers in the [second](room) one?
+- Do you have TVs in the [others](room)?
+- Do you have video systems in the [others](room)?
+- Do you have a projector to hold a presentation in room [gamma](room)?
+- Do you have a screen to do a powerpoint presentation for my colleagues in room [Alpha](room)?
+- Do you have a screen to show a powerpoint presentation in the [last](room) room?
+- Do you have a video system for my colleagues in the [second](room) one?
+- Do you have a video system to do a powerpoint presentation for my colleagues?
+- Do you have a video system to do a presentation in the [first](room) one?
+- Do you have a video system to do a talk for the team in the [others](room)?
+- Do you have a video system to hold a presentation for our staff in room [Gamma](room)?
+- Do you have a location that has equipment to do a powerpoint presentation for my colleagues?
+- Do you have a location that has equipment to do a presentation?
+- Do you have a location that has equipment to show a powerpoint presentation for our staff?
+- Do you have a location which has an audio/video system to do a powerpoint presentation for my colleagues?
+- Do you have a location which has equipment to do a talk for my colleagues?
+- Do you have a location with a screen to show a presentation?
+- Do you have a location with equipment to do a presentation?
+- Do you have a location with equipment to do a presentation for our staff?
+- Do you have a meeting room that has an audio/video system?
+- Do you have a meeting room with equipment to show a presentation for my colleagues?
+- Do you have a room that has an audio/video system to do a presentation?
+- Do you have a room that has an audio/video system to show a presentation for our staff?
+- Do you have a room that has equipment for our employees?
+- Do you have a room that has equipment to show a powerpoint presentation for our staff?
+- Do you have a room with a projector to show a powerpoint presentation for our employees?
+- Do you have a room with a projector to show a presentation?
+- Do you have a room with a video system for our employees?
+- Do you have a room with an audio/video system to do a presentation for our staff?
+- Do you have a room with equipment to do a powerpoint presentation?
+- Do you have a room with equipment to hold a presentation for our employees?
+- Do you have a room with equipment to show a powerpoint presentation for my colleagues?
+- Do you have a venue which has equipment to do a talk for my colleagues?
+- Do you have a venue with a video system to show a powerpoint presentation?
+- Do you have an audio/video system in the [first](room) one?
+- Do you have an audio/video system to do a presentation in [all](room) of the rooms?
+- Do you have an audio/video system to do a presentation in [all](room) of them?
+- Do you have an audio/video system to do a presentation in [all](room) rooms?
+- Do you have an audio/video system to do a presentation in [every](room) room?
+- Do you have an audio/video system to do a powerpoint presentation in the [others](room)?
+- Do you have an audio/video system to do a presentation for our employees in room [gamma](room)?
+- Do you have an audio/video system to do a presentation for our staff in the [third](room) one?
+- Do you have an audio/video system to do a talk for my colleagues in room [Beta](room)?
+- Do you have an audio/video system to hold a presentation for the team in the [first](room) one?
+- Do you have an audio/video system to show a powerpoint presentation for my colleagues in the [first](room) room?
+- Do you have an audio/video system to show a powerpoint presentation in [gamma](room)?
+- Do you have an audio/video system to show a presentation for my colleagues in the [other](room) rooms?
+- Do you have an audio/video system to show a presentation for our employees in the [other](room) rooms?
+- Do you have an audio/video system?
+- Do you have an event room that has a projector for our employees?
+- Do you have an event room that has equipment to do a talk?
+- Do you have an event room that has equipment to show a presentation for our staff?
+- Do you have an event room which has an audio/video system to do a presentation for our employees?
+- Do you have an event room which has equipment to do a powerpoint presentation for our employees?
+- Do you have an event room which has equipment to hold a presentation for our staff?
+- Do you have an event room with an audio/video system to hold a presentation?
+- Do you have an event room with equipment for our staff?
+- Do you have an option that has an audio/video system to do a powerpoint presentation for our staff?
+- Do you have an option that has an audio/video system to do a presentation for our employees?
+- Do you have an option that has equipment to do a powerpoint presentation for the team?
+- Do you have an option with a projector to do a presentation?
+- Do you have an option with a projector to hold a presentation for the team?
+- Do you have an option with an audio/video system for the team?
+- Do you have an option with an audio/video system to do a talk for our employees?
+- Do you have an option with equipment to hold a presentation?
+- Do you have an option with equipment to show a powerpoint presentation for our employees?
+- Do you have equipment for my colleagues in the [first](room) room?
+- Do you have equipment for our staff?
+- Do you have equipment for the team in the [others](room)?
+- Do you have equipment in the [others](room)?
+- Do you have equipment in [all](room) three rooms?
+- Do you have equipment in [all](room) of the three rooms?
+- Do you have equipment in [all](room) of them?
+- Do you have equipment in [every](room) room?
+- Do you have equipment to do a powerpoint presentation for our employees in the [other](room) ones?
+- Do you have equipment to do a talk for my colleagues?
+- Do you have equipment to do a talk for the team in the [first](room) room?
+- Do you have equipment to do a talk for the team?
+- Do you have equipment to do a talk in the [third](room) room?
+- Do you have equipment to hold a presentation for our employees in the [last](room) one?
+- Do you have equipment to hold a presentation for our staff in the [last](room) room?
+- Do you have equipment to hold a presentation for the team in room [Alpha](room)?
+- Do you have equipment to hold a presentation for the team in the [third](room) room?
+- Do you have equipment to show a powerpoint presentation for our employees in [alpha](room)?
+- Do you have equipment to show a powerpoint presentation for our employees in room [Alpha](room)?
+- Do you have equipment to show a powerpoint presentation in the [other](room) ones?
+- Do you have equipment to show a presentation for my colleagues in the [other](room) rooms?
+- Do you have equipment to show a presentation for our staff in room [alpha](room)?
+- Do you have equipment?
+- Do you have rooms that have an audio system?
+- Do you have rooms which have an audio system?
+- Do you have rooms which have an audio/video system?
+- Do you have rooms which have equipment?
+- Do you have rooms with a TV?
+- Do you provide a projector in [all](room) your rooms?
+- Do you provide a projector in [all](room) of the three rooms?
+- Do you provide a projector in [all](room) of them?
+- Do you provide a projector in room [gamma](room)?
+- Do you provide a projector for the team in the [others](room)?
+- Do you provide a projector to do a powerpoint presentation for our employees in [Alpha](room)?
+- Do you provide a projector to hold a presentation?
+- Do you provide a projector to show a powerpoint presentation for our employees in the [third](room) room?
+- Do you provide a projector to show a presentation in the [other](room) rooms?
+- Do you provide a screen in the [last](room) room?
+- Do you provide a screen to do a presentation for my colleagues in room [alpha](room)?
+- Do you provide a screen to hold a presentation for our staff in [alpha](room)?
+- Do you provide a screen to show a presentation for our staff in the [second](room) room?
+- Do you provide a screen to show a presentation for the team in the [third](room) one?
+- Do you provide a video system to show a powerpoint presentation for my colleagues?
+- Do you provide a video system to show a powerpoint presentation for the team in the [other](room) ones?
+- Do you provide a video system to show a presentation for my colleagues in the [other](room) rooms?
+- Do you provide a location that has a screen to show a presentation?
+- Do you provide a location which has a projector to do a presentation for our staff?
+- Do you provide a location which has equipment for the team?
+- Do you provide a location which has equipment to do a presentation for my colleagues?
+- Do you provide a location with a projector to hold a presentation for our employees?
+- Do you provide a meeting room that has equipment to do a presentation for our employees?
+- Do you provide a meeting room which has a screen to do a powerpoint presentation?
+- Do you provide a meeting room which has an audio/video system to show a presentation for my colleagues?
+- Do you provide a meeting room which has equipment to hold a presentation?
+- Do you provide a meeting room with equipment to do a powerpoint presentation for our staff?
+- Do you provide a room that has a screen to do a powerpoint presentation?
+- Do you provide a room that has equipment to show a presentation for our employees?
+- Do you provide a room which has an audio/video system to show a presentation for our employees?
+- Do you provide a room with an audio/video system to do a presentation?
+- Do you provide a venue which has equipment to do a presentation?
+- Do you provide a venue with equipment to do a presentation for our staff?
+- Do you provide an audio/video system to hold a presentation for my colleagues in the [last](room) one?
+- Do you provide an audio/video system to show a powerpoint presentation for our employees in the [first](room) room?
+- Do you provide an event room that has a video system to do a powerpoint presentation for the team?
+- Do you provide an event room that has an audio/video system to do a presentation?
+- Do you provide an event room which has a projector to do a talk for the team?
+- Do you provide an event room which has an audio/video system?
+- Do you provide an event room which has equipment to do a powerpoint presentation for our staff?
+- Do you provide an event room with a video system to hold a presentation for the team?
+- Do you provide an event room with an audio/video system to do a powerpoint presentation for the team?
+- Do you provide an event room with equipment to show a presentation?
+- Do you provide an option that has a projector to hold a presentation for the team?
+- Do you provide an option that has a screen to do a talk for the team?
+- Do you provide an option that has a video system to do a powerpoint presentation for the team?
+- Do you provide an option that has a video system to hold a presentation for our staff?
+- Do you provide an option that has an audio/video system for our employees?
+- Do you provide an option that has an audio/video system to hold a presentation for our employees?
+- Do you provide an option that has equipment for the team?
+- Do you provide an option that has equipment to show a powerpoint presentation for our staff?
+- Do you provide an option which has equipment to do a presentation for our staff?
+- Do you provide an option which has equipment to do a presentation?
+- Do you provide an option which has equipment to show a presentation for our employees?
+- Do you provide an option with equipment for our employees?
+- Do you provide an option with equipment to do a presentation for my colleagues?
+- Do you provide an option with equipment to do a presentation?
+- Do you provide an option with equipment to show a powerpoint presentation?
+- Do you provide equipment for our staff in [beta](room)?
+- Do you provide equipment in [beta](room)?
+- Do you provide equipment in [all](room) three rooms?
+- Do you provide equipment in [all](room) of the rooms?
+- Do you provide equipment in [all](room) rooms?
+- Do you provide equipment in [every](room) room?
+- Do you provide equipment in [each](room) room?
+- Do you provide equipment for our staff in the [third](room) one?
+- Do you provide equipment for our staff?
+- Do you provide equipment for the team in the [second](room) one?
+- Do you provide equipment in the [other](room) rooms?
+- Do you provide equipment to do a powerpoint presentation for our staff in [Beta](room)?
+- Do you provide equipment to do a presentation for my colleagues in [Alpha](room)?
+- Do you provide equipment to do a presentation in [alpha](room)?
+- Do you provide equipment to do a presentation for the team in the [third](room) room?
+- Do you provide equipment to do a talk for my colleagues in room [Alpha](room)?
+- Do you provide equipment to do a talk for the team in the [first](room) room?
+- Do you provide equipment to hold a presentation for my colleagues in room [beta](room)?
+- Do you provide equipment to show a presentation for the team?
+- Do you provide equipment to show a presentation?
+- Does [Alpha](room) have a screen to show a presentation for our staff?
+- Does [Alpha](room) have an audio/video system to show a presentation for my colleagues?
+- Does [Beta](room) have a screen to do a presentation?
+- Does [Beta](room) have an audio/video system to hold a presentation for our employees?
+- Does [Beta](room) have an audio/video system to show a powerpoint presentation?
+- Does [beta](room) have equipment to hold a presentation for my colleagues?
+- Does [Gamma](room) have an audio/video system to hold a presentation for the team?
+- Does [Gamma](room) have equipment to hold a presentation?
+- Does [Gamma](room) have equipment to show a powerpoint presentation for our staff?
+- Does [Gamma](room) have equipment for our employees?
+- Does [Gamma](room) have equipment?
+- Do [all](room) of the rooms have equipment?
+- Do [all](room) of them have equipment?
+- Do [all](room) rooms have equipment?
+- Does [every](room) room have equipment?
+- Does [it](room) have a projector to hold a presentation for my colleagues?
+- Does [it](room) have a video system to hold a presentation for my colleagues?
+- Does [it](room) have a video system to show a powerpoint presentation?
+- Does [it](room) have a video system to show a presentation?
+- Does [it](room) have equipment to show a presentation for my colleagues?
+- Does [the](room) room have an audio/video system to do a talk for the team?
+- Does [this](room) have equipment to do a presentation for our employees?
+- Does [this](room) room have a projector to do a presentation for our employees?
+- Does [this](room) room have an audio/video system for our staff?
+- Does room [alpha](room) have a projector to do a presentation for our employees?
+- Does room [alpha](room) have an audio/video system to show a presentation for the team?
+- Does room [alpha](room) have equipment to do a powerpoint presentation?
+- Does room [alpha](room) have equipment to hold a presentation for our employees?
+- Does room [Alpha](room) have equipment to show a powerpoint presentation for the team?
+- Does room [alpha](room) have equipment to show a presentation for my colleagues?
+- Does room [Beta](room) have an audio/video system for my colleagues?
+- Does room [beta](room) have an audio/video system to hold a presentation for our staff?
+- Does room [beta](room) have equipment to hold a presentation for our employees?
+- Does room [Gamma](room) have equipment?
+- Does the [first](room) one have a screen to show a powerpoint presentation for our staff?
+- Does the [first](room) room have a video system to show a powerpoint presentation for our employees?
+- Does the [first](room) room have an audio/video system for our employees?
+- Does the [first](room) room have equipment to do a powerpoint presentation for the team?
+- Does the [last](room) one have a projector to do a talk?
+- Does the [last](room) one have equipment to do a presentation?
+- Does the [last](room) room have a projector to do a powerpoint presentation?
+- Does the [last](room) room have a projector to show a presentation for our staff?
+- Does the [last](room) room have a video system to show a powerpoint presentation?
+- Does the [last](room) room have an audio/video system to do a powerpoint presentation for our staff?
+- Does the [other](room) one have a projector for our staff?
+- Does the [other](room) one have an audio/video system to do a talk for my colleagues?
+- Does the [other](room) one have an audio/video system?
+- Does the [other](room) room have equipment to show a powerpoint presentation for the team?
+- Does the [second](room) one have a screen to do a presentation for my colleagues?
+- Does the [second](room) one have an audio/video system to show a powerpoint presentation for our staff?
+- Does the [second](room) room have equipmentfor my colleagues?
+- Does the [third](room) one have an audio/video system for the team?
+- Does the [third](room) one have an audio/video system to do a presentation for the team?
+- Does the [third](room) one have equipment to do a talk for the team?
+- Does the [third](room) room have equipment to do a powerpoint presentation for our staff?
+- Does the [third](room) room have equipment to do a talk for my colleagues?
+- Does the [third](room) room have equipment?
+- I also have to do a presentation
+- I also have to show presentations
+- I also like a projector
+- I also like an audio/video system in the [second](room) room
+- I also want a screen
+- I also want an audio/video system
+- I also want an audio/video system in the [other](room) rooms
+- I also want equipment
+- I also want to do a presentation
+- I also would like an audio/video system in the [others](room)
+- I also would like equipment in the [second](room) room
+- I have to make a presentation
+- I have to organize talks
+- I like equipment in the [first](room) room
+- I must hold a presentation
+- I need equipment in [Beta](room)
+- I need equipment in room [gamma](room)
+- I need equipment in [alpha](room)
+- I need to do a powerpoint presentation
+- I search for equipment
+- I should be able to do a talk in room [Beta](room) for our employees
+- I should be able to hold a presentation in the [first](room) one
+- I want an audio/video system in [Beta](room)
+- I want equipment
+- I want to do a talk
+- In which room can my company hold a presentation?
+- In which room can we do a presentation?
+- Is it possible to do a powerpoint presentation in [Gamma](room)?
+- Is it possible to do a powerpoint presentation in the [last](room) one for our employees?
+- Is it possible to do a powerpoint presentation in the [third](room)?
+- Is it possible to do a presentation in the [third](room) room for the team?
+- Is it possible to do a presentation in [all](room) your rooms?
+- Is it possible to do a presentation in [all](room) three rooms?
+- Is it possible to do a presentation in [all](room) of the three rooms?
+- Is it possible to do a presentation in [every](room) room?
+- Is it possible to do a talk in the [third](room) one for the team?
+- Is it possible to hold a presentation in [beta](room) for my colleagues?
+- Is it possible to hold a presentation in the [first](room) one for my colleagues?
+- Is it possible to hold a presentation in the [second](room) one?
+- Is it possible to show a powerpoint presentation in the [last](room) one for our employees?
+- Is it possible to show a powerpoint presentation in the [other](room) rooms for our staff?
+- Is it possible to show a powerpoint presentation in the [third](room)?
+- Is it possible to show a presentation in the [last](room) one for my colleagues?
+- Is there a projector to show a presentation for our staff in the [other](room) ones?
+- Is there a screen to hold a presentation in the [third](room) room?
+- Is there a screen to show a powerpoint presentation for the team in room [gamma](room)?
+- Is there a video system to do a presentation for my colleagues in the [last](room) one?
+- Is there a video system to do a presentation for our employees in room [alpha](room)?
+- Is there a video system to show a powerpoint presentation for our staff in the [others](room)?
+- Is there a video system to show a powerpoint presentation for the team?
+- Is there a location that has equipment to do a presentation for the team?
+- Is there a location which has a screen to do a talk for the team?
+- Is there a location which has an audio/video system to hold a presentation for my colleagues?
+- Is there a location which has equipment for my colleagues?
+- Is there a location with a video system to do a talk for our employees?
+- Is there a meeting room that has a video system for my colleagues?
+- Is there a meeting room that has an audio/video system to do a presentation for my colleagues?
+- Is there a meeting room that has equipment to do a powerpoint presentation for our staff?
+- Is there a meeting room that has equipment to do a presentation for our staff?
+- Is there a meeting room which has a projector to do a presentation?
+- Is there a meeting room which has an audio/video system to do a powerpoint presentation for my colleagues?
+- Is there a meeting room which has an audio/video system to hold a presentation for our employees?
+- Is there a meeting room which has equipment to show a powerpoint presentation?
+- Is there a meeting room with equipment to hold a presentation for our staff?
+- Is there a possibility to do a powerpoint presentation for our employees?
+- Is there a possibility to do a presentation in the [second](room) one for our staff?
+- Is there a possibility to do a presentation in the [second](room) room for our staff?
+- Is there a possibility to do a talk in the [second](room) one for the team?
+- Is there a possibility to do a talk in the [third](room) room for our employees?
+- Is there a possibility to hold a presentation in the [second](room) one for my colleagues?
+- Is there a possibility to show a powerpoint presentation in room [gamma](room)?
+- Is there a possibility to show a powerpoint presentation?
+- Is there a possibility to show a presentation in [Gamma](room) for my colleagues?
+- Is there a possibility to show a presentation in the [other](room) rooms for my colleagues?
+- Is there a room that has a video system to show a powerpoint presentation for my colleagues?
+- Is there a room that has equipment to do a talk?
+- Is there a room which has an audio/video system for our staff?
+- Is there a room which has an audio/video system to do a powerpoint presentation?
+- Is there a room which has an audio/video system to hold a presentation for our staff?
+- Is there a room which has equipment to show a powerpoint presentation?
+- Is there a room with a projector to do a talk for the team?
+- Is there a room with a video system to do a presentation for our staff?
+- Is there a room with an audio/video system to do a powerpoint presentation for our staff?
+- Is there a room with an audio/video system to show a presentation for our staff?
+- Is there a venue that has equipment to do a presentation for the team?
+- Is there a venue that has equipment to show a powerpoint presentation for our staff?
+- Is there an audio/video system for my colleagues in the [last](room) room?
+- Is there an audio/video system to do a talk in [gamma](room)?
+- Is there an audio/video system to show a presentation for my colleagues in room [Alpha](room)?
+- Is there an audio/video system to show a presentation for our employees in room [Alpha](room)?
+- Is there an event room that has a screen to do a talk for our staff?
+- Is there an event room that has an audio/video system to hold a presentation for our staff?
+- Is there an event room that has equipment to do a powerpoint presentation?
+- Is there an event room that has equipment to show a presentation for the team?
+- Is there an event room which has a projector to do a powerpoint presentation for our employees?
+- Is there an event room which has a video system to do a talk for our employees?
+- Is there an event room which has an audio/video system to show a powerpoint presentation for our staff?
+- Is there an event room which has equipment for my colleagues?
+- Is there an event room with a video system?
+- Is there an event room with equipment to do a talk for our employees?
+- Is there an event room with equipment to hold a presentation for my colleagues?
+- Is there an event room with equipment to hold a presentation?
+- Is there an option that has an audio/video system to do a powerpoint presentation for the team?
+- Is there an option that has equipment?
+- Is there an option which has a screen for our staff?
+- Is there an option which has equipment to do a powerpoint presentation for my colleagues?
+- Is there an option with a projector to do a presentation for our staff?
+- Is there an option with equipment to do a presentation for our staff?
+- Is there equipment for our staff in the [second](room) room?
+- Is there equipment to do a powerpoint presentation for our staff in [beta](room)?
+- Is there equipment to do a powerpoint presentation in the [third](room) room?
+- Is there equipment to do a talk for my colleagues in the [second](room) one?
+- Is there equipment to do a talk for the team in [alpha](room)?
+- Is there equipment to do a talk for the team?
+- Is there equipment to do a talk in the [second](room) one?
+- Is there equipment to show a powerpoint presentation for the team in the [other](room) ones?
+- Is there equipment to show a powerpoint presentation in [beta](room)?
+- Is there equipment to show a presentation for our employees in room [Beta](room)?
+- Is there equipment to show a presentation in [gamma](room)?
+- Is there equipment to show a presentation in the [second](room) one?
+- My company needs TVs to do a presentation
+- My company needs to show a presentation
+- My team wants to do a presentation
+- People will have to make presentations
+- Presentations are planed for the event
+- we also have to show a presentation
+- we also like equipment
+- we also like equipment
+- we also must to show a presentation
+- we also need equipment
+- we also search for an audio/video system
+- We also want to do a powerpoint presentation
+- we also would like to do a powerpoint presentation
+- We have to make presenation
+- We have to present
+- we need equipment
+- We need to make a presentation
+- We need to present
+- we search for a video system in the [last](room) room
+- we search for a video system in the [second](room) room
+- we search for equipment
+- we should be able to do a powerpoint presentation in the [second](room) one for the team?
+- we should be able to do a presentation in room [gamma](room) for our employees?
+- we should be able to do a talk in the [last](room) room for our staff?
+- we should be able to hold a presentation in the [third](room) one?
+- we should be able to show a powerpoint presentation for our employees?
+- we should be able to show a powerpoint presentation in room [beta](room) for my colleagues?
+- we should be able to show a powerpoint presentation in the [second](room) room?
+- we should be able to show a powerpoint presentation in the [third](room) room for my colleagues?
+- we want an audio/video system
+- we want an audio/video system in the [others](room)
+- we would like a screen in the [second](room) room
+- we would like an audio/video system
+- We would like to do a presentation
+- Which room has TVs?
+- Which room has video systems?
+
+## intent:ask_for_room_highlight
+- Are there any special things in [the](room) room?
+- Are there special parts of [the](room) room?
+- Are there special rooms?
+- Do you have a location that is interesting?
+- Do you have an exclusive room?
+- Do you have impressive event rooms?
+- Do you have unique meeting rooms?
+- I am looking for an exclusive room
+- I am looking for an interesting option
+- I am searching for a special event room
+- I am searching for an exceptional location
+- I am searching for an outstanding location
+- I like a unique location
+- I like an exclusive option
+- I like an outstanding location
+- I look for a exceptional location
+- I look for an outstanding meeting room
+- I need a exceptional location
+- I need a nice option
+- I need an exclusive meeting room
+- I need an impressive location
+- I search for a impressive meeting room
+- I search for a nice event room
+- I search for a outstanding option
+- I search for a unique event room
+- I search for an interesting event room
+- I want a special room
+- I want to wow the guests
+- I would like a nice location
+- I would like a unique meeting room
+- I would like an exceptional location
+- I would like an interesting meeting room
+- I'm looking for a impressive meeting room
+- I'm looking for a nice room
+- I'm looking for a outstanding location
+- I'm looking for a special option
+- I'm looking for an exclusive event room
+- I'm searching for a nice event room
+- Is [alpha](room) impressive?
+- Is [beta](room) unique?
+- Is [it](room) exceptional?
+- Is [it](room) nice?
+- Is [it](room) special?
+- Is [it](room) unique?
+- Is [the](room) location special?
+- Is [this](room) event room outstanding?
+- Is [this](room) one impressive?
+- Is [this](room) one special?
+- Is [this](room) one unique?
+- Is [this](room) outstanding?
+- Is [this](room) special?
+- Is event room [Beta](room) nice?
+- Is location [Gamma](room) special?
+- Is meeting room [alpha](room) unique?
+- Is meeting room [beta](room) special?
+- Is meeting room [Beta](room) unique?
+- Is option [Alpha](room) nice?
+- Is option [beta](room) unique?
+- Is the [first](room) meeting room unique?
+- Is the [first](room) one nice?
+- Is the [last](room) meeting room nice?
+- Is the [last](room) one nice?
+- Is the [other](room) location exclusive?
+- Is the [other](room) one exceptional?
+- Is the [other](room) one impressive?
+- Is the [second](room) event room impressive?
+- Is the [second](room) event room outstanding?
+- Is the [second](room) room nice?
+- Is the [third](room) one outstanding?
+- Is there a special option?
+- Is there an event room that is nice?
+- Is there an exclusive location?
+- Is there an exclusive room?
+- Is there an option which is impressive?
+- We are looking for a nice location
+- We are looking for an impressive location
+- We are looking for an impressive meeting room
+- We are searching for an interesting event room
+- We like a impressive event room
+- We like a impressive meeting room
+- We like a special option
+- We look for an interesting option
+- We need a nice option
+- We search for a nice location
+- We search for a nice option
+- We search for a special option
+- We search for an impressive room
+- We want a exceptional option
+- We want a special event room
+- We want an outstanding event room
+- We want to impress our guests
+- We want to make a good impression on the guests
+- We want to wow our guests
+- We would like a nice location
+- We would like a unique option
+- We're looking for a interesting meeting room
+- We're looking for a nice room
+- We're looking for a unique option
+- We're looking for an exceptional room
+- We're searching for a unique event room
+- We're searching for an impressive meeting room
+- What is exceptional about meeting room [Gamma](room)?
+- What is exceptional about room [Gamma](room)?
+- What is exclusive about location [beta](room)?
+- What is impressive about [every](room) room?
+- What is impressive about [Gamma](room)?
+- What is impressive about [this](room) option?
+- What is impressive about location [beta](room)?
+- What is interesting about the [other](room) one?
+- What is nice about [every](room) room?
+- What is nice about [Gamma](room)?
+- What is nice about [the](room) event room?
+- What is nice about [the](room) location?
+- What is nice about [this](room) one?
+- What is nice about [this](room)?
+- What is nice about meeting room [beta](room)?
+- What is nice about the [first](room) event room?
+- What is nice about the [last](room) one?
+- What is nice about the [second](room) one?
+- What is nice about the [third](room) one?
+- What is nice about the [third](room) room?
+- What is outstanding about [every](room) room?
+- What is outstanding about [the](room) room?
+- What is outstanding about event room [alpha](room)?
+- What is outstanding about the [last](room) one?
+- What is outstanding about the [other](room) location?
+- What is outstanding about the [other](room) one?
+- What is outstanding about the [third](room) event room?
+- What is special about [every](room) room?
+- What is special about [alpha](room)?
+- What is special about [it](room)?
+- What is special about [this](room) one?
+- What is special about [this](room)?
+- What is special about the [last](room) one?
+- What is special about the [other](room) meeting room?
+- What is special about the [other](room) one?
+- What is special about the [third](room) option?
+- What is the highlight of [every](room) room?
+- What is the highlight of the [other](room) one?
+- What is the highlight of the [second](room) one?
+- What is the highlight of the [second](room) option?
+- What is the highlight of the [third](room) one?
+- What is unique about [every](room) room?
+- What is unique about [beta](room)?
+- What is unique about [it](room)?
+- What is unique about [the](room) event room?
+- What is unique about [the](room) meeting room?
+- What is unique about [this](room) event room?
+- What is unique about the [last](room) one?
+- What is unique about the [other](room) one?
+- What is unique about the [third](room) one?
+- What makes [this](room) room special?
+- What's exceptional about [every](room) room?
+- What's exceptional about [this](room)?
+- What's exceptional about the [other](room) location?
+- What's exclusive about [this](room)?
+- What's exclusive about the [other](room) one?
+- What's nice about [it](room)?
+- What's nice about [this](room) one?
+- What's nice about location [Beta](room)?
+- What's nice about option [Beta](room)?
+- What's nice about [every](room) room?
+- What's nice about the [last](room) room?
+- What's nice about the [second](room) event room?
+- What's nice about the [second](room) meeting room?
+- What's nice about the [second](room) one?
+- What's outstanding about [Gamma](room)?
+- What's outstanding about [it](room)?
+- What's special about [every](room) room?
+- What's special about [it](room)?
+- What's special about [this](room) one?
+- What's special about event room [beta](room)?
+- What's special about location [alpha](room)?
+- What's special about location [Alpha](room)?
+- What's special about location [Gamma](room)?
+- What's special about option [Alpha](room)?
+- What's special about option [gamma](room)?
+- What's special about room [Beta](room)?
+- What's special about the [first](room) one?
+- What's special about the [first](room) option?
+- What's special about the [other](room) meeting room?
+- What's special about the [other](room) rooms?
+- What's the highlight of [every](room) room?
+- What's the highlight of [it](room)?
+- What's the highlight of room [gamma](room)?
+- What's the highlight of the [other](room) location?
+- What's the highlight of the [second](room) option?
+- What's unique about [the](room) room?
+- What's unique about room [Alpha](room)?
+- What's unique about room [beta](room)?
+- What's unique about the [last](room) one?
+- What's unique about the [other](room) location?
+- What's unique about the [other](room) one?
+- What's unique about the [other](room) option?
+- What's unique about the [other](room) rooms?
+- Which location is unique?
+- Which room is nice?
+- Will the guests be impressed with [it](room)?
+- Will the guests be impressed with [the](room) option?
+- Will the guests be impressed with [this](room) meeting room?
+- Will the guests be impressed with location [alpha](room)?
+- Will the guests be impressed with the [last](room) one?
+- Will the people be impressed with [it](room)?
+- Will the people be impressed with room [Beta](room)?
+- Will the people be impressed with the [other](room) room?
+
+## intent:ask_for_room_lighting
+- Are there a lot of lamps in [every](room) room?
+- Are there a lot of lamps in [all](room) of the rooms?
+- Are there a lot of lamps in [all](room) of them?
+- Are there a lot of lamps in [all](room) rooms?
+- Are there a lot of lamps in [it](room)?
+- Are there a lot of lamps in room [gamma](room)?
+- Are there a lot of lamps in the [last](room) room?
+- Are there a lot of lamps in the [third](room) one?
+- Are there a lot of lights in [this](room) one?
+- Are there a lot of lights in room [alpha](room)?
+- Are there a lot of lights in room [Beta](room)?
+- Are there good lamps in [the](room) room?
+- Are there good lamps in the [second](room) room?
+- Are there good lights in [gamma](room)?
+- Are there good lights in [the](room) room?
+- Are there good lights in [this](room)?
+- Are there good lights in room [beta](room)?
+- Are there many lamps in [this](room) one?
+- Are there many lamps in room [Beta](room)?
+- Are there many lamps in the [second](room) one?
+- Are there many lights in [this](room)?
+- Are there many lights in the [last](room) room?
+- Are there many lights in the [third](room) one?
+- Are there many lights?
+- Do you have a lot of lamps in [it](room)?
+- Do you have a lot of lamps in the [first](room) one?
+- Do you have a lot of lamps in the [second](room) one?
+- Do you have a lot of light in the [second](room) one?
+- Do you have a lot of lighting in the [last](room) room?
+- Do you have a lot of lighting in the [second](room) one?
+- Do you have enough light in [all](room) your rooms?
+- Do you have enough light in [all](room) three rooms?
+- Do you have enough light in [all](room) of the three rooms?
+- Do you have enough light in [every](room) room?
+- Do you have enough light in [this](room) room?
+- Do you have enough light in room [Alpha](room)?
+- Do you have enough light in room [Gamma](room)?
+- Do you have enough lighting in [it](room)?
+- Do you have enough lighting in [every](room) room?
+- Do you have enough lighting in [all](room) three rooms?
+- Do you have enough lighting in [all](room) of the rooms?
+- Do you have enough lighting in [all](room) rooms?
+- Do you have enough lighting in the [other](room) ones?
+- Do you have enough lighting in the [other](room) rooms?
+- Do you have enough lighting in the [others](room)?
+- Do you have enough lighting in the [second](room) one?
+- Do you have enough lighting in the [third](room) one?
+- Do you have good lamps in [alpha](room)?
+- Do you have good lamps in [the](room) room?
+- Do you have good lamps in room [Alpha](room)?
+- Do you have good lamps in the [other](room) rooms?
+- Do you have good lamps in the [second](room) one?
+- Do you have good lamps in the [third](room) one?
+- Do you have good light in the [others](room)?
+- Do you have many lamps in [Beta](room)?
+- Do you have many lamps in [it](room)?
+- Do you have many lamps in the [first](room) room?
+- Do you have many lamps in the [second](room) one?
+- Do you have many lamps in the [second](room) room?
+- Do you have natural light in room [beta](room)?
+- Do you have natural light in the [all](room) your rooms?
+- Do you have natural light in the [all](room) of the three rooms?
+- Do you have natural light in the [all](room) of them?
+- Do you have natural light in the [every](room) room?
+- Do you have natural light in the [first](room) one?
+- Do you have natural light in the [other](room) rooms?
+- Do you have natural light in the [others](room)?
+- Does [Alpha](room) have a lot of light?
+- Does [alpha](room) have a lot of lighting?
+- Does [Beta](room) have enough light?
+- Does [Gamma](room) have a lot of lamps?
+- Does [it](room) have enough lighting?
+- Does [the](room) room have a lot of lamps?
+- Does [the](room) room have a lot of light?
+- Does [the](room) room have good light?
+- Does [the](room) room have good lighting?
+- Does [this](room) have enough light?
+- Does [this](room) one have enough lighting?
+- Does [this](room) one have natural lighting?
+- Does [this](room) room have good light?
+- Does room [Alpha](room) have a lot of lamps?
+- Does room [Beta](room) have a lot of lighting?
+- Does room [Gamma](room) have a lot of lamps?
+- Does the [beta](room) room have natural lighting?
+- Does the [first](room) one have a lot of light?
+- Does the [first](room) one have enough lighting?
+- Does the [first](room) room have enough lighting?
+- Does the [first](room) room have natural lighting?
+- Does the [last](room) one have enough light?
+- Does the [last](room) one have enough lighting?
+- Does the [last](room) room have a lot of lamps?
+- Does the [last](room) room have enough lighting?
+- Does the [second](room) one have a lot of light?
+- Does the [second](room) room have good lamps?
+- Does the [third](room) one have enough lighting?
+- Does the [third](room) room have enough light?
+- Does the [third](room) room have good light?
+- How are the lamps in [it](room)?
+- How are the lamps in room [alpha](room)?
+- How are the lamps like in the [first](room) room?
+- How are the lights in room [beta](room)?
+- How are the lights like in [it](room)?
+- How is the light in [all](room) three rooms?
+- How is the light in [all](room) of the rooms?
+- How is the light in [all](room) rooms?
+- How is the light in [every](room) room?
+- How is the light in [Alpha](room)?
+- How is the light in [Beta](room)?
+- How is the light in the [third](room) one?
+- How is the lighting in [alpha](room)?
+- How is the lighting in [it](room)?
+- How is the lighting in [this](room) one?
+- How is the lighting in [this](room) room?
+- How is the lighting in the [first](room) one?
+- How is the lighting in the [second](room) room?
+- I look for a meeting room with a lot of light
+- I look for an event room with a lot of light
+- I look for an event room with good lamps
+- I need a meeting room with a lot of light
+- I need a meeting room with good lamps
+- I need a meeting room with good lighting
+- I need a room with enough lighting
+- I need an event room with a lot of lamps
+- I need an event room with good light
+- I need an event room with many lamps
+- I searching for a meeting room with enough light
+- I searching for an event room with enough lighting
+- I searching for an event room with good light
+- I searching for an event room with many lamps
+- I want an event room with enough lighting
+- I want an event room with good light
+- I would like a meeting room with a lot of light
+- I would like a meeting room with good light
+- I would like an event room with a lot of lamps
+- I would like an event room with a lot of lighting
+- I would like an event room with enough light
+- I would like an event room with good lighting
+- Is there a lot of lamps in [gamma](room)?
+- Is there a lot of lamps in room [Alpha](room)?
+- Is there a lot of light in the [other](room) ones?
+- Is there a lot of light in the [other](room) rooms?
+- Is there a lot of lighting in [it](room)?
+- Is there a lot of lighting in [the](room) room?
+- Is there a lot of lighting in [this](room)?
+- Is there a lot of lighting in room [Beta](room)?
+- Is there a lot of lighting in the [first](room) room?
+- Is there a lot of lighting in the [other](room) rooms?
+- Is there a lot of lighting in the [second](room) one?
+- Is there enough light in [all](room) of the rooms?
+- Is there enough light in [all](room) of them?
+- Is there enough light in [all](room) rooms?
+- Is there enough light in [every](room) room?
+- Is there enough light in [Alpha](room)?
+- Is there enough light in [gamma](room)?
+- Is there enough light in [it](room)?
+- Is there enough light in [the](room) room?
+- Is there enough light in [this](room) one?
+- Is there enough light in the [first](room) room?
+- Is there enough light in the [last](room) room?
+- Is there enough light in the [other](room) ones?
+- Is there enough lighting in [Alpha](room)?
+- Is there enough lighting in [beta](room)?
+- Is there enough lighting in [Gamma](room)?
+- Is there enough lighting in [it](room)?
+- Is there enough lighting in room [Alpha](room)?
+- Is there enough lighting in room [beta](room)?
+- Is there enough lighting in the [first](room) one?
+- Is there enough lighting in the [other](room) rooms?
+- Is there enough lighting in the [others](room)?
+- Is there enough lighting in the [third](room) room?
+- Is there good lamps in [Beta](room)?
+- Is there good lamps in room [alpha](room)?
+- Is there good lamps in the [other](room) rooms?
+- Is there good lamps in the [others](room)?
+- Is there good lamps in the [second](room) room?
+- Is there good light in room [gamma](room)?
+- Is there good light in the [third](room) one?
+- Is there good lighting in [it](room)?
+- Is there good lighting in the [other](room) rooms?
+- Is there many lamps in the [last](room) room?
+- Is there many lamps in the [other](room) rooms?
+- Is there natural light in [all](room) your rooms?
+- Is there natural light in [all](room) three rooms?
+- Is there natural light in [all](room) of the three rooms?
+- Is there natural light in [every](room) room?
+- Is there natural light in the [other](room) ones?
+- Is there natural light in the [others](room)?
+- Is there natural lighting in [Alpha](room)?
+- We look for a meeting room with a lot of lighting
+- We look for a room with many lamps
+- We look for a room with natural lighting
+- We look for an event room with a lot of lamps
+- We look for an event room with good lighting
+- We need a meeting room with a lot of light
+- We need a meeting room with natural light
+- We need a room with good lamps
+- We need a room with many lamps
+- We need an event room with a lot of light
+- We need an event room with good light
+- We need an event room with many lamps
+- We searching for a meeting room with good light
+- We searching for a room with good light
+- We searching for an event room with good lighting
+- We searching for an event room with many lamps
+- We searching for an event room with natural light
+- We want a meeting room with enough lighting
+- We want a meeting room with many lamps
+- We want a room with good light
+- We want a room with many lamps
+- We want an event room with enough light
+- We want an event room with good lamps
+- We want an event room with many lamps
+- We would like a meeting room with good lamps
+- We would like a room with a lot of lighting
+- We would like a room with good lamps
+- We would like a room with many lamps
+- We would like an event room with a lot of light
+- We would like an event room with a lot of lighting
+- We would like an event room with good lighting
+- We would like an event room with natural light
+- What is the light in [all](room) three rooms?
+- What is the light in [all](room) of the rooms?
+- What is the light in [all](room) rooms?
+- What is the light in [every](room) room?
+- What is the light in [it](room) like?
+- What is the light in [the](room) room?
+- What is the light like in [Alpha](room)?
+- What is the light like in room [alpha](room)?
+
+## intent:ask_for_room_price
+- Are [all](room) your rooms cheap?
+- Are [all](room) of the three rooms cheap?
+- Are [all](room) of them cheap?
+- Are [all](room) three rooms expensive?
+- Are [all](room) of the rooms expensive?
+- Are [all](room) rooms expensive?
+- Are the [other](room) rooms cheap?
+- Are the [other](room) rooms expensive?
+- Are the [others](room) cheap?
+- Are the [others](room) expensive?
+- Are there any cheap rooms?
+- Are [all](room) of the rooms between $1,200 and [£1200](budget)?
+- Are [all](room) of them between $1,200 and [£1200](budget)?
+- Are [all](room) rooms between $1,200 and [£1200](budget)?
+- Are there any rooms between $1,200 and [£1000](budget)?
+- Are there any rooms between 600 dollars and [$1400](budget)?
+- Are there any rooms for lower than [GBP 900](budget)?
+- Are there cheap rooms?
+- Are there rooms between 900 pounds and [$1,500](budget)?
+- Are there rooms for [1'400.-](budget)?
+- Are there rooms that cost less than [CHF 1,000](budget)?
+- Are they cheap?
+- Are they expensive?
+- Can we book a meeting room for lower than [1000 dollars](budget)?
+- Can we book a meeting room that costs [1'000.-](budget)?
+- Can we book a meeting room that costs less than [CHF 600](budget)?
+- Can we book an event room for less than [£600](budget)?
+- Can we book an option that costs less than [1,000.-](budget)?
+- Can we book an option that costs less than [800.-](budget)?
+- Can we get a meeting room for [900.-](budget)?
+- Can we get a room for [USD 1'500](budget)?
+- Can we get an option that costs less than [USD 800](budget)?
+- Can we rent a location that costs less than [£600](budget)?
+- Can we rent a location that costs less than [1200.-](budget)?
+- Can we rent a meeting room for lower than [$700](budget)?
+- Can we rent a room for lower than [900 dollars](budget)?
+- Can we rent an event room for less than [1'500 euro](budget)?
+- Could we get a location for less than [1,200.-](budget)?
+- Could we get a location that costs less than [CHF 1'500](budget)?
+- Could we get an event room for lower than [Fr. 1'400](budget)?
+- Could we get an event room that costs less than [1'200.-](budget)?
+- Could we get an option for less than [CHF 500](budget)?
+- Could we rent a location for [1400.-](budget)?
+- Do you have a location for less than [GBP 1'400](budget)?
+- Do you have a meeting room between 1,000.- and [USD 1,200](budget)?
+- Do you have a meeting room between 600 euro and [700.-](budget)?
+- Do you have a meeting room that costs [€1,000](budget)?
+- Do you have an affordable room?
+- Do you have an event room for lower than [$1'000](budget)?
+- Do you have an event room that costs [GBP 1,500](budget)?
+- Do you have an event room that costs less than [1,500.-](budget)?
+- Do you have an option between Fr. 1,500 and [€1000](budget)?
+- Do you have an option between Fr. 1'500 and [1'500.-](budget)?
+- Do you have book a meeting room for less than [1,000.-](budget)?
+- Do you have book an event room for lower than [CHF 1'000](budget)?
+- Do you have expensive rooms?
+- Do you have get an event room for lower than [1400.-](budget)?
+- Do you have get an event room that costs [USD 500](budget)?
+- Do you have get an option for [Fr. 800](budget)?
+- Do you have rent an event room that costs less than [GBP 1000](budget)?
+- Do you have rent an option for lower than [1200.-](budget)?
+- Do you have rooms between 600.- and [500 dollars](budget)?
+- Do you offer a cheap room?
+- Do you offer a room between 900 francs and [€500](budget)?
+- Do you offer a room for less than [1000.-](budget)?
+- Do you offer an event room between GBP 1,000 and [€1400](budget)?
+- Do you offer an event room for [900.-](budget)?
+- Do you offer an expensive room?
+- Do you offer an option that costs less than [$600](budget)?
+- Do you offer expensive rooms?
+- Do you provide a location between $1200 and [$1,200](budget)?
+- Do you provide a meeting room between Fr. 1200 and [900 francs](budget)?
+- Do you provide a room between $1000 and [1,000 dollars](budget)?
+- Do you provide a room between £600 and [GBP 1200](budget)?
+- Do you provide a room that costs less than [1200.-](budget)?
+- Do you provide an event room between 1,200.- and [500.-](budget)?
+- Do you provide an event room for lower than [USD 1200](budget)?
+- Do you provide an option between Fr. 1200 and [1400 euro](budget)?
+- Do you provide cheap rooms?
+- How cheap are they?
+- How cheap are [all](room) your rooms?
+- How cheap are [all](room) three rooms?
+- How cheap are [all](room) of the three rooms?
+- How cheap is [every](room) room?
+- How cheap is [each](room) room?
+- How cheap is [beta](room)?
+- How cheap is [it](room)?
+- How cheap is [the](room) room?
+- How cheap is [this](room) one?
+- How cheap is [this](room) room?
+- How cheap is [this](room)?
+- How cheap is room [alpha](room)?
+- How cheap is room [Alpha](room)?
+- How cheap is room [Beta](room)?
+- How cheap is room [beta](room)?
+- How cheap is room [Gamma](room)?
+- How cheap is the [first](room) one?
+- How cheap is the [last](room) room?
+- How cheap is the [other](room) one?
+- How cheap is the [other](room) room?
+- How cheap is the [second](room) one?
+- How cheap is the [second](room) room?
+- How cheap is the [third](room) room?
+- How expensive are they?
+- How expensive are [all](room) three rooms?
+- How expensive are [all](room) of the three rooms?
+- How expensive are [all](room) rooms?
+- How expensive is [every](room) room?
+- How expensive is [Gamma](room)?
+- How expensive is [gamma](room)?
+- How expensive is [it](room)?
+- How expensive is [this](room) one?
+- How expensive is [this](room) room?
+- How expensive is [this](room)?
+- How expensive is room [Beta](room)?
+- How expensive is room [gamma](room)?
+- How expensive is the [other](room) room?
+- How expensive is the [second](room) one?
+- How expensive is the [second](room) room?
+- How expensive is the [third](room) one?
+- How expensive is the [third](room) room?
+- How much are the [other](room) rooms?
+- How much are the [others](room)?
+- How much are [all](room) your rooms?
+- How much are [all](room) of the three rooms?
+- How much are [all](room) of them?
+- How much are the rooms?
+- How much do the rooms cost?
+- How much do they cost?
+- How much does [every](room) room cost?
+- How much does [each](room) room cost?
+- How much does [it](room) cost?
+- How much does [the](room) room cost?
+- How much does [this](room) cost?
+- How much does [this](room) one cost?
+- How much does [this](room) room cost?
+- How much does room [gamma](room) cost?
+- How much does room [Gamma](room) cost?
+- How much does the [first](room) room cost?
+- How much does the [last](room) one cost?
+- How much does the [last](room) room cost?
+- How much does the [other](room) one cost?
+- How much does the [other](room) room cost?
+- How much does the [second](room) room cost?
+- How much does the [third](room) one cost?
+- How much does the [third](room) room cost?
+- How much is [every](room) room?
+- How much is [Alpha](room)?
+- How much is [Gamma](room)?
+- How much is [it](room)?
+- How much is [the](room) room?
+- How much is [this](room) room?
+- How much is [this](room)?
+- How much is room [alpha](room)?
+- How much is room [Alpha](room)?
+- How much is room [Beta](room)?
+- How much is room [beta](room)?
+- How much is room [gamma](room)?
+- How much is the [first](room) room?
+- How much is the [last](room) one?
+- How much is the [last](room) room?
+- How much is the [other](room) one?
+- How much is the [other](room) room?
+- How much is the [second](room) one?
+- How much is the [second](room) room?
+- Is [Alpha](room) cheap?
+- Is [Alpha](room) cheaper or more expensive?
+- Is [alpha](room) cheaper or more expensive?
+- Is [alpha](room) expensive?
+- Is [Alpha](room) expensive?
+- Is [Alpha](room) more expensive?
+- Is [Alpha](room) the same price?
+- Is [Beta](room) cheap?
+- Is [Beta](room) cheaper or more expensive?
+- Is [beta](room) expensive?
+- Is [beta](room) more expensive?
+- Is [Beta](room) the same price?
+- Is [gamma](room) cheap?
+- Is [Gamma](room) cheaper or more expensive?
+- Is [gamma](room) cheaper or more expensive?
+- Is [gamma](room) cheaper?
+- Is [gamma](room) expensive?
+- Is [Gamma](room) more expensive?
+- Is [gamma](room) the same price?
+- Is [it](room) cheap?
+- Is [it](room) cheaper or more expensive?
+- Is [it](room) cheaper?
+- Is [it](room) expensive?
+- Is [it](room) more expensive?
+- Is [it](room) the same price?
+- Is [the](room) room cheap?
+- Is [the](room) room cheaper or more expensive?
+- Is [the](room) room cheaper?
+- Is [the](room) room expensive?
+- Is [the](room) room more expensive?
+- Is [the](room) room the same price?
+- Is [this](room) cheap?
+- Is [this](room) expensive?
+- Is [this](room) more expensive?
+- Is [this](room) one cheap?
+- Is [this](room) one cheaper or more expensive?
+- Is [this](room) one cheaper?
+- Is [this](room) one expensive?
+- Is [this](room) one the same price?
+- Is [this](room) room cheap?
+- Is [this](room) room cheaper or more expensive?
+- Is [this](room) room cheaper?
+- Is [this](room) room expensive?
+- Is a [different](room) cheaper?
+- Is a [different](room) more expensive?
+- Is it possible to book a location for lower than [1,200.-](budget)?
+- Is it possible to book a location that costs less than [800 euro](budget)?
+- Is it possible to get an event room for lower than [600.-](budget)?
+- Is it possible to get an event room that costs [1,000 euros](budget)?
+- Is it possible to rent a location for [700.-](budget)?
+- Is it possible to rent a location for lower than [£600](budget)?
+- Is it possible to rent an event room that costs [€1400](budget)?
+- Is it possible to rent an event room that costs [1400.-](budget)?
+- Is it possible to rent an option for [500 euros](budget)?
+- Is room [alpha](room) cheap?
+- Is room [Alpha](room) cheaper or more expensive?
+- Is room [Alpha](room) cheaper?
+- Is room [alpha](room) cheaper?
+- Is room [Alpha](room) the same price?
+- Is room [Beta](room) cheap?
+- Is room [beta](room) cheaper or more expensive?
+- Is room [beta](room) cheaper?
+- Is room [Beta](room) expensive?
+- Is room [beta](room) expensive?
+- Is room [Beta](room) more expensive?
+- Is room [beta](room) more expensive?
+- Is room [Gamma](room) cheap?
+- Is room [gamma](room) cheaper or more expensive?
+- Is room [Gamma](room) the same price?
+- Is the [first](room) one cheaper or more expensive?
+- Is the [first](room) one cheaper?
+- Is the [first](room) room expensive?
+- Is the [first](room) room more expensive?
+- Is the [first](room) room the same price?
+- Is the [last](room) one cheaper?
+- Is the [last](room) one the same price?
+- Is the [last](room) room cheaper?
+- Is the [last](room) room expensive?
+- Is the [last](room) room more expensive?
+- Is the [last](room) room the same price?
+- Is the [other](room) one cheap?
+- Is the [other](room) one cheaper or more expensive?
+- Is the [other](room) one expensive?
+- Is the [other](room) one more expensive?
+- Is the [other](room) one the same price?
+- Is the [other](room) room cheap?
+- Is the [other](room) room cheaper or more expensive?
+- Is the [other](room) room cheaper?
+- Is the [other](room) room expensive?
+- Is the [other](room) room more expensive?
+- Is the [other](room) room the same price?
+- Is the [second](room) one cheaper?
+- Is the [second](room) one expensive?
+- Is the [second](room) one more expensive?
+- Is the [second](room) room cheap?
+- Is the [second](room) room cheaper or more expensive?
+- Is the [second](room) room cheaper?
+- Is the [second](room) room expensive?
+- Is the [second](room) room more expensive?
+- Is the [second](room) room the same price?
+- Is the [third](room) one cheaper?
+- Is the [third](room) one expensive?
+- Is the [third](room) room cheap?
+- Is the [third](room) room cheaper or more expensive?
+- Is the [third](room) room cheaper?
+- Is the [third](room) room expensive?
+- Is the [third](room) room more expensive?
+- Is there a [different](room) room more expensive?
+- Is there a cheap room?
+- Is there a meeting room between 1'000 pounds and [1'500 euro](budget)?
+- Is there a meeting room that costs [USD 1,200](budget)?
+- Is there a possibility to get a location for lower than [1,200.-](budget)?
+- Is there a possibility to get a meeting room for [600.-](budget)?
+- Is there a possibility to get an event room for [GBP 1400](budget)?
+- Is there a possibility to get an option for lower than [800 euro](budget)?
+- Is there a possibility to rent a location for less than [$1500](budget)?
+- Is there a possibility to rent a room for lower than [Fr. 500](budget)?
+- Is there a possibility to rent an event room for [1,200.-](budget)?
+- Is there a possibility to rent an option for [700.-](budget)?
+- Is there a possibility to rent an option that costs less than [$900](budget)?
+- Is there a room between 1,200 pounds and [1,200 dollars](budget)?
+- Is there a room that costs [1,000.-](budget)?
+- Is there an affordable room?
+- Is there an expensive room?
+- Is there an option between $1'400 and [1'200 pounds](budget)?
+- Is there an option between £1,400 and [600.-](budget)?
+- What are the prices of the rooms?
+- What is the cheapest room?
+- What is the price of [all](room) three rooms?
+- What is the price of [all](room) of the rooms?
+- What is the price of [all](room) rooms?
+- What is the price of [every](room) room?
+- What is the price of [alpha](room)?
+- What is the price of [Alpha](room)?
+- What is the price of [Beta](room)?
+- What is the price of [it](room)?
+- What is the price of [the](room) room?
+- What is the price of [this](room) one?
+- What is the price of [this](room) room?
+- What is the price of room [Alpha](room)?
+- What is the price of room [Gamma](room)?
+- What is the price of the [first](room) one?
+- What is the price of the [first](room) room?
+- What is the price of the [last](room) room?
+- What is the price of the [other](room) one?
+- What is the price of the [other](room) room?
+- What is the price of the [other](room) rooms?
+- What is the price of the [second](room) one?
+- What is the price of the [third](room) one?
+- What is the price of the [third](room) room?
+- What're the prices of the rooms?
+- What's the cheapest room?
+- What's the price of [all](room) your rooms?
+- What's the price of [all](room) of the three rooms?
+- What's the price of [all](room) of them?
+- What's the price of [every](room) room?
+- What's the price of [Alpha](room)?
+- What's the price of [Beta](room)?
+- What's the price of [Gamma](room)?
+- What's the price of [it](room)?
+- What's the price of [the](room) room?
+- What's the price of [this](room) room?
+- What's the price of room [Gamma](room)?
+- What's the price of the [first](room) one?
+- What's the price of the [first](room) room?
+- What's the price of the [other](room) one?
+- What's the price of the [other](room) room?
+- What's the price of the [other](room) rooms?
+- What's the price of the [others](room)?
+- What's the price of the [second](room) one?
+- What's the price of the [third](room) one?
+- What's the price of the [third](room) room?
+- Which is the cheapest?
+- Which is the most expensive?
+- Which room is the cheapest?
+- Which room is the most affordable?
+- Which room is the most expensive?
+
+## intent:ask_for_room_seating
+- And how is the seating arrangement in room [beta](room)?
+- And how is the seating arrangement?
+- And what is the seating arrangement in [this](room) room?
+- And what is the seating arrangement in the [other](room) ones?
+- And what is the seating in the [first](room) room like?
+- Are the guests able to create small groups in [all](room) of the rooms?
+- Are the guests able to create small groups in [all](room) of them?
+- Are the guests able to create small groups in [all](room) rooms?
+- Are the guests able to create small groups in [every](room) room?
+- Are the guests able to create small groups in the [others](room)?
+- Are the guests able to create smaller teams in the [last](room) event room?
+- Are the guests able to create teams in [the](room) room?
+- Are the guests able to create teams in the [third](room) event room?
+- Are the guests able to form small groups in room [beta](room)?
+- Are the guests able to form small groups in [all](room) your rooms?
+- Are the guests able to form small groups in [all](room) three rooms?
+- Are the guests able to form small groups in [all](room) of the three rooms?
+- Are the guests able to form small groups?
+- Are the guests able to have conversations in small groups in [alpha](room)?
+- Are the guests able to have discussions in groups?
+- Are the guests able to sit in small groups in the [other](room) locations?
+- Are the guests able to sit in small teams in meeting room [gamma](room)?
+- Are the guests able to sit in small teams in option [Gamma](room)?
+- Are the guests able to sit in smaller teams in option [Beta](room)?
+- Are the guests able to sit together in groups in the [other](room) ones?
+- Are the guests able to sit together in smaller groups in [beta](room)?
+- Are the guests able to talk in smaller groups in [gamma](room)?
+- Are the people able to form small groups in the [last](room) event room?
+- Are the people able to have conversations in smaller teams in event room [beta](room)?
+- Are the people able to have discussions in smaller groups?
+- Are the people able to sit in teams in [Gamma](room)?
+- Are the people able to sit together in groups in the [third](room) one?
+- Are the people able to sit together in small teams in meeting room [Alpha](room)?
+- Are the people able to sit together in teams in the [last](room) one?
+- Are the people able to talk in small teams in [the](room) event room?
+- Are the people able to talk in smaller teams in the [second](room) one?
+- Are the people able to talk in teams in the [others](room)?
+- Are there rooms to form small groups?
+- Are there tables and chairs in [all](room) three rooms?
+- Are there tables and chairs in [all](room) of the rooms?
+- Are there tables and chairs in [all](room) rooms?
+- Are there tables and chairs in the [first](room) option?
+- Are we able to chat in groups in the [other](room) ones?
+- Are we able to chat in small groups in the [first](room) room?
+- Are we able to chat in small teams in [all](room) your rooms?
+- Are we able to chat in small teams in [all](room) of the three rooms?
+- Are we able to chat in small teams in [all](room) of them?
+- Are we able to chat in small teams?
+- Are we able to create smaller teams?
+- Are we able to make groups in [it](room)?
+- Are we able to sit in small groups in the [third](room) one?
+- Are we able to talk in small teams in the [other](room) rooms?
+- Are we able to talk in smaller teams in the [others](room)?
+- Are we able to talk in teams in the [other](room) locations?
+- Can I chat in small groups in [all](room) three rooms?
+- Can I chat in small groups in [all](room) of the rooms?
+- Can I chat in small groups in [all](room) rooms?
+- Can I chat in small groups?
+- Can I chat in small teams?
+- Can I chat in smaller teams in the [other](room) rooms?
+- Can I create teams in the [third](room) one?
+- Can I form small groups in the [third](room) meeting room?
+- Can I form small teams in the [first](room) one?
+- Can I form smaller groups in event room [alpha](room)?
+- Can I form smaller teams?
+- Can I have chats in small groups in room [Gamma](room)?
+- Can I have conversations in smaller groups in the [other](room) ones?
+- Can I make groups?
+- Can I move chairs and tables in the [first](room) option?
+- Can I move tables and chairs in [the](room) location?
+- Can I move tables and chairs in the [other](room) locations?
+- Can I move tables in the [last](room) room?
+- Can I sit in groups?
+- Can I sit in small teams in the [third](room) one?
+- Can I sit together in teams?
+- Can the guests chat in groups in [all](room) of the rooms?
+- Can the guests chat in groups in [all](room) of them?
+- Can the guests chat in groups in [all](room) rooms?
+- Can the guests chat in groups?
+- Can the guests chat in small groups in [this](room) room?
+- Can the guests form small groups?
+- Can the guests have chats in smaller teams in the [second](room) one?
+- Can the guests make smaller teams in the [second](room) option?
+- Can the guests sit in small teams?
+- Can the guests sit in smaller groups?
+- Can the guests sit together in teams in the [other](room) ones?
+- Can the people chat in small groups?
+- Can the people create small groups in the [first](room) one?
+- Can the people create teams in meeting room [Beta](room)?
+- Can the people have conversations in groups in the [other](room) ones?
+- Can the people have discussions in small groups?
+- Can the people make groups?
+- Can the people make small groups?
+- Can the people make teams in the [others](room)?
+- Can the people make teams?
+- Can the people sit in small groups in the [second](room) event room?
+- Can the people sit in small groups?
+- Can the people sit in smaller groups in the [third](room) meeting room?
+- Can the people sit in teams in the [second](room) option?
+- Can the people sit together in groups?
+- Can the people talk in groups in room [Alpha](room)?
+- Can the people talk in small teams in the [second](room) one?
+- Can the people talk in smaller groups in the [last](room) option?
+- Can we chat in groups?
+- Can we chat in small groups in the [third](room) one?
+- Can we chat in smaller groups in the [other](room) ones?
+- Can we chat in smaller teams in the [second](room) room?
+- Can we create small groups in option [alpha](room)?
+- Can we create small teams?
+- Can we create smaller teams?
+- Can we create teams in the [first](room) one?
+- Can we form small groups in [gamma](room)?
+- Can we form small groups in the [other](room) meeting rooms?
+- Can we form smaller groups in the [other](room) options?
+- Can we form teams in the [first](room) one?
+- Can we have discussions in smaller teams in the [other](room) ones?
+- Can we have discussions in smaller teams in the [others](room)?
+- Can we make small groups in the [last](room) one?
+- Can we make smaller groups in the [other](room) location?
+- Can we make smaller teams in the [last](room) event room?
+- Can we make smaller teams in the [second](room) one?
+- Can we make teams in meeting room [beta](room)?
+- Can we move chairs in [it](room)?
+- Can we move chairs in event room [Gamma](room)?
+- Can we move chairs in the [third](room) meeting room?
+- Can we move tables and chairs in the [third](room) meeting room?
+- Can we move tables in the [other](room) ones?
+- Can we sit in small groups?
+- Can we sit in teams in [all](room) your rooms?
+- Can we sit in teams in [all](room) three rooms?
+- Can we sit in teams in [all](room) of the three rooms?
+- Can we sit in teams in [every](room) room?
+- Can we sit in teams in option [Beta](room)?
+- Can we sit together in small teams in the [others](room)?
+- Can we sit together in teams in the [other](room) meeting rooms?
+- Can we sit together small groups in event room [Alpha](room)?
+- Can we sit together small groups in the [last](room) one?
+- Can we talk in smaller teams in [gamma](room)?
+- Can we talk in smaller teams in the [first](room) option?
+- Do you have chairs and tables in meeting room [alpha](room)?
+- Do you have tables and chairs in [this](room) room?
+- How about the seating arrangement in option [gamma](room)?
+- How is the seating arrangement in [Alpha](room)?
+- I have to chat in smaller groups
+- I have to make teams
+- I have to move chairs and tables in the [others](room)
+- I need to create small teams
+- I need to form small groups
+- I need to move tables and chairs in the [third](room) one
+- I should be able to create smaller teams
+- I should be able to form smaller groups
+- I should be able to have conversations in smaller teams
+- I should be able to move chairs and tables in [every](room) room
+- I should be able to move chairs and tables in event room [beta](room)
+- I should be able to move tables
+- I should be able to move tables and chairs in the [first](room) event room
+- I should be able to sit in groups
+- I should be able to talk in smaller groups
+- I should be able to talk in smaller teams
+- I want to form small teams
+- I want to sit in teams
+- I would like to chat in small groups
+- I would like to create smaller groups
+- I would like to make groups
+- I would like to move chairs in [it](room)
+- I would like to move tables in [the](room) event room
+- I would like to move tables in the [third](room) room
+- I would like to sit in smaller teams
+- I would like to talk in small groups
+- In which room can I form groups?
+- In which room can I move tables?
+- Is it possible to chat in groups in event room [Gamma](room)?
+- Is it possible to chat in groups in the [other](room) ones?
+- Is it possible to chat in small teams in meeting room [gamma](room)?
+- Is it possible to chat in teams?
+- Is it possible to create groups in [every](room) room?
+- Is it possible to create groups in the [other](room) ones?
+- Is it possible to create groups in the [others](room)?
+- Is it possible to create groups?
+- Is it possible to create smaller groups in the [first](room) meeting room?
+- Is it possible to create teams in event room [beta](room)?
+- Is it possible to create teams in room [Beta](room)?
+- Is it possible to form groups in the [last](room) one?
+- Is it possible to form small teams?
+- Is it possible to form smaller groups in the [other](room) room?
+- Is it possible to form smaller groups?
+- Is it possible to form teams in room [alpha](room)?
+- Is it possible to form teams in the [last](room) option?
+- Is it possible to have conversations in smaller teams in the [first](room) one?
+- Is it possible to have discussions in small teams in [Beta](room)?
+- Is it possible to make groups in [it](room)?
+- Is it possible to make teams in [it](room)?
+- Is it possible to make teams in the [third](room) one?
+- Is it possible to move tables and chairs in [every](room) room?
+- Is it possible to move tables and chairs in room [Gamma](room)?
+- Is it possible to sit in smaller groups?
+- Is it possible to sit together in small groups in [beta](room)?
+- Is it possible to sit together in teams?
+- Is it possible to talk in groups in the [third](room) meeting room?
+- Is it possible to talk in groups?
+- Is it possible to talk in small teams in the [third](room) one?
+- Is it possible to talk in small teams?
+- Is it possible to talk in smaller groups in room [Alpha](room)?
+- Is it possible to talk in smaller teams in [Alpha](room)?
+- Is it possible to talk in smaller teams in [the](room) room?
+- Is there a possibility to chat in small teams?
+- Is there a possibility to chat in smaller groups in [the](room) location?
+- Is there a possibility to chat in smaller groups in the [third](room) meeting room?
+- Is there a possibility to chat in smaller teams in the [first](room) option?
+- Is there a possibility to chat in teams in the [others](room)?
+- Is there a possibility to chat in teams in the [second](room) one?
+- Is there a possibility to create small groups in meeting room [Alpha](room)?
+- Is there a possibility to create smaller groups in meeting room [beta](room)?
+- Is there a possibility to create smaller groups in the [third](room) one?
+- Is there a possibility to form small groups in the [first](room) option?
+- Is there a possibility to form small groups in the [other](room) option?
+- Is there a possibility to form smaller teams in [all](room) your rooms?
+- Is there a possibility to form smaller teams in [all](room) of the three rooms?
+- Is there a possibility to form smaller teams in [all](room) of them?
+- Is there a possibility to form smaller teams in [every](room) room?
+- Is there a possibility to form smaller teams?
+- Is there a possibility to have chats in small teams in the [third](room) one?
+- Is there a possibility to have conversations in groups in the [third](room) event room?
+- Is there a possibility to have conversations in small groups in the [first](room) room?
+- Is there a possibility to have conversations in teams?
+- Is there a possibility to have discussions in groups in the [second](room) option?
+- Is there a possibility to make groups in the [third](room) room?
+- Is there a possibility to make small groups in [it](room)?
+- Is there a possibility to make smaller groups in [the](room) room?
+- Is there a possibility to make smaller groups in meeting room [Alpha](room)?
+- Is there a possibility to make smaller groups in the [second](room) one?
+- Is there a possibility to make smaller groups?
+- Is there a possibility to make teams in [this](room) one?
+- Is there a possibility to move chairs and tables in option [Gamma](room)?
+- Is there a possibility to sit in small teams?
+- Is there a possibility to sit in smaller groups in the [first](room) meeting room?
+- Is there a possibility to sit in smaller groups?
+- Is there a possibility to sit in smaller teams in [Beta](room)?
+- Is there a possibility to sit in teams in the [first](room) one?
+- Is there a possibility to sit together in small groups in meeting room [gamma](room)?
+- Is there a possibility to sit together in small groups in room [alpha](room)?
+- Is there a possibility to sit together in smaller teams in the [first](room) one?
+- Is there a possibility to sit together in smaller teams in the [other](room) ones?
+- Is there a possibility to sit together in smaller teams in the [others](room)?
+- Is there a possibility to sit together in teams in the [other](room) options?
+- Is there a room where I can do groups?
+- My team has to form small groups
+- My team has to make small groups
+- Tell me more about the seating arrangement in [it](room)?
+- Tell me more about the seating arrangement?
+- we have to make small teams
+- we have to make smaller groups
+- we have to move tables and chairs
+- we need to chat in groups
+- we need to create small groups
+- we need to move chairs and tables
+- we need to move chairs in meeting room [Gamma](room)
+- we need to sit together in groups
+- we need to talk in small teams
+- we should be able to chat in smaller teams
+- we should be able to create teams
+- we should be able to form small groups
+- we should be able to form teams
+- we should be able to have chats in groups
+- we should be able to have discussions in groups
+- We should be able to have discussions in small groups
+- we should be able to make teams
+- we want to chat in small groups
+- we want to talk in small teams
+- we would like to move chairs in [Gamma](room)
+- we would like to sit together in small teams
+- we would like to talk in smaller groups
+- What is the seating arrangement in the [second](room) one?
+- Which event rooms have chairs and tables?
+- Which meeting room has chairs and tables?
+- Which meeting room has tables and chairs?
+- Which meeting rooms have chairs and tables?
+- Which option has chairs and tables?
+- Which option has tables?
+- Which options have chairs and tables?
+- Which options have chairs?
+- Which room has chairs and tables?
+- Which room has tables and chairs?
+- Will the guests be able to chat in small teams in [this](room) event room?
+- Will the guests be able to create small groups in the [others](room)?
+- Will the guests be able to create teams in [gamma](room)?
+- Will the guests be able to form small teams in the [first](room) room?
+- Will the guests be able to have conversations in smaller groups in [this](room) one?
+- Will the guests be able to make small teams in the [other](room) meeting room?
+- Will the guests be able to make smaller groups in the [last](room) option?
+- Will the guests be able to make smaller groups in the [other](room) rooms?
+- Will the guests be able to sit in teams in the [third](room) one?
+- Will the guests be able to talk in teams in the [others](room)?
+- Will the people be able to chat in small teams in the [last](room) meeting room?
+- Will the people be able to chat in smaller groups?
+- Will the people be able to create small teams in the [second](room) one?
+- Will the people be able to create smaller groups in meeting room [alpha](room)?
+- Will the people be able to form small teams in event room [Alpha](room)?
+- Will the people be able to form smaller groups in meeting room [Gamma](room)?
+- Will the people be able to form teams in the [second](room) meeting room?
+- Will the people be able to have conversations in groups in the [others](room)?
+- Will the people be able to make groups in the [others](room)?
+- Will the people be able to make small teams in the [first](room) room?
+- Will the people be able to make smaller groups in the [second](room) meeting room?
+- Will the people be able to sit in small groups in the [others](room)?
+- Will the people be able to sit together in groups in meeting room [Alpha](room)?
+- Will the people be able to sit together in small teams in the [first](room) one?
+- Will the people be able to talk in smaller groups in [Beta](room)?
+- Will we be able to create groups in [gamma](room)?
+- Will we be able to form teams in event room [Alpha](room)?
+- Will we be able to form teams?
+- Will we be able to make groups in the [first](room) one?
+- Will we be able to make small groups in [it](room)?
+- Will we be able to make smaller groups in option [gamma](room)?
+- Will we be able to talk in small teams in event room [Gamma](room)?
+- How many moveable tables are [there](room)?
+- Do [all](room) have moveable tables?
+- Does [every](room) room have moveable tables?
+- Do [all](room) of them have moveable tables?
+- Are there moveable tables in [there](room)?
+- Are there moveable tables in [every](room) room?
+- How many moveable tables are there in room [gamma](room)?
+- Will we be able to have workshops?
+- Will we be able to have a workshop?
+- Will we be able to do workshops in a [different](room) one?
+- Will we be able to have workshops in [all](room) rooms?
+- Will we be able to have workshops in [there](room)?
+- Do you have moveable chairs and tables?
+- Can we do workshops in a [different](room) rooms?
+- We want to make workshops
+- Our comapny has to make workshops
+- We have to make workshops in the event 
+- Are the people able to form workshops in [Gamma](room)?
+- Will we be able to make workshops in option [Alpha](room)?
+- Is there a possibility to form workshops in the [others](room)?
+- Are we able to create work-shops in the [others](room)?
+- Are we able to create workshops in room [Gamma](room)?
+- Can the guests create work-shops in the [other](room) ones?
+- Can the guests create a workshop in [that](room) one?
+- How many tables and chairs are there in the [others](room)?
+- Can the guests make workshops in room [Gamma](room)?
+- Can we form workshops in [all](room) rooms?
+- Can we form workshops in [every](room) rooms?
+- Are we able to form work shops in the [other](room) room?
+- Are the people able to create workshops in [this](room) one?
+- Is there a possibility to create a workshop room [alpha](room)?
+- How many moveable tables do you have in [beta](room) room?
+- Can we form workshops in [the](room) room?
+- Can we do a workshop in [the](room) room?
+- Can we form workshops in [that](room) room?
+- Can we do workshops in the [other](room) locations?
+- Will we be able to do workshops in [this](room) option?
+- Is it possible to make a workshop in [the](room) room?
+- Is it possible to make workshops in room [beta](room)?
+- Are the people able to conduct workshops in the [others](room)?
+- How many moveable chairs and tables are there in [it](room)?
+- Are the guests able to do workshops in the [other](room) locations?
+- Is it possible to have workshops [all](room) of them?
+- Is it possible to have work shops in [every](room) room?
+- Is it possible to have workshops in room [alpha](room)?
+- Will the people be able to conduct workshops in [the](room) room?
+- Is it possible to create workshops in the [others](room)?
+- Is there a possibility to create work shops in [Alpha](room)?
+- How many tables and chairs are there in the [other](room) ones?
+- Can I make workshops in [it](room)?
+- Is there a possibility to have workshops in the [first](room) one?
+- Can we make workshops in [it](room)?
+- Can we make a workshop in [every](room) room?
+- Can we make work shops in [every](room) room?
+- Can we make workshops in room [alpha](room)?
+- Can we make workshops in [every](room) room?
+- Is it possible to conduct workshops in a [different](room) one?
+- Is it possible to conduct workshops in the [last](room) one?
+- Are the guests able to conduct work shops in [there](room)?
+- How many chairs and tables do you have in [that](room) room?
+- Is there a possibility to create workshops in the [first](room) room?
+- Will we be able to have work shops in the [other](room) rooms?
+- Will we be able to have workshops in [there](room)?
+- Will the guests be able to do workshops in the [others](room)?
+- Is there a possibility to do workshops in the [others](room)?
+- How many tables are there in [Gamma](room)?
+- How many tables are in [that](room) room?
+- Is there a possibility to have workshops in [the](room) location?
+- Will the guests be able to create workshops in the [second](room) option?
+- Are the people able to form workshops in the [other](room) ones?
+- Can I make workshops in the [others](room)?
+- How many moveable chairs and tables do you have in the [others](room)?
+- Are we able to form workshops in the [other](room) ones?
+- Are the guests able to conduct work shops in the [last](room) one?
+- Are the people able to conduct workshops in [Beta](room)?
+- Are the people able to conduct workshops in [there](room)?
+- Is there a possibility to form work shops in the [other](room) ones?
+
+## intent:ask_for_room_size
+- Are the [other](room) ones bigger?
+- Are the [others](room) big enough?
+- Are the [all](room) three rooms big enough?
+- Are the [all](room) of the rooms big enough?
+- Are the [all](room) rooms big enough?
+- Are there big enough rooms?
+- Are there big rooms?
+- Are there large enough rooms?
+- Are there large rooms?
+- Are there rooms for at least [180](nr_of_people) people?
+- Are there rooms for between 160 to [210](nr_of_people) colleagues?
+- Are there rooms for between 170 to [250](nr_of_people)?
+- Are there rooms for circa [200](nr_of_people)?
+- Are there rooms for up to [170](nr_of_people) guests?
+- Are there rooms that fits [150](nr_of_people) persons?
+- Are there rooms that has room for [150](nr_of_people) colleagues?
+- Can [150](nr_of_people) people be in [all](room) your rooms?
+- Can [150](nr_of_people) people be in [all](room) three rooms?
+- Can [150](nr_of_people) people be in [all](room) of the three rooms?
+- Can [150](nr_of_people) people be in [every](room) room?
+- Can [150](nr_of_people) people be in room [beta](room)?
+- Can [150](nr_of_people) persons be in [Beta](room)?
+- Can [150](nr_of_people) persons be in [the](room) room?
+- Can [150](nr_of_people) persons fit in [this](room) space?
+- Can [160](nr_of_people) be in the [third](room) space?
+- Can [160](nr_of_people) colleagues fit in room [gamma](room)?
+- Can [160](nr_of_people) colleagues fit in the [last](room) one?
+- Can [160](nr_of_people) guests be in the [first](room) space?
+- Can [160](nr_of_people) guests fit in [Gamma](room)?
+- Can [160](nr_of_people) guests fit in the [last](room) one?
+- Can [160](nr_of_people) people be in [the](room) room?
+- Can [160](nr_of_people) people be in the [other](room) one?
+- Can [160](nr_of_people) persons be in room [Alpha](room)?
+- Can [160](nr_of_people) persons fit in the [first](room) room?
+- Can [170](nr_of_people) fit in [it](room)?
+- Can [170](nr_of_people) people be in the [first](room) room?
+- Can [170](nr_of_people) people be in the [other](room) room?
+- Can [170](nr_of_people) people fit in [this](room) one?
+- Can [170](nr_of_people) persons be in room [gamma](room)?
+- Can [170](nr_of_people) persons fit in room [alpha](room)?
+- Can [170](nr_of_people) persons fit in the [second](room) one?
+- Can [180](nr_of_people) be in the [first](room) one?
+- Can [180](nr_of_people) colleagues be in the [third](room) one?
+- Can [180](nr_of_people) fit in [the](room) room?
+- Can [180](nr_of_people) guests be in [it](room)?
+- Can [180](nr_of_people) people fit in room [Beta](room)?
+- Can [190](nr_of_people) colleagues be in room [beta](room)?
+- Can [190](nr_of_people) people fit in [this](room) one?
+- Can [190](nr_of_people) persons fit in the [last](room) space?
+- Can [200](nr_of_people) fit in [gamma](room)?
+- Can [200](nr_of_people) guests be in room [alpha](room)?
+- Can [200](nr_of_people) guests be in room [gamma](room)?
+- Can [200](nr_of_people) persons fit in [beta](room)?
+- Can [200](nr_of_people) persons fit in the [other](room) space?
+- Can [210](nr_of_people) colleagues be in [the](room) room?
+- Can [210](nr_of_people) guests be in room [beta](room)?
+- Can [220](nr_of_people) be in room [beta](room)?
+- Can [220](nr_of_people) colleagues be in [it](room)?
+- Can [220](nr_of_people) colleagues be in the [first](room) one?
+- Can [220](nr_of_people) guests be in the [last](room) space?
+- Can [220](nr_of_people) guests fit in [Beta](room)?
+- Can [220](nr_of_people) people fit in room [alpha](room)?
+- Can [220](nr_of_people) persons be in [Beta](room)?
+- Can [220](nr_of_people) persons be in room [Beta](room)?
+- Can [250](nr_of_people) colleagues be in the [last](room) one?
+- Can [250](nr_of_people) fit in [this](room) one?
+- Can [250](nr_of_people) guests fit in [this](room) one?
+- Can [250](nr_of_people) guests fit in the [first](room) room?
+- Can [250](nr_of_people) people be in the [last](room) one?
+- Can [250](nr_of_people) persons be in the [second](room) one?
+- Can [250](nr_of_people) persons fit in [it](room)?
+- Can [300](nr_of_people) colleagues be in the [last](room) one?
+- Can [300](nr_of_people) fit in [Alpha](room)?
+- Can [300](nr_of_people) fit in [it](room)?
+- Can [300](nr_of_people) guests be in the [other](room) space?
+- Can [300](nr_of_people) persons be in [Beta](room)?
+- Can [300](nr_of_people) persons be in room [beta](room)?
+- Do you have big enough rooms?
+- Do you have big rooms?
+- Do you have large enough rooms?
+- Do you have rooms for [160](nr_of_people)?
+- Do you have rooms for [190](nr_of_people)?
+- Do you have rooms for a minimum of [180](nr_of_people) persons?
+- Do you have rooms for at least [200](nr_of_people) people?
+- Do you have rooms for circa [170](nr_of_people) people?
+- Do you have rooms for circa [180](nr_of_people) people?
+- Do you have rooms for circa [180](nr_of_people) persons?
+- Do you have rooms for circa [250](nr_of_people) persons?
+- Do you have rooms for circa [250](nr_of_people)?
+- Do you have rooms for up to [180](nr_of_people)?
+- Do you have rooms that has room for [170](nr_of_people) colleagues?
+- Do you have rooms that has room for [170](nr_of_people) people?
+- Do you have rooms that has room for [190](nr_of_people) guests?
+- Do you have rooms that has room for [220](nr_of_people) people?
+- Do you provide big rooms?
+- Do you provide rooms for a minimum of [220](nr_of_people) people?
+- Do you provide rooms for at least [180](nr_of_people) guests?
+- Do you provide rooms for circa [210](nr_of_people) guests?
+- Do you provide rooms for up to [210](nr_of_people) guests?
+- Do you provide rooms for up to [220](nr_of_people) persons?
+- Do you provide rooms that fits [250](nr_of_people) people?
+- Do you provide rooms that fits between 220 to [300](nr_of_people) guests?
+- Do [all](room) of the rooms fit [150](nr_of_people)?
+- Do [all](room) of them fit [150](nr_of_people)?
+- Do [all](room) rooms fit [150](nr_of_people)?
+- Does [every](room) room fit [150](nr_of_people)?
+- Does [Alpha](room) fit [150](nr_of_people)?
+- Does [alpha](room) fit [160](nr_of_people) people?
+- Does [Alpha](room) fit [220](nr_of_people) guests?
+- Does [alpha](room) fit [220](nr_of_people)?
+- Does [Beta](room) fit [250](nr_of_people)?
+- Does [Beta](room) fit [300](nr_of_people) guests?
+- Does [Gamma](room) fit [170](nr_of_people) colleagues?
+- Does [Gamma](room) have space for [150](nr_of_people) persons?
+- Does [it](room) fit [170](nr_of_people) guests?
+- Do [all](room) three rooms have enough room for [180](nr_of_people) guests?
+- Do [all](room) of the rooms have enough room for [180](nr_of_people) guests?
+- Do [all](room) rooms have enough room for [180](nr_of_people) guests?
+- Does [every](room) room have enough room for [180](nr_of_people) guests?
+- Does [it](room) have enough room for [180](nr_of_people) guests?
+- Does [it](room) have enough room for [250](nr_of_people) people?
+- Does [it](room) have enough room?
+- Does [it](room) have enough space for [190](nr_of_people) colleagues?
+- Does [it](room) have space for [170](nr_of_people)?
+- Does [it](room) have space for [190](nr_of_people) people?
+- Does [it](room) have space for [200](nr_of_people) guests?
+- Does [it](room) have space for [220](nr_of_people) persons?
+- Does [every](room) room fit [150](nr_of_people)?
+- Does [the](room) room fit [150](nr_of_people)?
+- Does [the](room) room fit [170](nr_of_people)?
+- Does [the](room) room fit [180](nr_of_people) colleagues?
+- Does [the](room) room fit [210](nr_of_people) persons?
+- Do [all](room) your rooms have space for [150](nr_of_people)?
+- Do [all](room) of the three rooms have space for [150](nr_of_people)?
+- Do [all](room) of them have space for [150](nr_of_people)?
+- Does [every](room) room have space for [150](nr_of_people)?
+- Does [the](room) room have space for [150](nr_of_people)?
+- Does [the](room) room have space for [250](nr_of_people) people?
+- Does [the](room) room have space for [250](nr_of_people) persons?
+- Does [this](room) have space for [210](nr_of_people) people?
+- Does [this](room) one fit [180](nr_of_people) colleagues?
+- Does [this](room) one have space for [160](nr_of_people) guests?
+- Does [this](room) space fit [200](nr_of_people) guests?
+- Does room [Alpha](room) fit [170](nr_of_people) colleagues?
+- Does room [Alpha](room) fit [300](nr_of_people) colleagues?
+- Does room [alpha](room) have space for [250](nr_of_people) persons?
+- Does room [beta](room) fit [160](nr_of_people) people?
+- Does room [beta](room) fit [220](nr_of_people) people?
+- Does room [Beta](room) fit [250](nr_of_people) people?
+- Does room [Beta](room) fit [300](nr_of_people) persons?
+- Does room [Beta](room) have space for [180](nr_of_people) guests?
+- Does room [Beta](room) have space for [180](nr_of_people) people?
+- Does room [beta](room) have space for [190](nr_of_people) persons?
+- Does room [Beta](room) have space for [210](nr_of_people) colleagues?
+- Does room [gamma](room) fit [190](nr_of_people) guests?
+- Does the [first](room) one fit [150](nr_of_people) guests?
+- Does the [first](room) one fit [210](nr_of_people) people?
+- Does the [first](room) one have space for [200](nr_of_people)?
+- Does the [last](room) one have space for [150](nr_of_people) guests?
+- Does the [last](room) one have space for [180](nr_of_people)?
+- Does the [other](room) one have space for [180](nr_of_people) people?
+- Does the [other](room) one have space for [190](nr_of_people) guests?
+- Does the [other](room) room have space for [210](nr_of_people) persons?
+- Does the [second](room) one fit [160](nr_of_people) colleagues?
+- Does the [second](room) one have space for [180](nr_of_people) people?
+- Does the [second](room) one have space for [210](nr_of_people) persons?
+- Does the [second](room) one have space for [220](nr_of_people)?
+- Does the [second](room) room have space for [220](nr_of_people) people?
+- Does the [second](room) space have space for [160](nr_of_people) persons?
+- Does the [second](room) space have space for [300](nr_of_people) guests?
+- Does the [second](room) space have space for [300](nr_of_people)?
+- Does the [third](room) one fit [170](nr_of_people) persons?
+- Does the [third](room) one fit [200](nr_of_people)?
+- Does the [third](room) one have space for [220](nr_of_people) colleagues?
+- Does the [third](room) room fit [210](nr_of_people) colleagues?
+- Does the [third](room) room have space for [160](nr_of_people) persons?
+- Does the [third](room) space have space for [300](nr_of_people) persons?
+- How big are [all](room) three rooms?
+- How big are [all](room) of the rooms?
+- How big are [all](room) rooms?
+- How big is [every](room) room?
+- How big is [each](room) room?
+- How big is the [other](room) one?
+- How large are [all](room) your rooms?
+- How large are [all](room) of the three rooms?
+- How large are [all](room) of them?
+- How large are [all](room) rooms?
+- How large is [every](room) room?
+- How large is [each](room) room?
+- How large is room [Gamma](room)?
+- How many guests can be in [there](room)?
+- How many guests can sit [there](room)?
+- How many people can be in [the](room) room?
+- How many rooms are available for [180](nr_of_people) persons?
+- How many rooms are available for [200](nr_of_people) colleagues?
+- How many rooms are available for [210](nr_of_people)?
+- How many rooms are available for [250](nr_of_people) persons?
+- How many rooms are available for [300](nr_of_people) colleagues?
+- How many rooms are available for a minimum of [210](nr_of_people) persons?
+- How many rooms are available for at least [150](nr_of_people) persons?
+- How many rooms are available for circa [150](nr_of_people) people?
+- How many rooms are available for up to [300](nr_of_people) guests?
+- How many rooms are available that fits [160](nr_of_people) colleagues?
+- How many rooms are available that has room for [300](nr_of_people)?
+- How many rooms do you have for [150](nr_of_people) persons?
+- How many rooms do you have for a minimum of [170](nr_of_people) people?
+- How many rooms do you have for at least [190](nr_of_people) persons?
+- How many rooms do you have for at least [300](nr_of_people) colleagues?
+- How many rooms do you have for circa [300](nr_of_people) guests?
+- How many rooms do you have that fits [170](nr_of_people)?
+- How many rooms do you have that fits [300](nr_of_people) colleagues?
+- How many rooms do you have that fits [300](nr_of_people) people?
+- How many rooms do you have that has room for [160](nr_of_people) persons?
+- How many rooms do you provide for at least [180](nr_of_people) colleagues?
+- How many rooms do you provide for at least [250](nr_of_people) colleagues?
+- How many rooms do you provide for at least [250](nr_of_people) people?
+- How many rooms do you provide for circa [200](nr_of_people) people?
+- How many rooms do you provide for circa [220](nr_of_people) colleagues?
+- How many rooms do you provide for up to [160](nr_of_people)?
+- How many rooms do you provide for up to [190](nr_of_people) colleagues?
+- How many rooms do you provide for up to [300](nr_of_people)?
+- How many rooms have room for a minimum of [190](nr_of_people) guests?
+- How many rooms have room for circa [190](nr_of_people) people?
+- How many rooms have room for up to [160](nr_of_people) persons?
+- How many rooms have space for [200](nr_of_people) guests?
+- How many rooms have space for [220](nr_of_people)?
+- How many rooms have space for [300](nr_of_people) persons?
+- How many rooms have space for at least [300](nr_of_people) guests?
+- How many rooms have space for circa [200](nr_of_people) persons?
+- How many rooms have space for up to [150](nr_of_people) persons?
+- How many rooms have space for up to [250](nr_of_people)?
+- How many rooms have space that has room for [200](nr_of_people) people?
+- How much room does it have?
+- How much space does it have?
+- I need a meeting room for a minimum of [190](nr_of_people) guests
+- I need a room for [150](nr_of_people) people
+- I need a room for [190](nr_of_people) guests
+- I need a room for a minimum of [220](nr_of_people) persons
+- I need a room that has room for [170](nr_of_people) colleagues
+- I need an event room for a minimum of [190](nr_of_people) guests
+- I need an event room for up to [300](nr_of_people) guests
+- I need an event room that fits [210](nr_of_people)
+- I should have a meeting room for [200](nr_of_people) guests
+- I should have a meeting room for circa [220](nr_of_people) people
+- I should have a meeting room for up to [220](nr_of_people) persons
+- I should have a meeting room that fits between 150 to [170](nr_of_people) persons
+- I should have an event room for up to [150](nr_of_people) colleagues
+- I want a meeting room for a minimum of [220](nr_of_people) people
+- I want a meeting room that fits between 150 to [190](nr_of_people) people
+- I want a room for [160](nr_of_people) persons
+- I want a room for at least [300](nr_of_people) guests
+- I want a room that fits [220](nr_of_people) persons
+- I want a room that fits between 150 to [160](nr_of_people) persons
+- I want an event room for a minimum of [170](nr_of_people) people
+- I want an event room for at least [200](nr_of_people) persons
+- I want an event room for between 140 to [150](nr_of_people) people
+- I want an event room for between 180 to [300](nr_of_people) guests
+- I want an event room for circa [160](nr_of_people) guests
+- I want an event room for circa [210](nr_of_people) persons
+- I want an event room that fits between 150 to [190](nr_of_people)
+- I would like a meeting room that fits [170](nr_of_people)
+- I would like a meeting room that fits [210](nr_of_people) guests
+- I would like a room for between 160 to [210](nr_of_people) persons
+- I would like an event room for between 150 to [160](nr_of_people) persons
+- I would like an event room for up to [190](nr_of_people) people
+- I would like an event room for up to [300](nr_of_people) colleagues
+- Is [every](room) room big enough?
+- Is [alpha](room) big enough?
+- Is [every](room) room large enough for [180](nr_of_people)?
+- Is [alpha](room) large enough for [180](nr_of_people)?
+- Is [Beta](room) big enough for [180](nr_of_people) people?
+- Is [Beta](room) large enough for [150](nr_of_people) people?
+- Is [Beta](room) large enough for [190](nr_of_people) guests?
+- Is [beta](room) large enough for [250](nr_of_people) persons?
+- Is [beta](room) large enough for [300](nr_of_people) guests?
+- Is [beta](room) large enough for [300](nr_of_people) persons?
+- Is [gamma](room) big enough for [170](nr_of_people) people?
+- Is [Gamma](room) large enough for [220](nr_of_people) colleagues?
+- Is [gamma](room) large enough for [250](nr_of_people)?
+- Is [it](room) big enough for [170](nr_of_people) guests?
+- Is [it](room) big enough for [210](nr_of_people) guests?
+- Is [it](room) big enough for [220](nr_of_people) people?
+- Is [it](room) big enough for [250](nr_of_people) persons?
+- Is [it](room) big enough?
+- Is [it](room) large enough for [210](nr_of_people) colleagues?
+- Is [it](room) large enough for [220](nr_of_people) colleagues?
+- Is [the](room) room big enough for [210](nr_of_people) guests?
+- Is [the](room) room big enough for [210](nr_of_people) people?
+- Is [the](room) room large enough for [150](nr_of_people)?
+- Is [the](room) room large enough for [200](nr_of_people) colleagues?
+- Is [the](room) room larger?
+- Is [this](room) large enough for [180](nr_of_people) guests?
+- Is [this](room) one big enough for [190](nr_of_people) colleagues?
+- Is [this](room) one big enough for [220](nr_of_people) colleagues?
+- Is [this](room) one large enough for [170](nr_of_people) people?
+- Is [this](room) one large enough for [170](nr_of_people)?
+- Is [this](room) space big enough for [250](nr_of_people) guests?
+- Is room [alpha](room) big enough for [150](nr_of_people) persons?
+- Is room [alpha](room) big enough for [300](nr_of_people)?
+- Is room [alpha](room) large enough for [190](nr_of_people) persons?
+- Is room [Beta](room) big enough for [170](nr_of_people) people?
+- Is room [beta](room) big enough for [190](nr_of_people) persons?
+- Is room [Beta](room) large enough for [180](nr_of_people) people?
+- Is room [Gamma](room) big enough for [170](nr_of_people) guests?
+- Is room [Gamma](room) big enough for [210](nr_of_people) colleagues?
+- Is room [Gamma](room) big enough for [220](nr_of_people) persons?
+- Is room [gamma](room) big enough for [300](nr_of_people) colleagues?
+- Is room [gamma](room) bigger?
+- Is room [Gamma](room) large enough for [250](nr_of_people) colleagues?
+- Is the [first](room) one big enough for [150](nr_of_people)?
+- Is the [first](room) one big enough for [180](nr_of_people) persons?
+- Is the [first](room) one big enough for [250](nr_of_people) guests?
+- Is the [first](room) room large enough for [250](nr_of_people) colleagues?
+- Is the [first](room) space big enough for [150](nr_of_people) persons?
+- Is the [last](room) one large enough for [170](nr_of_people)?
+- Is the [last](room) room big enough for [150](nr_of_people) colleagues?
+- Is the [other](room) one big enough for [150](nr_of_people)?
+- Is the [other](room) one large enough for [200](nr_of_people) colleagues?
+- Is the [other](room) space large enough for [200](nr_of_people)?
+- Is the [other](room) space large enough for [220](nr_of_people) colleagues?
+- Is the [second](room) one big enough for [210](nr_of_people)?
+- Is the [second](room) one big enough for [220](nr_of_people) persons?
+- Is the [second](room) one large enough for [180](nr_of_people) persons?
+- Is the [second](room) one large enough for [210](nr_of_people) people?
+- Is the [second](room) one large enough for [300](nr_of_people) persons?
+- Is the [third](room) one large enough for [160](nr_of_people)?
+- Is the [third](room) room big enough for [190](nr_of_people) colleagues?
+- Is the [third](room) room big enough for [210](nr_of_people) people?
+- Is the [third](room) room large enough for [300](nr_of_people) colleagues?
+- Is the [third](room) space large enough for [210](nr_of_people) persons?
+- Is the [third](room) space large enough for [220](nr_of_people)?
+- We need a meeting room that fits between 210 to [250](nr_of_people) persons
+- we need a meeting room that has room for [210](nr_of_people) guests
+- We need a room for between 160 to [170](nr_of_people) colleagues
+- we need a room for circa [300](nr_of_people) people
+- We need an event room for between 160 to [200](nr_of_people) persons
+- we need an event room for circa [300](nr_of_people) persons
+- We need an event room that fits between 150 to [160](nr_of_people) guests
+- we need an event room that has room for [220](nr_of_people) persons
+- we should have a meeting room that fits [170](nr_of_people) colleagues
+- We should have a room that fits between 150 to [210](nr_of_people) guests
+- We should have a room that fits between 150 to [300](nr_of_people) colleagues
+- we should have an event room for a minimum of [200](nr_of_people)
+- we should have an event room for at least [210](nr_of_people) guests
+- we should have an event room for circa [150](nr_of_people) colleagues
+- we should have an event room for circa [250](nr_of_people) colleagues
+- We should have an event room that fits between 150 to [160](nr_of_people) guests
+- We should have an event room that fits between 160 to [180](nr_of_people) guests
+- we want a meeting room for at least [200](nr_of_people) people
+- We want a room for between 160 to [220](nr_of_people)
+- we want a room that fits [250](nr_of_people) persons
+- we want an event room for up to [160](nr_of_people) colleagues
+- we want an event room for up to [220](nr_of_people)
+- we want an event room that fits [160](nr_of_people) people
+- We want an event room that fits between 150 to [180](nr_of_people) people
+- we would like a meeting room for a minimum of [250](nr_of_people) persons
+- we would like a meeting room that fits [170](nr_of_people) persons
+- We would like a room that fits between 220 to [180](nr_of_people) colleagues
+- we would like an event room for at least [150](nr_of_people) colleagues
+- We would like an event room for between 150 to [180](nr_of_people) colleagues
+- We would like an event room for between 170 to [200](nr_of_people) colleagues
+- What kind of rooms are available for [190](nr_of_people) colleagues?
+- What kind of rooms are available for [300](nr_of_people) people?
+- What kind of rooms are available for a minimum of [190](nr_of_people)?
+- What kind of rooms are available for a minimum of [220](nr_of_people) persons?
+- What kind of rooms are available for at least [160](nr_of_people) colleagues?
+- What kind of rooms are available for circa [250](nr_of_people) persons?
+- What kind of rooms are available for up to [200](nr_of_people) guests?
+- What kind of rooms do you have for a minimum of [180](nr_of_people)?
+- What kind of rooms do you have for a minimum of [190](nr_of_people) colleagues?
+- What kind of rooms do you have for at least [180](nr_of_people) guests?
+- What kind of rooms do you have that fits [300](nr_of_people) colleagues?
+- What kind of rooms do you provide for a minimum of [150](nr_of_people)?
+- What kind of rooms do you provide for a minimum of [160](nr_of_people) guests?
+- What kind of rooms do you provide for a minimum of [180](nr_of_people) guests?
+- What kind of rooms do you provide for a minimum of [190](nr_of_people) people?
+- What kind of rooms do you provide for at least [160](nr_of_people)?
+- What kind of rooms do you provide for up to [170](nr_of_people) colleagues?
+- What kind of rooms do you provide that fits [160](nr_of_people) colleagues?
+- What kind of rooms do you provide that fits [220](nr_of_people) persons?
+- What kind of rooms do you provide that fits [220](nr_of_people)?
+- What kind of rooms do you provide that has room for [160](nr_of_people) persons?
+- What kind of rooms do you provide that has room for [220](nr_of_people) colleagues?
+- What kind of rooms have room for [200](nr_of_people) people?
+- What kind of rooms have room for [300](nr_of_people) people?
+- What kind of rooms have room for a minimum of [250](nr_of_people) people?
+- What kind of rooms have room for circa [190](nr_of_people)?
+- What kind of rooms have room that fits [220](nr_of_people) colleagues?
+- What kind of rooms have room that has room for [170](nr_of_people) people?
+- What kind of rooms have room that has room for [170](nr_of_people) persons?
+- What kind of rooms have space for [170](nr_of_people) guests?
+- What kind of rooms have space for [200](nr_of_people) persons?
+- What kind of rooms have space for [250](nr_of_people) people?
+- What kind of rooms have space for [300](nr_of_people)?
+- What kind of rooms have space for up to [180](nr_of_people) people?
+- What kind of rooms have space for up to [180](nr_of_people)?
+- What kind of rooms have space for up to [220](nr_of_people) people?
+- What kind of rooms have space that fits [150](nr_of_people) guests?
+- What kind of rooms have space that fits [210](nr_of_people) guests?
+- What kind of rooms have space that fits [250](nr_of_people) colleagues?
+- What kind of rooms have space that has room for [250](nr_of_people)?
+- What rooms are available for [150](nr_of_people) people?
+- What rooms are available for a minimum of [160](nr_of_people) people?
+- What rooms are available for a minimum of [170](nr_of_people) people?
+- What rooms are available for a minimum of [250](nr_of_people) persons?
+- What rooms are available for at least [200](nr_of_people)?
+- What rooms are available for circa [170](nr_of_people) people?
+- What rooms do you have for [210](nr_of_people) colleagues?
+- What rooms do you have for [220](nr_of_people) colleagues?
+- What rooms do you have for a minimum of [300](nr_of_people) people?
+- What rooms do you have for up to [200](nr_of_people) guests?
+- What rooms do you have for up to [300](nr_of_people) persons?
+- What rooms do you have that fits [220](nr_of_people) colleagues?
+- What rooms do you have that fits [220](nr_of_people) people?
+- What rooms do you have that fits [250](nr_of_people) colleagues?
+- What rooms do you have that has room for [300](nr_of_people) colleagues?
+- What rooms do you provide for [180](nr_of_people)?
+- What rooms do you provide for a minimum of [150](nr_of_people)?
+- What rooms do you provide for a minimum of [190](nr_of_people) guests?
+- What rooms do you provide for at least [210](nr_of_people) people?
+- What rooms do you provide for circa [150](nr_of_people)?
+- What rooms do you provide for circa [180](nr_of_people) persons?
+- What rooms do you provide for up to [170](nr_of_people) people?
+- What rooms do you provide for up to [180](nr_of_people)?
+- What rooms do you provide that has room for [220](nr_of_people) colleagues?
+- What rooms have room for [180](nr_of_people) guests?
+- What rooms have room for at least [170](nr_of_people) guests?
+- What rooms have room for circa [160](nr_of_people) persons?
+- What rooms have room for circa [190](nr_of_people)?
+- What rooms have room for circa [200](nr_of_people)?
+- What rooms have room for circa [300](nr_of_people) colleagues?
+- What rooms have room for circa [300](nr_of_people) guests?
+- What rooms have room for up to [160](nr_of_people) colleagues?
+- What rooms have space for [150](nr_of_people) persons?
+- What rooms have space for [160](nr_of_people) colleagues?
+- What rooms have space for [220](nr_of_people) persons?
+- What rooms have space for a minimum of [160](nr_of_people) colleagues?
+- What rooms have space for at least [160](nr_of_people) people?
+- What rooms have space for at least [190](nr_of_people)?
+- What rooms have space for circa [160](nr_of_people) persons?
+- What rooms have space for circa [180](nr_of_people) people?
+- What rooms have space for circa [200](nr_of_people) colleagues?
+- What rooms have space for circa [200](nr_of_people) guests?
+- What rooms have space that fits [180](nr_of_people)?
+- What rooms have space that fits [220](nr_of_people) colleagues?
+- What rooms have space that has room for [220](nr_of_people) guests?
+- What rooms have space that has room for [250](nr_of_people) guests?
+- Which is the biggest room?
+- Which is the biggest?
+- Which is the largest room?
+- Which is the largest?
+- Which room has the most room?
+- Which room has the most space?
+- Which room is the biggest?
+- Which room is the largest?
+- Will [every](room) room have enough room for [220](nr_of_people)?
+- Will [every](room) room have enough room for [220](nr_of_people)?
+- Will [it](room) have enough room for [220](nr_of_people)?
+- Will [it](room) have enough space for [200](nr_of_people) colleagues?
+
+## intent:ask_for_room_catering
+- Are meals provided?
+- Are meals provided in [all](room) rooms?
+- Are there rooms that have meals?
+- We want catering
+- I look for lunch
+- I look for drinks
+- We would like drinks
+- For the event we need catering service
+- We would like meals
+- I would like meals
+- We need lunch
+- We look for meals
+- We need a buffet
+- We want food options
+- For the event we need meals
+- We need food
+- Do you offer dinner in the [other](room) ones?
+- Do you offer meals?
+- Is catering provided?
+- Do you offer refreshments in the [others](room)?
+- Are snacks provided in the [others](room)?
+- Do you have a room with food service?
+- Do you provide lunch?
+- Do you provide drinks in the [other](room) ones?
+- Do you provide any drinks in the [other](room) rooms?
+- Do you offer any snacks in [there](room)?
+- Do you offer any meals in the [others](room)?
+- Are there refreshments in [the](room) room?
+- Do you provide dinner in [this](room)?
+- Are there any meals in the [others](room)?
+- Do you have snacks in the [last](room) room?
+- Are there any refreshments in room [Gamma](room)?
+- Is there catering in [it](room)?
+- Are there any refreshments in the [other](room) rooms?
+- Do you provide drinks in the [others](room)?
+- Do you offer any lunch options in the [others](room)?
+- Is catering provided in [beta](room)?
+- Do you offer meals in room [Alpha](room)?
+- Do you offer refreshments in [the](room) room?
+- Do you provide lunch in [the](room) room?
+- Do you provide lunch in [all](room) rooms?
+- Are refreshments provided in the [other](room) rooms?
+- Do you provide any meals in the [other](room) ones?
+- Do you provide refreshments in the [others](room)?
+- Do you have snacks in the [others](room)?
+- Do you offer catering in the [third](room) one?
+- Are there any drinks in the [last](room) room?
+- Are there meals in the [other](room) rooms?
+- Do you have any meals in the [first](room) one?
+- Do you offer rooms with drinks?
+- Do you provide snacks in [that](room) room?
+- Do you have any food options in [this](room)?
+- Are snacks provided in the [other](room) ones?
+- Do you have food service in the [last](room) one?
+- Is catering service provided in the [other](room) ones?
+- Do you provide meals in [this](room)?
+- Are there any dinner options in the [other](room) rooms?
+- Do you offer a buffet in [that](room) room?
+- Do you have lunch options in [it](room)?
+- Are there any refreshments in the [others](room)?
+- Do you offer any refreshments in the [other](room) ones?
+- Are drinks provided in [all](room) the rooms?
+- Do you provide snacks in the [others](room)?
+- Do you offer refreshments in the [other](room) rooms?
+- Do you have any meals?
+- Do you have food in the [other](room) ones?
+- Do you have snacks in [every](room) room?
+- Do you provide a room that has catering service?
+- Do you provide buffet options in the [other](room) ones?
+- Is a buffet provided in the [every](room) room?
+- Is there lunch in the [second](room) room?
+- Are lunch options provided in [different](room) ones?
+- Do you provide food service in the [other](room) rooms?
+- Do you have drinks in [the](room) room?
+- Do you offer meals in the [other](room) rooms?
+- Do you provide food in [different](room) rooms?
+- Are there any refreshments in room [alpha](room)?
+- Do you provide rooms which have drinks?
+- Do you have drinks in room [Alpha](room)?
+- Do you offer snacks in [that](room)?
+- Do you offer catering service in the [other](room) ones?
+- Are there any refreshments in [the](room) room?
+- Are drinks provided in room [alpha](room)?
+- Do you offer any drinks in room [alpha](room)?
+- Is food provided in [all](room) rooms?
+- Are there refreshments in the [first](room) one?
+- Do you provide meals in [it](room)?
+- Do you offer lunch in [it](room)?
+- Do you offer meals in [beta](room)?
+- Do you provide snacks in the [other](room) rooms?
+- Do you provide meals in [every](room) room?
+- Do you have catering in the [other](room) ones?
+- Do you have any refreshments in [Alpha](room)?
+- Are there any drinks in the [other](room) ones?
+- Do you have drinks in [there](room)?
+- Do you offer a buffet in the [others](room)?
+- Is lunch provided in the [first](room) one?
+- Do you provide catering service in [alpha](room)?
+- Do you provide any refreshments in the [others](room)?
+- Are meals provided in the [others](room)?
+- Are there snacks in [every](room)?
+- Do you have any meals in [that](room)?
+- Do you provide a buffet in [the](room) room?
+- Do you offer any refreshments in the [others](room)?
+- Are there rooms with meals?
+- Are there any drinks in [that](room) one?
+- Are there drinks?
+- Do you provide refreshments in the [last](room) room?
+- Do you provide a buffet in the [others](room)?
+- Do you offer drinks in [the](room) room?
+- Is there a room which has food?
+- Are lunch options provided in the [others](room)?
+- Do you offer snacks in the [others](room)?
+- Do you provide catering service in [that](room) room?
+- Do you offer any drinks in the [other](room) rooms?
+- Do you provide food in room [beta](room)?
+- Do you offer snacks in the [first](room) one?
+- Do you provide any meals in the [other](room) rooms?
+- Do you have catering service in room [Gamma](room) rooms?
+- Do you provide any meals in [Beta](room)?
+- Are there any meals in [Gamma](room)?
+- Do you provide any refreshments in the [other](room) ones?
+- Do you provide lunch in the [first](room) one?
+- Are there refreshments in [there](room)?
+- Do you have any dinner options in the [first](room) one?
+- Are there meals in [the](room) room?
+- Are drinks provided in the [other](room) rooms?
+- Do you offer snacks in room [Gamma](room)?
+- Do you offer food in [different](room) rooms?
+- Is catering provided in [Gamma](room)?
+- Are there meals in [every](room) room?
+- Are there rooms with snacks?
+- Do you have buffet options in [different](room) rooms?
+- Do you provide any drinks in [this](room)?
+- Are there any dinner options in the [others](room)?
+- Do you offer drinks in [all](room) rooms?
+- Do [all](room) of them have drinks?
+- Do [all](room) rooms have catering?
+- Do the rooms have catering?
+- Are refreshments provided in [that](room) one?
+- Are there any lunch options in the [other](room) ones?
+- Are there drinks in [beta](room)?
+- Do you offer catering service in the [other](room) rooms?
+- Do you provide any snacks in the [other](room) rooms?
+- Do you offer drinks in [different](room) ones?
+- Do you offer drinks?
+- Do you offer dinner in a [different](room) room?
+- Do you have any meals in the [last](room) room?
+- Are there any meals in [the](room) room?
+- Do you have lunch?
+- Do you have food in room [Gamma](room)?
+- Do you provide a room with food?
+- Are there any snacks in the [others](room)?
+- Do you have snacks in [that](room)?
+- Is there dinner in the [other](room) rooms?
+- Are meals provided in the [other](room) rooms?
+- Do you provide lunch options in the [other](room) rooms?
+- Do you have food in [every](room) room?
+- Are there rooms with lunch options?
+- Do you provide any snacks in [that](room) one?
+- Are there meals in the [others](room)?
+- Do you offer any drinks in [it](room)?
+- Is there food in [this](room) room?
+- Do you have meals in room [alpha](room)?
+- Do you provide meals in [the](room) room?
+- Do you have drinks in the [other](room) rooms?
+- Is there lunch in [gamma](room)?
+- Are drinks provided in the [first](room) one?
+- Are there drinks in [this](room) one?
+- Do you offer buffet options in the [other](room) ones?
+- Do you offer catering options in the [others](room)?
+- Are there drinks in the [others](room)?
+- Do you provide catering in room [Alpha](room)?
+- Is food service provided in [this](room) one?
+- Are there snacks in [the](room) room?
+- Are there any snacks in the [last](room) room?
+- Do you have food service options in the [others](room)?
+- Do you provide catering in a [different](room) room?
+- Do you provide catering in room [Beta](room)?
+- Do you provide any drinks in the rooms?
+- Are there dinner options in the [other](room) ones?
+- Do you provide snacks in [it](room)?
+- Do you provide refreshments in the [other](room) rooms?
+- Do you offer catering in [all](room) the rooms?
+- Do you offer any meals in the [second](room) room?
+- Do you offer dinner options in [Beta](room)?
+- Do you provide rooms that have snacks?
+- Are snacks provided in [every](room) room?
+- Do you provide snacks in [there](room)?
+- Do you have food service options?
+- Do you provide lunch in [there](room)?
+- Do you provide buffet options in the [other](room) rooms?
+- Is there catering service in the [others](room)?
+- Are there any meals in [that](room) one?
+- Do you provide refreshments in the [other](room) ones?
+- Are food options provided in [alpha](room)?
+- Do you have food in [the](room) room?
+- Do you have food in [all](room) the rooms?
+- Do you have food in [every](room) one?
+- Are there any refreshments in [that](room) one?
+- Do you offer catering service in the [others](room)?
+- Do you provide a buffet in a [different](room) one?
+- Is catering service provided in [the](room) room?
+- Is catering service provided in [there](room)?
+- Are there any drinks in the [second](room) one?
+- Are there any catering service options in [the](room) room?
+- Do you have meals in the [others](room)?
+- Do you have catering in [this](room) room?
+- Do you provide drinks in the [third](room) room?
+- Are there rooms which have refreshments?
+- Are there any refreshments in the [third](room) one?
+- Do you have any food options in the [other](room) ones?
+- Do you provide any lunch options in [the](room) room?
+- Do you provide food in the [other](room) ones?
+- Do you offer any snacks in the [third](room) one?
+- Do you have any drinks in [alpha](room)?
+- Is there food in [it](room)?
+- Is there food in room [Alpha](room)?
+- Do you have any snacks in the [other](room) rooms?
+- Are refreshments provided in [that](room) room?
+- Do you have snacks in [this](room) room?
+- Are there drinks in the [second](room) one?
+- Do you provide food service in the [other](room) ones?
+- Do you provide any drinks?
+- Do you offer drinks in [it](room)?
+- Do you offer drinks in [all](room) rooms?
+- Do you provide catering service in [the](room) room?
+- Do you have dinner options in [it](room)?
+- Do you have any meals in the [last](room) one?
+- Do you have drinks in the [others](room)?
+- Do you have any snacks in the [other](room) ones?
+- Do you offer food service in the [others](room)?
+- Are there any food service options in the [others](room)?
+- Is there a room that has food?
+- Are there any drinks in the [others](room)?
+- Do [all](room) rooms have refreshments?
+- Do you offer any lunch options in [that](room) one?
+- Do you have refreshments in the [others](room)?
+- Do you offer rooms that have drinks?
+- Are there any meals in [there](room)?
+- Do you provide drinks in the [other](room) rooms?
+- Do you have meals in [the](room) room?
+- Do you provide lunch in [this](room)?
+- Are there options for catering service?
+- Is it possible to have dinner?
+- Is it possible to have a buffet in [that](room)?
+- Can I have food service in [that](room) one?
+- Can I have catering service in [the](room) room?
+- Can I have dinner in [that](room) room?
+- Is it possible to have food service in room [beta](room)?
+- Can we to have lunch in [beta](room)?
+- Can we to have food service in [other](room) rooms?
+- Can we to have dinner in [the](room) room?
+- Is it possible to have catering in [there](room)?
+- Is it possible to have catering in [the](room) room?
+- Can we have a buffet in the [first](room) one?
+- Is it possible to have food service in [there](room)?
+- Is it possible to have food in room [Gamma](room)?
+- Is it possible to have catering service in room [alpha](room)?
+- Can we have lunch in [the](room) room?
+- Is it possible to have catering service in the [other](room) one?
+- Can our guests have dinner in [Gamma](room)?
+- Is it possible to have dinner in [this](room)?

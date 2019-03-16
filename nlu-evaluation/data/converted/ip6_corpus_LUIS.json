@@ -1,0 +1,3701 @@
+{
+    "bing_entities": [], 
+    "closedLists": [], 
+    "composites": [], 
+    "culture": "en-us", 
+    "desc": "", 
+    "entities": [
+        {
+            "name": "company"
+        }, 
+        {
+            "name": "name"
+        }, 
+        {
+            "name": "nr_of_people"
+        }, 
+        {
+            "name": "room"
+        }
+    ], 
+    "intents": [
+        {
+            "name": "reserve_room"
+        }, 
+        {
+            "name": "provide_name"
+        }, 
+        {
+            "name": "provide_nr_of_people"
+        }, 
+        {
+            "name": "greet"
+        }, 
+        {
+            "name": "ask_for_rooms"
+        }
+    ], 
+    "luis_schema_version": "2.2.0", 
+    "model_features": [], 
+    "name": "IP6Corpus", 
+    "regex_entities": [], 
+    "regex_features": [], 
+    "utterances": [
+        {
+            "entities": [
+                {
+                    "endPos": 38, 
+                    "entity": "name", 
+                    "startPos": 15
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hello, this is Mrs. Jennifer Hutchinson."
+        }, 
+        {
+            "entities": [], 
+            "intent": "greet", 
+            "text": "Good afternoon"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "name", 
+                    "startPos": 15
+                }, 
+                {
+                    "endPos": 46, 
+                    "entity": "company", 
+                    "startPos": 43
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hello, this is Jennifer. I am an intern at ACME."
+        }, 
+        {
+            "entities": [], 
+            "intent": "greet", 
+            "text": "Hey, how are you?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 41, 
+                    "entity": "name", 
+                    "startPos": 38
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, how are you? My name is Mark."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 27, 
+                    "entity": "name", 
+                    "startPos": 9
+                }, 
+                {
+                    "endPos": 56, 
+                    "entity": "company", 
+                    "startPos": 48
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hi, I am Jennifer Hutchinson. I am an intern at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 41, 
+                    "entity": "name", 
+                    "startPos": 27
+                }, 
+                {
+                    "endPos": 63, 
+                    "entity": "company", 
+                    "startPos": 55
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, my name is Mr. Mark Muller. I work for ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 62, 
+                    "entity": "name", 
+                    "startPos": 39
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, how is it going? This is Mrs. Jennifer Hutchinson."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 23, 
+                    "entity": "name", 
+                    "startPos": 13
+                }, 
+                {
+                    "endPos": 47, 
+                    "entity": "company", 
+                    "startPos": 44
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hey, this is Mark Muller. I am an intern at ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 39, 
+                    "entity": "name", 
+                    "startPos": 25
+                }, 
+                {
+                    "endPos": 70, 
+                    "entity": "company", 
+                    "startPos": 67
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, my name is Mr. Mark Muller. I am in an internship at ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 31, 
+                    "entity": "name", 
+                    "startPos": 21
+                }, 
+                {
+                    "endPos": 67, 
+                    "entity": "company", 
+                    "startPos": 59
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, I am Mark Muller. I am in an internship at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "name", 
+                    "startPos": 25
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good morning, my name is Mark."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 48, 
+                    "entity": "name", 
+                    "startPos": 41
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, how is it going? This is Jennifer."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 30, 
+                    "entity": "name", 
+                    "startPos": 22
+                }, 
+                {
+                    "endPos": 54, 
+                    "entity": "company", 
+                    "startPos": 51
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good morning, this is Mr Muller. I am an intern at ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 29, 
+                    "entity": "name", 
+                    "startPos": 19
+                }, 
+                {
+                    "endPos": 65, 
+                    "entity": "company", 
+                    "startPos": 57
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, I am Mark Muller. I am in an internship at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 33, 
+                    "entity": "name", 
+                    "startPos": 25
+                }, 
+                {
+                    "endPos": 50, 
+                    "entity": "company", 
+                    "startPos": 47
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good morning, my name is Mr Muller. I work for ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 29, 
+                    "entity": "name", 
+                    "startPos": 15
+                }, 
+                {
+                    "endPos": 58, 
+                    "entity": "company", 
+                    "startPos": 50
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hi, my name is Mr. Mark Muller. I am an intern at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 44, 
+                    "entity": "name", 
+                    "startPos": 36
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good morning, how is it going? I am Mr Muller."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 25, 
+                    "entity": "name", 
+                    "startPos": 15
+                }, 
+                {
+                    "endPos": 42, 
+                    "entity": "company", 
+                    "startPos": 39
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hi, my name is Mark Muller. I work for ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 40, 
+                    "entity": "name", 
+                    "startPos": 22
+                }, 
+                {
+                    "endPos": 76, 
+                    "entity": "company", 
+                    "startPos": 68
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, this is Jennifer Hutchinson. I am in an internship at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 29, 
+                    "entity": "name", 
+                    "startPos": 19
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, I am Mark Muller."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 37, 
+                    "entity": "name", 
+                    "startPos": 29
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hello, how is it going? I am Mr Muller."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 38, 
+                    "entity": "name", 
+                    "startPos": 15
+                }, 
+                {
+                    "endPos": 60, 
+                    "entity": "company", 
+                    "startPos": 52
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hi, my name is Mrs. Jennifer Hutchinson. I work for ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "name", 
+                    "startPos": 15
+                }, 
+                {
+                    "endPos": 51, 
+                    "entity": "company", 
+                    "startPos": 43
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hi, my name is Jennifer. I am an intern at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 25, 
+                    "entity": "name", 
+                    "startPos": 22
+                }, 
+                {
+                    "endPos": 47, 
+                    "entity": "company", 
+                    "startPos": 39
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, this is Mark. I work for ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 44, 
+                    "entity": "name", 
+                    "startPos": 37
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, how are you? This is Jennifer."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 26, 
+                    "entity": "name", 
+                    "startPos": 19
+                }, 
+                {
+                    "endPos": 57, 
+                    "entity": "company", 
+                    "startPos": 54
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good morning, I am Jennifer. I am in an internship at ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 12, 
+                    "entity": "name", 
+                    "startPos": 9
+                }, 
+                {
+                    "endPos": 36, 
+                    "entity": "company", 
+                    "startPos": 33
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hi, I am Mark. I am an intern at ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 41, 
+                    "entity": "name", 
+                    "startPos": 18
+                }, 
+                {
+                    "endPos": 77, 
+                    "entity": "company", 
+                    "startPos": 69
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hello, my name is Mrs. Jennifer Hutchinson. I am in an internship at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 46, 
+                    "entity": "name", 
+                    "startPos": 38
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, how are you? My name is Mr Muller."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "name", 
+                    "startPos": 10
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hey, I am Jennifer Hutchinson."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "name", 
+                    "startPos": 13
+                }, 
+                {
+                    "endPos": 57, 
+                    "entity": "company", 
+                    "startPos": 49
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hey, this is Mr Muller. I am in an internship at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 41, 
+                    "entity": "name", 
+                    "startPos": 27
+                }, 
+                {
+                    "endPos": 77, 
+                    "entity": "company", 
+                    "startPos": 69
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, my name is Mr. Mark Muller. I am in an internship at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "name", 
+                    "startPos": 18
+                }, 
+                {
+                    "endPos": 45, 
+                    "entity": "company", 
+                    "startPos": 42
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hello, my name is Mark Muller. I work for ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 67, 
+                    "entity": "name", 
+                    "startPos": 44
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, how is it going? My name is Mrs. Jennifer Hutchinson."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 13, 
+                    "entity": "name", 
+                    "startPos": 10
+                }, 
+                {
+                    "endPos": 49, 
+                    "entity": "company", 
+                    "startPos": 41
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hey, I am Mark. I am in an internship at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 18, 
+                    "entity": "name", 
+                    "startPos": 10
+                }, 
+                {
+                    "endPos": 40, 
+                    "entity": "company", 
+                    "startPos": 32
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hey, I am Mr Muller. I work for ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 43, 
+                    "entity": "name", 
+                    "startPos": 29
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hey, how are you? My name is Mr. Mark Muller."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 13, 
+                    "entity": "name", 
+                    "startPos": 10
+                }, 
+                {
+                    "endPos": 42, 
+                    "entity": "company", 
+                    "startPos": 34
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hey, I am Mark. I am an intern at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 41, 
+                    "entity": "name", 
+                    "startPos": 27
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, my name is Mr. Mark Muller."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 25, 
+                    "entity": "name", 
+                    "startPos": 22
+                }, 
+                {
+                    "endPos": 61, 
+                    "entity": "company", 
+                    "startPos": 53
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, this is Mark. I am in an internship at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 39, 
+                    "entity": "name", 
+                    "startPos": 16
+                }, 
+                {
+                    "endPos": 75, 
+                    "entity": "company", 
+                    "startPos": 67
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hey, my name is Mrs. Jennifer Hutchinson. I am in an internship at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 43, 
+                    "entity": "name", 
+                    "startPos": 29
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hello, how is it going? I am Mr. Mark Muller."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "name", 
+                    "startPos": 13
+                }, 
+                {
+                    "endPos": 50, 
+                    "entity": "company", 
+                    "startPos": 42
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hey, this is Mr Muller. I am an intern at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 47, 
+                    "entity": "name", 
+                    "startPos": 24
+                }, 
+                {
+                    "endPos": 69, 
+                    "entity": "company", 
+                    "startPos": 61
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, this is Mrs. Jennifer Hutchinson. I work for ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "name", 
+                    "startPos": 21
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, I am Mark."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 27, 
+                    "entity": "name", 
+                    "startPos": 19
+                }, 
+                {
+                    "endPos": 49, 
+                    "entity": "company", 
+                    "startPos": 41
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, I am Mr Muller. I work for ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 51, 
+                    "entity": "name", 
+                    "startPos": 41
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, how is it going? This is Mark Muller."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 34, 
+                    "entity": "name", 
+                    "startPos": 21
+                }, 
+                {
+                    "endPos": 65, 
+                    "entity": "company", 
+                    "startPos": 62
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, I am Mrs Hutchinson. I am in an internship at ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 26, 
+                    "entity": "name", 
+                    "startPos": 18
+                }, 
+                {
+                    "endPos": 43, 
+                    "entity": "company", 
+                    "startPos": 40
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hello, my name is Mr Muller. I work for ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 35, 
+                    "entity": "name", 
+                    "startPos": 12
+                }, 
+                {
+                    "endPos": 57, 
+                    "entity": "company", 
+                    "startPos": 49
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hello, I am Mrs. Jennifer Hutchinson. I work for ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 36, 
+                    "entity": "name", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hi, how are you? I am Mr. Mark Muller."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 35, 
+                    "entity": "name", 
+                    "startPos": 25
+                }, 
+                {
+                    "endPos": 71, 
+                    "entity": "company", 
+                    "startPos": 63
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, my name is Mark Muller. I am in an internship at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 27, 
+                    "entity": "name", 
+                    "startPos": 19
+                }, 
+                {
+                    "endPos": 58, 
+                    "entity": "company", 
+                    "startPos": 55
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, I am Mr Muller. I am in an internship at ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 43, 
+                    "entity": "name", 
+                    "startPos": 36
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good morning, how is it going? I am Jennifer."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 43, 
+                    "entity": "name", 
+                    "startPos": 25
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good evening, my name is Jennifer Hutchinson."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 45, 
+                    "entity": "name", 
+                    "startPos": 27
+                }, 
+                {
+                    "endPos": 67, 
+                    "entity": "company", 
+                    "startPos": 59
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, my name is Jennifer Hutchinson. I work for ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 29, 
+                    "entity": "name", 
+                    "startPos": 16
+                }, 
+                {
+                    "endPos": 60, 
+                    "entity": "company", 
+                    "startPos": 57
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hey, my name is Mrs Hutchinson. I am in an internship at ACME."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 47, 
+                    "entity": "name", 
+                    "startPos": 24
+                }, 
+                {
+                    "endPos": 83, 
+                    "entity": "company", 
+                    "startPos": 75
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Good afternoon, this is Mrs. Jennifer Hutchinson. I am in an internship at ABCD Corp"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 45, 
+                    "entity": "name", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "greet", 
+            "text": "Hi, how are you? I am Mrs. Jennifer Hutchinson."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 16, 
+                    "entity": "name", 
+                    "startPos": 13
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Yes, This is Mark"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 29, 
+                    "entity": "name", 
+                    "startPos": 11
+                }, 
+                {
+                    "endPos": 45, 
+                    "entity": "company", 
+                    "startPos": 42
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "My name is Jennifer Hutchinson i work for ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 37, 
+                    "entity": "company", 
+                    "startPos": 34
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mrs hutchinson i work for ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 10, 
+                    "entity": "name", 
+                    "startPos": 0
+                }, 
+                {
+                    "endPos": 40, 
+                    "entity": "company", 
+                    "startPos": 37
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Mark Muller i am in an internship at ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 18, 
+                    "entity": "name", 
+                    "startPos": 5
+                }, 
+                {
+                    "endPos": 48, 
+                    "entity": "company", 
+                    "startPos": 38
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Mrs hutchinson i am an intern at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 8, 
+                    "entity": "name", 
+                    "startPos": 5
+                }, 
+                {
+                    "endPos": 24, 
+                    "entity": "company", 
+                    "startPos": 21
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Mark i work for ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 23, 
+                    "entity": "name", 
+                    "startPos": 13
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Yes, This is Mark Muller"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 26, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 49, 
+                    "entity": "company", 
+                    "startPos": 39
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Jennifer Hutchinson i work for ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 32, 
+                    "entity": "company", 
+                    "startPos": 29
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mr. Mark Muller from ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 7, 
+                    "entity": "name", 
+                    "startPos": 0
+                }, 
+                {
+                    "endPos": 37, 
+                    "entity": "company", 
+                    "startPos": 34
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Jennifer i am in an internship at ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 11, 
+                    "entity": "name", 
+                    "startPos": 8
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mark"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 16, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 53, 
+                    "entity": "company", 
+                    "startPos": 43
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mr muller i am in an internship at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 8, 
+                    "entity": "name", 
+                    "startPos": 0
+                }, 
+                {
+                    "endPos": 38, 
+                    "entity": "company", 
+                    "startPos": 35
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Mr muller i am in an internship at ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 38, 
+                    "entity": "company", 
+                    "startPos": 35
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mr. Mark Muller i work for ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 34, 
+                    "entity": "name", 
+                    "startPos": 11
+                }, 
+                {
+                    "endPos": 64, 
+                    "entity": "company", 
+                    "startPos": 54
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "My name is Mrs. Jennifer Hutchinson i am an intern at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 3, 
+                    "entity": "name", 
+                    "startPos": 0
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Mark"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 23, 
+                    "entity": "name", 
+                    "startPos": 0
+                }, 
+                {
+                    "endPos": 40, 
+                    "entity": "company", 
+                    "startPos": 30
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Mrs. Jennifer Hutchinson from ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 45, 
+                    "entity": "company", 
+                    "startPos": 35
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mr. Mark Muller i work for ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "name", 
+                    "startPos": 11
+                }, 
+                {
+                    "endPos": 51, 
+                    "entity": "company", 
+                    "startPos": 41
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "My name is Mark Muller i am an intern at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 12, 
+                    "entity": "name", 
+                    "startPos": 5
+                }, 
+                {
+                    "endPos": 42, 
+                    "entity": "company", 
+                    "startPos": 39
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Jennifer i am in an internship at ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 23, 
+                    "entity": "name", 
+                    "startPos": 5
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Jennifer Hutchinson"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 18, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 35, 
+                    "entity": "company", 
+                    "startPos": 25
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mark Muller from ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 34, 
+                    "entity": "name", 
+                    "startPos": 11
+                }, 
+                {
+                    "endPos": 44, 
+                    "entity": "company", 
+                    "startPos": 41
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "My name is Mrs. Jennifer Hutchinson from ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 23, 
+                    "entity": "name", 
+                    "startPos": 0
+                }, 
+                {
+                    "endPos": 53, 
+                    "entity": "company", 
+                    "startPos": 43
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Mrs. Jennifer Hutchinson i am an intern at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 26, 
+                    "entity": "name", 
+                    "startPos": 16
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Yes, My name is Mark Muller"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 14, 
+                    "entity": "name", 
+                    "startPos": 11
+                }, 
+                {
+                    "endPos": 24, 
+                    "entity": "company", 
+                    "startPos": 21
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "My name is Mark from ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 13, 
+                    "entity": "name", 
+                    "startPos": 0
+                }, 
+                {
+                    "endPos": 29, 
+                    "entity": "company", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Mrs hutchinson i work for ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 13, 
+                    "entity": "name", 
+                    "startPos": 5
+                }, 
+                {
+                    "endPos": 36, 
+                    "entity": "company", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Mr muller i work for ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "name", 
+                    "startPos": 11
+                }, 
+                {
+                    "endPos": 54, 
+                    "entity": "company", 
+                    "startPos": 44
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "My name is Mrs hutchinson i am an intern at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 15, 
+                    "entity": "name", 
+                    "startPos": 5
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Yes, Mark Muller"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "name", 
+                    "startPos": 5
+                }, 
+                {
+                    "endPos": 51, 
+                    "entity": "company", 
+                    "startPos": 41
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Mrs. Jennifer Hutchinson i work for ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 18, 
+                    "entity": "name", 
+                    "startPos": 11
+                }, 
+                {
+                    "endPos": 48, 
+                    "entity": "company", 
+                    "startPos": 45
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "My name is Jennifer i am in an internship at ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 16, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 26, 
+                    "entity": "company", 
+                    "startPos": 23
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mr muller from ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 18, 
+                    "entity": "name", 
+                    "startPos": 11
+                }, 
+                {
+                    "endPos": 34, 
+                    "entity": "company", 
+                    "startPos": 31
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "My name is Jennifer i work for ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 23, 
+                    "entity": "name", 
+                    "startPos": 10
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Yes, I am Mrs hutchinson"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 8, 
+                    "entity": "name", 
+                    "startPos": 0
+                }, 
+                {
+                    "endPos": 38, 
+                    "entity": "company", 
+                    "startPos": 28
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Mr muller i am an intern at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 14, 
+                    "entity": "name", 
+                    "startPos": 0
+                }, 
+                {
+                    "endPos": 30, 
+                    "entity": "company", 
+                    "startPos": 27
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Mr. Mark Muller i work for ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 13, 
+                    "entity": "name", 
+                    "startPos": 5
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Yes, Mr muller"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 23, 
+                    "entity": "name", 
+                    "startPos": 5
+                }, 
+                {
+                    "endPos": 60, 
+                    "entity": "company", 
+                    "startPos": 50
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Jennifer Hutchinson i am in an internship at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 59, 
+                    "entity": "company", 
+                    "startPos": 49
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mr. Mark Muller i am in an internship at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 58, 
+                    "entity": "company", 
+                    "startPos": 48
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mrs hutchinson i am in an internship at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 33, 
+                    "entity": "name", 
+                    "startPos": 10
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Yes, I am Mrs. Jennifer Hutchinson"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "name", 
+                    "startPos": 5
+                }, 
+                {
+                    "endPos": 58, 
+                    "entity": "company", 
+                    "startPos": 55
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Mrs. Jennifer Hutchinson i am in an internship at ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 23, 
+                    "entity": "name", 
+                    "startPos": 5
+                }, 
+                {
+                    "endPos": 40, 
+                    "entity": "company", 
+                    "startPos": 30
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Jennifer Hutchinson from ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 3, 
+                    "entity": "name", 
+                    "startPos": 0
+                }, 
+                {
+                    "endPos": 26, 
+                    "entity": "company", 
+                    "startPos": 23
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Mark i am an intern at ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 30, 
+                    "entity": "name", 
+                    "startPos": 16
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Yes, My name is Mr. Mark Muller"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 18, 
+                    "entity": "name", 
+                    "startPos": 5
+                }, 
+                {
+                    "endPos": 28, 
+                    "entity": "company", 
+                    "startPos": 25
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Mrs hutchinson from ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 18, 
+                    "entity": "name", 
+                    "startPos": 0
+                }, 
+                {
+                    "endPos": 55, 
+                    "entity": "company", 
+                    "startPos": 45
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Jennifer Hutchinson i am in an internship at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 14, 
+                    "entity": "name", 
+                    "startPos": 11
+                }, 
+                {
+                    "endPos": 30, 
+                    "entity": "company", 
+                    "startPos": 27
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "My name is Mark i work for ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 19, 
+                    "entity": "name", 
+                    "startPos": 5
+                }, 
+                {
+                    "endPos": 56, 
+                    "entity": "company", 
+                    "startPos": 46
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Mr. Mark Muller i am in an internship at ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 12, 
+                    "entity": "name", 
+                    "startPos": 5
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "I am Jennifer"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 18, 
+                    "entity": "name", 
+                    "startPos": 11
+                }, 
+                {
+                    "endPos": 41, 
+                    "entity": "company", 
+                    "startPos": 38
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "My name is Jennifer i am an intern at ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 26, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 43, 
+                    "entity": "company", 
+                    "startPos": 33
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Jennifer Hutchinson from ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 44, 
+                    "entity": "company", 
+                    "startPos": 41
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mrs hutchinson i am an intern at ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 23, 
+                    "entity": "name", 
+                    "startPos": 16
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Yes, My name is Jennifer"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 13, 
+                    "entity": "name", 
+                    "startPos": 0
+                }, 
+                {
+                    "endPos": 36, 
+                    "entity": "company", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "Mrs hutchinson i work for ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 18, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 41, 
+                    "entity": "company", 
+                    "startPos": 31
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mark Muller i work for ABC COMPANY"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 26, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 42, 
+                    "entity": "company", 
+                    "startPos": 39
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Jennifer Hutchinson i work for ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 31, 
+                    "entity": "name", 
+                    "startPos": 8
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mrs. Jennifer Hutchinson"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 16, 
+                    "entity": "name", 
+                    "startPos": 8
+                }, 
+                {
+                    "endPos": 32, 
+                    "entity": "company", 
+                    "startPos": 29
+                }
+            ], 
+            "intent": "provide_name", 
+            "text": "This is Mr muller i work for ACME"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 51, 
+                    "entity": "nr_of_people", 
+                    "startPos": 49
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am interested in a room for an event that fits 250 persons"
+        }, 
+        {
+            "entities": [], 
+            "intent": "ask_for_rooms", 
+            "text": "I am looking for a place"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 53, 
+                    "entity": "nr_of_people", 
+                    "startPos": 51
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "How many locations are available that has room for 200 persons?"
+        }, 
+        {
+            "entities": [], 
+            "intent": "ask_for_rooms", 
+            "text": "I'm looking for an event room"
+        }, 
+        {
+            "entities": [], 
+            "intent": "ask_for_rooms", 
+            "text": "Tell me about your event rooms"
+        }, 
+        {
+            "entities": [], 
+            "intent": "ask_for_rooms", 
+            "text": "How many locations do you provide?"
+        }, 
+        {
+            "entities": [], 
+            "intent": "ask_for_rooms", 
+            "text": "Can you give me information about your rooms?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 45, 
+                    "entity": "nr_of_people", 
+                    "startPos": 43
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What kind of rooms are available that fits 250 employees in your hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 52, 
+                    "entity": "nr_of_people", 
+                    "startPos": 50
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I would like to reserve a place that has room for 150 guests in your hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 30, 
+                    "entity": "nr_of_people", 
+                    "startPos": 28
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We are searching a room for 250 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 42, 
+                    "entity": "nr_of_people", 
+                    "startPos": 40
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am searching a room that has room for 200 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 49, 
+                    "entity": "nr_of_people", 
+                    "startPos": 47
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What locations are available that has room for 200 employees in the one king hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "nr_of_people", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am searching a room for 200 persons in your hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 32, 
+                    "entity": "nr_of_people", 
+                    "startPos": 30
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am searching a location for 250 people in your hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 35, 
+                    "entity": "nr_of_people", 
+                    "startPos": 33
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What rooms do you have that fits 150 people?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 44, 
+                    "entity": "nr_of_people", 
+                    "startPos": 42
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We are searching a room that has room for 200 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 51, 
+                    "entity": "nr_of_people", 
+                    "startPos": 49
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What event rooms are available that has room for 200 employees in the one king hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 48, 
+                    "entity": "nr_of_people", 
+                    "startPos": 46
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We are interested in a meeting room that fits 200 employees in the one king hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 39, 
+                    "entity": "nr_of_people", 
+                    "startPos": 37
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We need a location that has room for 250 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 37, 
+                    "entity": "nr_of_people", 
+                    "startPos": 35
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What event rooms are available for 200 employees in your hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 58, 
+                    "entity": "nr_of_people", 
+                    "startPos": 56
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I would like to reserve an event room that has room for 150 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 52, 
+                    "entity": "nr_of_people", 
+                    "startPos": 50
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am looking for a meeting room that has room for 250 persons in the one king hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 41, 
+                    "entity": "nr_of_people", 
+                    "startPos": 39
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We are interested in an event room for 250 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 52, 
+                    "entity": "nr_of_people", 
+                    "startPos": 50
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We are searching a meeting room that has room for 250 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 37, 
+                    "entity": "nr_of_people", 
+                    "startPos": 35
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What rooms are available that fits 200 guests?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 36, 
+                    "entity": "nr_of_people", 
+                    "startPos": 34
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What locations do you provide for 200 employees in your hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 57, 
+                    "entity": "nr_of_people", 
+                    "startPos": 55
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We would like to reserve a room for an event that fits 250 persons in your hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 39, 
+                    "entity": "nr_of_people", 
+                    "startPos": 37
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We are looking for a place that fits 150 employees in your hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 47, 
+                    "entity": "nr_of_people", 
+                    "startPos": 45
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am interested in a place that has room for 150 guests in your hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 32, 
+                    "entity": "nr_of_people", 
+                    "startPos": 30
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What rooms do you provide for 250 persons in the one king hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 43, 
+                    "entity": "nr_of_people", 
+                    "startPos": 41
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We are searching an event room that fits 250 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 46, 
+                    "entity": "nr_of_people", 
+                    "startPos": 44
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We are looking for a meeting room that fits 200 persons in the one king hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 45, 
+                    "entity": "nr_of_people", 
+                    "startPos": 43
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What rooms are available that has room for 250 employees?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 45, 
+                    "entity": "nr_of_people", 
+                    "startPos": 43
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What kind of event rooms are available for 150 people in your hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 39, 
+                    "entity": "nr_of_people", 
+                    "startPos": 37
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We need a location that has room for 250 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 52, 
+                    "entity": "nr_of_people", 
+                    "startPos": 50
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We would like to reserve a room that has room for 250 persons in your hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 38, 
+                    "entity": "nr_of_people", 
+                    "startPos": 36
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I would like to reserve a place for 200 people in the one king hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 46, 
+                    "entity": "nr_of_people", 
+                    "startPos": 44
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What kind of event rooms do you provide for 250 guests in your hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 38, 
+                    "entity": "nr_of_people", 
+                    "startPos": 36
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We're looking for an event room for 200 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 36, 
+                    "entity": "nr_of_people", 
+                    "startPos": 34
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am interested in a location for 150 employees in the one king hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 41, 
+                    "entity": "nr_of_people", 
+                    "startPos": 39
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We are interested in a place that fits 200 persons in the one king hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 50, 
+                    "entity": "nr_of_people", 
+                    "startPos": 48
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am interested in a location that has room for 200 people in your hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 43, 
+                    "entity": "nr_of_people", 
+                    "startPos": 41
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What kind of locations are available for 250 guests?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 39, 
+                    "entity": "nr_of_people", 
+                    "startPos": 37
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What meeting rooms are available for 150 people in the one king hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 48, 
+                    "entity": "nr_of_people", 
+                    "startPos": 46
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We are interested in a room that has room for 250 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 47, 
+                    "entity": "nr_of_people", 
+                    "startPos": 45
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I would like to reserve a location that fits 200 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 36, 
+                    "entity": "nr_of_people", 
+                    "startPos": 34
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "How many rooms do you provide for 250 people in the one king hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 52, 
+                    "entity": "nr_of_people", 
+                    "startPos": 50
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am looking for a meeting room that has room for 250 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 42, 
+                    "entity": "nr_of_people", 
+                    "startPos": 40
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I need a meeting room that has room for 200 guests in the one king hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 46, 
+                    "entity": "nr_of_people", 
+                    "startPos": 44
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We would like to reserve a meeting room for 150 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 51, 
+                    "entity": "nr_of_people", 
+                    "startPos": 49
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am looking for an event room that has room for 150 people in the one king hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 37, 
+                    "entity": "nr_of_people", 
+                    "startPos": 35
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What kind of rooms do you have for 250 people in your hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 38, 
+                    "entity": "nr_of_people", 
+                    "startPos": 36
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What rooms do you provide that fits 250 persons?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 20, 
+                    "entity": "nr_of_people", 
+                    "startPos": 18
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I need a room for 200 employees in the one king hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 33, 
+                    "entity": "nr_of_people", 
+                    "startPos": 31
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I need an event room that fits 200 people in the one king hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 51, 
+                    "entity": "nr_of_people", 
+                    "startPos": 49
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "We would like to reserve an event room that fits 200 people in the one king hotel"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 35, 
+                    "entity": "nr_of_people", 
+                    "startPos": 33
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "What locations are available for 200 guests in your hotel?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 43, 
+                    "entity": "nr_of_people", 
+                    "startPos": 41
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I would like to reserve a room that fits 150 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 36, 
+                    "entity": "nr_of_people", 
+                    "startPos": 34
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am looking for a room that fits 150 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 57, 
+                    "entity": "nr_of_people", 
+                    "startPos": 55
+                }
+            ], 
+            "intent": "ask_for_rooms", 
+            "text": "I am looking for a room for an event that has room for 150 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have a meeting for 150 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 2, 
+                    "entity": "nr_of_people", 
+                    "startPos": 0
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "200 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 17, 
+                    "entity": "nr_of_people", 
+                    "startPos": 15
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We planned for 250 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "nr_of_people", 
+                    "startPos": 19
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We need a room for 200 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "nr_of_people", 
+                    "startPos": 19
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We need a room for 150"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "nr_of_people", 
+                    "startPos": 19
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We need a room for 150 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "nr_of_people", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have to get a room for 200 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "nr_of_people", 
+                    "startPos": 20
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are planning for 200"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 19, 
+                    "entity": "nr_of_people", 
+                    "startPos": 17
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are expecting 150"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 19, 
+                    "entity": "nr_of_people", 
+                    "startPos": 17
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are expecting 150 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 17, 
+                    "entity": "nr_of_people", 
+                    "startPos": 15
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We planned for 150 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 17, 
+                    "entity": "nr_of_people", 
+                    "startPos": 15
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We planned for 250"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 17, 
+                    "entity": "nr_of_people", 
+                    "startPos": 15
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We planned for 250 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 2, 
+                    "entity": "nr_of_people", 
+                    "startPos": 0
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "250 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "nr_of_people", 
+                    "startPos": 19
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We need a room for 200"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "nr_of_people", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have to get a room for 250 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have a meeting for 250 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "The event will be for 200 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 17, 
+                    "entity": "nr_of_people", 
+                    "startPos": 15
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We planned for 200"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 19, 
+                    "entity": "nr_of_people", 
+                    "startPos": 17
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are expecting 150 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "nr_of_people", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have to get a room for 150 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 2, 
+                    "entity": "nr_of_people", 
+                    "startPos": 0
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "250 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "The event will be for 250 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "nr_of_people", 
+                    "startPos": 19
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We need a room for 200 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "nr_of_people", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have to get a room for 250 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "The event will be for 150 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 2, 
+                    "entity": "nr_of_people", 
+                    "startPos": 0
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "150 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "nr_of_people", 
+                    "startPos": 20
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are planning for 200 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "nr_of_people", 
+                    "startPos": 19
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We need a room for 150 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have a meeting for 250 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "nr_of_people", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have to get a room for 200 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 17, 
+                    "entity": "nr_of_people", 
+                    "startPos": 15
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We planned for 150 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 2, 
+                    "entity": "nr_of_people", 
+                    "startPos": 0
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "250 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 19, 
+                    "entity": "nr_of_people", 
+                    "startPos": 17
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are expecting 200 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "The event will be for 250 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "The event will be for 150 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have a meeting for 150"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have a meeting for 250"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 2, 
+                    "entity": "nr_of_people", 
+                    "startPos": 0
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "150 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 19, 
+                    "entity": "nr_of_people", 
+                    "startPos": 17
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are expecting 200 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 2, 
+                    "entity": "nr_of_people", 
+                    "startPos": 0
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "200 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "nr_of_people", 
+                    "startPos": 20
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are planning for 200 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "nr_of_people", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have to get a room for 150 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "The event will be for 200 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 17, 
+                    "entity": "nr_of_people", 
+                    "startPos": 15
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We planned for 250 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 2, 
+                    "entity": "nr_of_people", 
+                    "startPos": 0
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "250 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "The event will be for 200 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "The event will be for 150 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 19, 
+                    "entity": "nr_of_people", 
+                    "startPos": 17
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are expecting 200"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 2, 
+                    "entity": "nr_of_people", 
+                    "startPos": 0
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "150 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 19, 
+                    "entity": "nr_of_people", 
+                    "startPos": 17
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are expecting 250 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have a meeting for 200 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "The event will be for 150 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 2, 
+                    "entity": "nr_of_people", 
+                    "startPos": 0
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "200 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have a meeting for 200 employees"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "The event will be for 200 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "nr_of_people", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have to get a room for 250 people"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 19, 
+                    "entity": "nr_of_people", 
+                    "startPos": 17
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are expecting 150 persons"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "nr_of_people", 
+                    "startPos": 20
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We are planning for 150"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "nr_of_people", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "provide_nr_of_people", 
+            "text": "We have a meeting for 250 guests"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "room", 
+                    "startPos": 19
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "I will reserve the second room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 45, 
+                    "entity": "room", 
+                    "startPos": 45
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks for your help! I want to reserve room C."
+        }, 
+        {
+            "entities": [], 
+            "intent": "reserve_room", 
+            "text": "Can I book the room now?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 55, 
+                    "entity": "room", 
+                    "startPos": 51
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you very much for your help. I will take the first room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 40, 
+                    "entity": "room", 
+                    "startPos": 40
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks for your help! We will book room A."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "room", 
+                    "startPos": 21
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Ok! We will take the last room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 20, 
+                    "entity": "room", 
+                    "startPos": 20
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "I will reserve room B."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "room", 
+                    "startPos": 20
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "We want to book the first room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 46, 
+                    "entity": "room", 
+                    "startPos": 42
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks for your help! We will reserve the third room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 16, 
+                    "entity": "room", 
+                    "startPos": 16
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Ok! I take room C."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "room", 
+                    "startPos": 24
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Ok! We will reserve the third room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 43, 
+                    "entity": "room", 
+                    "startPos": 43
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks for your help! We will reserve room A."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 20, 
+                    "entity": "room", 
+                    "startPos": 17
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "We will take the last room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 25, 
+                    "entity": "room", 
+                    "startPos": 25
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks! I will book room C."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 30, 
+                    "entity": "room", 
+                    "startPos": 27
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you! I will book the last room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "room", 
+                    "startPos": 23
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Ok! I want to book the second room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 25, 
+                    "entity": "room", 
+                    "startPos": 25
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks! I will take room B."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 51, 
+                    "entity": "room", 
+                    "startPos": 47
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you very much for your help. We take the first room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 42, 
+                    "entity": "room", 
+                    "startPos": 42
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks for your help! I will reserve room B."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 48, 
+                    "entity": "room", 
+                    "startPos": 44
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks for your help! I want to reserve the third room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 26, 
+                    "entity": "room", 
+                    "startPos": 26
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks! We will take room C."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 34, 
+                    "entity": "room", 
+                    "startPos": 30
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you! I will reserve the first room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "room", 
+                    "startPos": 16
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Ok! We take the second room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 39, 
+                    "entity": "room", 
+                    "startPos": 39
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks for your help! I will book room A."
+        }, 
+        {
+            "entities": [], 
+            "intent": "reserve_room", 
+            "text": "Can I make a reservation right now?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 29, 
+                    "entity": "room", 
+                    "startPos": 24
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks! I will take the second room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "room", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Ok! We will take room C."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 61, 
+                    "entity": "room", 
+                    "startPos": 57
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you very much for your help. I want to reserve the first room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 43, 
+                    "entity": "room", 
+                    "startPos": 43
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks for your help! We will reserve room B."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 58, 
+                    "entity": "room", 
+                    "startPos": 54
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you very much for your help. I want to book the third room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 20, 
+                    "entity": "room", 
+                    "startPos": 20
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "I will reserve room C."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 27, 
+                    "entity": "room", 
+                    "startPos": 23
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Ok! I will reserve the first room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "room", 
+                    "startPos": 21
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Ok! I will book room C."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 42, 
+                    "entity": "room", 
+                    "startPos": 39
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks for your help! We will book the last room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 32, 
+                    "entity": "room", 
+                    "startPos": 32
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you! We will reserve room B."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 19, 
+                    "entity": "room", 
+                    "startPos": 16
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "I will book the last room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 22, 
+                    "entity": "room", 
+                    "startPos": 17
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "We will take the second room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 32, 
+                    "entity": "room", 
+                    "startPos": 32
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you! We will reserve room A."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 48, 
+                    "entity": "room", 
+                    "startPos": 44
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks for your help! I want to reserve the first room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 31, 
+                    "entity": "room", 
+                    "startPos": 31
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks! I want to reserve room B."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 23, 
+                    "entity": "room", 
+                    "startPos": 20
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Ok! I will book the last room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 56, 
+                    "entity": "room", 
+                    "startPos": 56
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you very much for your help. We want to book room A."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 31, 
+                    "entity": "room", 
+                    "startPos": 27
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you! I will take the third room."
+        }, 
+        {
+            "entities": [], 
+            "intent": "reserve_room", 
+            "text": "Can I book the room right now?"
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 27, 
+                    "entity": "room", 
+                    "startPos": 22
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you! I take the second room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 15, 
+                    "entity": "room", 
+                    "startPos": 12
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "We take the last room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 28, 
+                    "entity": "room", 
+                    "startPos": 28
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks! I will reserve room A."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 32, 
+                    "entity": "room", 
+                    "startPos": 28
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks! We will reserve the third room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 17, 
+                    "entity": "room", 
+                    "startPos": 17
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Ok! We take room C."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 26, 
+                    "entity": "room", 
+                    "startPos": 23
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you! We take the last room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 63, 
+                    "entity": "room", 
+                    "startPos": 58
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you very much for your help. We want to reserve the second room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 55, 
+                    "entity": "room", 
+                    "startPos": 55
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you very much for your help. I will reserve room B."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 52, 
+                    "entity": "room", 
+                    "startPos": 52
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you very much for your help. I will book room B."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 31, 
+                    "entity": "room", 
+                    "startPos": 31
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks! I want to reserve room C."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 59, 
+                    "entity": "room", 
+                    "startPos": 54
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you very much for your help. I will reserve the second room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 38, 
+                    "entity": "room", 
+                    "startPos": 34
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thank you! We want to reserve the third room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "room", 
+                    "startPos": 21
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Ok! I will book room A."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 41, 
+                    "entity": "room", 
+                    "startPos": 38
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks for your help! I will take the last room."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 21, 
+                    "entity": "room", 
+                    "startPos": 21
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks! We take room C."
+        }, 
+        {
+            "entities": [
+                {
+                    "endPos": 24, 
+                    "entity": "room", 
+                    "startPos": 19
+                }
+            ], 
+            "intent": "reserve_room", 
+            "text": "Thanks! I take the second room."
+        }
+    ], 
+    "versionId": "0.1.0"
+}

@@ -1,0 +1,168 @@
+%[greet+ask_for_room_equipment]('training': '330')
+    ~[hi] ~[how_are_you?] ~[is_there] ~[equipment] ~[to_present]?
+    ~[hi] ~[how_are_you?] ~[is_there] ~[equipment] ~[to_present] ~[for_staff]?
+    ~[hi] ~[how_are_you?] ~[is_there] ~[equipment] ~[for_staff] ~[in_room]?
+    ~[hi] ~[how_are_you?] ~[is_there] ~[equipment] ~[to_present] ~[in_room]?
+    ~[hi] ~[how_are_you?] ~[is_there] ~[a_room] ~[which has] ~[equipment] ~[to_present]?
+    ~[hi] ~[how_are_you?] ~[is_there] ~[a_room] ~[which has] ~[equipment] ~[for_staff]?
+    ~[hi] ~[how_are_you?] ~[does] ~[specific_room] ~[have] ~[equipment]?
+    ~[hi] ~[how_are_you?] ~[does] ~[specific_room] ~[have] ~[equipment] ~[to_present]?
+    ~[hi] ~[how_are_you?] ~[does] ~[specific_room] ~[have] ~[equipment] ~[for_staff]?
+    ~[hi] ~[how_are_you?] ~[can_we] ~[present]?
+    ~[hi] ~[how_are_you?] ~[can_we] ~[present] ~[in_room]?
+    ~[hi] ~[how_are_you?] ~[can_we] ~[present] ~[for_staff]?
+    ~[hi] ~[how_are_you?] ~[we] ~[need] ~[to_present]
+    ~[hi] ~[how_are_you?] ~[are_there] ~[rooms] ~[which have] ~[equipment]?
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+~[hi]
+    Hi
+    Hello
+    Hey
+    Good morning
+    Good afternoon
+    Good evening
+    Hey there
+    Hi there
+    Hello there
+    Hey man
+
+~[how_are_you]
+    how are you?
+    how is it going?
+    how is life?
+    how are things?
+
+~[specific_room]
+    ~[room?] @[room#letter]
+
+~[in_room]
+    in ~[specific_room]
+
+~[is_there]
+    Is there
+    Do you have
+    Do you provide
+
+~[are_there]
+    Do you have
+    Are there
+
+~[which has]
+    which has
+    that has
+    with
+
+~[which have]
+    which have
+    that have
+    with
+
+~[equipment]
+    equipment
+    ~[a_equipment]
+    @[equipment#plural]
+
+~[a_equipment]
+    a @[equipment#c]
+    an @[equipment#v]
+
+@[equipment#c]
+    video system
+    projector
+    screen
+    TV
+    light system
+    beamer
+    speaker
+    loudspeaker
+
+@[equipment#v]
+    audio/video system
+    audio system
+
+@[equipment#plural]
+    video systems
+    projectors
+    screens
+    TVs
+    light systems
+    beamers
+    audio systems
+    speakers
+    loudspeakers
+
+~[to_present]
+    to ~[present]
+
+~[present]
+    do a presentation
+    hold a presentation
+    show a presentation
+    do a talk
+    show a powerpoint presentation
+    do a powerpoint presentation
+    present
+    make a presentation
+
+~[a_room]
+    an ~[room#v]
+    a ~[room#c]
+
+~[room#c]
+    room
+    meeting room
+    location
+
+~[room#v]
+    event room
+    option
+
+~[room_with_one]
+    ~[room]
+    one
+
+~[room_with_ones]
+    ~[room_with_one]s
+
+~[rooms]
+    ~[room]s
+
+~[for_staff]
+    for our staff
+    for our employees
+    for the team
+    for my colleagues
+
+~[have]
+    have
+
+~[can_we]
+    Can ~[we]
+    Could ~[we]
+    Are we able to
+    ~[we] should be able to
+    Is it possible to
+    Is there a possibility to
+
+~[we]
+    we
+    I
+
+~[need]
+    need
+    would like
+    want
+    like
+    have
+    must
+
+~[does]
+    Does

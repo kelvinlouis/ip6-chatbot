@@ -1,0 +1,31 @@
+@import '../../styles/variables';
+
+.thinking-indicator {
+  display: table;
+  position: relative;
+  width: auto;
+  margin: 1.25rem 0;
+  border-radius: 50px;
+  will-change: transform;
+  opacity: 0;
+
+  .thinking-indicator__dot {
+    width: 10px;
+    height: 10px;
+    margin: 0 3px;
+    border-radius: 50%;
+    float: left;
+    background-color: $white;
+    opacity: 0.4;
+
+    @for $i from 1 through 3 {
+      &:nth-of-type(#{$i}) {
+        animation: 2s blink infinite ($i * .3333s), 2s bulge infinite ease-out ($i * .3333s);
+      }
+    }
+  }
+
+  &--visible {
+    opacity: 1;
+  }
+}

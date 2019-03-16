@@ -1,0 +1,71 @@
+%[farewell]('training': '300')
+    ~[bye]
+    ~[ok], ~[thanks]
+    ~[ok], ~[bye]
+    ~[ok], ~[thanks], ~[bye]
+    ~[ok], ~[bye], ~[thanks]
+    ~[bye], ~[thanks]
+    ~[wish] a ~[nice] ~[day]
+    ~[contact]
+    ~[thanks]. ~[contact]
+    ~[thanks]. ~[contact]. ~[bye]
+
+~[bye]
+    Bye
+    Byebye
+    cu
+    bb
+    Goodbye
+    See you
+    See you soon
+    Seeya
+    Talk to you later    
+    Talk later
+    Chat with you later
+    ttyl
+    Take care
+    Adieu
+    I am leaving
+    I have to go
+    I am gone
+
+~[nice]
+    nice
+    good
+    great
+
+~[day]
+    day
+    evening
+    night
+    afternoon
+    time
+
+~[wish]
+    I wish you
+    Wish you
+    Have 
+    I hope you'll have
+
+~[thanks]
+    Thank you
+    Thanks
+    Thanks a lot
+    Thanks very much
+    Thank you very much
+    Thanks so much
+    Thank you so much
+    Many thanks
+    Thanks for ~[help]
+
+~[help]
+    your help
+    the help
+    helping
+    helping me
+
+~[contact]
+    I will be in touch
+    We will be in touch
+    I will contact you again
+    Stay in touch

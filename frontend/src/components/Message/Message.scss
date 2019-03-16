@@ -1,0 +1,123 @@
+@import '../../styles/variables';
+
+$avatar-size: 64px;
+$message-max-width: 600px;
+
+.message {
+  display: flex;
+  position: relative;
+
+  // Nesting necessary to override Material-UI styles
+  .message__avatar {
+    width: $avatar-size;
+    height: $avatar-size;
+    font-size: 1.5rem;
+    background-color: rgba($bg-white, 0.6);
+    box-shadow: 0px 4px 4px rgba($black, 0.25);
+  }
+}
+
+.message__text {
+  position: relative;
+  max-width: $message-max-width;
+  padding: 0.75rem 1rem;
+  border-radius: 40px;
+  background-color: $bg-white;
+  color: rgba($black, 0.9);
+  word-wrap: break-word;
+  animation: 0.4s fadeInUp ease-in-out;
+}
+
+.message__time {
+  margin-right: 1.25rem;
+  margin-left: 1.25rem;
+  min-width: 80px;
+  align-self: center;
+  font-size: 75%;
+  color: rgba($white, 0.6);
+  animation: 0.4s fadeInUp ease-in-out;
+}
+
+.message__error {
+  position: relative;
+
+  &:after {
+    content: '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 1rem;
+    margin-top: -0.7em;
+    overflow: hidden;
+    color: $language-error-color;
+    letter-spacing: -0.25em;
+  }
+}
+
+.message--avatar {
+  margin-top: 1.25rem;
+
+  .message__avatar {
+    animation: 0.5s fadeIn ease-out;
+  }
+
+  .message__text,
+  .message__time {
+    margin-top: ($avatar-size / 2);
+  }
+}
+
+.message--plain {
+  margin-top: 0.5rem;
+
+  .message__avatar {
+    display: none;
+  }
+}
+
+.message--bot {
+  .message__text {
+    margin-left: 1.25rem;
+  }
+
+  .message__time {
+    text-align: left;
+  }
+
+  &.message--avatar {
+    .message__text {
+      border-radius: 0 40px 40px;
+    }
+  }
+
+  &.message--plain {
+    .message__text {
+      margin-left: ($avatar-size + 20px);
+    }
+  }
+}
+
+.message--user {
+  flex-direction: row-reverse;
+
+  .message__text {
+    margin-right: 1.25rem;
+  }
+
+  .message__time {
+    text-align: right;
+  }
+
+  &.message--avatar {
+    .message__text {
+      border-radius: 40px 0 40px 40px;
+    }
+  }
+
+  &.message--plain {
+    .message__text {
+      margin-right: ($avatar-size + 20px);
+    }
+  }
+}

@@ -1,0 +1,108 @@
+%[reserve_room]('training': '500')
+    ~[appreciation?] ~[we] ~[reserve_specific] ~[specific_room]
+    ~[question_start] ~[reserve]?
+    ~[question_start] ~[reserve] ~[now]?
+    ~[Is] ~[specific_room] ~[available]?
+    ~[Can] ~[specific_room] ~[be_booked]?
+
+@[room#letter]
+    Alpha
+    Beta
+    Gamma
+    alpha
+    beta
+    gamma
+
+@[room#number]
+    first
+    second
+    third
+    last
+
+@[room#this]
+    this
+
+@[room#it]
+    it
+
+@[room#the]
+    the
+
+~[specific_room]
+    ~[room?] @[room#letter]
+    the @[room#number] ~[room_with_one]
+    @[room#this] ~[room_with_one?]
+    @[room#it]
+    @[room#the] ~[room]
+
+~[question_start]
+    Can I
+    Could I
+    Can we
+    Could we
+    Can you
+    Could you
+    Is it possible to
+    Would it be possible to
+
+~[we]
+    We
+    I
+
+~[reserve]
+    reserve
+    reserve ~[specific_room]
+    book
+    book ~[specific_room]
+    make a reservation
+    do the reservation
+
+~[room]
+    room
+    event room
+    meeting room
+    location
+    option
+    possibility
+
+~[room_with_one]
+    one
+    ~[room]
+
+~[now]
+    now
+    right now
+
+~[reserve_specific]
+    take
+    want
+    want to book
+    want to reserve
+    would like to book
+    would like to reserve
+    go with
+    will book
+    will take
+    will reserve
+    would like
+
+~[appreciation]
+    Thank you very much for your help.
+    Thanks for your help!
+    Thanks!
+    Thank you!
+    Ok!
+
+~[Is]
+    Is
+    And is
+
+~[Can]
+    Can
+
+~[be_booked]
+    be booked
+    be reserved
+
+~[available]
+    available

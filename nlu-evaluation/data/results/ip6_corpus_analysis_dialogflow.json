@@ -1,0 +1,111 @@
+[
+    {
+        "intents": [
+            {
+                "reserve_room": [
+                    {
+                        "truePos": 20,
+                        "falseNeg": 0,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 1.0,
+                        "f1": 1.0
+                    }
+                ],
+                "provide_name": [
+                    {
+                        "truePos": 20,
+                        "falseNeg": 0,
+                        "falsePos": 11,
+                        "precision": 0.6451612903225806,
+                        "recall": 1.0,
+                        "f1": 0.7843137254901961
+                    }
+                ],
+                "provide_nr_of_people": [
+                    {
+                        "truePos": 20,
+                        "falseNeg": 0,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 1.0,
+                        "f1": 1.0
+                    }
+                ],
+                "greet": [
+                    {
+                        "truePos": 9,
+                        "falseNeg": 11,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 0.45,
+                        "f1": 0.6206896551724138
+                    }
+                ],
+                "ask_for_rooms": [
+                    {
+                        "truePos": 20,
+                        "falseNeg": 0,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 1.0,
+                        "f1": 1.0
+                    }
+                ],
+                "precision": 0.89,
+                "recall": 0.89,
+                "f1": 0.89
+            }
+        ],
+        "entities": [
+            {
+                "company": [
+                    {
+                        "truePos": 27,
+                        "falseNeg": 2,
+                        "falsePos": 2,
+                        "precision": 0.9310344827586207,
+                        "recall": 0.9310344827586207,
+                        "f1": 0.9310344827586207
+                    }
+                ],
+                "name": [
+                    {
+                        "truePos": 38,
+                        "falseNeg": 2,
+                        "falsePos": 2,
+                        "precision": 0.95,
+                        "recall": 0.95,
+                        "f1": 0.9500000000000001
+                    }
+                ],
+                "nr_of_people": [
+                    {
+                        "truePos": 39,
+                        "falseNeg": 0,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 1.0,
+                        "f1": 1.0
+                    }
+                ],
+                "room": [
+                    {
+                        "truePos": 18,
+                        "falseNeg": 1,
+                        "falsePos": 1,
+                        "precision": 0.9473684210526315,
+                        "recall": 0.9473684210526315,
+                        "f1": 0.9473684210526315
+                    }
+                ],
+                "precision": 0.9606299212598425,
+                "recall": 0.9606299212598425,
+                "f1": 0.9606299212598425
+            }
+        ],
+        "precision": 0.9295154185022027,
+        "recall": 0.9295154185022027,
+        "f1": 0.9295154185022027
+    }
+]

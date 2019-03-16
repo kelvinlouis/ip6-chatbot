@@ -1,0 +1,92 @@
+version: '3'
+
+services:
+  rasa-core:
+    image: rasa_core_avx2:latest
+    ports: 
+      - "127.0.0.1:${CORE_PORT}:${CORE_PORT}"
+    depends_on:
+      - rasa-nlu
+      - action-server
+      - mongo
+    env_file:
+      - .env
+    restart: always
+    volumes:
+      - ${PWD}/backend/models/dialogue-prod:/app/models/dialogue
+      - ${PWD}/backend/budget_slot.py:/app/budget_slot.py
+      - ${PWD}/backend/no_of_people_slot.py:/app/no_of_people_slot.py
+      - ${PWD}/backend/room_slot.py:/app/room_slot.py
+      - ${PWD}/backend/languagetool/api.py:/app/languagetool/api.py
+      - ${PWD}/backend/languagetool/ignore.txt:/app/languagetool/ignore.txt
+      - ${PWD}/backend/nlu/api.py:/app/nlu/api.py
+      - ${PWD}/backend/webapp.py:/app/webapp.py
+      - ${PWD}/backend/conversation_logger.py:/app/conversation_logger.py
+      - ${PWD}/backend/domain.yml:/app/domain.yml
+      - ${PWD}/docker-templates/endpoints_template.yml:/app/endpoints_template.yml
+      - ${PWD}/docker-templates/credentials_template.yml:/app/credentials_template.yml
+      - ${PWD}/backend/logs/rasa_core:/app/logs
+    command: python -m rasa_core.run -d models/dialogue --endpoints endpoints.yml --port ${CORE_PORT} --credentials credentials.yml -o logs/core.log --enable_api -u ${NLU_PROJECT}/${NLU_MODEL} -v
+  
+  rasa-nlu:
+    image: rasa_nlu_avx2:latest
+    ports: 
+      - "127.0.0.1:${NLU_PORT}:${NLU_PORT}"
+    restart: always
+    volumes:
+      - ${PWD}/backend/models/nlu-prod:/app/models/nlu
+      - ${PWD}/backend/none_intent_classifier.py:/app/none_intent_classifier.py
+      - ${PWD}/backend/logs/rasa_nlu:/app/logs
+    command: python -m rasa_nlu.server --path models/nlu --response_log logs/response.log -w logs/nlu.log -P ${NLU_PORT}
+  
+  action-server:
+    image: rasa/rasa_core_sdk:latest
+    ports: 
+      - "127.0.0.1:${ACTION_PORT}:${ACTION_PORT}"
+    restart: always
+    volumes:
+      - ${PWD}/backend/actions.py:/app/actions.py
+      - ${PWD}/backend/logs/rasa_core_sdk:/app/logs
+    command: start --actions actions -p ${ACTION_PORT}
+  
+  languagetool:
+    image: languagetool:latest
+    ports: 
+      - "127.0.0.1:${LANGUAGETOOL_PORT}:${LANGUAGETOOL_PORT}"
+    restart: always
+    volumes:
+      - ${PWD}/backend/languagetool/.languagetool.cfg:/LanguageTool-${LANGUAGETOOL_VERSION}/.languagetool.cfg
+      - ${PWD}/backend/languagetool/language-model:/LanguageTool-${LANGUAGETOOL_VERSION}/language-model
+    command: java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port ${LANGUAGETOOL_PORT} --config .languagetool.cfg --allow-origin '*' --public
+  
+  mongo:
+    image: mongo
+    ports: 
+      - "127.0.0.1:${MONGOD_PORT}:${MONGOD_PORT}"
+    restart: always
+    volumes:
+      - ${PWD}/mongodb/initdb.d/:/docker-entrypoint-initdb.d/
+      - ${PWD}/mongodb/data:/data/db
+      - ${PWD}/mongodb/mongod.conf:/etc/mongo/mongod.conf
+      - ${PWD}/mongodb/logs:/var/log/mongodb
+    command: mongod
+  
+  mongo-express:
+    image: mongo-express
+    ports: 
+      - "127.0.0.1:${MONGOEXPRESS_PORT}:${MONGOEXPRESS_PORT}"
+    restart: always
+    depends_on:
+      - mongo
+
+  webclient:
+    image: nginx
+    ports: 
+      - "80:80"
+    depends_on:
+      - rasa-core
+    restart: always
+    volumes:
+      - ${PWD}/docker-templates/nginx_template.conf:/etc/nginx/conf.d/default.conf
+      - ${PWD}/frontend/build:/usr/share/nginx/html:ro
+      - ${PWD}/docker-templates/.htpasswd:/etc/nginx/.htpasswd

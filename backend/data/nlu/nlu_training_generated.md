@@ -1,0 +1,2115 @@
+## intent:affirm
+- please do
+- okay
+- yep
+- absolutely
+- definitely
+- that would be nice
+- that would be great
+- sure
+- yes, that sounds good
+- yup
+- yes
+- yes, please
+- yes for sure
+- please do
+- okay
+- yep
+- absolutely
+- definitely
+- that would be nice
+- that would be great
+- sure
+- yes, that sounds good
+- yup
+- yes
+- yes, please
+- yes for sure
+- please do
+- okay
+- yep
+- absolutely
+- definitely
+- that would be nice
+- that would be great
+- sure
+- yes, that sounds good
+- yup
+- yes
+- yes, please
+- yes for sure
+- this is correct
+- this is correct
+- This is correct
+- most definitely
+- sounds good
+- yes, this sounds good
+- that sounds great
+- yes, that would be great
+- yes, this would be great
+- perfect!
+- indeed
+- yes, this is perfect
+- that would be perfect!
+- yes, that would be perfect
+- yes, this is good
+- yes, this is perfect
+- great
+- yes, great
+- yes, definitely
+- yes, that would be wonderful
+- yes, that'd be wonderful
+- yes, that'd be great
+- okay, sure
+- ok, sure
+- ok, great
+- ok, please
+- yes, very good
+- yeah
+
+## intent:ask_for_directions
+- How do we get to the hotel?
+- How do I get to the hotel?
+- How do I get there?
+- Where is your hotel located?
+- How do we get there?
+- Where is One King Hotel?
+- Where is the hotel?
+- Can I take a train from the [station](start_location)?
+- Tell me how to get there
+- Tell me how to get to One King Hotel
+- Tell me how to get to the hotel
+- What are the directions to your hotel?
+- Can you give me directions?
+- Is One King Hotel far away?
+- Please give me directions
+- Tell me what's the fastest way to get to your hotel?
+- Is there a quick way to get to the hotel?
+- Can you give me directions to the hotel?
+- What is the quickest way to your hotel?
+- What is the fastest way to your hotel?
+- What is the quickest way to the hotel?
+- What is the fastest way to the hotel?
+- Do you have a good location?
+- How can we get to the place?
+- Can I take a subway from the [airport](start_location)?
+- Give me directions
+- Can I take public transportation from the [airport](start_location)?
+- Can we take a train from the [train station](start_location)?
+- Is there public transportation from the [airport](start_location) to the hotel?
+- Can I take a shuttle from the [train station](start_location)?
+- Can I take public transportation from the [train station](start_location) to the hotel?
+- Can we take public transportation from the [airport](start_location) to the hotel?
+- Is there public transportation from the [rail station](start_location) to your hotel?
+- Is there public transportation from the [airport](start_location) to the place?
+- Can we take public transportation from the [station](start_location)?
+- Can I take public transportation from the [airport](start_location) to the place?
+- Is there a subway from the [train station](start_location) to the hotel?
+- Can we take a train from the [train station](start_location) to the hotel?
+- Is there public transportation from the [train station](start_location) to the hotel?
+- Is there a quick way to get to the place?
+- Can we take public transportation from the [train station](start_location)?
+- Tell me what's the fastest way to get to the hotel?
+- Is there a subway from the [train station](start_location) to the hotel?
+- Is there a subway from the [station](start_location) to the hotel?
+- Can I take public transportation from the [rail station](start_location) to the place?
+- Is there public transportation from the [station](start_location) to the place?
+- Can we take public transportation from the [train station](start_location) to the hotel?
+- Is there public transportation from the [station](start_location) to the hotel?
+- Can we take a subway from the [station](start_location) to the place?
+- Can we take a taxi from the [station](start_location) to the place?
+- Can I take public transportation from the [rail station](start_location)?
+- Is there public transportation from the [rail station](start_location) to the place?
+- Can I take a shuttle from the [train station](start_location) to the hotel?
+- Can we take public transportation from the [airport](start_location) to One King Hotel?
+- Is there a subway from the [airport](start_location) to the place?
+- Is there a direct way to get to the hotel?
+- Tell me what's the best way to get to the hotel?
+- Can we take public transportation from the [rail station](start_location) to the hotel?
+- Can we take public transportation from the [airport](start_location)?
+- Can we take a subway from the [train station](start_location) to the place?
+- Can we take a shuttle from the [train station](start_location) to One King Hotel?
+- Can I take public transportation from the [station](start_location) to the place?
+- Can I take a shuttle from the [station](start_location) to your hotel?
+- Is there a train from the [rail station](start_location)?
+- Can I take public transportation from the [station](start_location) to the hotel?
+- How can I get to One King Hotel?
+- How do we get to your hotel?
+- Can you give me the directions to One King Hotel?
+- Can we take a shuttle from the [train station](start_location) to the hotel?
+- Is there a shuttle from the [airport](start_location) to the hotel?
+- Is there public transportation from the [station](start_location)?
+- Is there public transportation from the [rail station](start_location) to One King Hotel?
+- Can we take public transportation from the [station](start_location) to the place?
+- Can we take a train from the [station](start_location)?
+- Can we take a taxi from the [airport](start_location) to your hotel?
+- Is there a fast way to get to the place?
+- Tell me what's the easiest way to get to the hotel?
+- Can I take a taxi from the [airport](start_location) to the hotel?
+- Can I take a subway from the [airport](start_location) to the place?
+- Can I take a train from the [station](start_location) to the hotel?
+- Can I take public transportation from the [rail station](start_location)?
+- Is there a train from the [station](start_location) to the hotel?
+- Is there a shuttle from the [train station](start_location)?
+- Can I take public transportation from the [airport](start_location)?
+- Is there a subway from the [rail station](start_location) to your hotel?
+- Is there a train from the [airport](start_location) to your hotel?
+- Can we take public transportation from the [station](start_location) to your hotel?
+- Is there a fast way to get to One King Hotel?
+- Is there public transportation from the [station](start_location) to your hotel?
+- Can I take a train from the [train station](start_location) to the place?
+- Can we take a shuttle from the [airport](start_location)?
+- Can I take a train from the [station](start_location) to the place?
+- Can I take public transportation from the [airport](start_location) to your hotel?
+- Is there public transportation from the [rail station](start_location)?
+- Can I take a shuttle from the [rail station](start_location) to your hotel?
+- Can I take public transportation from the [rail station](start_location) to the hotel?
+- Can we take a taxi from the [rail station](start_location) to your hotel?
+- Is there a fast way to get to your hotel?
+- Tell me what's the quickest way to get to the place?
+- Where is your hotel?
+- Can I take a taxi from the [rail station](start_location)?
+- Is there public transportation from the [rail station](start_location) to the hotel?
+- How do I get to the hotel?
+- Can you give me the directions to the place?
+- Tell me how to get to the place
+- What are the directions to One King Hotel?
+- Is the hotel far away?
+- How can we get to One King Hotel?
+- Can I take a train from the [rail station](start_location) to the hotel?
+- Can I take a shuttle from the [station](start_location) to One King Hotel?
+- Is there a taxi from the [train station](start_location)?
+- Can we take public transportation from the [train station](start_location) to your hotel?
+- Can I take public transportation from the [train station](start_location)?
+- Can I take a train from the [station](start_location) to One King Hotel?
+- Is there a simple way to get to One King Hotel?
+- Is there public transportation from the [airport](start_location)?
+- Can we take a train from the [station](start_location) to the place?
+- Can I take a train from the [airport](start_location) to your hotel?
+- Is there public transportation from the [train station](start_location)?
+- Can we take public transportation from the [rail station](start_location) to your hotel?
+- Can we take a shuttle from the [airport](start_location) to One King Hotel?
+- Can I take public transportation from the [train station](start_location) to the place?
+- Is there a train from the [station](start_location) to One King Hotel?
+- Can I take a train from the [rail station](start_location) to your hotel?
+- Is there an easy way to get to your hotel?
+- Can I take a subway from the [station](start_location) to your hotel?
+- Can we take public transportation from the [rail station](start_location)?
+- Tell me what's the easiest way to get to your hotel?
+- Is there public transportation from the [airport](start_location) to One King Hotel?
+- Is there a taxi from the [station](start_location)?
+- Can I take a taxi from the [station](start_location) to the hotel?
+- How do we get to the place?
+- Can I take a taxi from the [airport](start_location) to the place?
+- Can I take public transportation from the [rail station](start_location) to your hotel?
+- Is there a subway from the [airport](start_location) to your hotel?
+- Is there a taxi from the [station](start_location) to One King Hotel?
+- Is there a direct way to get to One King Hotel?
+- Can we take a train from the [station](start_location) to One King Hotel?
+- Can I take a train from the [airport](start_location) to the place?
+- Can I take a train from the [train station](start_location) to the hotel?
+- Can we take public transportation from the [rail station](start_location) to the place?
+- Can I take a taxi from the [airport](start_location)?
+- Can we take public transportation from the [station](start_location) to the hotel?
+- Can we take a train from the [airport](start_location) to your hotel?
+- Can we take a taxi from the [train station](start_location)?
+- Is there public transportation from the [train station](start_location) to your hotel?
+- Tell me what's the best way to get to the place?
+- Can we take a subway from the [train station](start_location) to your hotel?
+- Can we take public transportation from the [airport](start_location) to the place?
+- Can I take a shuttle from the [rail station](start_location)?
+- Can I take a train from the [airport](start_location) to the hotel?
+- Can we take public transportation from the [rail station](start_location) to One King Hotel?
+- Can we take a taxi from the [airport](start_location) to the place?
+- Where is the hotel located?
+- How do I get to the place?
+- Tell me how to get to your hotel
+- Can you give me directions to the place?
+- Can I take a bike from the [train station](start_location)?
+- Can I take a car from the [rail station](start_location) to the hotel?
+- Can we take a car from the [rail station](start_location) to your hotel?
+- Can I take a bike from the [rail station](start_location) to One King Hotel?
+- Can we take a car from the [rail station](start_location) to the place?
+- Can I take a car from the [station](start_location)?
+- Can we take a car from the [station](start_location) to the place?
+- Can I take a bike from the [train station](start_location) to One King Hotel?
+- Can I take a bike from the [station](start_location) to One King Hotel?
+- Can we take a car from the [airport](start_location) to your hotel?
+- What's the quickest way from the [rail station](start_location) to the hotel?
+- What is the quickest way from the [station](start_location) to the hotel by bike?
+- What is the quickest way from the [airport](start_location)?
+- What's the easiest way from the [station](start_location) by train?
+- What's the shortest way from the [station](start_location) to the place by bike?
+- What's the fastest way from the [rail station](start_location) to the place by bike?
+- What is the quickest way from the [train station](start_location) to your hotel by train?
+- What's the best way from the [rail station](start_location) by car?
+- What's the best way from the [station](start_location) to your hotel by bike?
+- What is the shortest way from the [station](start_location) to One King Hotel by train?
+- What is the best way from the [train station](start_location) to One King Hotel by train?
+- What's the fastest way from the [station](start_location) to One King Hotel?
+- What's the shortest way from the [train station](start_location) to your hotel by bike?
+- What is the fastest way from the [train station](start_location) by shuttle?
+- What's the easiest way from the [station](start_location) to your hotel by car?
+- What's the quickest way from the [station](start_location) to One King Hotel by subway?
+- What's the quickest way from the [rail station](start_location) to the place by taxi?
+- What's the quickest way from the [station](start_location) to your hotel by taxi?
+- What's the easiest way from the [rail station](start_location) to the hotel?
+- What is the fastest way from the [airport](start_location) by shuttle?
+- What's the shortest way from the [station](start_location) to the hotel by taxi?
+- What's the fastest way from the [airport](start_location) to the hotel by train?
+- What's the easiest way from the [airport](start_location) to your hotel by taxi?
+- What is the best way from the [train station](start_location) to the place by subway?
+- What's the quickest way from the [rail station](start_location) by bike?
+- What's the shortest way from the [train station](start_location) to the place by public transportation?
+- What's the quickest way from the [train station](start_location) by public transport?
+- What is the fastest way from the [station](start_location) to the place by public transportation?
+- What's the best way from the [train station](start_location) to the hotel by public transportation?
+- What is the shortest way from the [airport](start_location) to your hotel by public transport?
+- What's the easiest way from the [rail station](start_location) by public transportation?
+- What's the shortest way from the [station](start_location) to the hotel by public transportation?
+- What's the quickest way from the [rail station](start_location) to the hotel by public transportation?
+- What is the fastest way from the [rail station](start_location) to the hotel by public transportation?
+- What's the quickest way from the [airport](start_location) to the place by public transportation?
+- What is the best way from the [airport](start_location) to the hotel by public transportation?
+- What's the easiest way from the [station](start_location) by public transport?
+- What is the best way from the [airport](start_location) to your hotel by public transportation?
+- What is the shortest way from the [rail station](start_location) to the place by public transport?
+- What's the fastest way from the [rail station](start_location) to the place by public transport?
+
+## intent:ask_for_options
+- Do you have meeting rooms?
+- I want to hear more about the event rooms
+- What meeting rooms are available?
+- What event rooms do you provide?
+- Please give me meeting rooms
+- Do you have any information about your meeting rooms?
+- What meeting rooms do you provide?
+- Say something about your event rooms
+- I have a question about your meeting rooms
+- What kind of meeting rooms do you provide?
+- Please say something about your meeting rooms
+- What kind of event rooms are available?
+- Can you tell me more about the event rooms?
+- I have a question about your rooms
+- What kind of meeting rooms are available?
+- Say something about your rooms
+- What kind of meeting rooms do you have?
+- Do you provide meeting rooms?
+- Please say something about your event rooms
+- What rooms do you have?
+- Tell me about your rooms
+- How many event rooms do you have?
+- Do you have any information about your event rooms?
+- I'd like to know more about the rooms
+- Can you give me information about your event rooms?
+- What kind of event rooms do you provide?
+- How many meeting rooms do you have?
+- I'd like to know more about the event rooms
+- Do you have event rooms?
+- What meeting rooms do you have?
+- Please give me event rooms
+- What kind of rooms are available?
+- I want to hear more about the meeting rooms
+- What rooms do you provide?
+- Can you give me information about your rooms?
+- Tell me about your meeting rooms
+- I want to hear more about the rooms
+- How many rooms are available?
+- Please say something about your rooms
+- Can you tell me more about the rooms?
+- I am searching a meeting room
+- I am searching an event room in your hotel
+- I am looking for a location
+- I need a location in your hotel
+- I am searching an event room
+- I'm looking for an event room in your hotel
+- I am interested in an event room in your hotel
+- We would like to reserve an event room
+- We need a location in your hotel
+- I'm looking for an event room
+- We are interested in an event room in your hotel
+- We are interested in a meeting room in your hotel
+- We are searching a meeting room
+- We are looking for a meeting room in your hotel
+- I would like to book an event room
+- I am interested in an event room
+- I would like to book an event room in your hotel
+- We're looking for an event room in your hotel
+- We are searching an event room in your hotel
+- I need an event room in your hotel
+- We would like to reserve a meeting room
+- I need a meeting room
+- We are looking for an event room in your hotel
+- I am searching a room
+- We would like to reserve an event room in your hotel
+- We would like to book a room
+- I am looking for an event room in your hotel
+- We are interested in a location
+- We are interested in an event room
+- We are searching a location in your hotel
+- I am searching a location in your hotel
+- I'm looking for a meeting room
+- We need a room in your hotel
+- I'm looking for a room
+- We're looking for a room in your hotel
+- I am interested in a room
+- I'm looking for a location in your hotel
+- We are interested in a room in your hotel
+- I am looking for a meeting room
+- We are looking for a location in your hotel
+- We are interested in a location in your hotel
+- We are looking for an event room
+- I need a location
+- I need an event room
+- We need a location
+- We are looking for a meeting room
+- We are searching an event room
+- I'm looking for a meeting room in your hotel
+- We need an event room
+- I am looking for a room in your hotel
+- I am searching a location
+- We are searching a room in your hotel
+- We would like to book a room in your hotel
+- I would like to book a meeting room
+- I am looking for an event room
+- We are interested in a meeting room
+- We are interested in a room
+- I am looking for a room
+- We need an event room in your hotel
+- I need a room in your hotel
+- I would like to reserve an event room
+- We would like to book a location
+- I would like to reserve a meeting room in your hotel
+- We're looking for a meeting room
+- We're looking for an event room
+- I am searching a meeting room in your hotel
+- We are looking for a room
+- We would like to reserve a location
+- We would like to reserve a meeting room in your hotel
+- I am interested in a location in your hotel
+- We're looking for a location
+- We need a meeting room in your hotel
+- I am interested in a meeting room
+- We're looking for a room
+- I am looking for a meeting room in your hotel
+- I need a meeting room in your hotel
+- I am looking for a location in your hotel
+- We're looking for a meeting room in your hotel
+- We would like to book an event room in your hotel
+- I would like to reserve a location in your hotel
+
+## intent:deny
+- nope
+- No thank you
+- No man
+- No, I don't think so
+- Absolutely not
+- I'm sorry, but no
+- No thanks
+- Not today
+- Maybe not
+- no
+- No, I'm good
+- No, I'm sorry
+- nope
+- No thank you
+- No man
+- No, I don't think so
+- Absolutely not
+- I'm sorry, but no
+- No thanks
+- Not today
+- Maybe not
+- no
+- No, I'm good
+- No, I'm sorry
+- nope
+- No thank you
+- No man
+- No, I don't think so
+- Absolutely not
+- I'm sorry, but no
+- No thanks
+- Not today
+- Maybe not
+- no
+- No, I'm good
+- No, I'm sorry
+
+## intent:disagree
+- That doesn't sound good
+- Not great
+- I don't like it
+- Hm, doesn't seem good
+- That doesn't work
+- That doesn't sound good
+- Not great
+- I don't like it
+- Hm, doesn't seem good
+- That doesn't work
+- That doesn't sound good
+- Not great
+- I don't like it
+- Hm, doesn't seem good
+- That doesn't work
+
+## intent:farewell
+- ok, Talk to you later, Thanks very much
+- ok, Thank you so much, Bye
+- I am leaving, Thank you very much
+- Have a nice afternoon
+- ok, Thanks very much
+- Thanks so much. Stay in touch. Byebye
+- Talk to you later
+- Thanks very much. Stay in touch
+- ok, Chat with you later
+- I will contact you again
+- Thanks so much. We will be in touch. I have to go
+- Thanks for the help. Stay in touch. Goodbye
+- Thanks. I will contact you again. I am leaving
+- ok, Seeya, Thank you
+- Thanks. I will be in touch. See you
+- cu, Thank you
+- ok, Many thanks, Goodbye
+- Thanks a lot. I will be in touch. Byebye
+- Thank you very much. I will be in touch. ttyl
+- ok, See you, Thanks a lot
+- Thanks very much. Stay in touch. Goodbye
+- ok, Many thanks, Talk to you later
+- Byebye, Thanks
+- ok, Chat with you later, Thanks a lot
+- See you soon, Thanks
+- ok, Byebye, Thank you
+- Bye, Thank you very much
+- Thank you very much. I will be in touch. See you soon
+- Thanks a lot. I will contact you again. I am gone
+- Many thanks. Stay in touch. Seeya
+- Thank you. I will be in touch. Seeya
+- cu, Thanks for helping me
+- ok, I have to go, Thank you
+- Byebye, Thank you
+- ok, Many thanks, Take care
+- ok, Thanks very much, Take care
+- Bye, Many thanks
+- ok, ttyl, Thanks a lot
+- ok, cu
+- ok, Thanks, Seeya
+- Thank you. I will be in touch. See you
+- See you soon, Thanks so much
+- ok, Goodbye, Thank you very much
+- Thank you very much. We will be in touch. See you
+- Thanks for helping me. Stay in touch. I am gone
+- See you soon, Thanks very much
+- Thank you so much. Stay in touch. Chat with you later
+- Thanks for your help. We will be in touch. Goodbye
+- I hope you'll have a nice day
+- Thank you. I will contact you again. See you soon
+- Take care, Many thanks
+- Thank you so much. We will be in touch. Take care
+- Many thanks. I will contact you again. bb
+- ok, See you soon, Thanks
+- ok, Thank you very much, Talk later
+- Thanks very much. I will be in touch. Seeya
+- ok, Thanks a lot, See you soon
+- Thank you very much. Stay in touch. I have to go
+- Thanks so much. Stay in touch. bb
+- Thanks for helping me. We will be in touch. Goodbye
+- I wish you a nice evening
+- Thanks so much. I will contact you again. See you soon
+- Thanks. Stay in touch
+- ok, Thanks so much, Chat with you later
+- Thank you very much. I will contact you again. Talk later
+- Many thanks. I will contact you again. Byebye
+- ok, Thanks for your help, See you
+- ok, I am leaving, Many thanks
+- I am leaving, Thanks for your help
+- Thanks a lot. I will contact you again. I have to go
+- ok, See you soon, Thanks very much
+- Goodbye, Thank you so much
+- ok, Thanks so much, cu
+- Thanks very much. Stay in touch. Talk later
+- Thank you. I will contact you again. Seeya
+- Thanks. I will be in touch. Chat with you later
+- ok, Thank you, Goodbye
+- See you, Many thanks
+- ok, Chat with you later, Thanks for helping me
+- Thanks a lot. I will contact you again. ttyl
+- Thanks for helping. Stay in touch. Bye
+- Thanks for helping me. I will contact you again. I am leaving
+- I hope you'll have a good day
+- See you soon
+- ok, Byebye, Thanks
+- ok, Thank you very much, Goodbye
+- ok, See you
+- Take care, Thanks very much
+- Thank you so much. I will contact you again. I am gone
+- Thanks. I will be in touch. cu
+- Thank you. I will contact you again. cu
+- Thank you. We will be in touch. Goodbye
+- ok, Talk later, Thank you very much
+- ttyl, Thanks very much
+- Thank you very much. I will contact you again. See you
+- Thanks a lot. I will be in touch
+- Thanks. Stay in touch. See you
+- Thank you. Stay in touch. See you
+- See you soon, Many thanks
+- ok, Thank you so much, ttyl
+- ok, ttyl, Thank you so much
+- Thanks for the help. Stay in touch. Chat with you later
+- Thanks for helping. I will be in touch. Chat with you later
+- Thanks. We will be in touch. Byebye
+- ok, Thanks a lot, cu
+- Thank you. We will be in touch. cu
+- Goodbye, Thank you very much
+- Thanks so much. I will be in touch. cu
+- Many thanks. Stay in touch. Chat with you later
+- Many thanks. I will be in touch. Talk to you later
+- ok, Thanks so much, Take care
+- Thank you. I will be in touch. Goodbye
+- Goodbye, Thanks so much
+- Many thanks. I will be in touch. Seeya
+- Thank you very much. I will contact you again. Talk to you later
+- Thanks a lot. We will be in touch
+- Thanks a lot. We will be in touch. Bye
+- ok, Goodbye, Thank you so much
+- I have to go, Thanks
+- ok, Thanks for your help, Byebye
+- Thanks very much. We will be in touch. Take care
+- Thanks for helping me. Stay in touch. Talk later
+- Thank you very much. We will be in touch. Chat with you later
+- Wish you a nice afternoon
+- Thanks so much. We will be in touch. bb
+- Thanks so much. I will contact you again. Byebye
+- ok, I am leaving, Thank you very much
+- Thanks very much. I will contact you again. bb
+- Thanks. We will be in touch. Talk to you later
+- Thank you so much. Stay in touch. See you soon
+- ok, Take care, Thanks a lot
+- Talk later, Thank you so much
+- ok, Thanks a lot, Goodbye
+- Thanks very much. I will contact you again. Take care
+- Thank you very much. I will be in touch. Bye
+- Many thanks. Stay in touch. Take care
+- I am leaving, Many thanks
+- ok, Thanks very much, See you
+- ok, See you, Thank you so much
+- Thank you so much. Stay in touch. ttyl
+- Thanks a lot. Stay in touch. Chat with you later
+- Thank you. I will contact you again
+- ok, Thanks so much
+- Wish you a nice night
+- Thank you very much. Stay in touch. bb
+- ok, Thank you very much, I am leaving
+- Bye, Thanks very much
+- Many thanks. Stay in touch. ttyl
+- ok, Thanks a lot, See you
+- See you soon, Thank you so much
+- ok, I have to go, Thank you so much
+- Thanks so much. Stay in touch. Talk to you later
+- Thank you so much. I will contact you again. Byebye
+- Thanks so much. Stay in touch. Bye
+- ok, Take care
+- ok, Thanks very much, Bye
+- ok, I have to go, Thank you very much
+- Take care, Thanks
+- Seeya
+- Thanks for helping. Stay in touch. I am gone
+- ok, Seeya, Thanks very much
+- Wish you a great time
+- Many thanks. We will be in touch. Take care
+- ok, I am gone, Many thanks
+- ok, Thanks for your help, Take care
+- Talk later, Thanks for helping me
+- Thank you so much. Stay in touch. Seeya
+- Goodbye, Many thanks
+- Thank you. We will be in touch. Chat with you later
+- I am gone, Thanks for helping me
+- ok, Many thanks, Seeya
+- ok, bb, Thanks very much
+- ok, Thanks a lot, Chat with you later
+- Bye, Thank you
+- Thank you. I will be in touch
+- Thank you. I will contact you again. I have to go
+- ok, See you, Thanks
+- ok, Thanks for helping me, Byebye
+- Thanks so much. Stay in touch. Seeya
+- Thank you so much. I will be in touch. I am gone
+- Bye
+- bye
+- take care
+- Byebye
+- cu
+- bb
+- Goodbye
+- See you
+- See you soon
+- Seeya
+- Talk to you later    
+- Talk later
+- Chat with you later
+- ttyl
+- Take care
+- Adieu
+- I am leaving
+- I have to go
+- I am gone
+- thanks, take care
+- thank you, take care
+- i have to go
+- bye bye
+
+## intent:provide_budget
+- I have [Fr. 700](budget)
+- The budget is [Fr. 1'500](budget)
+- I have a budget of [CHF 1,200](budget)
+- It can't cost over [900 pounds](budget)
+- We have a limit of at most [€1200](budget)
+- It cannot cost over [Fr. 1,400](budget)
+- The limit is [600.-](budget)
+- I have a limit of at most [€1'000](budget)
+- We have [USD 1400](budget)
+- I have a budget of at most [1'200.-](budget)
+- We have a max of max [900 dollars](budget)
+- I can pay max [€1500](budget)
+- It can't cost over [1400.-](budget)
+- The cost should be maximum [$1'500](budget)
+- The limit is [Fr. 1,200](budget)
+- The budget is [700 dollars](budget)
+- The cost should be no more than [800.-](budget)
+- It cannot cost over [CHF 1400](budget)
+- It cannot cost over [1'000 euros](budget)
+- It cannot cost more than [€1'000](budget)
+- The cost should be no more than [£1200](budget)
+- It cannot cost more than [1,400 dollars](budget)
+- It should be below [GBP 700](budget)
+- I can pay maximum [1'000.-](budget)
+- The max is [1'500.-](budget)
+- The maximum is [£1000](budget)
+- The limit is [GBP 1'000](budget)
+- It cannot cost over [GBP 900](budget)
+- Our budget is [1'500.-](budget)
+- It must be below [1'500 francs](budget)
+- It must be below [USD 900](budget)
+- The cost should be max [£1400](budget)
+- It can't cost over [800 Swiss francs](budget)
+- We have [1,400.-](budget)
+- Our limit is [500 euros](budget)
+- I can pay no more than [1500.-](budget)
+- Our maximum is [1,200.-](budget)
+- It cannot cost over [1'500.-](budget)
+- Our max is [600 euro](budget)
+- It needs to be under [700 dollars](budget)
+- We can spend at most [GBP 1'400](budget)
+- The budget is [800 dollars](budget)
+- It cannot cost over [800 dollars](budget)
+- Our max is [1000.-](budget)
+- It cannot cost over [600.-](budget)
+- We can pay [900.-](budget)
+- It can't cost over [USD 600](budget)
+- We can pay at most [GBP 1'200](budget)
+- The cost should be max [$800](budget)
+- It can't cost over [1500 Swiss francs](budget)
+- The limit is [1000 pounds](budget)
+- I can pay no more than [900.-](budget)
+- The cost should be max [1200.-](budget)
+- It needs to be below [GBP 1400](budget)
+- It can't cost over [1,400.-](budget)
+- I can pay maximum [£800](budget)
+- The cost should be at most [1400.-](budget)
+- It should be under [1,500.-](budget)
+- It cannot cost over [GBP 1,500](budget)
+- It cannot cost more than [€1'500](budget)
+- It cannot cost more than [$1,400](budget)
+- It can't cost over [€1'500](budget)
+- The budget is [$600](budget)
+- The maximum is [GBP 1,400](budget)
+- It can't cost over [1'200.-](budget)
+- We can pay [1,500.-](budget)
+- We can spend no more than [1'200.-](budget)
+- We have [CHF 1'400](budget)
+- It can't cost over [GBP 700](budget)
+- It has to be below [600.-](budget)
+- We have [Fr. 1,500](budget)
+- It can't cost over [Fr. 700](budget)
+- It can't cost more than [$1400](budget)
+- We can pay at most [USD 1200](budget)
+- It cannot cost more than [$1,200](budget)
+- We have a max of maximum [1,200 dollars](budget)
+- It must be below [1,200.-](budget)
+- I have a limit of at most [1,400 pounds](budget)
+- The limit is [$1'400](budget)
+- Our budget is [USD 1,400](budget)
+- I have [USD 1,500](budget)
+- It cannot cost more than [€1'400](budget)
+- It can't cost over [$1,400](budget)
+- It cannot cost over [£1500](budget)
+- We have a limit of maximum [1400 pounds](budget)
+- We can pay maximum [1200.-](budget)
+- It cannot cost over [1'200.-](budget)
+- It cannot cost over [USD 600](budget)
+- It can't cost more than [1'400 francs](budget)
+- I have a budget of at most [900.-](budget)
+- It must be below [800 dollars](budget)
+- The cost should be maximum [1'500 pounds](budget)
+- I have a limit of [$1'400](budget)
+- Our max is [GBP 700](budget)
+- We have [USD 800](budget)
+- I can spend maximum [700.-](budget)
+- The cost should be max [€1500](budget)
+- We have [€1,400](budget)
+- Our maximum is [GBP 700](budget)
+- Our maximum is [£600](budget)
+- The cost should be max [500.-](budget)
+- I can pay no more than [CHF 1200](budget)
+- I have a budget of max [1400 euro](budget)
+- It needs to be under [1500.-](budget)
+- We have a budget of max [€1,000](budget)
+- We can pay at most [600 pounds](budget)
+- It must be under [600 euro](budget)
+- It cannot cost more than [$700](budget)
+- It can't cost more than [£1'000](budget)
+- The cost should be maximum [GBP 1500](budget)
+- It can't cost more than [$1'500](budget)
+- I can pay max [Fr. 1200](budget)
+- I can spend max [Fr. 500](budget)
+- It cannot cost more than [800.-](budget)
+- I have a max of no more than [1200 euros](budget)
+- Our budget is [£1200](budget)
+- We can pay no more than [1'400 dollars](budget)
+- It has to be under [500 pounds](budget)
+- I have [CHF 700](budget)
+- We have [USD 1,200](budget)
+- I can pay maximum [1000 pounds](budget)
+- It can't cost more than [1,500 dollars](budget)
+- Our budget is [1400.-](budget)
+- The cost should be maximum [700 Swiss francs](budget)
+- I have a limit of [CHF 1,400](budget)
+- It has to be under [900.-](budget)
+- We can pay no more than [$900](budget)
+- I have [€1'500](budget)
+- We can pay at most [1200 dollars](budget)
+- I have a max of max [1200.-](budget)
+- I can pay no more than [€1500](budget)
+- The limit is [€1,200](budget)
+- We can spend max [£800](budget)
+- It must be below [£1500](budget)
+- I can pay max [1'200 dollars](budget)
+- I can pay at most [1,500 dollars](budget)
+- We have a budget of at most [Fr. 1'200](budget)
+- The maximum is [700 pounds](budget)
+- The cost should be maximum [1'400 dollars](budget)
+- We have a max of max [CHF 1,500](budget)
+- We can spend maximum [1'000 francs](budget)
+- It cannot cost over [1000.-](budget)
+- The cost should be no more than [$1'400](budget)
+- The budget is [500.-](budget)
+- It can't cost more than [1200.-](budget)
+- The cost should be at most [1'500.-](budget)
+- The budget is [500 dollars](budget)
+- We can pay [1'500 euros](budget)
+- I have [500.-](budget)
+- The cost should be max [800 Swiss francs](budget)
+- Our limit is [1'500 pounds](budget)
+- Our budget is [1,000.-](budget)
+- It cannot cost more than [500 pounds](budget)
+- The cost should be no more than [900.-](budget)
+- It cannot cost more than [1000.-](budget)
+- We have a limit of maximum [800.-](budget)
+- It can't cost more than [£1'500](budget)
+- Our max is [1,000 dollars](budget)
+- I can spend at most [CHF 1'200](budget)
+- The limit is [800.-](budget)
+- It cannot cost more than [1,000 francs](budget)
+- I have a maximum of at most [£1'000](budget)
+- The cost should be max [£1'000](budget)
+- I can pay max [€1'000](budget)
+- The budget is [1'200 Swiss francs](budget)
+- We can pay maximum [1400 pounds](budget)
+- It cannot cost more than [USD 1,500](budget)
+- I have a limit of maximum [1,000.-](budget)
+- I can spend max [1'200 pounds](budget)
+- We can pay max [900.-](budget)
+- The budget is [USD 1500](budget)
+- The max is [1400 pounds](budget)
+- It cannot cost more than [1,200 dollars](budget)
+- The max is [1000.-](budget)
+- Our max is [900.-](budget)
+- The limit is [1000 dollars](budget)
+- We can spend no more than [$600](budget)
+- We can pay [1'500.-](budget)
+- The limit is [£1,000](budget)
+- The budget is [800 euro](budget)
+- The limit is [1'000 Swiss francs](budget)
+- I have [1,400 Swiss francs](budget)
+- I have a budget of max [€1'400](budget)
+- Our limit is [€1,400](budget)
+- We have [1000.-](budget)
+- It can't cost more than [USD 1400](budget)
+- We can pay [Fr. 1500](budget)
+- Our budget is [1000.-](budget)
+- It cannot cost more than [Fr. 1400](budget)
+- I have [1400 dollars](budget)
+- It can't cost more than [1'500 pounds](budget)
+- The maximum is [Fr. 1'000](budget)
+- I can spend no more than [Fr. 1400](budget)
+- It cannot cost more than [GBP 1'000](budget)
+- It cannot cost more than [800 euros](budget)
+- It must be below [1200.-](budget)
+- We can pay [£1,200](budget)
+- It cannot cost more than [£1'200](budget)
+- We can spend max [1500.-](budget)
+- I can pay [$1,000](budget)
+- The maximum is [Fr. 700](budget)
+- It has to be below [1'200 euros](budget)
+- We have [$1,000](budget)
+- Our maximum is [$1'400](budget)
+- We have a budget of at most [1400.-](budget)
+- Our budget is [£600](budget)
+- It can't cost over [1,500 pounds](budget)
+- It cannot cost more than [$1400](budget)
+- It must be below [$1,000](budget)
+- It cannot cost more than [£900](budget)
+- The max is [£1200](budget)
+- The cost should be max [£800](budget)
+- The budget is [900.-](budget)
+- It cannot cost more than [$1'000](budget)
+- It cannot cost over [CHF 900](budget)
+- The limit is [500.-](budget)
+- I have [1500.-](budget)
+- We can pay max [$900](budget)
+- We have [USD 1'000](budget)
+- It needs to be under [1200.-](budget)
+- It cannot cost over [1,000.-](budget)
+- We can spend no more than [USD 1'200](budget)
+- It can't cost more than [1400 Swiss francs](budget)
+- I have [1200.-](budget)
+- It has to be under [CHF 700](budget)
+- Our limit is [800 pounds](budget)
+- Our budget is [1,500 euro](budget)
+- Our maximum is [1500.-](budget)
+- We can spend no more than [USD 1,000](budget)
+- The cost should be at most [700.-](budget)
+- The cost should be no more than [800 euros](budget)
+- It can't cost over [€1200](budget)
+- I have a max of [800.-](budget)
+- It cannot cost more than [CHF 1400](budget)
+- The cost should be no more than [1'400.-](budget)
+- The cost should be at most [CHF 1,400](budget)
+- It cannot cost more than [600.-](budget)
+- The cost should be at most [1400 euro](budget)
+- It has to be below [1'200.-](budget)
+- It can't cost over [1'400.-](budget)
+- It should be below [USD 900](budget)
+- I can spend no more than [1,200.-](budget)
+- Our maximum is [GBP 1'200](budget)
+- It must be below [Fr. 1,000](budget)
+- It needs to be under [GBP 1500](budget)
+- We can spend maximum [€1,400](budget)
+- I can spend maximum [1,500 francs](budget)
+- The cost should be maximum [USD 1200](budget)
+- I can pay [500.-](budget)
+- The budget is [1'400.-](budget)
+- I have a max of no more than [GBP 500](budget)
+- We have a maximum of [1,000.-](budget)
+- I can pay maximum [900.-](budget)
+- The maximum is [1'000 dollars](budget)
+- We have a budget of at most [CHF 600](budget)
+- I have a max of [GBP 500](budget)
+- It cannot cost more than [1,500 pounds](budget)
+- Our limit is [1'200 Swiss francs](budget)
+- It can't cost more than [£1'200](budget)
+- I can pay maximum [1500.-](budget)
+- We can spend max [$1400](budget)
+- I can pay at most [1'400.-](budget)
+- It should be under [€1'200](budget)
+- I can pay max [£600](budget)
+- I have a max of max [1'200.-](budget)
+- The limit is [USD 1,000](budget)
+- We can spend maximum [€1,000](budget)
+- We can spend maximum [£1,200](budget)
+- We can pay no more than [CHF 800](budget)
+- We can pay max [£1,200](budget)
+- It cannot cost more than [GBP 1400](budget)
+- We can pay at most [1'400 euros](budget)
+- Our budget is [USD 600](budget)
+- We can pay max [1'500 dollars](budget)
+- Our budget is [£1400](budget)
+- I can spend max [$1'500](budget)
+- I can spend maximum [800 euros](budget)
+- I can pay [$1400](budget)
+- It cannot cost over [600 euros](budget)
+- The budget is [1'500.-](budget)
+- We have [1500 euro](budget)
+- The cost should be maximum [€900](budget)
+- I have a max of [1'400 Swiss francs](budget)
+- The budget is [Fr. 1'000](budget)
+- It can't cost over [CHF 1,400](budget)
+- It needs to be under [€1000](budget)
+- It can't cost more than [1,200 dollars](budget)
+- Our maximum is [€1'200](budget)
+- Our max is [800 pounds](budget)
+- I have a limit of no more than [1,200.-](budget)
+- We have [1'200 dollars](budget)
+- The maximum is [1400 euros](budget)
+- We have a maximum of maximum [USD 800](budget)
+- It needs to be below [700 Swiss francs](budget)
+- We have a max of [$600](budget)
+- We have [1400 pounds](budget)
+- Our limit is [GBP 900](budget)
+- We can pay no more than [£1'200](budget)
+- Our limit is [£1,500](budget)
+- The maximum is [900 euro](budget)
+
+## intent:provide_nr_of_people
+- You can expect [150](nr_of_people) persons
+- [220](nr_of_people) persons
+- I have a meeting with [220](nr_of_people) persons
+- We're planning an event for [200](nr_of_people) persons
+- We have a meeting with [300](nr_of_people) guests
+- I am planning for [170](nr_of_people) persons
+- We need an event room for [150](nr_of_people) employees
+- I have an event for [170](nr_of_people) persons
+- I am planning for [170](nr_of_people) people
+- We have to get a space for [150](nr_of_people) persons
+- I am expecting [160](nr_of_people) guests
+- We need space for [210](nr_of_people) people
+- It will have [200](nr_of_people) guests
+- We are expecting [150](nr_of_people) persons
+- You can expect [180](nr_of_people) guests
+- There will be [300](nr_of_people)
+- We have to get an event room for [200](nr_of_people) persons
+- We are expecting [180](nr_of_people) people
+- It will have [150](nr_of_people)
+- It is going to have [200](nr_of_people) persons
+- I am planning for [160](nr_of_people) guests
+- I have an event for [160](nr_of_people) people
+- It is going to have [220](nr_of_people) guests
+- We need space for [190](nr_of_people) persons
+- We planned for [210](nr_of_people) guests
+- We have a meeting with [220](nr_of_people) people
+- I need an event room for [190](nr_of_people) guests
+- I am expecting [180](nr_of_people) employees
+- We are expecting [150](nr_of_people)
+- There will be [250](nr_of_people) guests
+- I need space for [250](nr_of_people) guests
+- It is going to have [180](nr_of_people) people
+- The event will be for [180](nr_of_people)
+- I have to get an event room for [210](nr_of_people)
+- We're planning an event for [180](nr_of_people)
+- I're planning an event for [250](nr_of_people)
+- We're planning an event for [300](nr_of_people)
+- I have an event for [220](nr_of_people) employees
+- [250](nr_of_people) employees
+- It will have [220](nr_of_people) employees
+- I am planning for [200](nr_of_people) guests
+- It is going to have [220](nr_of_people) people
+- There will be [300](nr_of_people) people
+- There will be [150](nr_of_people) guests
+- I am planning for [210](nr_of_people) persons
+- We are planning for [170](nr_of_people) persons
+- It is going to have [190](nr_of_people) employees
+- There will be [300](nr_of_people) employees
+- It is going to have [190](nr_of_people) persons
+- It is going to have [150](nr_of_people)
+- The event will be for [200](nr_of_people) people
+- We planned for [250](nr_of_people) people
+- You can expect [150](nr_of_people)
+- I am expecting [250](nr_of_people)
+- We're planning an event for [170](nr_of_people) persons
+- The event will be for [160](nr_of_people)
+- I need space for [220](nr_of_people)
+- I need space for [210](nr_of_people) persons
+- We need an event room for [190](nr_of_people) guests
+- It will have [160](nr_of_people) persons
+- [170](nr_of_people)
+- [150](nr_of_people)
+- [160](nr_of_people)
+- [170](nr_of_people)
+- [180](nr_of_people)
+- [190](nr_of_people)
+- [200](nr_of_people)
+- [210](nr_of_people)
+- [220](nr_of_people)
+- [230](nr_of_people)
+- [240](nr_of_people)
+- [250](nr_of_people)
+- [260](nr_of_people)
+- [270](nr_of_people)
+- [280](nr_of_people)
+- [290](nr_of_people)
+- [300](nr_of_people)
+- [170](nr_of_people) people
+- [150](nr_of_people) people
+- [160](nr_of_people) people
+- [170](nr_of_people) people
+- [180](nr_of_people) people
+- [190](nr_of_people) people
+- [200](nr_of_people) people
+- [210](nr_of_people) people
+- [220](nr_of_people) people
+- [230](nr_of_people) people
+- [240](nr_of_people) people
+- [250](nr_of_people) people
+- [260](nr_of_people) people
+- [270](nr_of_people) people
+- [280](nr_of_people) people
+- [290](nr_of_people) people
+- [300](nr_of_people) people
+- We need an event room for between 150 to [200](nr_of_people) persons
+- You can expect 150 to [190](nr_of_people) guests
+- You can expect 150 to [180](nr_of_people) guests
+- I need space for 150 to [180](nr_of_people) people
+- It will have between 160 to [250](nr_of_people) guests
+- We are expecting 190 to [210](nr_of_people) guests
+- I have a meeting with 190 to [220](nr_of_people)
+- We are expecting 200 to [250](nr_of_people) persons
+- I am expecting between 150 to [180](nr_of_people) persons
+- I am expecting 150 to [200](nr_of_people) people
+- We have to get an event room for 150 to [180](nr_of_people) people
+- We need an event room for between 150 to [180](nr_of_people) persons
+- We planned for 180 to [300](nr_of_people) guests
+- We are expecting 150 to [180](nr_of_people) employees
+- It is going to have 190 to [210](nr_of_people)
+- We are expecting between 180 to [210](nr_of_people) people
+- The event will be for 150 to [200](nr_of_people) people
+- The event will be for 150 to [190](nr_of_people) persons
+- We're planning an event for 180 to [250](nr_of_people) employees
+- I need a room for between 150 to [220](nr_of_people) people
+- The event will be for 150 to [170](nr_of_people) guests
+- There will be 170 to [200](nr_of_people) persons
+- You can expect between 180 to [300](nr_of_people) employees
+- The event will be for 150 to [200](nr_of_people) guests
+- We are planning for 220 to [250](nr_of_people) guests
+- We are planning for 190 to [300](nr_of_people) employees
+- There will be between 150 to [300](nr_of_people) employees
+- I am planning for 160 to [210](nr_of_people) guests
+- We are planning for 170 to [150](nr_of_people) people
+- We need an event room for between 180 to [190](nr_of_people) people
+- The event will be for 150 to [250](nr_of_people) persons
+- It is going to have 150 to [220](nr_of_people)
+- We are expecting 150 to [210](nr_of_people) people
+- It will have between 170 to [200](nr_of_people) people
+- I need space for 160 to [180](nr_of_people) people
+- It will have 150 to [170](nr_of_people) persons
+- We need a meeting room for between 160 to [180](nr_of_people) guests
+- We need space for 160 to [200](nr_of_people) people
+- I planned for 150 to [160](nr_of_people) employees
+- It is going to have 150 to [170](nr_of_people) people
+- Probably [170](nr_of_people) guests
+- Probably [220](nr_of_people) employees
+- For about [190](nr_of_people)
+- Maybe [150](nr_of_people) persons
+- At least [220](nr_of_people) people
+- Maybe [300](nr_of_people) guests
+- Probably [220](nr_of_people) people
+- At least [200](nr_of_people) guests
+- Probably [170](nr_of_people) people
+- About [190](nr_of_people) employees
+- For a minimum of [210](nr_of_people) people
+- About [150](nr_of_people) guests
+- For a minimum of [220](nr_of_people)
+- For a minimum of [150](nr_of_people) guests
+- At least [170](nr_of_people) persons
+- For about [170](nr_of_people) people
+- At least [160](nr_of_people)
+- For [220](nr_of_people)
+
+## intent:provide_preference
+- [it](room) is what we need
+- room [Beta](room) seems the best
+- I guess the [last](room) option is what I was looking for
+- I like the [second](room) room
+- [the](room) room is suitable
+- I guess room [gamma](room) is what we expected
+- I choose [it](room)
+- I guess [it](room) should be fine
+- I want [this](room) room
+- I prefer [the](room) room
+- I guess [this](room) one works
+- I prefer room [Beta](room)
+- I guess the [third](room) room should be fine
+- I guess the [first](room) option is what I'm looking for
+- I believe room [alpha](room) sounds okay
+- I believe the [third](room) option seems okay
+- room [Gamma](room) should be fine
+- I guess room [Beta](room) is suitable
+- I think the [last](room) room should be fine
+- I guess the [third](room) choice would be what I've expected
+- I believe the [third](room) room should work
+- room [beta](room) is great
+- I guess room [Alpha](room) should work
+- I think [this](room) room is suitable
+- I believe the [first](room) option should work
+- I guess room [Beta](room) meets our expectations
+- I guess the [second](room) room should be fine
+- I believe the [first](room) choice sounds fine
+- [beta](room) is suitable
+- I guess the [first](room) option is suitable
+- I think room [Alpha](room) seems perfect
+- I guess the [second](room) choice should work
+- I believe room [gamma](room) is the best room
+- I believe [this](room) one should work
+- I think the [second](room) room meets our expectations
+- room [alpha](room) is suitable
+- I guess the [first](room) choice should be fine
+- I think the [third](room) room meets our expectations
+- I guess room [alpha](room) should work
+- I guess the [last](room) room should work
+- room [Alpha](room) seems the best
+- I believe room [Beta](room) is suitable
+- I believe the [last](room) option seems fine
+- I guess the [first](room) choice is the best
+- I think [this](room) room is the best room
+- [alpha](room) is what we need
+- I believe room [Gamma](room) would be what I need
+- I believe the [first](room) choice seems good
+- I guess the [last](room) room sounds great
+- I guess the [first](room) option is what I need
+- I guess room [Alpha](room) is what I've expected
+- I think the [second](room) choice is suitable
+- room [Beta](room) would be ideal
+- I guess the [last](room) option would be what I'm looking for
+- I believe room [Alpha](room) works
+- I guess the [third](room) option sounds okay
+- I believe room [Gamma](room) would be what I've expected
+- I think [this](room) room meets our expectations
+- I guess the [last](room) option is suitable
+- I think [it](room) sounds ok
+- room [Gamma](room) should work
+- I believe the [third](room) room is the best
+- I guess the [third](room) choice is suitable
+- I think room [alpha](room) seems the best
+- room [beta](room) meets our expectations
+- I believe the [second](room) choice seems good
+- I believe room [Alpha](room) should be fine
+- I think the [last](room) room is what I need
+- I guess the [last](room) option seems the best
+- I guess room [Gamma](room) would be what we need
+- I think the [third](room) option should be fine
+- I think [this](room) one sounds okay
+- room [beta](room) would be what I'm looking for
+- I believe the [last](room) choice would be what we expected
+- I believe the [third](room) room meets our expectations
+- I think room [alpha](room) would be ok
+- I think the [third](room) choice should be fine
+- I think the [second](room) choice works
+- I guess room [Alpha](room) is what we need
+- I think the [second](room) room sounds good
+- [the](room) room works
+- I believe room [beta](room) is suitable
+- [it](room) should work
+- I believe [this](room) one is the best
+- I think the [third](room) room should be fine
+- I believe [it](room) should work
+- I think the [last](room) choice works
+- I believe room [Alpha](room) is the best
+- I believe the [third](room) choice works
+- I believe the [first](room) option would be what I've expected
+- I think the [third](room) option sounds okay
+- I think room [beta](room) sounds fine
+- I think the [last](room) choice is suitable
+- I want [beta](room)
+- room [gamma](room) works
+- I believe room [Alpha](room) seems fine
+- I guess [this](room) one should be fine
+- I believe the [third](room) room should be fine
+- I think room [Beta](room) seems perfect
+- I believe the [last](room) choice is suitable
+- I guess the [last](room) option would be what I was looking for
+- room [beta](room) works
+- I think room [gamma](room) should work
+- I believe the [third](room) choice is the best room
+- I guess the [first](room) room sounds okay
+- I think [it](room) should work
+- I think room [gamma](room) would be what I've expected
+- room [alpha](room) is what we need
+- I think the [second](room) room should work
+- I guess [this](room) one sounds fine
+- I believe the [first](room) choice would be what I need
+- I believe room [Gamma](room) is suitable
+- I guess the [second](room) room is suitable
+- I guess the [second](room) room would be what I was looking for
+- [Beta](room) seems good
+- I think room [alpha](room) should be fine
+- I guess the [last](room) option sounds ideal
+- I think the [first](room) room should be fine
+- I guess room [alpha](room) is ideal
+- I guess [this](room) room should be fine
+- room [Alpha](room) is the best
+- I believe the [third](room) option is what we need
+- I guess the [last](room) choice works
+- I believe room [gamma](room) should be fine
+- room [Beta](room) should work
+- I believe the [third](room) choice is the best
+- I think the [first](room) option should be fine
+- I believe room [alpha](room) works
+- I believe the [last](room) option should work
+- I think [it](room) meets our expectations
+- I believe [this](room) room should work
+- I guess room [Beta](room) is what we expected
+- room [beta](room) should work
+- I believe the [first](room) choice should be fine
+- I believe the [last](room) room works
+- I like the [first](room) one
+- I believe room [gamma](room) is suitable
+- I guess the [first](room) option sounds okay
+- I think the [second](room) room is what I was looking for
+- I guess room [alpha](room) is what I've expected
+- I believe the [third](room) choice seems good
+- I believe the [last](room) choice seems great
+- I think room [alpha](room) is what I'm looking for
+- I think the [last](room) choice sounds great
+- I guess [this](room) one is suitable
+- [Beta](room) is suitable
+- I guess the [third](room) choice would be the best
+- I guess room [Gamma](room) is what we're looking for
+- I think the [third](room) choice seems fine
+- [alpha](room) seems ok
+- I think the [first](room) room meets our expectations
+- I believe the [last](room) option is suitable
+- I believe room [beta](room) sounds good
+- I believe the [first](room) option sounds good
+- I guess [this](room) room would be what I need
+- [it](room) should be fine
+- I guess the [second](room) choice works
+- I guess [it](room) is suitable
+- I guess room [beta](room) works
+- [alpha](room) meets our expectations
+- [the](room) room should be fine
+- I think the [second](room) option meets our expectations
+- I believe room [Gamma](room) sounds perfect
+- I guess the [second](room) choice should be fine
+- I believe the [second](room) room is suitable
+- room [alpha](room) seems okay
+- I guess the [last](room) room meets our expectations
+- I guess room [Gamma](room) works
+- I believe the [last](room) room is the best
+- I think the [second](room) choice sounds good
+- room [gamma](room) is what I've expected
+- I think [this](room) one sounds ok
+- I think room [beta](room) meets our expectations
+- I guess the [third](room) option would be what I expected
+- I think room [alpha](room) is what I expected
+- I think the [third](room) choice is the best room
+- I guess the [first](room) choice should work
+- [Alpha](room) seems great
+- I guess the [second](room) room is what I need
+- I think room [beta](room) seems the best
+- I prefer [Beta](room)
+- I believe the [second](room) room meets our expectations
+- I guess [this](room) one sounds okay
+- I think the [last](room) room works
+- I believe room [alpha](room) is the best room
+- I think [it](room) sounds perfect
+- [alpha](room) seems good
+- I think the [first](room) choice would be okay
+- I believe room [Beta](room) sounds ideal
+- I think the [third](room) option should work
+- I think the [first](room) choice is the best
+- [Alpha](room) is the best room
+- I guess the [first](room) choice is suitable
+- I guess the [last](room) choice should work
+- I believe the [third](room) option is suitable
+- I guess [this](room) one seems great
+- I think room [Beta](room) is the best room
+- room [Gamma](room) is suitable
+- I believe the [first](room) room is the best room
+- I guess room [gamma](room) sounds okay
+- I guess the [first](room) choice meets our expectations
+- I believe the [last](room) choice is what I was looking for
+- I think the [first](room) choice would be what I'm looking for
+- I guess room [Gamma](room) should be fine
+- I think the [last](room) option is what I'm looking for
+- I guess [it](room) should work
+- room [gamma](room) is what we're looking for
+- I think room [Alpha](room) meets our expectations
+- I think [this](room) room works
+- I think the [third](room) option is the best room
+- I guess the [third](room) choice meets our expectations
+- I guess room [beta](room) is the best room
+- I believe the [first](room) room works
+- [Beta](room) meets our expectations
+- I guess the [first](room) option seems great
+- I believe room [beta](room) seems the best
+- I guess the [second](room) room meets our expectations
+- I think [this](room) room would be what I expected
+- [Gamma](room) works
+- I believe room [Beta](room) would be what we need
+- I think the [first](room) choice is what we need
+- I believe the [first](room) choice is suitable
+- I believe the [second](room) option should work
+- I believe room [beta](room) should be fine
+- I believe the [third](room) option is the best room
+- room [gamma](room) sounds ideal
+- I believe the [second](room) room seems ok
+- I guess room [gamma](room) is the best
+- I believe the [first](room) option is the best
+- I guess the [third](room) choice is what I need
+- [Gamma](room) seems ideal
+- I guess [it](room) is the best room
+- I believe room [beta](room) is the best
+- I think [this](room) room should work
+- [the](room) room would be what I was looking for
+- I believe the [last](room) room meets our expectations
+- I think the [first](room) option seems perfect
+- I guess room [Alpha](room) is the best
+- room [beta](room) should be fine
+- I think the [second](room) room sounds fine
+- I think the [third](room) choice should work
+- I believe the [last](room) option is the best
+- I believe room [gamma](room) would be what I've expected
+- I think the [third](room) room is the best
+- room [Beta](room) sounds great
+- I believe [this](room) room is suitable
+- I guess the [last](room) option would be what we expected
+- I guess room [beta](room) is the best
+- I believe the [third](room) choice seems fine
+- room [gamma](room) is ok
+- I guess the [second](room) choice seems perfect
+- I guess the [third](room) room meets our expectations
+- I think room [Alpha](room) is perfect
+- [gamma](room) sounds fine
+- I think the [second](room) option seems good
+- I believe [it](room) seems ideal
+- I guess room [beta](room) sounds fine
+- I think the [third](room) room works
+- I guess room [Beta](room) is what I need
+- I guess the [second](room) option seems good
+- room [Alpha](room) is what we need
+- I prefer the [second](room) one
+- I like [alpha](room)
+- I guess room [gamma](room) works
+- I think the [first](room) room seems ok
+- I believe [this](room) one seems okay
+- [alpha](room) works
+- I think room [Alpha](room) is the best
+- I believe the [first](room) option works
+- I believe room [Beta](room) should be fine
+- I think the [last](room) choice sounds perfect
+- [Gamma](room) is suitable
+- I think the [first](room) room should work
+- I guess room [gamma](room) seems perfect
+- I believe the [third](room) choice seems the best
+- room [beta](room) seems ideal
+- I think [this](room) room seems good
+- I guess [it](room) would be what we need
+- I believe room [gamma](room) sounds ok
+- I guess the [second](room) room is what I expected
+- I think the [first](room) option would be what we expected
+- I think room [gamma](room) should be fine
+- [alpha](room) is suitable
+- I guess the [second](room) room works
+- I guess room [beta](room) should work
+- I believe the [last](room) choice meets our expectations
+- I guess room [beta](room) seems perfect
+- room [Alpha](room) meets our expectations
+- I think the [last](room) room should work
+- I guess the [first](room) choice would be what we need
+- [beta](room) is the best room
+- I believe the [first](room) option seems perfect
+- I believe the [last](room) room is what I need
+- I think room [Alpha](room) would be what I was looking for
+- I believe the [second](room) choice sounds perfect
+- I guess [this](room) room seems okay
+- I think the [third](room) choice meets our expectations
+- I think [it](room) is suitable
+- room [Gamma](room) is the best room
+- I guess room [Beta](room) should be fine
+
+## intent:provide_room
+- [alpha](room)
+- [Alpha](room)
+- [beta](room)
+- [Beta](room)
+- [first](room) one
+- [first](room) room
+- [gamma](room)
+- [Gamma](room)
+- [last](room) one
+- [last](room) room
+- [second](room) one
+- [second](room) room
+- [third](room) one
+- [third](room) room
+- [All](room) of them
+- [all](room) of them
+- [All](room) three rooms
+- [all](room) of the three rooms
+- [All](room) of the rooms
+- [all](room) of them
+- [All](room) rooms
+- [all](room) rooms
+- [all](room) rooms
+- [each](room) one of them
+- [each](room) of them
+- [Each](room) of them
+- [all](room)
+- for [every](room) room
+- [every](room) room
+- [Every](room) room
+- [every](room) one of them
+- [Every](room) one
+- [every](room) one
+- Give me details about [every](room) room
+- Give me details about [all](room) of them
+- Give me details about [all](room) three rooms
+- Give me details about [alpha](room)
+- Give me details about [Alpha](room)
+- Give me details about [beta](room)
+- Give me details about [Beta](room)
+- Give me details about [Gamma](room)
+- Give me details about [gamma](room)
+- I am talking about [every](room) room
+- I am talking about [all](room) of them
+- I am talking about [all](room) rooms
+- I am talking about [all](room) three rooms
+- I am talking about [Alpha](room)
+- I am talking about [alpha](room)
+- I am talking about [beta](room)
+- I am talking about [Beta](room)
+- I am talking about [Gamma](room)
+- I am talking about [gamma](room)
+- I am talking about the [first](room) one
+- I am talking about the [first](room) room
+- I am talking about the [last](room) one
+- I am talking about the [last](room) room
+- I am talking about the [second](room) one
+- I am talking about the [second](room) room
+- I am talking about the [third](room) one
+- I am talking about the [third](room) room
+- I mean [every](room) room
+- I mean [all](room) of them
+- I mean [all](room) rooms
+- I mean room [alpha](room)
+- I mean room [Alpha](room)
+- I mean room [beta](room)
+- I mean room [Beta](room)
+- I mean room [Gamma](room)
+- I mean room [gamma](room)
+- I mean the [first](room) one
+- I mean the [first](room) room
+- I mean the [last](room) one
+- I mean the [last](room) room
+- I mean the [second](room) one
+- I mean the [second](room) room
+- I mean the [third](room) one
+- I mean the [third](room) room
+- I meant room [Alpha](room)
+- I meant room [alpha](room)
+- I meant room [Beta](room)
+- I meant room [beta](room)
+- I meant room [gamma](room)
+- I meant room [Gamma](room)
+- I meant the [first](room) one
+- I meant the [first](room) room
+- I meant the [last](room) one
+- I meant the [last](room) room
+- I meant the [second](room) one
+- I meant the [second](room) room
+- I meant the [third](room) one
+- I meant the [third](room) room
+- I'm referring to [Alpha](room)
+- I'm referring to [alpha](room)
+- I'm referring to [Beta](room)
+- I'm referring to [beta](room)
+- I'm referring to [Gamma](room)
+- I'm referring to [gamma](room)
+- I'm talking about [Alpha](room)
+- I'm talking about [alpha](room)
+- I'm talking about [beta](room)
+- I'm talking about [Beta](room)
+- I'm talking about [Gamma](room)
+- I'm talking about [gamma](room)
+- I'm talking about the [first](room) one
+- I'm talking about the [first](room) room
+- I'm talking about the [last](room) one
+- I'm talking about the [last](room) room
+- I'm talking about the [second](room) one
+- I'm talking about the [second](room) room
+- I'm talking about the [third](room) one
+- I'm talking about the [third](room) room
+- Let me know about [alpha](room)
+- Let me know about [Alpha](room)
+- Let me know about [beta](room)
+- Let me know about [Beta](room)
+- Let me know about [Gamma](room)
+- Let me know about [gamma](room)
+- Room [alpha](room)
+- Room [Alpha](room)
+- Room [Beta](room)
+- Room [beta](room)
+- Room [gamma](room)
+- Room [Gamma](room)
+- Tell me about [every](room) room
+- Tell me about [all](room) of them
+- Tell me about [all](room) rooms
+- Tell me about [Alpha](room)
+- Tell me about [alpha](room)
+- Tell me about [Beta](room)
+- Tell me about [beta](room)
+- Tell me about [Gamma](room)
+- Tell me about [gamma](room)
+- the [first](room) one
+- the [first](room) room
+- the [last](room) one
+- the [last](room) room
+- the [second](room) one
+- the [second](room) room
+- the [third](room) one
+- the [third](room) room
+
+## intent:reserve_room
+- Could I make a reservation?
+- Ok! I want to book [this](room)
+- Is it possible to make a reservation now?
+- We will take [it](room)
+- Ok! We would like [it](room)
+- Thank you very much for your help. I want [this](room) one
+- Thanks for your help! I would like [this](room)
+- Is it possible to book now?
+- Thanks! I will reserve event room [Beta](room)
+- Thank you! We will book [the](room) meeting room
+- Thank you very much for your help. I want [the](room) option
+- Thank you very much for your help. We will take option [gamma](room)
+- Can I reserve now?
+- Could you reserve?
+- Thank you very much for your help. We want meeting room [Alpha](room)
+- Thank you! I want the [second](room) one
+- Thank you! I would like to book [the](room) room
+- Thank you very much for your help. We will reserve [this](room) one
+- Can we book [it](room) right now?
+- Ok! We would like to reserve event room [beta](room)
+- I want to reserve [the](room) meeting room
+- Thank you very much for your help. I will take event room [Alpha](room)
+- Thank you! We will book [the](room) location
+- Could we do the reservation?
+- Could you reserve [it](room) now?
+- Thank you! We want to book the [second](room) one
+- Ok! We will take the [last](room) event room
+- Thanks for your help! We take [this](room) location
+- Thanks for your help! I will take [this](room)
+- Can I book the [first](room) one now?
+- We want to book [this](room) one
+- Thanks! I want [this](room) one
+- Thanks for your help! I will book the [third](room) one
+- Thanks! I want [this](room)
+- Would it be possible to book right now?
+- Can you book?
+- Ok! I will take [it](room)
+- Thank you very much for your help. I will take [it](room)
+- Ok! We go with event room [alpha](room)
+- Thank you very much for your help. We would like to reserve [this](room) event room
+- Could we reserve the [last](room) option now?
+- Thank you very much for your help. I will reserve [it](room)
+- Thanks! I take meeting room [Gamma](room)
+- Thank you! We want [the](room) event room
+- I want to reserve [it](room)
+- Could I book [it](room) now?
+- Can we make a reservation?
+- Thanks! We take [Alpha](room)
+- Thanks! We go with [it](room)
+- Thanks for your help! We want [it](room)
+- Thank you very much for your help. We would like to reserve [the](room) event room
+- Could you book [this](room) option right now?
+- Thanks! I want to reserve room [Alpha](room)
+- Thank you! We will take [it](room)
+- Thanks for your help! We go with [it](room)
+- I would like [this](room) one
+- Can we book [this](room) one?
+- Could we make a reservation right now?
+- Ok! I want to book [it](room)
+- Ok! I want to reserve [this](room) one
+- Ok! We will book [this](room) option
+- Thanks for your help! I will reserve [it](room)
+- Can we reserve the [third](room) one right now?
+- We would like to book [this](room) option
+- Thank you! We will take [this](room) event room
+- Thanks! We will reserve [it](room)
+- Can we reserve right now?
+- Could we book option [Alpha](room)?
+- Thanks! We will take [this](room) location
+- Thanks for your help! We will book [it](room)
+- I want to book the [second](room) one
+- Thanks for your help! I would like to reserve [it](room)
+- Could I reserve right now?
+- Thank you very much for your help. I would like [the](room) meeting room
+- Thanks for your help! I will book the [last](room) one
+- Thank you very much for your help. I will take [this](room) room
+- Can you make a reservation?
+- Can you do the reservation right now?
+- Thank you! I go with [the](room) event room
+- We want to book the [first](room) meeting room
+- We want [it](room)
+- Can I reserve [this](room) one now?
+- Thanks! We want to book [it](room)
+- Thank you very much for your help. We would like the [last](room) event room
+- I would like event room [beta](room)
+- Ok! We will reserve the [second](room) location
+- Is it possible to make a reservation?
+- Thank you very much for your help. We will book [the](room) event room
+- Thank you very much for your help. I will take [the](room) meeting room
+- Thank you! I will book meeting room [Alpha](room)
+- Thank you! I will take the [last](room) one
+- Can I do the reservation now?
+- Thanks for your help! We want to book the [third](room) one
+- Thanks! I will take [it](room)
+- Thank you very much for your help. We will reserve [the](room) room
+- Ok! We go with the [third](room) one
+- Can we book?
+- Could I reserve now?
+- Thank you very much for your help. We will reserve the [second](room) room
+- Thank you! We will take meeting room [Gamma](room)
+- We would like [it](room)
+- I want to reserve the [third](room) one
+- Could you do the reservation now?
+- Thank you very much for your help. I want to book [the](room) event room
+- Thanks for your help! I would like to book the [first](room) one
+- Thank you! We want location [Gamma](room)
+- Ok! I want to book [this](room) room
+- Would it be possible to reserve location [Beta](room)?
+- Is it possible to do the reservation right now?
+- Thank you! We will take the [first](room) meeting room
+- Thanks! We would like to book the [second](room) event room
+- Thanks! I go with [this](room)
+- Ok! I want to reserve room [gamma](room)
+- Could you make a reservation now?
+- Thank you very much for your help. We would like to reserve [the](room) room
+- Thank you! We will book [it](room)
+- Thank you very much for your help. I will book [this](room) location
+- Thanks! We will book [it](room)
+- Can I reserve?
+- Could you reserve right now?
+- Thank you! We would like to reserve [the](room) location
+- We want [alpha](room)
+- Thanks! I want [it](room)
+- Thanks for your help! I take room [alpha](room)
+- Would it be possible to reserve now?
+- Ok! I want [this](room) one
+- Thank you! I go with [this](room) event room
+- Thank you very much for your help. We would like to reserve [this](room)
+- Thank you very much for your help. I would like to reserve [it](room)
+- Can I book [this](room) one?
+- Is it possible to reserve [this](room) one right now?
+- Thanks for your help! We take [it](room)
+- Ok! We take option [Beta](room)
+- Thank you! I want [the](room) option
+- We would like to reserve the [first](room) event room
+- Can I book [the](room) meeting room now?
+- Thanks for your help! We take [this](room) one
+- Thanks for your help! I want to book the [second](room) one
+- Ok! I want to book room [Gamma](room)
+- Thank you! We want to reserve the [second](room) option
+- Can you do the reservation?
+- Would it be possible to reserve [it](room) now?
+- We go with [it](room)
+- Thanks! We would like [it](room)
+- Thanks for your help! I would like the [first](room) event room
+- Ok! I would like to book [this](room) one
+- Could I book meeting room [Beta](room) right now?
+- Thank you very much for your help. I would like to book [it](room)
+- Ok! I will book [the](room) room
+- Thank you very much for your help. I want to book [the](room) meeting room
+- Could you reserve now?
+- Thanks! We will book the [last](room) one
+- Thank you very much for your help. I will book [the](room) room
+- Ok! I would like to reserve location [Beta](room)
+- Thank you very much for your help. I take the [third](room) one
+- Can you make a reservation right now?
+- Thank you! We take [this](room)
+- Ok! We want to reserve [it](room)
+- Thanks for your help! I want to book [this](room)
+- Ok! I would like to reserve [it](room)
+- Could I book [this](room) one?
+- Could you make a reservation right now?
+- Thanks for your help! I want to reserve event room [Alpha](room)
+- Thank you very much for your help. We will reserve [the](room) meeting room
+- Ok! We take [the](room) location
+- Thanks! We will reserve the [last](room) one
+- Could you reserve the [last](room) one now?
+- Ok! We would like to book [the](room) event room
+- We want [this](room) room
+- Thanks! We want to book the [first](room) event room
+- Thank you very much for your help. I want to book [the](room) room
+- Could you do the reservation?
+- Can we do the reservation right now?
+- We will book [the](room) room
+- Thanks! I would like to book [this](room) one
+- We want room [gamma](room)
+- Thanks! We will take [the](room) meeting room
+- Ok! We want to book [this](room) one
+- Ok! We would like to book the [third](room) event room
+- Thanks! I will reserve the [third](room) meeting room
+- Is it possible to book the [second](room) one?
+- Would it be possible to make a reservation right now?
+- Thanks for your help! I would like to book [it](room)
+- Thank you! I want to reserve event room [alpha](room)
+- Thank you! We will reserve [alpha](room)
+- Ok! We will take the [first](room) one
+- Can we reserve [it](room) right now?
+- Thank you very much for your help. We take [it](room)
+- Thanks! We would like to book [it](room)
+- Ok! I will reserve [it](room)
+- I will book [this](room)
+- Can I book right now?
+- Would it be possible to reserve?
+- Thank you! We would like [it](room)
+- I want to book [this](room) location
+- We would like to book [it](room)
+- Could you book right now?
+- Thanks! We want to book [this](room)
+- Thanks! We would like to reserve [this](room)
+- We want to reserve [this](room) one
+- Can I reserve the [last](room) location now?
+- Could I do the reservation?
+- Thank you! I will book room [gamma](room)
+- Thanks for your help! We will book [the](room) event room
+- Thank you! We want to book location [Alpha](room)
+- Thanks for your help! I will reserve the [last](room) room
+- Thank you very much for your help. We would like to reserve [it](room)
+- Thanks! We would like [this](room) meeting room
+- Ok! We will reserve [this](room) event room
+- Thank you! We go with the [third](room) one
+- Could I book?
+- Is it possible to make a reservation right now?
+- Ok! I will reserve event room [beta](room)
+- Thank you! I want to reserve [it](room)
+- Thank you! We want to book [the](room) location
+- Ok! We want to book the [third](room) event room
+- Could we do the reservation right now?
+- Thanks! We want to reserve [the](room) meeting room
+- Thanks for your help! I will reserve event room [Beta](room)
+- Thank you very much for your help. I take the [third](room) option
+- Thanks! I will reserve [the](room) meeting room
+- Could I do the reservation now?
+- Ok! We will take [the](room) option
+- Thanks! We would like [this](room) option
+- Ok! We want to reserve the [first](room) one
+- Thank you very much for your help. I will book location [alpha](room)
+- Can we reserve meeting room [Beta](room) right now?
+- Ok! I will take location [alpha](room)
+- Thank you! I will book [it](room)
+- Thanks! We will take the [second](room) one
+- Thanks! I would like to reserve [this](room)
+- Is it possible to reserve?
+- Thank you! We want to reserve [the](room) location
+- Thank you very much for your help. We will reserve event room [beta](room)
+- Ok! We would like to book the [first](room) location
+- I will take location [Alpha](room)
+- Thank you! We take event room [Alpha](room)
+- Thank you! We want [the](room) room
+- Thanks! We will book event room [Alpha](room)
+- Thank you very much for your help. We take option [gamma](room)
+- Would it be possible to book now?
+- Can I reserve location [Gamma](room)?
+- Thanks! We would like event room [Gamma](room)
+- We would like to reserve [this](room) one
+- Thank you! I go with the [second](room) meeting room
+- Could I book the [last](room) one right now?
+- Thanks for your help! I want to book [the](room) location
+- Thank you very much for your help. I want to reserve [it](room)
+- Thanks for your help! I will book meeting room [gamma](room)
+- Ok! We want to book the [third](room) one
+- Can you reserve right now?
+- Could we book?
+- Thanks! I go with meeting room [gamma](room)
+- I will take [it](room)
+- Thanks for your help! We will reserve the [first](room) one
+- Thank you! I want to reserve event room [gamma](room)
+- Can we reserve now?
+- Thanks for your help! I want to book [it](room)
+- Thanks for your help! I go with [this](room) room
+- Thank you! I want to book location [alpha](room)
+- Thank you! We would like to book the [last](room) location
+- Can you book now?
+- Ok! We would like to book [Beta](room)
+- Thanks for your help! We go with [this](room) one
+- Thanks! I want to reserve [this](room) room
+- Thank you! We will reserve [it](room)
+- Can you reserve [it](room) now?
+- I want to reserve the [second](room) one
+- Thanks! We want to reserve the [last](room) one
+- Thank you very much for your help. We would like [this](room)
+- Thanks for your help! I take the [first](room) one
+- Ok! We will reserve room [beta](room)
+- Ok! We will take event room [gamma](room)
+- Ok! We want to book [this](room) meeting room
+- Could we book event room [beta](room) now?
+- Thanks for your help! I take [it](room)
+- Thanks! I want to book [this](room)
+- I want to book [this](room) room
+- I want to reserve [Alpha](room)
+- Thanks! I want to book [it](room)
+- Thanks! We want to reserve [it](room)
+- Thanks for your help! We would like to book [it](room)
+- Can you reserve?
+- Ok! We want [the](room) room
+- Ok! We will book [the](room) room
+- Thank you very much for your help. We would like to book the [first](room) one
+- Thanks! I want to book location [beta](room)
+- Can we make a reservation now?
+- I take [it](room)
+- Thank you! I want [this](room) one
+- We will book [gamma](room)
+- Ok! We take [it](room)
+- Can we reserve?
+- Thanks! I go with [this](room) one
+- We want to reserve the [second](room) option
+- Thank you! We go with [this](room)
+- Thanks for your help! We will reserve [it](room)
+- Could I make a reservation now?
+- I want the [last](room) room
+- We would like to reserve the [last](room) meeting room
+- Thank you very much for your help. We want option [gamma](room)
+- Thank you! I would like to book location [Alpha](room)
+- Thanks! We will book [this](room) one
+- Thank you very much for your help. We take meeting room [Alpha](room)
+- We would like to reserve meeting room [gamma](room)
+- Thank you very much for your help. We will take [it](room)
+- Can I make a reservation now?
+- Thank you very much for your help. I will reserve location [gamma](room)
+- We would like to book [the](room) option
+- Thanks! I take [the](room) meeting room
+- Thank you very much for your help. I want to reserve [this](room) event room
+- Can I book now?
+- Thanks! We will take [it](room)
+- Thanks for your help! We go with [this](room) event room
+- We take [it](room)
+- Thanks! We would like to book [this](room)
+- Thank you! I take [it](room)
+- Thank you very much for your help. I would like meeting room [alpha](room)
+- Thank you! We will reserve location [Alpha](room)
+- Can we book option [Beta](room)?
+- Would it be possible to make a reservation now?
+- We will book [it](room)
+- We would like to book event room [gamma](room)
+- Thank you! I go with [the](room) room
+- Thank you! I would like to reserve [the](room) event room
+- Thanks for your help! I want to reserve [the](room) room
+- Thanks for your help! We want [this](room) room
+- Ok! We want [Beta](room)
+- Can I reserve [it](room) right now?
+- Thanks for your help! We go with [the](room) location
+- Thank you very much for your help. We take [the](room) room
+- Could you do the reservation right now?
+- Ok! I will book [the](room) event room
+- We want event room [Alpha](room)
+- Thank you! I take [the](room) event room
+- Can I book [the](room) room right now?
+- Could I book [the](room) room?
+- Thank you very much for your help. We would like to book [this](room) one
+- Thank you! We will take [this](room) meeting room
+- We take [the](room) option
+- Thank you very much for your help. I want to reserve [this](room) option
+- Thank you! I will take [Gamma](room)
+- Thanks! We want [it](room)
+- I will reserve [the](room) room
+- Thank you! We would like [the](room) room
+- Could we make a reservation?
+- Could we do the reservation now?
+- Thank you! We go with [it](room)
+- Ok! We would like the [last](room) one
+- Ok! We will book [it](room)
+- Thank you! We want [this](room) one
+- Can you book the [first](room) room now?
+- Thanks! I go with [this](room) option
+- Thank you very much for your help. We want to reserve [the](room) event room
+- Ok! We go with [this](room)
+- Thanks! We go with [the](room) location
+- Would it be possible to reserve [this](room)?
+- We will take [the](room) event room
+- I would like to book [it](room)
+- Thanks! I will book the [first](room) one
+- Thank you! We will book [this](room) one
+- Thanks for your help! I will book [it](room)
+- Ok! I want to reserve option [Beta](room)
+- Ok! We would like [this](room) one
+- Is it possible to reserve option [beta](room) right now?
+- Could you book the [third](room) one?
+- Ok! We will book [gamma](room)
+- We want location [alpha](room)
+- I will take [the](room) option
+- Ok! I take [it](room)
+- Would it be possible to book [the](room) meeting room?
+- Thanks for your help! We take the [first](room) location
+- Thanks! I would like to book [it](room)
+- Ok! I will reserve [the](room) room
+- Thank you very much for your help. We go with the [first](room) one
+- Thank you! I would like to reserve [the](room) location
+- I want to book [the](room) option
+- Thank you very much for your help. I would like to book [the](room) location
+- Can I book [it](room)?
+- Can we book [it](room) now?
+- Thanks! We would like to book [the](room) event room
+- Thank you very much for your help. We will book [this](room)
+- Thank you very much for your help. We want to reserve [it](room)
+- Thanks for your help! I want to reserve [it](room)
+- Could we reserve event room [beta](room) now?
+- I want to reserve the [first](room) event room
+- Thank you very much for your help. I would like [it](room)
+- I want to book [the](room) location
+- Thanks! I would like to reserve [this](room) meeting room
+- I would like to book [the](room) location
+- Thank you very much for your help. We will book event room [Beta](room)
+- Thank you very much for your help. We would like [this](room) room
+- Thank you very much for your help. We will reserve option [Beta](room)
+- Thank you very much for your help. I will reserve [the](room) location
+- Thank you! I would like [it](room)
+- Can we book right now?
+- I would like [it](room)
+- Thanks! We take [it](room)
+- Thank you very much for your help. We want the [third](room) room
+- Thank you very much for your help. We will reserve [it](room)
+- Could we reserve now?
+- Ok! I will book [the](room) option
+- Thank you! We will reserve [this](room) meeting room
+- Thanks for your help! I will reserve [this](room) one
+- Is it possible to book right now?
+- Would it be possible to make a reservation?
+- Thank you very much for your help. We would like to book [it](room)
+- We want to reserve [the](room) location
+- Thanks for your help! I will book [alpha](room)
+- We want to book [it](room)
+- We want to reserve [it](room)
+- Thank you! I want to reserve the [second](room) room
+- Is it possible to reserve the [last](room) meeting room?
+- Would it be possible to reserve right now?
+- Thanks for your help! We would like [this](room)
+- Thanks! We would like to reserve [it](room)
+- Thanks for your help! I will reserve the [last](room) event room
+- Thanks! I would like to reserve the [last](room) one
+- Can we book now?
+- Thanks! We want to book [this](room) option
+- Thank you very much for your help. I would like to book meeting room [beta](room)
+- Thanks for your help! We would like [it](room)
+- We will book the [first](room) meeting room
+- Thanks! I will take [this](room) one
+- Ok! I take [the](room) meeting room
+- Is it possible to book [it](room) right now?
+- We go with [the](room) meeting room
+- Thanks for your help! I will book [gamma](room)
+- I would like to reserve [it](room)
+- Can we book location [Alpha](room) right now?
+- Thank you very much for your help. I go with the [first](room) one
+- Thanks! We take the [third](room) one
+- Ok! We take [this](room)
+- Could you book [this](room) room now?
+- Thank you very much for your help. I will book [this](room) one
+- Thanks for your help! We want to book room [Beta](room)
+- Ok! We would like to reserve [the](room) room
+- Can I book [the](room) meeting room?
+- Could I do the reservation right now?
+- Thanks for your help! I will reserve [this](room) option
+- Thanks for your help! I want to book the [first](room) one
+- Thank you! I want to book [it](room)
+- Thank you very much for your help. We want [it](room)
+- I will book [this](room) one
+- Can you make a reservation now?
+- Thank you! We will reserve [this](room)
+- Thanks for your help! I will take [this](room) one
+- Thank you very much for your help. We will book [the](room) option
+- Ok! We want to book option [Beta](room)
+- Can we reserve [the](room) meeting room right now?
+- Thank you! We take [it](room)
+- Thank you! We take option [Gamma](room)
+- Thank you very much for your help. I will take the [first](room) one
+- Ok! I will book the [last](room) one
+- Thanks for your help! We want to book [this](room) room
+- Thanks! I go with [beta](room)
+- Ok! We want [this](room) one
+- Thanks! We will take [the](room) event room
+- Thank you very much for your help. I take [the](room) meeting room
+- Thanks! I will book meeting room [Beta](room)
+- Thanks! We would like to book [this](room) option
+- Thank you very much for your help. I will reserve [this](room)
+- Thank you! We want to reserve [this](room) option
+- Thank you! We want [this](room) location
+- Thanks! I would like [gamma](room)
+- I will reserve [this](room) event room
+- Thanks for your help! I would like to book the [second](room) one
+- Is it possible to do the reservation?
+- Thank you very much for your help. We want to book [it](room)
+- Ok! I go with [it](room)
+- I want [the](room) meeting room
+- Thank you very much for your help. I want to book [the](room) option
+- Thank you! We will book [the](room) event room
+- Thank you! I will reserve [the](room) option
+- Thank you very much for your help. I want the [second](room) option
+- Thank you very much for your help. I take [it](room)
+- Can we reserve the [first](room) one?
+- Thank you! We want to reserve [it](room)
+- Ok! I would like the [last](room) one
+- Thank you! I want to book the [third](room) one
+- Ok! We take [this](room) one
+- We go with [the](room) event room
+- Thank you very much for your help. I want room [gamma](room)
+- Could I reserve [it](room) now?
+- Could we book [this](room) option?
+- We want the [last](room) meeting room
+- Ok! I will take [the](room) option
+- Ok! I would like to reserve the [first](room) one
+- Thank you very much for your help. I would like to book option [alpha](room)
+- We will take the [first](room) option
+- Ok! I want [the](room) meeting room
+- Thanks! I go with [it](room)
+- Could you book [this](room) one now?
+- Thanks for your help! We would like to reserve option [Gamma](room)
+- Ok! I take the [third](room) one
+- Thank you very much for your help. I will book [it](room)
+- I go with [the](room) room
+- Thank you very much for your help. I want to reserve [this](room)
+- We will take [the](room) location
+- Thanks! I want the [last](room) room
+- Can you book right now?
+- Can we book the [last](room) event room?
+- Thanks for your help! I would like the [last](room) one
+- Is [Alpha](room) available?
+- Can room [beta](room) be reserved?
+- Is the [last](room) one available?
+- Can [it](room) be booked?
+- Can the [first](room) one be reserved?
+- And is [this](room) available?
+- And is [Beta](room) available?
+- Is the [second](room) room available?
+- Is [Gamma](room) available?
+- Can [this](room) one be reserved?
+- Can the [third](room) one be booked?
+- And is [this](room) room available?
+- And is the [second](room) room available?
+- Can [it](room) be reserved?
+
+## intent:thanks
+- Thx
+- Awesome! thank you
+- thank you very much
+- thank you
+- Sweet! thank you
+- thank you a bunch
+- Very nice! thank you
+- thank you for your help
+- thank you I appreciate it
+- Very good! thanks
+- thanks very much
+- Cool! thank you
+- thanks I appreciate it
+- Very nice! thanks
+- Perfect! thanks
+- Cool! thanks
+- Very good! thank you
+- Great! thanks
+- thank you very very much
+- thanks a bunch
+- thank you a lot
+- thanks very very much
+- Perfect! thank you
+- thanks for your help
+- Sweet! thanks
+- thanks a lot
+- thanks
+- Awesome! thanks
+- thank you that was helpful
+- Great! thank you
+- thank you I appreciate your help
+- thanks I appreciate your help
+- thanks that was helpful
+- thank you so much
+- thanks so much

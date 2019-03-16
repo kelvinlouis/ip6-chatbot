@@ -1,0 +1,75 @@
+%[ask_for_options]('training': '234')
+    ~[question_start] ~[rooms]?
+    ~[demand_start] ~[rooms]
+    ~[search] ~[a_room]
+    ~[search] ~[a_room] ~[where]
+    ~[what] ~[rooms] ~[have]?
+
+~[question_start]
+    Can you give me information about your
+    Do you have any information about your
+    Can you tell me more about the
+    Do you have
+    Do you provide
+
+~[demand_start]
+    Tell me about your
+    I have a question about your
+    Give me information about your
+    Say something about your
+    Please say something about your
+    I'd like to know more about the
+    I want to hear more about the
+    Please give me
+
+~[search]
+    I am looking for
+    I'm looking for
+    I would like to ~[reserve]
+    I am interested in
+    I am searching
+    I need
+    We are looking for
+    We're looking for
+    We would like to ~[reserve]
+    We are interested in
+    We are searching
+    We need
+
+~[what]
+    What
+    What kind of
+    How many
+
+~[a_room]
+    an ~[room#v]
+    a ~[room#c]
+
+~[rooms]
+    rooms
+    event rooms
+    meeting rooms
+
+~[room#c]
+    room
+    meeting room
+    location
+
+~[room#v]
+    event room
+
+~[room_with_one]
+    one
+    ~[room]
+
+~[have]
+    do you have
+    do you provide
+    are available
+
+~[where]
+    in your hotel
+
+~[reserve]
+    book
+    reserve

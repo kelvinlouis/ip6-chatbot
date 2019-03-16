@@ -1,0 +1,1764 @@
+## intent:greet
+- Good evening
+- Hey
+- Good afternoon
+- Hello
+- Hi
+- Hello there
+- Hi there
+- Hey there
+- Hey man
+- Good morning
+- Hey, who am I talking to?
+- Hey man, how is it going?
+- Hi, who is there?
+- Hello there, how is it going?
+- Good evening, who am I talking to?
+- Good afternoon, how are things?
+- Hello there, who am I chatting with?
+- Hey man, how are you?
+- Hello there, who am I talking to?
+- Good afternoon, who am I chatting with?
+- Hi, how are you?
+- Hey there, who am I speaking to?
+- Good morning, how are you?
+- Hi, who am I chatting with?
+- Good morning, how are things?
+- Hi there, who am I speaking to?
+- Hello there, who are you?
+- Hi, who am I speaking to?
+- Hey, who am I speaking to?
+- Hey, how is it going?
+- Hey, who is there?
+- Hi, how is it going?
+- Good evening, how are things?
+- Hey man, who is there?
+- Hello there, how are you?
+- Hi, how are things?
+- Hey man, who am I speaking to?
+- Good afternoon, who are you?
+- Hey there, how are things?
+- Good evening, who is there?
+- Good afternoon, how are you?
+- Hey man, how are things?
+- Good morning, who am I speaking to?
+- Good afternoon, how is life?
+- Hello there, who is there?
+- Good morning, how is life?
+- Hi, who are you?
+- Hello, who am I speaking to?
+- Hi, who am I talking to?
+- Hey, who are you?
+- Hi there, how is life?
+- Hello, how is it going?
+- Hello, who is there?
+- Hello, who am I talking to?
+- Hello there, how are things?
+- Hey there, who am I talking to?
+- Good morning, who am I chatting with?
+- Good evening, how is life?
+- Hi there, who is there?
+- Hey man, who am I chatting with?
+
+## intent:greet+provide_name
+- Hello, how is it going? This is [Lara Huber](name)
+- Good afternoon, how is it going? This is [Schwarz](name)
+- Hey man, how are you? You're speaking to [Benjamin](name)
+- Hi there, how are things? I am [Rahel Schmidt](name)
+- Hey there, how are things? This is [Fankhauser](name)
+- Hello there, how are you? My name is [Rahel Hug](name)
+- Hey, how is it going? My name is [Alyssa](name)
+- Good morning, how is it going? My name is [Ammann](name)
+- Hey there, how is it going? I am [Eliott](name)
+- Hey man, how is it going? You're speaking to [Lena Portmann](name)
+- Hi there, how are things? My name is [Lara](name)
+- Good afternoon, how are you? This is [Steiner](name)
+- Hello, how are you? You're speaking to [frey](name)
+- Good afternoon, how are things? This is [Boris Buhler](name)
+- Hey, how are things? My name is [Nathanaël](name)
+- Good afternoon, how are things? This is [Romain Wagner](name)
+- Hello, how is it going? This is [portmann](name)
+- Good morning, how is life? You're speaking to [Deborah](name)
+- Hello, how is it going? This is [Eliott](name)
+- Good morning, how are you? You're speaking to [Steven Studer](name)
+- Hi there, how are you? You're speaking to [Vogt](name)
+- Hey man, how are things? You're speaking to [Maxime](name)
+- Good morning, how are you? My name is [Deborah](name)
+- Hi, how is it going? I am [Léane Zimmermann](name)
+- Hey there, how is it going? My name is [Koch](name)
+- Good morning, how is it going? I am [Victoria](name)
+- Hey, how is life? You're speaking to [david koch](name)
+- Good morning, how is life? I am [colin hess](name)
+- Hey man, how is it going? You're speaking to [Philipp](name)
+- Good afternoon, how is life? You're speaking to [Céline](name)
+- Good morning, how is it going? I am [Egli](name)
+- Hey man, how are you? My name is [Marwan](name)
+- Hello, how is it going? My name is [lili](name)
+- Good afternoon, how is it going? I am [Wyss](name)
+- Hello, how are things? You're speaking to [Kunz](name)
+- Hi there, how is life? This is [Simon Senn](name)
+- Hi, how is life? This is [Aurelia Bieri](name)
+- Good evening, how is life? You're speaking to [Noémie Wagner](name)
+- Hello, how are you? My name is [Lucie](name)
+- Hello, how is it going? This is [lara huber](name)
+- Good afternoon, how is it going? This is [Schwarz](name)
+- Hey man, how are you? You're speaking to [Benjamin](name)
+- Hi there, how are things? I am [Rahel Schmidt](name)
+- Hey there, how are things? This is [Fankhauser](name)
+- Hello there, how are you? My name is [rahel hug](name)
+- Hey, how is it going? My name is [Alyssa](name)
+- Good morning, how is it going? My name is [Ammann](name)
+- Hey there, how is it going? I am [Eliott](name)
+- Hey man, how is it going? You're speaking to [Lena Portmann](name)
+- Hi there, how are things? My name is [lara](name)
+- Good afternoon, how are you? This is [steiner](name)
+- Hello, how are you? You're speaking to [Frey](name)
+- Good afternoon, how are things? This is [Boris Buhler](name)
+- Hey, how are things? My name is [Nathanaël](name)
+- Good afternoon, how are things? This is [Romain Wagner](name)
+- Hello, how is it going? This is [Portmann](name)
+- Good morning, how is life? You're speaking to [deborah](name)
+- Hello, how is it going? This is [Eliott](name)
+- Good morning, how are you? You're speaking to [Steven Studer](name)
+- Hi there, how are you? You're speaking to [Vogt](name)
+- Hey man, how are things? You're speaking to [Maxime](name)
+- Good morning, how are you? My name is [Deborah](name)
+- Hi, how is it going? I am [Léane Zimmermann](name)
+- Hey there, how is it going? My name is [koch](name)
+- Good morning, how is it going? I am [victoria](name)
+- Hey, how is life? You're speaking to [David Koch](name)
+- Good morning, how is life? I am [Colin Hess](name)
+- Hey man, how is it going? You're speaking to [Philipp](name)
+- Good afternoon, how is life? You're speaking to [Céline](name)
+- Good morning, how is it going? I am [Egli](name)
+- Hey man, how are you? My name is [Marwan](name)
+- Hello, how is it going? My name is [lili](name)
+- Good afternoon, how is it going? I am [Wyss](name)
+- Hello, how are things? You're speaking to [Kunz](name)
+- Hi there, how is life? This is [Simon Senn](name)
+- Hi, how is life? This is [aurelia bieri](name)
+- Good evening, how is life? You're speaking to [Noémie Wagner](name)
+- Hello, how are you? My name is [Lucie](name)
+- Hi, who are you? I am [berger](name)
+- Hey man, who is there? You're speaking to [Suter](name)
+- Hey, who are you? I am [Studer](name)
+- Hi there, who am I chatting with? You're speaking to [Justine](name)
+- Hey, who am I talking to? You're speaking to [Brunner](name)
+- Hello, who am I speaking to? This is [Rachel](name)
+- Hi, who am I chatting with? I am [kuhn](name)
+- Hi, who are you? My name is [Simon Hauser](name)
+- Good afternoon, who am I chatting with? My name is [Olivia](name)
+- Hello there, who am I chatting with? My name is [lucas](name)
+- Good afternoon, who am I speaking to? I am [Imhof](name)
+- Good evening, who am I speaking to? You're speaking to [Lisa](name)
+- Hey there, who am I talking to? This is [Frey](name)
+- Hey, who am I talking to? I am [Zimmermann](name)
+- Good afternoon, who am I chatting with? My name is [Nora Peter](name)
+- Hey man, who are you? I am [pauline](name)
+- Hey man, who are you? My name is [Jonathan Scheidegger](name)
+- Hi, who am I speaking to? You're speaking to [Nathan Lang](name)
+- Good evening, who am I chatting with? You're speaking to [Pierre](name)
+- Hello, who am I speaking to? This is [Chiara](name)
+- Hello there, who is there? My name is [Raphael Hasler](name)
+- Hello, who is there? My name is [Charlotte Hofmann](name)
+- Hi, who are you? My name is [Markus Wuthrich](name)
+- Good morning, who am I speaking to? This is [Yasmine](name)
+- Hey there, who are you? I am [Chris Luthi](name)
+- Good evening, who is there? You're speaking to [Gasser](name)
+- Good afternoon, who am I speaking to? My name is [koch](name)
+- Good evening, who are you? My name is [Müller](name)
+- Hey there, this is [Miss Sonja](name). I am an employee at [Coop](company)
+- Hi there, who am I talking to? I am [miss kunz](name)
+- Hello, this is [Mrs. Céline Hauser](name). I work as a assistant at [Nestlé](company)
+- Hello there, I am [Mrs. Romane Liechti](name). i work for [swiss](company)
+- Hi, this is [Mrs. Morgane Furrer](name). i work for [Swisscom](company)
+- Hello there, my name is [Mrs. Steiner](name). I'm an apprentice at [Holcim](company)
+- Hey there, my name is [Mrs. Zimmermann](name). I am an employee at [migros](company)
+- Good evening, my name is [Mr. Müller](name). I'm an apprentice at [Zurich Insurance](company)
+- Hi, my name is [Mrs. Amy](name). i work for [Coop](company)
+- Good evening, my name is [Miss Sofia Schweizer](name). I work as a assistant at [Migros](company)
+- Hey there, this is [Adrien Schmid](name)
+- Hey there, you're speaking to [Schweizer](name)
+- Good evening, I am [marti](name)
+- Hello there, I am [Kunz](name)
+- Good morning, you're speaking to [Eva](name)
+- Good morning, you're speaking to [Furrer](name)
+- Hello, this is [Schuler](name)
+- Hey there, my name is [Estelle](name)
+- Hey, this is [Fischer](name)
+- Good afternoon, my name is [Egli](name)
+- Good morning, I am [Seiler](name)
+- Hello, I am [kuhn](name)
+- Hey, you're speaking to [Stéphanie](name)
+- Hey there, this is [Schar](name)
+- Hello there, you're speaking to [Marine](name)
+- Hi there, you're speaking to [Yasmina Roth](name)
+- Hi there, I am [Zurcher](name)
+- Hey there, my name is [Océane](name)
+- Hey man, you're speaking to [egger](name)
+- Good afternoon, my name is [Peter](name)
+- Hi there, you're speaking to [Alexander Ammann](name)
+- Hey there, this is [ben](name)
+- Good morning, I am [Chet](name)
+- Hey there, my name is [Graf](name)
+- Hey, my name is [Salomé](name)
+- Good morning, my name is [Christelle](name)
+- Hello, this is [christen](name)
+- Good afternoon, my name is [Schneider](name)
+- Hey man, you're speaking to [Morgane](name)
+- Hi there, you're speaking to [Ben](name)
+- Good morning, I am [Mrs. Laetitia Seiler](name)
+- Hi there, my name is [Mrs. Julia](name)
+- Hi there, you're speaking to [Miss Marine](name)
+- Hi, I am [Mr. Jonathan](name)
+- Good morning, this is [mr. peter](name)
+- Hello, you're speaking to [Mr. Baumann](name)
+- Good morning, I am [Miss Aurelia](name)
+- Hi there, I am [Mr. Marc Bachmann](name)
+- Good morning, you're speaking to [Mr. Daniel](name)
+- Hey, I am [Miss Romane Hofer](name)
+- Hey there, you're speaking to [Noémie](name). i work for [Novartis](company)
+- Good morning, my name is [Jonas Moser](name). i work for [UBS](company)
+- Good morning, this is [Hess](name). I work as a assistant at [Ernst & Young](company)
+- Hello there, I am [jonathan](name). I'm an apprentice at [Roche](company)
+- Hi there, my name is [Stalder](name). i work for [Alcon](company)
+- Hey man, I am [Wyss](name). I am an employee at [Kuoni](company)
+- Hi, my name is [léo Kalin](name). I'm an apprentice at [Siemens](company)
+- Hey, you're speaking to [Lucie](name). I am an employee at [Kuoni](company)
+- Hi there, I am [Berger](name). I work as a assistant at [Alcon](company)
+- Hi, I am [Ammann](name). I am an employee at [Swiss](company)
+- Good afternoon, my name is [Valentino](name). i work for [AXA Versicherung](company)
+- Good morning, I am [Frey](name). I work as a assistant at [Ernst & Young](company)
+- Hi there, my name is [Patrik Sommer](name). I am an employee at [Swisscom](company)
+- Hi there, I am [rachel](name). I am an employee at [Swisscom](company)
+- Good morning, this is [schar](name). I'm an apprentice at [Roche](company)
+- Good morning, you're speaking to [Tiffany Brunner](name). I am an employee at [Novartis](company)
+- Good afternoon, I am [Noémie](name). I work as a assistant at [AXA Versicherung](company)
+- Hi there, I am [Rachel Jaggi](name). I am an employee at [Roche](company)
+- Hey, this is [Eliott Brugger](name). I'm an apprentice at [Coop](company)
+- Hi, this is [Yasmine](name). I work as a assistant at [Credit Suisse](company)
+
+## intent:greet+ask_for_room_size
+- Hello, how is it going? What rooms do you provide for up to [250](nr_of_people)?
+- Hi, how is it going? Are there rooms for between 220 to [300](nr_of_people) guests?
+- Hello there, how are you? How many rooms do you provide for [200](nr_of_people) people?
+- Hi there, how is life? Are there rooms for at least [200](nr_of_people) persons?
+- Hi there, how is it going? Are there rooms for circa [210](nr_of_people)?
+- Hi, how is life? What rooms have space for at least [150](nr_of_people) persons?
+- Hello there, What kind of rooms have room for [170](nr_of_people)?
+- Hi, how is it going? we should have a meeting room for about [170](nr_of_people) guests
+- Hey man, Is [Alpha](room) big enough?
+- Good evening, how is it going? Is [alpha](room) big enough for [150](nr_of_people) colleagues?
+- Hello, How big is [alpha](room)?
+- Hey, how are you? I need a room for at least [190](nr_of_people) guests
+- Hello there, we want an event room for a minimum of [190](nr_of_people) persons
+- Hey there, Can [250](nr_of_people) persons be in [Alpha](room)?
+- Good morning, how is it going? I should have a room for about [160](nr_of_people) colleagues
+- Hello there, how are you? How many rooms do you provide for circa [210](nr_of_people) persons?
+- Hey man, how is life? Does room [Alpha](room) have space for [250](nr_of_people) guests?
+- Good evening, how is life? I need an event room that fits [160](nr_of_people) guests
+- Hey there, Do you provide rooms that fits between 180 to [250](nr_of_people) persons?
+- Hello there, how is it going? I want an event room for about [160](nr_of_people)
+- Hello, how is life? What rooms have space for up to [210](nr_of_people) people?
+- Hey man, how are you? Can [250](nr_of_people) persons fit in [Alpha](room)?
+- Hi, how is life? I should have a meeting room for about [250](nr_of_people) guests
+- Hi, how are things? How many rooms are available for at least [300](nr_of_people) people?
+- Hey there, how are you? I would like a room for about [220](nr_of_people) persons
+- Good morning, how is life? Is room [beta](room) big enough for [300](nr_of_people) guests?
+- Hey, how is it going? I would like a meeting room for up to [220](nr_of_people) people
+- Hello, how is life? Do you have rooms that fits between 210 to [160](nr_of_people) colleagues?
+- Hi, how are you? Can [250](nr_of_people) people fit in the [second](room) one?
+- Hi, how are things? we would like an event room for at least [220](nr_of_people)
+- Good morning, how is life? How many rooms have room for about [210](nr_of_people) people?
+- Good afternoon, how are you? What kind of rooms are available for [180](nr_of_people) guests?
+- Hey man, how is it going? I need a meeting room that fits [170](nr_of_people) people
+- Good evening, how are things? Are there rooms for circa [190](nr_of_people) guests?
+- Hey, how is life? we are looking for an event room that fits [250](nr_of_people) persons
+- Hi there, how are things? Can [200](nr_of_people) people be in the [first](room) one?
+- Good afternoon, how are things? we need a room for [300](nr_of_people) persons
+- Hello, how is it going? Are there rooms for between 160 to [150](nr_of_people) guests?
+- Hey there, how is it going? we need a meeting room for about [190](nr_of_people) persons
+- Good morning, how is it going? How many rooms do you provide for up to [190](nr_of_people) colleagues?
+- Hello there, how are things? What kind of rooms do you have that fits [170](nr_of_people)?
+- Good afternoon, how is it going? I want a meeting room for a minimum of [150](nr_of_people) persons
+- Hi, how are you? Is the [first](room) space big enough for [210](nr_of_people) people?
+- Hello, how are you? Can [220](nr_of_people) persons be in room [gamma](room)?
+- Good morning, how is it going? I want an event room for [180](nr_of_people) colleagues
+- Good morning, how is it going? How many rooms have room for about [210](nr_of_people) persons?
+- Hey, how are you? I should have an event room for [210](nr_of_people) guests
+- Hello, how are you? Do you have rooms for between 170 to [210](nr_of_people) people?
+- Hey, how are things? What kind of rooms do you have that has room for [190](nr_of_people) colleagues?
+- Hey man, I should have an event room that has room for [300](nr_of_people) persons
+- Hey, how is life? I am searching for a meeting room that has room for [210](nr_of_people)
+- Hi there, how is it going? Does room [Gamma](room) have space for [200](nr_of_people) people?
+- Hello there, how is it going? we want a meeting room for [170](nr_of_people) guests
+- Hello, how are things? What rooms are available for up to [160](nr_of_people) guests?
+- Hey there, What rooms have space for circa [210](nr_of_people) people?
+- Hey, how is life? What rooms have room for circa [160](nr_of_people)?
+- Hello, how is it going? Are there rooms that fits between 180 to [150](nr_of_people) people?
+- Hello there, how are you? we should have a meeting room that fits [170](nr_of_people) persons
+- Good afternoon, how are you? Do you provide rooms that has room for [170](nr_of_people) guests?
+- Hello there, how is it going? Can [190](nr_of_people) colleagues be in [alpha](room)?
+- Hello there, how is life? we need a room for [200](nr_of_people)
+- Hey man, how is it going? Does room [gamma](room) fit [150](nr_of_people) people?
+- Hey, how are you? we want a meeting room for at least [250](nr_of_people) persons
+- Hello, how is life? I would like a meeting room that has room for [160](nr_of_people) persons
+- Hey man, how are things? How many rooms are available for up to [210](nr_of_people) persons?
+- Good evening, how are things? we need an event room for a minimum of [180](nr_of_people) colleagues
+- Hello, Are there rooms for between 160 to [210](nr_of_people) guests?
+- Hey there, how is it going? I need a room for up to [150](nr_of_people) colleagues
+- Hello, how are you? How many rooms have room for about [200](nr_of_people) people?
+- Good evening, how is life? Does room [Beta](room) have space for [180](nr_of_people) guests?
+- Hello there, I want an event room for a minimum of [170](nr_of_people)
+- Hello, how are things? What rooms are available for a minimum of [200](nr_of_people)?
+- Hey man, How many rooms do you have that has room for [220](nr_of_people) guests?
+- Hey man, how are things? we would like a room for a minimum of [210](nr_of_people) colleagues
+- Hey, how are things? Are there rooms that fits between 160 to [150](nr_of_people) persons?
+- Good evening, I want a room that fits [210](nr_of_people) guests
+- Hi, how are things? we need an event room for [200](nr_of_people) people
+- Hey, how are things? Is [Gamma](room) big enough for [250](nr_of_people) people?
+- Hello there, how is life? Are there rooms for circa [250](nr_of_people) colleagues?
+- Good morning, What kind of rooms have space that fits [200](nr_of_people) persons?
+- Hello, how are things? we would like an event room for circa [190](nr_of_people) colleagues
+- Good evening, how is life? What kind of rooms do you have for about [210](nr_of_people) people?
+- Hey man, how are things? I want a meeting room for circa [220](nr_of_people) persons
+- Hey man, how is life? I would like an event room for about [220](nr_of_people) persons
+- Hi, how is life? Are there rooms that fits between 220 to [200](nr_of_people) people?
+- Hello, how is it going? we need an event room for up to [190](nr_of_people) colleagues
+- Good morning, how are you? What kind of rooms do you have for about [200](nr_of_people) persons?
+- Good evening, how are things? I would like an event room for at least [190](nr_of_people)
+- Hey man, Can [210](nr_of_people) people be in room [Alpha](room)?
+- Hey man, how is it going? I should have an event room for about [200](nr_of_people) guests
+- Hey man, how are things? How many rooms have room for a minimum of [170](nr_of_people) guests?
+- Hey man, how are you? Do you have rooms that fits between 250 to [170](nr_of_people) persons?
+- Hello there, we would like a room that fits [190](nr_of_people) persons
+- Good afternoon, how is it going? Is room [Alpha](room) big enough for [200](nr_of_people) people?
+- Good afternoon, how is it going? How many rooms do you provide for [170](nr_of_people) persons?
+- Hey there, how are you? I would like a meeting room that has room for [150](nr_of_people) colleagues
+- Hey, I want a room for a minimum of [250](nr_of_people) persons
+- Hey there, how is life? we should have an event room for [200](nr_of_people) persons
+- Good morning, how are things? What kind of rooms do you have for at least [190](nr_of_people) people?
+- Hi there, how are you? Do you provide rooms for a minimum of [160](nr_of_people) people?
+- Good evening, how is life? How many rooms do you have that fits [300](nr_of_people)?
+- Hello, Do you have rooms that fits between 200 to [210](nr_of_people) persons?
+- Good evening, how is life? we should have a room that fits [160](nr_of_people) people
+- Hello there, how are things? Are there rooms for up to [190](nr_of_people)?
+- Hi there, how are things? What kind of rooms have space for at least [200](nr_of_people) guests?
+- Hey, how is it going? What kind of rooms have space for a minimum of [200](nr_of_people)?
+- Hello there, how are you? I should have a room for [210](nr_of_people)
+- Good evening, we want an event room for at least [200](nr_of_people) guests
+- Hi, how are things? I want a room for circa [150](nr_of_people) colleagues
+- Hey, What kind of rooms are available for [300](nr_of_people) people?
+- Hey man, how are things? Is [beta](room) large enough for [220](nr_of_people) colleagues?
+- Hi there, Is room [alpha](room) large enough for [190](nr_of_people)?
+- Hi there, how is life? Can [180](nr_of_people) be in the [third](room) space?
+- Good evening, how is life? I should have a meeting room for a minimum of [200](nr_of_people) colleagues
+- Hey, Are there rooms for between 300 to [200](nr_of_people) colleagues?
+- Good morning, how is life? How many rooms have space for at least [200](nr_of_people) guests?
+- Good afternoon, how are you? we are looking for an event room for a minimum of [150](nr_of_people) colleagues
+- Hi, how are things? we would like an event room for up to [190](nr_of_people)
+- Hey man, What kind of rooms are available for [180](nr_of_people) people?
+- Hey man, how is life? I need an event room for [170](nr_of_people) persons
+- Hello there, Do you have rooms that fits between 160 to [220](nr_of_people) colleagues?
+- Hello, how is it going? we would like an event room for about [200](nr_of_people)
+- Hey man, how are things? I want a room that fits [170](nr_of_people) people
+- Hi, how are things? Can [220](nr_of_people) guests fit in room [gamma](room)?
+- Good afternoon, how are things? I need a meeting room for about [300](nr_of_people) colleagues
+- Hello, how are things? How many rooms are available that fits [210](nr_of_people) people?
+- Good evening, how are things? Do you have rooms for circa [150](nr_of_people) people?
+- Hey, how is it going? How many rooms have space for about [150](nr_of_people) people?
+- Hello there, how is life? Does room [Beta](room) fit [160](nr_of_people) guests?
+- Hello, how is life? we need a room that has room for [210](nr_of_people) people
+- Good morning, how are things? I would like a room that fits [150](nr_of_people) guests
+- Good afternoon, how is it going? Are there rooms for between 160 to [250](nr_of_people) people?
+- Hello, how is life? Can [200](nr_of_people) guests be in the [third](room) room?
+- Good morning, how is life? I would like a room for circa [200](nr_of_people) people
+- Hi there, how is life? How many rooms do you provide for [200](nr_of_people) persons?
+- Good afternoon, What rooms do you have for a minimum of [300](nr_of_people)?
+- Good evening, how is it going? we want a room for a minimum of [160](nr_of_people)
+- Hi, Is the [first](room) space large enough for [150](nr_of_people) people?
+- Hey there, What rooms have room for at least [210](nr_of_people) colleagues?
+- Hey there, how are you? I want a room for up to [170](nr_of_people) persons
+- Good morning, we want a meeting room that fits [300](nr_of_people) colleagues
+- Hey, how is life? Do you have rooms for between 190 to [210](nr_of_people) guests?
+- Good afternoon, how are you? How many rooms are available for up to [180](nr_of_people) persons?
+- Hey there, how is life? we would like a meeting room for about [220](nr_of_people) colleagues
+- Hey, how is life? I would like an event room for circa [210](nr_of_people)
+- Hello there, how are you? Does room [Alpha](room) fit [220](nr_of_people) people?
+- Hey there, how are you? Can [150](nr_of_people) persons be in the [third](room) one?
+- Good evening, how are things? I would like a room for [180](nr_of_people)
+- Hi, how are things? How many rooms are available for up to [210](nr_of_people) colleagues?
+- Hi there, how are you? How many rooms have room for up to [220](nr_of_people) guests?
+- Hello, how is it going? What rooms have space that has room for [190](nr_of_people)?
+- Good evening, how are you? we want a room for about [210](nr_of_people) guests
+- Hey, how are things? Do you provide rooms for between 300 to [170](nr_of_people) colleagues?
+- Good afternoon, how is life? Are there rooms that has room for [200](nr_of_people) guests?
+- Hey there, how are things? I want an event room for about [220](nr_of_people) persons
+- Hey man, how is life? Can [170](nr_of_people) colleagues fit in room [alpha](room)?
+- Good morning, we would like an event room for circa [190](nr_of_people) persons
+- Good morning, how is life? I should have an event room for [160](nr_of_people) persons
+- Good afternoon, how are you? What kind of rooms are available that fits [200](nr_of_people) guests?
+- Hi, how are things? Do you have rooms that fits between 160 to [180](nr_of_people) colleagues?
+- Hello there, how are you? we should have a meeting room for up to [200](nr_of_people) guests
+- Hi, how is it going? I should have an event room for a minimum of [180](nr_of_people)
+- Hello there, how are things? How many rooms have space for up to [300](nr_of_people) guests?
+- Hey there, how are you? Is the [last](room) one big enough for [170](nr_of_people) persons?
+- Hey man, how are you? we want an event room for circa [170](nr_of_people) colleagues
+- Good morning, how is life? What rooms do you provide for about [210](nr_of_people) persons?
+- Hello there, What kind of rooms do you provide that fits [160](nr_of_people)?
+- Hi, how are you? Can [190](nr_of_people) colleagues be in [Alpha](room)?
+- Hey there, how are you? I want a room for circa [200](nr_of_people) people
+- Hey, how are you? I want a meeting room that has room for [190](nr_of_people)
+- Good evening, how are you? Are there rooms that fits between 150 to [180](nr_of_people) guests?
+- Hey there, how are things? we want an event room that has room for [170](nr_of_people) persons
+- Hello there, how are things? Does room [Gamma](room) have space for [220](nr_of_people) colleagues?
+- Hi there, how are you? How many rooms have space for at least [190](nr_of_people) people?
+- Hey man, I need a room for [200](nr_of_people) colleagues
+- Good morning, Do you have rooms that has room for [150](nr_of_people) guests?
+- Good evening, What kind of rooms are available for circa [300](nr_of_people) guests?
+- Hello, how is it going? I need a meeting room for at least [220](nr_of_people) guests
+- Hey there, how is life? Are there rooms for between 150 to [210](nr_of_people) people?
+- Hi there, how are things? we would like a room for circa [210](nr_of_people) colleagues
+- Hey man, Is [Alpha](room) large enough for [190](nr_of_people)?
+- Hi, how is it going? we want an event room for [170](nr_of_people) persons
+- Hey man, how is it going? What kind of rooms do you have for [210](nr_of_people) colleagues?
+- Good morning, how is life? I would like a room that fits [160](nr_of_people) guests
+- Hello, I need a meeting room that has room for [150](nr_of_people)
+- Good evening, What rooms have space that fits [150](nr_of_people) colleagues?
+- Hi there, how is life? I would like a meeting room for a minimum of [160](nr_of_people) people
+- Good evening, how is it going? Do you have rooms that fits between 200 to [160](nr_of_people) guests?
+- Good evening, Does the [second](room) one fit [300](nr_of_people) persons?
+- Hi there, What kind of rooms are available for circa [180](nr_of_people) people?
+- Hey man, how are you? I want an event room for at least [200](nr_of_people) colleagues
+- Good evening, how is it going? we want a room for circa [160](nr_of_people)
+- Hi there, Can [160](nr_of_people) persons be in room [Alpha](room)?
+- Hello there, how is it going? we would like an event room that fits [170](nr_of_people) persons
+- Hey, how is it going? What kind of rooms do you have that has room for [300](nr_of_people)?
+- Hey, What kind of rooms have space that has room for [180](nr_of_people) guests?
+- Hey there, how is life? Do you provide rooms for up to [170](nr_of_people) persons?
+- Hey, Do you provide rooms for at least [210](nr_of_people)?
+- Hi, how are you? How many rooms have room that has room for [300](nr_of_people)?
+- Good morning, how are you? How many rooms are available that has room for [180](nr_of_people) persons?
+- Hello there, how is life? we need an event room that fits [300](nr_of_people) colleagues
+- Hey there, how are you? Do you provide rooms that fits between 220 to [210](nr_of_people) guests?
+- Hey there, how are things? I would like a meeting room that has room for [300](nr_of_people) people
+- Hey man, how is it going? I would like an event room for [150](nr_of_people)
+- Hey man, how are you? I need a meeting room for about [180](nr_of_people) people
+- Hey there, how is life? What rooms do you have that has room for [250](nr_of_people) colleagues?
+- Hi, how are things? I need an event room that has room for [190](nr_of_people) colleagues
+- Good evening, Do you provide rooms that fits between 180 to [250](nr_of_people) people?
+- Hey there, how is life? we want an event room for circa [250](nr_of_people) persons
+- Hello, how are things? What kind of rooms have room that fits [150](nr_of_people) persons?
+- Hi there, how are you? we need a meeting room for [170](nr_of_people) guests
+- Hi there, how are you? How many rooms do you provide for about [150](nr_of_people) people?
+- Hello there, how is life? I would like an event room that fits [160](nr_of_people) colleagues
+- Hey man, how are you? Does the [last](room) room fit [300](nr_of_people)?
+- Good evening, how are you? Is the [first](room) room large enough for [170](nr_of_people)?
+- Hello, Do you have rooms for between 200 to [300](nr_of_people) guests?
+- Hello there, how are you? I want an event room that has room for [150](nr_of_people) colleagues
+- Hey man, how is life? I would like a room for about [150](nr_of_people) guests
+- Hey there, How many rooms have room for [250](nr_of_people) people?
+- Good morning, how are you? we would like an event room that fits [250](nr_of_people) guests
+- Hello, how are you? What kind of rooms do you have for about [220](nr_of_people) people?
+- Hey, Do you provide rooms that fits [150](nr_of_people) colleagues?
+- Hello, I want a meeting room for [210](nr_of_people) colleagues
+- Good afternoon, how is it going? I want an event room for up to [180](nr_of_people) people
+- Hey, how is life? Do you have rooms that fits between 210 to [180](nr_of_people) persons?
+- Hi there, how is it going? we need a room that has room for [180](nr_of_people) guests
+- Good afternoon, how is it going? Can [160](nr_of_people) colleagues be in the [second](room) room?
+- Hey there, how is life? How many rooms do you provide for [220](nr_of_people) guests?
+- Good afternoon, What kind of rooms are available for about [210](nr_of_people)?
+- Good afternoon, how are things? I want a meeting room that has room for [150](nr_of_people) guests
+- Good afternoon, how is it going? Does [gamma](room) fit [170](nr_of_people) guests?
+- Good afternoon, how is life? Is room [Alpha](room) big enough for [180](nr_of_people) colleagues?
+- Hi, how is life? What rooms have space that has room for [200](nr_of_people) people?
+- Good evening, how are you? we would like an event room for circa [200](nr_of_people) guests
+- Hi there, how is life? I should have a room for up to [170](nr_of_people) colleagues
+- Hello, how are things? Do you have rooms that fits between 220 to [150](nr_of_people) people?
+- Hey man, how are you? What rooms are available for at least [200](nr_of_people) colleagues?
+- Hey man, how are you? I should have a room for at least [220](nr_of_people)
+- Hey man, how is it going? we should have a room that has room for [300](nr_of_people) persons
+- Hi, how are you? Can [160](nr_of_people) people be in [Beta](room)?
+- Hey there, I should have an event room that has room for [250](nr_of_people) colleagues
+- Good morning, Are there rooms for circa [180](nr_of_people) colleagues?
+- Good morning, how is it going? What rooms do you provide for up to [250](nr_of_people) guests?
+- Good afternoon, how are things? What rooms have space for a minimum of [180](nr_of_people) guests?
+- Good afternoon, how is life? What rooms have room that has room for [150](nr_of_people)?
+- Hi, how are you? I need an event room for [180](nr_of_people) colleagues
+- Hi there, how are things? Do you have rooms that fits between 190 to [180](nr_of_people) people?
+- Hey there, we would like an event room that has room for [210](nr_of_people) persons
+- Hello there, how is life? I need a meeting room for a minimum of [180](nr_of_people) persons
+- Hey there, how are you? we need a meeting room for circa [190](nr_of_people) people
+- Hey man, how is it going? What kind of rooms do you provide for [210](nr_of_people) people?
+- Good evening, how is it going? Do you provide rooms that fits between 250 to [210](nr_of_people) people?
+- Hi there, how is life? we should have a room for up to [300](nr_of_people) colleagues
+- Good afternoon, how is it going? we would like an event room for about [150](nr_of_people) colleagues
+- Hello, how is it going? How many rooms have room for a minimum of [250](nr_of_people) colleagues?
+- Hello there, Does room [Alpha](room) fit [250](nr_of_people) people?
+- Hey there, how is life? I should have an event room that fits [150](nr_of_people)
+- Hey man, What kind of rooms do you provide for at least [170](nr_of_people)?
+- Hi, how are you? How many rooms do you provide that fits [170](nr_of_people) guests?
+- Hello, how are you? we should have a room for up to [170](nr_of_people) persons
+- Good evening, how are things? Do you have rooms for between 250 to [220](nr_of_people) people?
+- Good evening, how is life? we need a room that fits [300](nr_of_people) people
+- Hi there, how are you? I would like a meeting room for at least [160](nr_of_people)
+- Hello there, Is the [last](room) space large enough for [190](nr_of_people) guests?
+- Hello, I should have an event room for about [300](nr_of_people) guests
+- Hey man, how is life? Do you have rooms that fits [180](nr_of_people) guests?
+- Good morning, how is life? What kind of rooms are available for circa [160](nr_of_people) persons?
+- Hi there, how is it going? What rooms have space for up to [150](nr_of_people) people?
+- Hey, how is it going? I want a meeting room that fits [210](nr_of_people) colleagues
+- Good morning, Do you provide rooms for between 190 to [160](nr_of_people) guests?
+- Hey there, how is it going? I need an event room that has room for [300](nr_of_people) colleagues
+- Hi, how are things? Does the [last](room) one fit [300](nr_of_people) colleagues?
+- Good morning, how is life? I need an event room that fits [220](nr_of_people) guests
+- Good afternoon, How many rooms do you have for about [220](nr_of_people) guests?
+- Hey there, how are things? we would like a meeting room for a minimum of [250](nr_of_people) people
+- Hey there, how is it going? How many rooms have space for about [200](nr_of_people) persons?
+- Hello, how are things? I would like an event room for at least [170](nr_of_people) guests
+- Hey man, Do you provide rooms for between 200 to [160](nr_of_people) persons?
+- Hey, how are you? we need a room that has room for [170](nr_of_people) colleagues
+- Hello, how is it going? Does the [second](room) one have space for [150](nr_of_people)?
+- Hi, how is life? Can [300](nr_of_people) guests fit in the [second](room) room?
+- Hey, Does [Gamma](room) fit [300](nr_of_people) colleagues?
+- Hey man, how are you? How many rooms are available for about [210](nr_of_people) persons?
+- Hello there, how is it going? we should have an event room that fits [300](nr_of_people) persons
+- Good afternoon, how are you? we want an event room for [180](nr_of_people) colleagues
+- Hello, how are you? I would like an event room for at least [250](nr_of_people) people
+- Good morning, how is it going? I would like an event room for circa [160](nr_of_people)
+- Hey, how are things? What kind of rooms have space for [190](nr_of_people)?
+- Hey there, how is it going? Do you have rooms for [190](nr_of_people)?
+- Hey man, how is it going? Do you have rooms that fits [160](nr_of_people) colleagues?
+- Good morning, how are things? How many rooms have room that fits [200](nr_of_people) people?
+- Hi, how are you? What rooms do you provide for about [190](nr_of_people) people?
+- Hey man, how are you? What kind of rooms do you provide for up to [150](nr_of_people)?
+- Good afternoon, how is it going? Do you have rooms that fits between 150 to [160](nr_of_people) persons?
+- Hello there, how are things? we need an event room for a minimum of [210](nr_of_people) guests
+- Good morning, how are things? I need a meeting room for at least [200](nr_of_people) persons
+- Good afternoon, how are things? Can [220](nr_of_people) persons fit in the [second](room) space?
+- Good evening, how are things? we should have a room that has room for [220](nr_of_people) people
+- Hey man, how is it going? What rooms do you have that has room for [220](nr_of_people) persons?
+- Hey man, how are things? I want a meeting room for circa [300](nr_of_people) people
+- Hi there, how is it going? Do you provide rooms that fits between 300 to [220](nr_of_people) guests?
+- Hey man, how is it going? we should have a room for at least [250](nr_of_people) people
+- Good morning, how is it going? What rooms have space that has room for [190](nr_of_people) guests?
+- Hi, how are things? I need an event room for circa [150](nr_of_people) persons
+- Good afternoon, What kind of rooms do you have for up to [200](nr_of_people) persons?
+- Hey, we should have an event room for up to [220](nr_of_people) colleagues
+- Hey, how are you? Are there rooms that fits between 220 to [200](nr_of_people) guests?
+- Hey, how are you? Can [220](nr_of_people) be in the [third](room) one?
+- Hey there, how are you? I would like an event room for at least [180](nr_of_people) people
+- Hey man, how are things? I need a meeting room that has room for [170](nr_of_people) colleagues
+- Hello, how are things? What kind of rooms have space for at least [190](nr_of_people) persons?
+- Hey man, how are things? Do you provide rooms that fits [170](nr_of_people) colleagues?
+- Hey man, how is it going? How many rooms are available for circa [160](nr_of_people) people?
+- Hey man, how are you? we would like an event room for up to [190](nr_of_people) people
+- Good evening, how is it going? Does room [Beta](room) fit [300](nr_of_people)?
+- Hey man, I should have an event room for up to [200](nr_of_people) guests
+- Hi there, how is it going? we would like an event room for up to [190](nr_of_people) people
+- Hey man, how is it going? Do you provide rooms that fits between 220 to [190](nr_of_people) people?
+- Hey, how is life? I need an event room for up to [160](nr_of_people) guests
+- Good evening, how are you? What kind of rooms do you provide that has room for [300](nr_of_people) guests?
+- Hello, How many rooms are available for at least [190](nr_of_people)?
+- Good morning, how is it going? I want an event room for about [250](nr_of_people) colleagues
+- Hey man, how is it going? Is [alpha](room) big enough for [210](nr_of_people) guests?
+- Good morning, how are things? Does the [last](room) one fit [220](nr_of_people) persons?
+- Hello there, I need an event room for a minimum of [180](nr_of_people)
+- Hello there, how is life? What kind of rooms have space for about [150](nr_of_people) persons?
+- Hey, how is life? I should have an event room that has room for [180](nr_of_people) people
+- Hey, how is it going? Do you provide rooms that fits between 210 to [210](nr_of_people) colleagues?
+- Good evening, How many rooms do you provide that has room for [210](nr_of_people) persons?
+- Hey there, Can [170](nr_of_people) colleagues fit in room [beta](room)?
+- Hello, how are things? we want an event room for a minimum of [150](nr_of_people) people
+
+## intent:greet+ask_for_room_equipment
+- Good afternoon Do you provide an [audio/video system](equipment) to show a presentation?
+- Hi Is there a possibility to show a presentation for the team?
+- Good evening how is life? Could I do a powerpoint presentation?
+- Hey there how are you? I would like to present
+- Hello there Do you have rooms that have [audio systems](equipment)?
+- Hello how are you? Is there an option that has [video systems](equipment) for my colleagues?
+- Hey there how are things? Is there an event room that has [screens](equipment) to do a talk?
+- Good morning how is it going? Is there [light systems](equipment) to show a presentation for the team?
+- Good afternoon Is there a meeting room that has [projectors](equipment) to do a presentation?
+- Good afternoon how is life? Is there an event room which has a [screen](equipment) to present?
+- Hey man how is it going? Do you have an option with equipment for our employees?
+- Hello how are you? Is there an option that has [beamers](equipment) to hold a presentation?
+- Hello there Is there equipment to do a powerpoint presentation for my colleagues?
+- Hey how are things? Do you have a location that has [screens](equipment) for our staff?
+- Hi there how is life? Do you have an option which has a [TV](equipment) to do a powerpoint presentation?
+- Good afternoon how is it going? Do you provide an option that has equipment to do a talk?
+- Good evening how is it going? Is there a meeting room that has equipment to present?
+- Hi how is life? Do you have a room that has [beamers](equipment) for our employees?
+- Good afternoon how are you? Is there a room with [loudspeakers](equipment) to do a talk?
+- Good afternoon how are you? Is there a [loudspeaker](equipment) to do a talk for my colleagues?
+- Hey there how is life? Do you have a meeting room with an [audio/video system](equipment) to show a presentation?
+- Hey how are things? Do you provide an event room which has an [audio system](equipment) for my colleagues?
+- Good morning how are things? Do you have an option which has [video systems](equipment) to show a presentation?
+- Hey how is life? Is there a room with [speakers](equipment) to make a presentation?
+- Hello how is life? Is there an option that has a [speaker](equipment) for our staff?
+- Hey man Is there an option which has equipment to show a powerpoint presentation?
+- Hello there how are you? Is there equipment to do a powerpoint presentation for the team?
+- Hey man Is there a location with equipment for the team?
+- Hello how is life? Do you provide an option which has equipment to make a presentation?
+- Good morning how is it going? Do you have an option which has a [speaker](equipment) to do a presentation?
+- Hello there how are you? Do you have a meeting room which has [audio systems](equipment) for the team?
+- Good evening Do you have a location that has equipment to do a talk?
+- Hi there Do you provide [loudspeakers](equipment) to do a presentation for our staff?
+- Good morning how are you? Do you provide a room that has equipment to present?
+- Good morning how is it going? Do you provide [projectors](equipment) to hold a presentation?
+- Hey there how is it going? Is there a location which has equipment to hold a presentation?
+- Hey there how is life? Do you have an option that has equipment for our employees?
+- Hello there how is it going? Do you have a meeting room with equipment to do a talk?
+- Hey man how are you? Is there a location which has equipment to do a presentation?
+- Good afternoon how is it going? Do you have an event room with an [audio/video system](equipment) for our staff?
+- Hello how are things? Do you have [audio systems](equipment) to do a powerpoint presentation for our employees?
+- Hi there Do you have an event room that has equipment to hold a presentation?
+- Hello Is there a room which has a [video system](equipment) for the team?
+- Hey man how are you? Is there an option that has equipment to do a powerpoint presentation?
+- Hey man how are things? Do you provide an event room which has [audio systems](equipment) to hold a presentation?
+- Hey there how are things? Is there an event room with equipment for my colleagues?
+- Hi how are things? Do you have a room that has [TVs](equipment) to make a presentation?
+- Good afternoon how is life? Do you provide an [audio/video system](equipment) to show a powerpoint presentation for the team?
+- Good morning how are you? Do you have an event room which has equipment to present?
+- Hello there Do you have an event room that has an [audio/video system](equipment) to hold a presentation?
+- Hello there how are you? Do you provide a room with an [audio/video system](equipment) for the team?
+- Hello there how are you? Is there a room with equipment to show a presentation?
+- Hey there how are you? Is it possible to do a powerpoint presentation for our employees?
+- Hey there how are you? Do you have an event room with [video systems](equipment) for my colleagues?
+- Hey how is life? Do you provide a location that has a [projector](equipment) to show a powerpoint presentation?
+- Good afternoon how is life? Do you have [video systems](equipment) to show a presentation for our staff?
+- Hey how is it going? Do you have a room that has [audio systems](equipment) to do a powerpoint presentation?
+- Good evening how is life? Do you provide a location that has equipment to hold a presentation?
+- Hi how are you? Do you have a meeting room that has an [audio system](equipment) for our staff?
+- Hello Do you have an option with [TVs](equipment) to do a powerpoint presentation?
+- Hey man Is there equipment to show a powerpoint presentation?
+- Good afternoon how are you? Is there a location which has equipment for my colleagues?
+- Good evening how is it going? Do you have a room which has a [video system](equipment) to present?
+- Good afternoon how is it going? Do you have [video systems](equipment) to hold a presentation for our staff?
+- Hey there how are things? Do you provide a room which has [TVs](equipment) to hold a presentation?
+- Hey there how is it going? Is there an option which has a [loudspeaker](equipment) for the team?
+- Hello how is life? Do you have a location that has equipment to make a presentation?
+- Hi how are things? Do you have an event room with equipment to do a powerpoint presentation?
+- Hello how is it going? Do you have an [audio/video system](equipment) to do a talk for the team?
+- Hey how is life? Is there a meeting room with [audio systems](equipment) to present?
+- Good afternoon how is it going? Do you provide an event room which has [loudspeakers](equipment) for our employees?
+- Good morning how is life? Is there an event room with an [audio/video system](equipment) to hold a presentation?
+- Good afternoon how are things? Do you provide a room that has a [video system](equipment) to hold a presentation?
+- Hey there Do you have a room which has equipment for the team?
+- Hello how are things? Is there an event room that has a [speaker](equipment) to make a presentation?
+- Good evening how is it going? Do you provide [audio systems](equipment) to hold a presentation for my colleagues?
+- Good morning how is it going? Is there an event room with an [audio system](equipment) for our employees?
+- Hey how is life? Is there an event room which has [beamers](equipment) to present?
+- Hey man Do you provide an event room with an [audio/video system](equipment) to make a presentation?
+- Hello there how are things? Do you provide an event room with [light systems](equipment) to make a presentation?
+- Good morning how are things? Is there a location that has a [light system](equipment) for the team?
+- Hello Is there an event room that has equipment to present?
+- Hey there how is life? Do you provide [projectors](equipment) to do a talk for the team?
+- Hey man Is there a room which has [beamers](equipment) for our employees?
+- Good evening how is it going? Do you have a location which has a [light system](equipment) to do a presentation?
+- Hey how are things? Do you provide an event room that has an [audio/video system](equipment) to do a talk?
+- Hey Do you have a room with equipment for our employees?
+- Hello how is it going? Do you provide a room which has [audio systems](equipment) to do a powerpoint presentation?
+- Good afternoon how are you? Is there [audio systems](equipment) to present?
+- Hi Is there [screens](equipment) to hold a presentation for our staff?
+- Good morning Do you provide a room that has [projectors](equipment) to do a powerpoint presentation?
+- Hello how is it going? Do you have a location with [light systems](equipment) for our employees?
+- Hey man how are you? Is there a room which has equipment to hold a presentation?
+- Hello there Do you provide a meeting room which has [TVs](equipment) to do a presentation?
+- Good afternoon how is it going? Do you provide a location with equipment for our staff?
+- Good evening how is it going? Is there a location that has equipment to hold a presentation?
+- Hi there how is it going? Do you have [audio systems](equipment) to show a powerpoint presentation for our staff?
+- Hi there how are things? Do you provide a room which has [loudspeakers](equipment) to make a presentation?
+- Hey there how is life? Do you provide a room with [audio systems](equipment) to do a talk?
+- Hi there how is it going? Is there a possibility to hold a presentation for my colleagues?
+- Hey how are you? Do you have a room with equipment for our staff?
+- Hi there Do you have a location with equipment to present?
+- Hello how are things? Do you provide a meeting room with [beamers](equipment) to show a presentation?
+- Good morning how are you? Is there an option that has a [projector](equipment) for my colleagues?
+- Hi there how is it going? Is there equipment to make a presentation for the team?
+- Hello there Is there an option which has [loudspeakers](equipment) to make a presentation?
+- Hey man how are things? Do you provide a meeting room which has equipment to do a presentation?
+- Hello there how are you? Do you have an event room which has equipment for the team?
+- Hello how are you? Do you provide a meeting room with equipment to show a powerpoint presentation?
+- Hey man how is it going? Is there an event room that has [beamers](equipment) to do a powerpoint presentation?
+- Good evening how is it going? Do you provide an option which has [projectors](equipment) for my colleagues?
+- Hello there how are you? Do you have an [audio system](equipment) to do a presentation for our employees?
+- Good afternoon how is life? Is there an event room that has [projectors](equipment) to make a presentation?
+- Hi how is life? Do you have a location with [screens](equipment) to do a talk?
+- Hey how is life? Is there an event room which has [audio systems](equipment) for the team?
+- Hey there how is it going? Is there a location with an [audio/video system](equipment) to do a powerpoint presentation?
+- Hey how is it going? Are there rooms with equipment?
+- Good afternoon how are you? Do you have an event room which has [screens](equipment) to do a presentation?
+- Hi there Is there an option which has an [audio system](equipment) for the team?
+- Hi Do you have equipment to show a powerpoint presentation?
+- Hello there how are you? Is there [speakers](equipment) to do a talk for the team?
+- Hey there how is it going? Do you have an option which has a [TV](equipment) to do a presentation?
+- Hello there how are things? Do you provide a location which has equipment for our employees?
+- Good afternoon how are you? Do you provide a meeting room with [beamers](equipment) to do a presentation?
+- Good evening how are things? Do you have an event room that has [screens](equipment) to show a powerpoint presentation?
+- Hi how is life? Do you provide equipment to make a presentation for our employees?
+- Good afternoon how are you? Do you provide an event room which has [loudspeakers](equipment) to show a presentation?
+- Good evening how are things? Do you have a room which has [loudspeakers](equipment) for my colleagues?
+- Hey Is there an event room with [audio systems](equipment) to do a powerpoint presentation?
+- Hello there how is it going? Is there a room which has a [light system](equipment) for my colleagues?
+- Hi how are things? Is there a meeting room with equipment to make a presentation?
+- Hey how are things? Is there an event room which has [speakers](equipment) to do a talk?
+- Hi there how are things? Do you provide equipment to present for our staff?
+- Hi there Is there an option with an [audio/video system](equipment) to make a presentation?
+- Hey how is life? Do you have an event room with an [audio/video system](equipment) for our staff?
+- Hello how is life? Is there a location that has a [loudspeaker](equipment) to hold a presentation?
+- Good morning how are you? Do you have a location with a [video system](equipment) for the team?
+- Good morning Do you provide an option that has a [screen](equipment) to hold a presentation?
+- Hey how are things? Is there a meeting room with equipment to show a powerpoint presentation?
+- Good evening how is it going? Do you have equipment to do a powerpoint presentation for our employees?
+- Hey there how are things? Do you provide an option which has a [beamer](equipment) for the team?
+- Hi there how are you? Do you provide an event room that has a [beamer](equipment) to show a presentation?
+- Good morning how are you? Do you have a meeting room that has [screens](equipment) to show a presentation?
+- Hi there how are things? Do you have an option with [TVs](equipment) to present?
+- Hey there how are you? Do you have an event room which has [light systems](equipment) for our staff?
+- Hi how is it going? Do you provide an [audio/video system](equipment) to show a powerpoint presentation?
+- Hi there how are you? Do you have an [audio/video system](equipment) to present for our staff?
+- Good afternoon how is life? we have to make a presentation
+- Hey how is it going? Is there a possibility to do a talk for our employees?
+- Good afternoon how are things? Do you provide an option which has equipment to make a presentation?
+- Hi how are things? Is there a location that has equipment for our employees?
+- Hi there how is life? Is there a room with a [video system](equipment) to make a presentation?
+- Hello there Do you provide an event room with equipment to show a powerpoint presentation?
+- Hey how are you? Do you provide a meeting room that has [projectors](equipment) for the team?
+- Hey man how is it going? Do you have an event room which has a [loudspeaker](equipment) to do a powerpoint presentation?
+- Hi how is it going? Is there a [TV](equipment) to hold a presentation for our employees?
+- Hi how are things? Is there an event room that has equipment to present?
+- Good morning how is it going? Do you have a meeting room which has [light systems](equipment) for the team?
+- Good morning Is there a room that has [screens](equipment) to hold a presentation?
+- Hello there Is there a location with equipment to present?
+- Good afternoon how are you? Is there an option with [beamers](equipment) for our employees?
+- Good evening how are things? Is there an option which has [light systems](equipment) to present?
+- Hey man how are you? Do you have equipment to show a powerpoint presentation for our staff?
+- Hey there how is it going? Do you have a location that has [video systems](equipment) to make a presentation?
+- Hi there how are you? Do you provide a room that has [screens](equipment) to do a powerpoint presentation?
+- Hi how is life? Is there an option that has equipment for our employees?
+- Hello there how is it going? Do you have an event room with [video systems](equipment) to show a presentation?
+- Good afternoon how are things? Do you have an option which has equipment to do a presentation?
+- Hey there how is it going? Is there a location that has an [audio/video system](equipment) for our staff?
+- Good afternoon Do you provide [beamers](equipment) to hold a presentation for the team?
+- Hi Do you provide an option with a [TV](equipment) to present?
+- Hey there how is life? Is there an option with an [audio system](equipment) to do a talk?
+- Good morning how are you? Do you have an event room that has [audio systems](equipment) for our staff?
+- Hi there how is life? Is there an option with a [projector](equipment) to hold a presentation?
+- Good evening how is it going? Is there a location that has [audio systems](equipment) to do a presentation?
+- Hey how is life? Do you have equipment to make a presentation for my colleagues?
+- Good morning how are things? Is there equipment to do a presentation?
+- Hello how is it going? Do you provide an event room with an [audio/video system](equipment) for the team?
+- Good morning how are you? Is there an event room with [video systems](equipment) to do a presentation?
+- Hey how are things? Do you provide a location that has equipment for the team?
+- Good morning how is life? Do you provide a location that has equipment to present?
+- Hello Is there a location which has equipment to hold a presentation?
+- Hey how is it going? Do you have equipment to make a presentation for my colleagues?
+- Hey man how is it going? Is there a room with an [audio system](equipment) to show a presentation?
+- Hi there how are you? Is there a room that has [TVs](equipment) for our employees?
+- Hey how is life? Do you have a room with an [audio/video system](equipment) to do a talk?
+- Hey how are you? Do you provide a room that has equipment to show a presentation?
+- Hey how is life? Do you have an option with a [speaker](equipment) for the team?
+- Good evening how is it going? Is there an option with [audio systems](equipment) to make a presentation?
+- Hi how is it going? Is there a [light system](equipment) to make a presentation for our staff?
+- Hi how is it going? Do you have a room that has a [TV](equipment) for our employees?
+- Good morning how are things? Is there an event room that has [beamers](equipment) to make a presentation?
+- Hello there Is there a room that has equipment to make a presentation?
+- Hello there how is life? Is there a possibility to show a presentation?
+- Hey how are you? Do you provide a meeting room which has [audio systems](equipment) to do a powerpoint presentation?
+- Hi there Do you have a room that has [audio systems](equipment) for my colleagues?
+- Good evening I should be able to do a powerpoint presentation for my colleagues?
+- Hello there how are you? Is there a room with equipment to show a powerpoint presentation?
+- Good afternoon how is it going? Do you have [light systems](equipment) to show a powerpoint presentation for our staff?
+- Hello there how are you? Is there a room with equipment to do a powerpoint presentation?
+- Hi there how is life? Is there a location which has equipment for my colleagues?
+- Hi how is it going? Is there an option which has an [audio system](equipment) to show a powerpoint presentation?
+- Good evening how is it going? Do you provide a location that has equipment to do a presentation?
+- Hey how is it going? Do you provide an event room with equipment for the team?
+- Hey how is life? Do you have a location that has equipment to hold a presentation?
+- Hey man how is it going? Do you have equipment to show a powerpoint presentation for my colleagues?
+- Hello there how are you? Is there a [TV](equipment) to make a presentation?
+- Hi there how are you? Is there an event room that has a [loudspeaker](equipment) for our employees?
+- Hi Do you provide a room that has an [audio system](equipment) to make a presentation?
+- Hello there how is it going? Do you provide an event room with equipment to show a presentation?
+- Good morning how is life? Do you provide an option with equipment for my colleagues?
+- Hello there Do you have an option with an [audio system](equipment) to hold a presentation?
+- Good morning how are you? Do you have [projectors](equipment) to show a powerpoint presentation for the team?
+- Hi there how are you? Do you provide a location that has [audio systems](equipment) to show a presentation?
+- Hi how are you? Do you have an event room with [beamers](equipment) for our staff?
+- Good evening how are things? Do you have a room with equipment to do a talk?
+- Good evening how is life? Do you provide a meeting room with a [projector](equipment) to show a presentation?
+- Good afternoon how is life? Is there an event room which has an [audio system](equipment) to show a powerpoint presentation?
+- Hey how is it going? Do you provide an event room with [projectors](equipment) for our staff?
+- Hi there Do you have equipment to show a powerpoint presentation for the team?
+- Hi there how are things? Is there an option which has an [audio/video system](equipment) to hold a presentation?
+- Hello how are you? Is there a room with [screens](equipment) for the team?
+- Good morning how are things? Do you have an event room that has a [loudspeaker](equipment) to make a presentation?
+- Hey there how are you? Is there a room that has [speakers](equipment) to do a powerpoint presentation?
+- Good morning how is life? Do you have an option with equipment to do a talk?
+- Hey man Do you provide an event room with equipment for my colleagues?
+- Hey man how is life? Do you provide [video systems](equipment) to make a presentation for the team?
+- Hey man how is life? Do you have a meeting room with a [projector](equipment) to present?
+- Hello how is it going? Do you provide an option that has an [audio system](equipment) to hold a presentation?
+- Hi there how is it going? Do you provide an option with [TVs](equipment) for the team?
+- Good morning Do you provide an event room that has [light systems](equipment) to show a presentation?
+- Hi there how are you? Is there equipment to hold a presentation for our employees?
+- Good morning how is it going? Do you provide an event room that has [speakers](equipment) to present?
+- Good afternoon how are you? Is there a room with [light systems](equipment) for my colleagues?
+- Good evening how are things? Are there rooms that have equipment?
+- Hi Do you provide [TVs](equipment) to present?
+- Hello there how is life? Is there a room which has an [audio system](equipment) to show a powerpoint presentation?
+- Hello how is life? Do you have an event room that has an [audio/video system](equipment) to show a powerpoint presentation?
+- Hey how are you? Do you have an event room which has [video systems](equipment) for our staff?
+- Good evening Is there a room that has equipment to do a presentation?
+- Hey there how is life? Do you provide [projectors](equipment) to do a presentation in [Beta](room)?
+- Hi Are we able to make a presentation in room [beta](room)?
+- Good evening how is life? Is there equipment to present in [Beta](room)?
+- Hi there how are things? Is there equipment to show a presentation in room [gamma](room)?
+- Good morning how are things? Do you have an [audio/video system](equipment) to do a powerpoint presentation in room [beta](room)?
+- Hi there how are you? Is there equipment to show a powerpoint presentation in room [Alpha](room)?
+- Hey how is life? Is there equipment to do a powerpoint presentation in [beta](room)?
+- Hi there how is life? Do you provide a [loudspeaker](equipment) to show a powerpoint presentation in [Gamma](room)?
+- Good morning Could I show a powerpoint presentation in [Alpha](room)?
+- Hey man how is life? Do you provide an [audio system](equipment) to make a presentation in room [Beta](room)?
+- Hey there how is it going? Is there equipment to do a powerpoint presentation in [Alpha](room)?
+- Hi how is it going? Do you have [loudspeakers](equipment) to do a talk in room [gamma](room)?
+- Hello there how are you? Do you have [beamers](equipment) to make a presentation in room [Alpha](room)?
+- Hey man how are you? Do you have equipment to show a presentation in room [Gamma](room)?
+- Good afternoon how are you? Do you have equipment to hold a presentation in room [Beta](room)?
+- Hey how is life? Is there a [light system](equipment) to show a powerpoint presentation in [Gamma](room)?
+- Hey how are you? Are we able to make a presentation in [Gamma](room)?
+- Hello there how are things? Do you provide a [speaker](equipment) to do a presentation in [gamma](room)?
+- Hey Do you have equipment to show a powerpoint presentation in room [gamma](room)?
+- Hey man Do you have equipment to do a powerpoint presentation in [alpha](room)?
+- Hey how is life? Do you provide an [audio/video system](equipment) to present in [alpha](room)?
+- Hey how are you? Do you have [video systems](equipment) to show a powerpoint presentation in room [beta](room)?
+- Hello there how are you? Do you provide [TVs](equipment) to do a powerpoint presentation in [alpha](room)?
+- Hi Is there a possibility to present in [Gamma](room)?
+- Hey there Is there equipment to hold a presentation in room [Alpha](room)?
+- Hello there how are things? Is there a [screen](equipment) to make a presentation in [gamma](room)?
+- Good evening Do you have an [audio system](equipment) to present in [Alpha](room)?
+- Good evening how is it going? Do you have [speakers](equipment) to hold a presentation in [gamma](room)?
+- Hello there how is it going? Is there a [TV](equipment) to present in room [Gamma](room)?
+- Good morning how are things? Do you provide an [audio/video system](equipment) to present in [gamma](room)?
+- Hey man how are you? Is there [TVs](equipment) to show a powerpoint presentation in room [Alpha](room)?
+- Hi how is life? I should be able to do a powerpoint presentation in room [Gamma](room)?
+- Hello there Do you provide [screens](equipment) to hold a presentation in [beta](room)?
+- Hey how is it going? Is there equipment to make a presentation in [Gamma](room)?
+- Hey there Is there [loudspeakers](equipment) to present in [Alpha](room)?
+- Hello how is it going? Is there [video systems](equipment) to make a presentation in room [Alpha](room)?
+- Good morning how are you? Do you have [TVs](equipment) to present in [Alpha](room)?
+- Hey how is it going? Is there equipment to show a powerpoint presentation in [Gamma](room)?
+- Hi Is there equipment to present in room [Gamma](room)?
+- Good evening Are we able to do a talk in [Gamma](room)?
+
+## intent:greet+ask_for_room_price
+- Hello there how is it going? How much are the rooms?
+- Good morning how are things? Is there a possibility to get an event room that costs less than [GBP 1'000](budget)?
+- Good morning how is it going? Is there an affordable room?
+- Hello How much do the rooms cost?
+- Good morning Is there an option for less than [1'500.-](budget)?
+- Hey there how are you? Are there any cheap rooms?
+- Hi how is it going? Do you provide rooms that cost [1,400.-](budget)?
+- Hi how are you? Which room is the most affordable?
+- Good afternoon how are you? What're the prices of the rooms?
+- Good evening how is life? Is there a possibility to get a room that costs [500.-](budget)?
+- Hi there how is it going? Is there a possibility to get a meeting room for [1,000.-](budget)?
+- Hello there how are things? Do you have get an option that costs less than [USD 1'500](budget)?
+- Good evening how are you? Is there an option for lower than [900.-](budget)?
+- Good afternoon how is it going? Is there a possibility to book an event room for [1'200.-](budget)?
+- Hello there Do you have rent an event room that costs less than [GBP 1'400](budget)?
+- Hello Do you have rent an option for less than [900.-](budget)?
+- Hey how are things? Could we get an event room for less than [$1,400](budget)?
+- Hi Is there a meeting room that costs [1'400.-](budget)?
+- Hey how is it going? Do you have book a room for [500.-](budget)?
+- Hello how are things? Is it possible to rent a room for lower than [1500 dollars](budget)?
+- Good afternoon how is life? Is it possible to get a location that costs [1200.-](budget)?
+- Good evening how are you? Could we rent an event room for less than [GBP 1,200](budget)?
+- Hey how is it going? Is there an option that costs less than [£800](budget)?
+- Good evening how is life? Is it possible to rent a meeting room for [900 Swiss francs](budget)?
+- Hello how are you? Can we get a room for lower than [500 euros](budget)?
+- Hey how is it going? Is there a possibility to get an event room for less than [800 euros](budget)?
+- Hey how is it going? Do you offer an option for lower than [$1'400](budget)?
+- Good evening how are things? Are there rooms for lower than [GBP 1'400](budget)?
+- Hi there how are things? Could we book an event room that costs less than [900.-](budget)?
+- Hey there Could we rent a location that costs [500 pounds](budget)?
+- Good morning how is it going? Is there a possibility to book a room for lower than [CHF 1200](budget)?
+- Hey man Do you have get a meeting room that costs less than [CHF 1'500](budget)?
+- Good evening how is it going? Is there an event room for [500 pounds](budget)?
+- Good morning how are you? Could we get a room for less than [£1200](budget)?
+- Hey how are you? Could we get a meeting room for less than [$1'400](budget)?
+- Hello how is it going? Is there a possibility to get an event room that costs [800 francs](budget)?
+- Hello there how are things? Is there a possibility to get a meeting room that costs less than [Fr. 800](budget)?
+- Good evening Do you offer an option that costs [1'400.-](budget)?
+- Good afternoon Is there a possibility to rent a meeting room for less than [1,200 pounds](budget)?
+- Good morning how are things? Is it possible to book an option for [USD 1,400](budget)?
+- Good afternoon Can we book an event room that costs less than [1200 dollars](budget)?
+- Hey Is it possible to rent a location for less than [CHF 1,000](budget)?
+- Good evening how are you? Do you provide a meeting room that costs [USD 900](budget)?
+- Hey how are you? Can we book an event room for less than [£1'500](budget)?
+- Hi how is it going? Is it possible to get an event room for [€1'000](budget)?
+- Hey man how is it going? Is it possible to rent a room for lower than [700 dollars](budget)?
+- Hey man how are things? Do you provide rooms for less than [$700](budget)?
+- Hello how are things? Is it possible to get a room for lower than [1'500.-](budget)?
+- Good afternoon how are you? Do you provide an event room that costs less than [500.-](budget)?
+- Hey man Is it possible to book an option that costs less than [USD 500](budget)?
+- Good evening how is it going? Is there a possibility to get a meeting room for less than [1000 dollars](budget)?
+- Hi there Do you have book a meeting room for [900.-](budget)?
+- Good afternoon how are things? Do you offer a location that costs less than [1500.-](budget)?
+- Hey man how are things? Is it possible to get a room for lower than [€1500](budget)?
+- Hello how is it going? Can we get a location for lower than [1400.-](budget)?
+- Hey man how are things? Is it possible to book a room for [1'500 Swiss francs](budget)?
+- Good morning how are things? Is there a possibility to book an option for [€1,400](budget)?
+- Hey there how is life? Is there a room for [Fr. 1'200](budget)?
+- Hello how is life? Could we book a room for less than [$900](budget)?
+- Hello how is life? Is there a possibility to get an option that costs less than [800 Swiss francs](budget)?
+- Hi there how are you? Could we book an event room for [GBP 1'500](budget)?
+- Good evening how are you? Could we get a room that costs [1,500.-](budget)?
+- Hey there how are you? Do you have a room that costs [1500.-](budget)?
+- Good afternoon how is it going? Can we rent a room for lower than [£1200](budget)?
+- Good afternoon how is life? Do you have book an event room for less than [$1000](budget)?
+- Good afternoon how is life? Is there a possibility to rent an event room for lower than [1200 pounds](budget)?
+- Hello how are things? Can we get an option that costs less than [1'200 francs](budget)?
+- Hello there how are you? Are there any rooms for less than [£1,000](budget)?
+- Hello there how is life? Do you provide an event room for lower than [GBP 1'500](budget)?
+- Hey there how are you? Could we get an option for less than [1400 dollars](budget)?
+- Hello there how are you? Could we book an event room that costs [900.-](budget)?
+- Hey how are things? Is there a possibility to get an option that costs [1,400.-](budget)?
+- Hello there Is there an event room for less than [£600](budget)?
+- Good afternoon how is life? Is it possible to get an event room for less than [1,200 pounds](budget)?
+- Hello there Could we get an option for lower than [$1'200](budget)?
+- Hey there how are you? Do you have rent an event room that costs [1200.-](budget)?
+- Hi there how is life? Could we rent an option for [1500 francs](budget)?
+- Hey how are things? Do you provide a room for less than [800.-](budget)?
+- Good afternoon how is life? Is there a possibility to rent a location for [£1500](budget)?
+- Hey Could we book a meeting room for lower than [1400 pounds](budget)?
+- Good morning how is life? Do you have book an event room for lower than [GBP 1200](budget)?
+- Hello how is it going? Do you have book a meeting room that costs [GBP 1000](budget)?
+- Hi how are you? Is there an event room for lower than [1400.-](budget)?
+- Good afternoon how is it going? Can we get a room for less than [1,400.-](budget)?
+- Good evening how are you? Can we get a meeting room that costs less than [1'200 pounds](budget)?
+- Good morning how are things? Do you have rent an event room that costs less than [Fr. 500](budget)?
+- Hey there Do you have a room for less than [$1200](budget)?
+- Hi how is it going? Are there rooms for [CHF 1,000](budget)?
+- Hey there how is life? Is there a possibility to book an event room for lower than [1000 euros](budget)?
+- Good afternoon how is it going? Can we book a location for [1'400 francs](budget)?
+- Hey there how is it going? Is it possible to get a meeting room for lower than [1'000 pounds](budget)?
+- Good afternoon how are things? Could we book a meeting room for lower than [1500 pounds](budget)?
+- Good evening how is it going? Do you offer a room for less than [GBP 1500](budget)?
+- Hey there how is life? Could we book a location for [1,500 Swiss francs](budget)?
+- Hey man how is life? Can we book a room for lower than [£1'000](budget)?
+- Hello there how is it going? Can we rent a room for less than [1500 dollars](budget)?
+- Hello there how are you? Can we rent a location for lower than [500.-](budget)?
+- Good evening how is life? Do you have a room that costs [600.-](budget)?
+- Hello there how is life? Is it possible to get an event room for less than [1'000 Swiss francs](budget)?
+- Hello there how are you? Is it possible to rent a room that costs less than [CHF 1'400](budget)?
+- Hey man how are things? Can we book an option that costs [Fr. 1400](budget)?
+- Hey man how is it going? Is there a possibility to get an event room for lower than [$1,500](budget)?
+- Hi how is it going? Is there a room for less than [GBP 800](budget)?
+- Hello there how is life? Can we rent an event room for lower than [$1,400](budget)?
+- Good afternoon how are things? Can we book an event room that costs [1'500 euros](budget)?
+- Good morning Do you have get an event room that costs less than [1,000.-](budget)?
+- Good morning how is it going? Is it possible to book an option that costs less than [CHF 1'400](budget)?
+- Hi how are you? Do you offer rooms for less than [1,500 euro](budget)?
+- Hello how is life? Do you have an event room for less than [$600](budget)?
+- Good evening how are things? Could we book an option for lower than [£1000](budget)?
+- Good evening how is it going? Could we rent a room that costs less than [USD 500](budget)?
+- Hello there how is life? Do you have book an event room that costs [900.-](budget)?
+- Hello there how are things? Is there a location that costs less than [CHF 1'000](budget)?
+- Good evening how are things? Can we book an option that costs [Fr. 1400](budget)?
+- Hello how are you? Could we get a room for lower than [CHF 1500](budget)?
+- Good evening how are you? Can we book an event room for lower than [CHF 1'200](budget)?
+- Hey man Could we get a room that costs less than [1'500 Swiss francs](budget)?
+- Good morning how is life? Do you have an option that costs less than [€1'500](budget)?
+- Hey there how are you? Is there a possibility to rent a room that costs [CHF 600](budget)?
+- Hi there how are you? Can we book a room that costs [1000.-](budget)?
+- Hey there how are things? Do you have book an event room for [Fr. 1400](budget)?
+- Good afternoon how is life? Do you have book an event room for [$1000](budget)?
+- Hi there how are you? Is there a location for [Fr. 1,200](budget)?
+- Hey there how is life? Do you have get an event room for lower than [1400 francs](budget)?
+- Hey there how is life? Is it possible to get a room that costs less than [1'000.-](budget)?
+- Hey man how are things? Do you have rent a location for [USD 1400](budget)?
+- Good evening how are things? Are there any rooms for lower than [£1,400](budget)?
+- Good morning how is life? Could we get a location for lower than [$900](budget)?
+- Hello how is it going? Do you offer a room for less than [1500.-](budget)?
+- Hey there how are things? Is it possible to rent an event room for [1,200 Swiss francs](budget)?
+- Good morning Can we book a location that costs less than [$1'000](budget)?
+- Hey how are you? Could we rent a location that costs [£700](budget)?
+- Good morning how are you? Is there a room for less than [CHF 1400](budget)?
+- Good afternoon how is it going? Do you have get an option for lower than [1'400 euro](budget)?
+- Hey how are things? Is it possible to rent an event room for less than [GBP 1'200](budget)?
+- Hello how are things? Could we get an option for [700.-](budget)?
+- Hey there how is it going? Is it possible to get a meeting room for [1'400 euro](budget)?
+- Hey man how is it going? Is there a meeting room that costs less than [$1,000](budget)?
+- Hi there Can we get an event room that costs less than [CHF 1'000](budget)?
+- Good morning Is it possible to rent an event room for lower than [1,200.-](budget)?
+- Good morning how is it going? Is it possible to get an event room for [600.-](budget)?
+- Hi there Do you have book an option for less than [1'200 pounds](budget)?
+- Hey man how are things? Is there a meeting room that costs less than [USD 1200](budget)?
+- Hello there Can we get a meeting room that costs [£1'500](budget)?
+- Good evening how are things? Is it possible to get an option for lower than [1'200.-](budget)?
+- Hello there how is life? Is there a possibility to book an event room that costs less than [1,200 pounds](budget)?
+- Hey man how is life? Do you offer an option that costs less than [1200 euro](budget)?
+- Hi there how is life? Could we get a meeting room for lower than [500.-](budget)?
+- Good morning how are things? Do you have rooms for less than [CHF 500](budget)?
+- Good morning how is it going? Can we book a meeting room for less than [500.-](budget)?
+- Good evening how are you? Could we rent an option that costs [1400.-](budget)?
+- Hello there how are you? Can we get an option for less than [1000.-](budget)?
+- Hi how are things? Do you provide a meeting room that costs less than [700.-](budget)?
+- Hello Is it possible to book a meeting room that costs less than [500.-](budget)?
+- Hi how are you? Could we book an option that costs less than [700.-](budget)?
+- Hey man how are things? Could we book a meeting room that costs [1,500 pounds](budget)?
+- Hello how is it going? Is it possible to get a room for lower than [GBP 1'500](budget)?
+- Hi there Is there a location that costs less than [€1,000](budget)?
+- Hi there how are you? Do you have rent an option for less than [1500 dollars](budget)?
+- Hey man how are you? Do you have rent a room for lower than [Fr. 800](budget)?
+- Hey man how are you? Is it possible to book a meeting room for lower than [1,200 pounds](budget)?
+- Hey there how are things? Could we get an event room that costs less than [1000 euros](budget)?
+- Hello there how is life? Is there a meeting room that costs [1500.-](budget)?
+- Good evening how are things? Is there a possibility to book an option that costs [1,400 pounds](budget)?
+- Good morning how are you? Could we rent an option for lower than [1'200.-](budget)?
+- Good afternoon how is it going? Could we book a room for lower than [1,200 pounds](budget)?
+- Hey how are you? Is there a possibility to book an event room that costs less than [€1,500](budget)?
+- Hey there how is life? Is there an option for less than [1,200 euro](budget)?
+- Hey how are things? Do you provide rooms for less than [500.-](budget)?
+- Good afternoon how is life? Do you have book an event room for less than [1,200.-](budget)?
+- Hey how is life? Can we book an event room for less than [1,000.-](budget)?
+- Hey how is it going? Can we book an option that costs [1'200 pounds](budget)?
+- Good afternoon how are things? Do you offer a location that costs less than [€600](budget)?
+- Good afternoon how are things? Could we rent an event room that costs less than [€1'400](budget)?
+- Good afternoon how are you? Is there a possibility to get an option for less than [700 euros](budget)?
+- Good afternoon how is it going? Is it possible to book a location for lower than [1500.-](budget)?
+- Hey how is life? Could we book a room for [Fr. 600](budget)?
+- Good afternoon how are you? Is there an option for less than [CHF 1'500](budget)?
+- Good evening how are things? Do you have get a location that costs [GBP 800](budget)?
+- Hello how is life? Is there a possibility to book a location for less than [1'200.-](budget)?
+- Hello how are things? How much does room [Beta](room) cost?
+- Good evening Is there room [Gamma](room) for [1'400.-](budget)?
+- Hi Are there expensive rooms?
+- Good morning how is life? How much is room [Beta](room)?
+- Good morning What is the price of [Alpha](room)?
+- Hey there how are things? Could we rent room [beta](room) for less than [$900](budget)?
+- Hey there how are you? How cheap is [alpha](room)?
+- Good morning how are things? Can we get room [Alpha](room) that costs [€1000](budget)?
+- Good evening how is life? Is there a possibility to get [beta](room) that costs [1'000 dollars](budget)?
+- Hi there how is it going? Do you have rent room [Alpha](room) that costs less than [1'200 pounds](budget)?
+- Hi there how are you? Do you offer [alpha](room) that costs less than [500.-](budget)?
+- Hello how are things? Is there a possibility to rent [Alpha](room) that costs less than [€1,200](budget)?
+- Hey how are you? Could we get [Gamma](room) that costs less than [GBP 1,500](budget)?
+- Hey how are things? Can we rent [Beta](room) for lower than [Fr. 600](budget)?
+- Good evening how is it going? Is it possible to rent [Beta](room) for less than [GBP 900](budget)?
+- Hello there Do you have room [alpha](room) for less than [1,400.-](budget)?
+- Good afternoon how are things? Is it possible to get room [alpha](room) for lower than [CHF 600](budget)?
+- Good morning Can we book [beta](room) for [600.-](budget)?
+- Hi how is life? Is it possible to get [alpha](room) that costs less than [€600](budget)?
+- Hello how is life? Could we book room [Alpha](room) for [1000 Swiss francs](budget)?
+- Hello how are you? Is there [beta](room) for [1'500 dollars](budget)?
+- Good morning how is it going? Can we rent room [Alpha](room) for lower than [GBP 1,400](budget)?
+- Hi there how is life? Can we book room [Gamma](room) for lower than [500 euros](budget)?
+- Good evening how is life? Could we rent [Alpha](room) that costs less than [Fr. 700](budget)?
+- Good evening how are you? Do you provide room [beta](room) for [$900](budget)?
+- Good morning how is it going? Can we get room [beta](room) that costs [CHF 900](budget)?
+- Hey there Could we get room [beta](room) that costs [1'200 francs](budget)?
+- Good morning how are you? Could we get [gamma](room) for less than [1200.-](budget)?
+- Hey there how is life? Is it possible to get room [Beta](room) for [USD 900](budget)?
+- Good afternoon how is life? Is there [Alpha](room) that costs [Fr. 1400](budget)?
+
+## intent:greet+ask_for_options
+- Good morning how is life? Can you give me information about your event rooms?
+- Good morning I am looking for a location in your hotel
+- Hello there how are you? What kind of event rooms do you have?
+- Good afternoon I want to hear more about the rooms
+- Hi there how is life? I would like to reserve a meeting room
+- Hello how is life? We are interested in a meeting room in your hotel
+- Good evening how is it going? We are interested in an event room
+- Hey man how is life? I would like to reserve an event room
+- Good evening how is it going? I would like to book an event room in your hotel
+- Good morning how are things? How many event rooms are available?
+- Hi there how is it going? Please say something about your event rooms
+- Hey man I'm looking for an event room in your hotel
+- Hi there how are things? We need a meeting room
+- Hello there Can you tell me more about the event rooms?
+- Hi there how are things? I am looking for an event room
+- Hi there how is life? We need an event room in your hotel
+- Hey there how are you? What kind of rooms do you provide?
+- Good morning how is it going? Please give me meeting rooms
+- Good morning how are you? We need a location in your hotel
+- Hey there how are things? I'm looking for a location
+- Good evening I am interested in an event room
+- Hey man how are things? We are looking for a room in your hotel
+- Hi there how are things? How many rooms are available?
+- Hey there how are you? We are searching an event room
+- Good afternoon how are things? Please say something about your event rooms
+- Good evening We need a meeting room in your hotel
+- Hello there Do you provide meeting rooms?
+- Good afternoon We are looking for a meeting room
+- Hi how are you? I am looking for a room in your hotel
+- Hi how is it going? What kind of meeting rooms do you have?
+- Good afternoon how is life? We need an event room
+- Hi there how is life? I need a room in your hotel
+- Hi how is it going? Give me information about your meeting rooms
+- Hi there how is life? I am looking for a room in your hotel
+- Good evening how is life? We would like to book a room
+- Hey how is life? What meeting rooms do you have?
+- Hi there how are you? I am searching a room
+- Hi there I'm looking for an event room in your hotel
+- Hello how are things? Do you have rooms?
+- Hi Tell me about your rooms
+- Hey how are you? I am searching an event room in your hotel
+- Good afternoon how is life? I am looking for an event room
+- Hey there how are you? What kind of meeting rooms are available?
+- Hey how is it going? We are interested in an event room in your hotel
+- Hello how are things? We are searching an event room
+- Good evening how are things? I am looking for a meeting room
+- Hello how is life? I am interested in an event room in your hotel
+- Hey how are things? Tell me about your rooms
+- Hello there What rooms do you have?
+- Good afternoon how are things? Can you tell me more about the event rooms?
+- Hello there how is life? I need a room
+- Hey how is life? I need a meeting room in your hotel
+- Hey how is it going? I would like to reserve a meeting room in your hotel
+- Hey man I am looking for a location
+- Hi how is it going? Please say something about your event rooms
+- Hi how is life? What rooms do you provide?
+- Good afternoon how are you? We're looking for a room in your hotel
+- Hey how is life? I am looking for a location
+- Hello there how is it going? I need a location
+- Hey how is it going? I am interested in a room in your hotel
+- Hey man how is it going? Do you have event rooms?
+- Hello How many rooms do you have?
+- Good afternoon how is life? I want to hear more about the meeting rooms
+- Hello there how is life? We're looking for an event room in your hotel
+- Good evening I am looking for a room
+- Good evening We need an event room
+- Good evening how are things? What kind of rooms do you have?
+- Hey there how are you? I'm looking for an event room
+- Hey man how are things? I have a question about your rooms
+- Hello there how is life? We're looking for a location in your hotel
+- Hello how is life? We would like to reserve an event room
+- Good morning how is life? I am searching an event room in your hotel
+- Hello there how is life? Do you provide rooms?
+- Hello how are you? How many meeting rooms do you have?
+- Good afternoon how is life? I'm looking for a location
+- Good afternoon how are things? I'm looking for an event room in your hotel
+- Good evening how are things? Give me information about your meeting rooms
+- Hey man how is it going? We are looking for a meeting room in your hotel
+- Hello how are you? I am looking for an event room
+- Hey there How many rooms do you have?
+- Hi there how is it going? We would like to reserve a meeting room
+- Hey there how are things? We would like to reserve a room in your hotel
+- Hey man how are things? Give me information about your meeting rooms
+- Good afternoon how are things? We would like to book an event room in your hotel
+- Good afternoon I'm looking for an event room
+- Good evening Can you give me information about your meeting rooms?
+- Hello there how are things? How many event rooms are available?
+- Good afternoon how is life? I am interested in an event room in your hotel
+- Hey there I am searching a meeting room
+- Hi how is it going? We would like to reserve an event room in your hotel
+- Hello how is it going? We need a location
+- Hi there how are you? Please give me rooms
+- Hi how are you? We are searching an event room in your hotel
+- Hello how are things? We are interested in a room
+- Hi How many rooms do you provide?
+- Hey man how are things? Can you give me information about your meeting rooms?
+- Hey there We're looking for a location
+- Hello there how is life? I'm looking for a location in your hotel
+- Good evening how are you? Please give me event rooms
+- Good morning how are you? I'm looking for an event room in your hotel
+- Good evening how is it going? We are looking for an event room
+- Hey how is life? How many meeting rooms do you have?
+- Hello there how are you? I am searching an event room
+- Hi there how is life? I'm looking for a meeting room in your hotel
+- Good morning how are things? Give me information about your meeting rooms
+- Hey We need an event room
+- Hey there how are you? What meeting rooms do you have?
+- Hey Can you give me information about your rooms?
+- Good afternoon how is it going? I am searching an event room
+- Hello there how are things? We are looking for a location in your hotel
+- Hey there Please give me rooms
+- Hey man how is life? I am looking for a meeting room in your hotel
+- Hello there how is it going? I would like to reserve a location
+- Hi there how are you? What kind of event rooms do you provide?
+- Hey man how is it going? I am looking for a location
+- Good afternoon how is it going? We need an event room in your hotel
+- Hello how is life? I am interested in a meeting room
+- Good evening how is life? We're looking for an event room in your hotel
+- Good evening how is it going? What kind of meeting rooms are available?
+- Hey man how is it going? Give me information about your meeting rooms
+
+## intent:provide_name
+- Yes, [Mathieu](name)
+- Sure, i am [zoe](name)
+- Yes, my name is [Patricia Maurer](name)
+- Of course, [Amy Schar](name)
+- Sure, [Ben Weber](name)
+- Okay, this is [Philipp Hess](name)
+- Sure, i am [Wubshet](name)
+- Sure, i am [Blaser](name)
+- Yes, my name is [dylan](name)
+- Okay, this is [Maxime Hess](name)
+- Of course, i am [Sophie](name)
+- Okay, my name is [Roth](name)
+- Okay, [Mélissa](name)
+- Okay, this is [Maxime Liechti](name)
+- Okay, this is [Alexis Meyer](name)
+- Okay, [Daniel](name)
+- Sure, my name is [Mary Portmann](name)
+- Yes, this is [Chet Schneider](name)
+- Sure, my name is [Sophie Brugger](name)
+- Of course, i am [Océane](name)
+- Of course, [yasmina](name)
+- Of course, i am [lea](name)
+- Okay, this is [Arnold](name)
+- Of course, my name is [Nathalie Zimmermann](name)
+- Okay, i am [Buhler](name)
+- Okay, i am [Romain Brugger](name)
+- Yes, you are speaking to [Jérôme](name)
+- Yes, you are speaking to [Jonas](name)
+- Sure, my name is [Marc Maurer](name)
+- Sure, my name is [Joel](name)
+- Yes, this is [Hofer](name)
+- Of course, my name is [Amina](name)
+- Yes, i am [Samuel Keller](name)
+- Yes, this is [yann](name)
+- Sure, [Beranger Burri](name)
+- Yes, my name is [Noémi Bachmann](name)
+- Yes, my name is [Favre](name)
+- Sure, my name is [Quan Sommer](name)
+- Yes, [Lina Scherrer](name)
+- Of course, [jan Imhof](name)
+- [Camille](name)
+- This is [Jérôme Kung](name)
+- This is [Joel Bachmann](name)
+- My name is [Estelle Ruegg](name)
+- I am [Vogt](name)
+- [Alexander Hofer](name)
+- I am [Maria](name)
+- My name is [Stucki](name)
+- [lea](name)
+- My name is [Alicia Michel](name)
+- [Kalin](name)
+- My name is [Schmidt](name)
+- This is [Estelle Favre](name)
+- This is [Schweizer](name)
+- [michel](name)
+- My name is [Graf](name)
+- This is [Moser](name)
+- My name is [Patrick Moser](name)
+- I am [Mélissa Seiler](name)
+- I am [Chet](name)
+- [Dylan Koller](name)
+- This is [Baumann](name)
+- I am [Aurelia](name)
+- This is [Giani Meier](name)
+- [Yasmine](name)
+- This is [Sutter](name)
+- This is [Noémie Liechti](name)
+- [Suter](name)
+- My name is [Théo](name)
+- My name is [Thierry](name)
+- [Keller](name)
+- My name is [Widmer](name)
+- [Bucher](name)
+- My name is [Christine](name)
+- I am [Ulysse Arnold](name)
+- I am [Catherine](name)
+- [Dorian](name)
+- This is [louis](name)
+- This is [Philippe Müller](name)
+- This is [Burri](name)
+- This is [lorenzo](name)
+- I am [Chiara](name)
+- [Justine](name)
+- My name is [Yolan](name)
+- I am [Tania Wagner](name)
+- [Hess](name)
+- [Ammann](name)
+- [Mélissa Pfister](name)
+- My name is [Stéphanie](name)
+- My name is [Léane](name)
+- I am [Noémi Keller](name)
+- My name is [Koller](name)
+- This is [rahel](name)
+- My name is [Noémi](name)
+- This is [Thierry](name)
+- My name is [Hug](name)
+- I am [kelly arnold](name)
+- [Alessio](name)
+- This is [Antony](name)
+- I am [Widmer](name)
+- [Wuthrich](name)
+- My name is [Wyss](name)
+- This is [Gaëlle](name)
+- This is [théo](name)
+- This is [emma](name)
+- My name is [Yasmina](name)
+- This is [Nils Siegenthaler](name)
+- My name is [sonja moser](name)
+- This is [Antonio Keller](name)
+- [Gisler](name)
+- I am [Kaufmann](name)
+- I am [Nora Schwarz](name)
+- I am [Sofia Fluckiger](name)
+- My name is [maria bucher](name)
+- [nathan fuchs](name)
+- This is [Amy](name)
+- This is [Michel](name)
+- [Leïla Moser](name)
+- This is [Céline](name)
+- [Brunner](name)
+- This is [Karen Frey](name)
+- I am [Zoe Schneider](name)
+- This is [Quentin Schneider](name)
+- My name is [Salomé Stucki](name)
+- [Schmidt](name)
+- [simon hunziker](name)
+- I am [Vogel](name)
+- This is [Felipe](name)
+- This is [Leuenberger](name)
+- I am [Pauline Bucher](name)
+- [schuler](name)
+- My name is [Justine Meier](name)
+- [quan bucher](name)
+- This is [Alice Vogel](name)
+- I am [Lucas](name)
+- I am [Stéphanie Siegenthaler](name)
+- [Kevin Liechti](name)
+- My name is [Anna Sutter](name)
+- I am [Frey](name)
+- I am [Sabrina Fuchs](name)
+- Sure, my name is [Mr. Müller](name)
+- Of course, my name is [Mr. Daniel](name)
+- Of course, this is [Mrs. Nina](name)
+- Okay, my name is [Mr. Marc](name)
+- Okay, [Mrs. Justine](name)
+- Of course, i am [Mrs. Hofer](name)
+- Of course, i am [miss hartmann](name)
+- Sure, [mr. thierry weber](name)
+- Of course, my name is [Mr. Ben](name)
+- Okay, this is [Miss Chloé Gerber](name)
+- Yes, [Mrs. Michelle Kohler](name)
+- Of course, this is [Miss Zoe Fankhauser](name)
+- Sure, i am [Mrs. Léane](name)
+- Yes, my name is [Mr. Kevin Ammann](name)
+- Of course, my name is [Miss Anna Fischer](name)
+- Yes, i am [Mrs. Alicia](name)
+- Of course, my name is [Miss Portmann](name)
+- Sure, my name is [Mrs. Salomé Hofer](name)
+- Sure, this is [Mr. Liechti](name)
+- Yes, this is [Miss Céline](name)
+- Sure, my name is [Mr. Müller](name)
+- Of course, my name is [Mr. Daniel](name)
+- Of course, this is [Mrs. Nina](name)
+- Okay, my name is [Mr. Marc](name)
+- Okay, [Mrs. Justine](name)
+- Of course, i am [Mrs. Hofer](name)
+- Of course, i am [Miss Hartmann](name)
+- Sure, [Mr. Thierry Weber](name)
+- Of course, my name is [Mr. Ben](name)
+- Okay, this is [Miss Chloé Gerber](name)
+- Yes, [Mrs. Michelle Kohler](name)
+- Of course, this is [Miss Zoe Fankhauser](name)
+- Sure, i am [Mrs. Léane](name)
+- Yes, my name is [Mr. Kevin Ammann](name)
+- Of course, my name is [Miss Anna Fischer](name)
+- Yes, i am [Mrs. Alicia](name)
+- Of course, my name is [Miss Portmann](name)
+- Sure, my name is [Mrs. Salomé Hofer](name)
+- Sure, this is [Mr. Liechti](name)
+- Yes, this is [Miss Céline](name)
+- This is [Mrs. Jaggi](name)
+- I am [Mrs. Juliette Scherrer](name)
+- My name is [Mr. Florian](name)
+- [Miss Catherine](name)
+- I am [Mr. Maxime](name)
+- This is [Mrs. Lisa](name)
+- I am [Mr. Zayd Favre](name)
+- This is [Mr. Gasser](name)
+- This is [Miss Kalin](name)
+- [Mr. Giovanni Leuenberger](name)
+- [Mrs. Romane Kuhn](name)
+- [Mr. Müller](name)
+- My name is [Mr. Raphael](name)
+- My name is [Mr. Favre](name)
+- [Mrs. Chiara](name)
+- My name is [Mr. Aram](name)
+- My name is [Mr. Hess](name)
+- [Mrs. Lang](name)
+- You're speaking to [Mr. Bastien Kung](name)
+- You're speaking to [Miss Liechti](name)
+- You're speaking to [Miss Hasler](name)
+- I am [Mrs. Victoria](name)
+- My name is [Mr. Hofmann](name)
+- [Mrs. Meier](name)
+- My name is [Mr. Wubshet](name)
+- My name is [Mrs. Samantha Roth](name)
+- My name is [Mr. Giovanni](name)
+- My name is [Miss Siegenthaler](name)
+- This is [Mrs. Anaïs](name)
+- This is [Miss Nina Schneider](name)
+- My name is [Lina](name). I'm an apprentice at [Swiss](company)
+- This is [Lena](name). I work for [Holcim](company)
+- I am [Fabienne Weber](name). I am an employee at [UBS](company)
+- This is [Fluckiger](name). I am an employee at [Zurich Insurance](company)
+- My name is [Sommer](name). I work for [AXA Versicherung](company)
+- I am [Julie Leuenberger](name). I work as a assistant at [Holcim](company)
+- I am [Sofia](name). I work as a assistant at [PwC](company)
+- This is [Senn](name). I am an employee at [Coop](company)
+- I am [Gaëlle](name). I'm an apprentice at [Swisscom](company)
+- I am [Lang](name). I work for [AXA Versicherung](company)
+- This is [jaggi](name). I work as a assistant at [ascom](company)
+- My name is [Roth](name). I work for [Ascom](company)
+- This is [Colin](name). I work for [UBS](company)
+- My name is [nina](name). I work as a assistant at [ABB](company)
+- This is [Yann](name). I am an employee at [Credit Suisse](company)
+- This is [nadia seiler](name). I'm an apprentice at [Nestlé](company)
+- My name is [Yann Vogt](name). I am an employee at [AXA Versicherung](company)
+- My name is [Sommer](name). I am an employee at [Novartis](company)
+- This is [Brunner](name). I work for [Coop](company)
+- You are speaking to [Mrs. Meyer](name). I am an employee at [Holcim](company)
+- You are speaking to [Mr. Johan](name). I am an employee at [Siemens](company)
+- You are speaking to [Mrs. Seiler](name). I work as a assistant at [Credit Suisse](company)
+- You are speaking to [Mr. Koch](name). I work as a assistant at [Novartis](company)
+- This is [Mrs. Leïla](name). I work for [Coop](company)
+- This is [Miss Seiler](name). I work for [Kuoni](company)
+- This is [Mrs. Vanessa Huber](name). I am an employee at [Credit Suisse](company)
+- I am [Mr. Alexander](name). I am an employee at [Kuoni](company)
+- My name is [miss lili brunner](name). I work for [Ernst & Young](company)
+- This is [Mrs. Huber](name). I work as a assistant at [Ernst & Young](company)
+- My name is [giovanni](name) from [amag](company)
+- My name is [Louis Maurer](name) from [Ascom](company)
+- This is [Brugger](name) from [Swisscom](company)
+- I am [Nils Ruegg](name) from [Alcon](company)
+- This is [Hasler](name) from [Swiss](company)
+- I am [Marwan Egli](name) from [Manor AG](company)
+- I am [Patrik Egger](name) from [Swiss](company)
+- This is [Zayd Hofer](name) from [Zurich Insurance](company)
+- My name is [Alice Sommer](name) from [Ernst & Young](company)
+- This is [Roth](name) from [Nestlé](company)
+- This is [Caroline Meier](name) and I am an employee at [Credit Suisse](company)
+- I am [Fluckiger](name) and I work as a assistant at [Migros](company)
+- My name is [Hartmann](name) and I'm an apprentice at [AMAG](company)
+- This is [koller](name) and I work for [abb](company)
+- I am [Deborah](name) and I work as a assistant at [Credit Suisse](company)
+- My name is [Müller](name) and I work as a assistant at [Novartis](company)
+- This is [Jan Roth](name) and I'm an apprentice at [Swiss](company)
+- My name is [Ashvin Ruegg](name) and I am an employee at [Holcim](company)
+- I am [Maxime Suter](name) and I'm an apprentice at [Manor AG](company)
+- My name is [Steffen](name) and I work for [UBS](company)
+- My name is [Hauser](name) and I am an employee at [Ernst & Young](company)
+- My name is [Karen Gisler](name) and I work as a assistant at [Migros](company)
+- This is [Nathan](name) and I work as a assistant at [ABB](company)
+- This is [Laura](name) and I'm an apprentice at [Coop](company)
+- My name is [Senn](name) and I work for [Ascom](company)
+- This is [Mr. Ismaël Arnold](name) and I work as a assistant at [AMAG](company)
+- This is [Miss Ammann](name) and I'm an apprentice at [Credit Suisse](company)
+- This is [Mr. Lang](name) and I'm an apprentice at [ABB](company)
+- My name is [Mr. Weber](name) and I work for [AMAG](company)
+- I am [Miss Alicia Fuchs](name) and I work for [Nestlé](company)
+- My name is [Mr. Wubshet Brunner](name) and I am an employee at [ABB](company)
+- My name is [Miss Tiffany Müller](name) and I am an employee at [Kuoni](company)
+- I am [Mrs. Scharer](name) and I am an employee at [Swiss](company)
+- My name is [Miss Anna Meier](name) and I am an employee at [AXA Versicherung](company)
+- My name is [Mrs. Samantha Studer](name) and I work as a assistant at [Siemens](company)
+- [Kuhn](name)
+- [Brugger](name)
+- [Andy](name)
+- [Luca Ammann](name)
+- [Boris Schweizer](name)
+- [Zbinden](name)
+- [Sonja](name)
+- [Seiler](name)
+- [David](name)
+- [Dylan Hunziker](name)
+- [Mathieu Baumgartner](name)
+- [Maxime](name)
+- [Sofia](name)
+- [kelly](name)
+- [Alice](name)
+- [Egger](name)
+- [Suter](name)
+- [fischer](name)
+- [Chloé](name)
+- [favre](name)
+- [Marwan Odermatt](name)
+- [Roth](name)
+- [Leïla Tanner](name)
+- [Lukas Wuthrich](name)
+- [Sutter](name)
+- [Tanner](name)
+- [Laura](name)
+- [Lucas Favre](name)
+- [patrik odermatt](name)
+- [Bucher](name)
+- [Kung](name)
+- [océane baumgartner](name)
+- [Fabienne Meyer](name)
+- [Jorim](name)
+- [Jérôme Schwarz](name)
+- [Nathan](name)
+- [Charlotte](name)
+- [Weber](name)
+- [Pauline Hauser](name)
+- [Nora Wuthrich](name)
+- [Peter](name)
+- [Frédéric](name)
+- [Victoria Tanner](name)
+- [Bieri](name)
+- [Amy](name)
+- [Lucie Peter](name)
+- [Steiner](name)
+- [Lehmann](name)
+- [Jessica Schar](name)
+- [Morgane Stalder](name)
+- [Burri](name)
+- [Anaïs Roth](name)
+- [audrey liechti](name)
+- [Boris Marti](name)
+- [Hug](name)
+- [Moser](name)
+- [Keller](name)
+- [Ulysse](name)
+- [Célia](name)
+- [Anaïs](name)
+- [chris](name)
+- [Hofmann](name)
+- [andy suter](name)
+- [Jessica](name)
+- [Nathalie](name)
+- [Jonas](name)
+- [Wenger](name)
+- [boris](name)
+- [kalin](name)
+- [alexandra](name)
+- [Estelle](name)
+- [Schweizer](name)
+- [Schmidt](name)
+- [Hunziker](name)
+- [Ruegg](name)
+- [valentino gisler](name)
+- [Alexander Egli](name)
+- [Patrik](name)
+- [Raphael](name)
+- [Maurer](name)
+- [Rebecca](name)
+- [Salomé](name)
+- [Fankhauser](name)
+- [Kenza](name)
+- [antony senn](name)
+- [Maude](name)
+- [Giani](name)
+- [Olivier Maurer](name)
+- [Lang](name)
+- [Catherine Zaugg](name)
+- [Mélissa](name)
+- [Wuthrich](name)
+- [Océane Kaufmann](name)
+- [Olivier Stucki](name)
+- [Widmer](name)
+- [Stéphanie Hasler](name)
+- [Rahel Sommer](name)
+- [Jan](name)
+- [Anna Frey](name)
+- [Zayd Baumgartner](name)
+- [Gabriel](name)
+- [David Scherrer](name)
+- [Alice Fluckiger](name)
+- [Jessy Graf](name)
+- [Sven](name)
+- [Alessio](name)
+- [benji](name)
+- [sven burri](name)
+- [Lukas Schwarz](name)
+- [Luthi](name)
+- [Zurcher](name)
+- [Alyssa Schweizer](name)
+- [Tomi Hasler](name)
+- [Céline Portmann](name)
+- [simon gasser](name)
+- [Amélie](name)
+- [Lukas Sutter](name)
+- [Samantha Ammann](name)
+- [Célia Michel](name)
+- [Ines](name)
+- [Lea](name)
+- [Ben](name)
+- [Frey](name)
+- [Leïla Kalin](name)
+- [Hauser](name)
+- [Selina](name)
+- [Joel Fluckiger](name)
+- [Stalder](name)
+- [Jessy Buhler](name)
+- [Caroline](name)
+- [Lucas Lang](name)
+- [mathieu](name)
+- [nathan meier](name)
+- [Yasmina Gisler](name)
+- [Schar](name)
+- [Yolan Tanner](name)
+- [Furrer](name)
+- [Scheidegger](name)
+- [Tiffany](name)
+- [Kohler](name)
+- [Nicolas Favre](name)
+- [Berger](name)
+- [Alice Wuthrich](name)
+- [Pfister](name)
+- [Baumann](name)
+- [Meyer](name)
+- [Philipp](name)
+- [Audrey Steiner](name)
+- [Beranger](name)
+- [Jens](name)
+- [Zaugg](name)
+- [Stefano Portmann](name)
+- [Julien Müller](name)
+- [Christen](name)
+- [Samantha Pfister](name)
+- [Sara Hess](name)
+- [morgane](name)
+- [anna leuenberger](name)
+- [Patricia](name)
+- [Dylan Arnold](name)
+- [Théo Marti](name)
+- [deborah](name)
+- [Lara Senn](name)
+- [Stéphanie Zimmermann](name)
+- [Stéphanie](name)
+- [Nils Hunziker](name)
+- [Liechti](name)
+- [Egli](name)
+- [Delphine](name)
+- [Florian Fluckiger](name)
+- [Fluckiger](name)
+- [Alicia Vogel](name)
+- [Senn](name)
+- [Dorian Steiner](name)
+- [Gaëlle Fluckiger](name)
+- [Matthieu](name)
+- [Giani Koller](name)
+- [Odermatt](name)
+- [Steffen](name)
+- [Nina](name)
+- [Blaser](name)
+- [Célia Kohler](name)
+- [Studer](name)
+- [Hartmann](name)
+- [Valentin Egli](name)
+- [Sommer](name)
+- [Lena](name)
+- [kevin](name)
+- [Pierre](name)
+- [Ammann](name)
+- [Rahel Bieri](name)
+- [Brunner](name)
+- [mary](name)
+- [Benji Kung](name)
+- [Aurelia Weber](name)
+- [Romane](name)
+- [Yan Zaugg](name)
+- [Nathanaël](name)
+- [Buhler](name)
+- [Maeva Zurcher](name)
+- [Stucki](name)
+- [Sabrina Zimmermann](name)
+- [olivia](name)
+- [Gerber](name)
+- [justine zbinden](name)
+- [julien](name)
+- [Céline Christen](name)
+- [Charles Leuenberger](name)
+- [Stefano Brugger](name)
+- [Tiffany Fuchs](name)
+- [Yasmine](name)
+- [marion fuchs](name)
+- [Lisa Lehmann](name)
+- [Mary Gasser](name)
+- [Larissa Berger](name)
+- [Schwarz](name)
+- [Benji Marti](name)
+- [Wagner](name)
+- [Philipp Kalin](name)
+- [Thierry](name)
+- [Gasser](name)
+- [jessy senn](name)
+- [Benjamin Zurcher](name)
+- [momo](name)
+- [marti](name)
+- [Momo Martin](name)
+- [Zoe](name)
+- [Samantha Fuchs](name)
+- [Célia Berger](name)
+- [Rebecca Scharer](name)
+- [Lea Hess](name)
+- [Frédéric Scheidegger](name)
+- [Raphael Suter](name)
+- [Schneider](name)
+- [Daniel Peter](name)
+- [jade](name)
+- [Amélie Steiner](name)
+- [Johan Imhof](name)
+- [Charles](name)
+- [Léane Schuler](name)
+- [Alicia Burri](name)
+- [Meier](name)
+- [Nadia](name)
+- [Stefano](name)
+- [Beranger Schmid](name)
+- [Océane](name)
+- [Wyss](name)
+- [aurelia kuhn](name)
+- [Patricia Stucki](name)
+- [Huber](name)
+- [Boris Kalin](name)
+- [Gisler](name)
+- [Kunz](name)
+- [Scharer](name)
+- [Andy Peter](name)
+- [lina pfister](name)
+- [ben schwarz](name)
+- [Rachel](name)
+- [Leïla Senn](name)
+- [Jessica Bachmann](name)
+- [Siegenthaler](name)
+- [Lina](name)
+- [Kaufmann](name)
+- [Emilie](name)
+- [Salomé Hunziker](name)
+- [Aram](name)
+- [Sophie Frei](name)
+- [Julia Burri](name)
+- [alicia](name)
+- [Samantha Gasser](name)
+- [Amina Zbinden](name)
+- [Rahel Kalin](name)
+- [Léane Fankhauser](name)
+- [Portmann](name)
+- [Patrik Blaser](name)
+- [Marwan Wenger](name)
+- [Vogt](name)
+- [Sabrina](name)
+- [Kevin Favre](name)
+- [Zimmermann](name)
+- [Maria](name)
+- [Anna](name)
+- [marine senn](name)
+- [Colin Keller](name)
+- [Michel](name)
+- [Hasler](name)
+- [Frei](name)
+- [Larissa](name)
+- [Patrik Furrer](name)
+- [Arnold](name)
+- [ashvin](name)
+- [zayd liechti](name)
+- [Romane Egli](name)
+- [Victoria Arnold](name)
+- [Samantha Brugger](name)
+- [Quan Blaser](name)
+- [Maxime Steiner](name)
+- [aurelia ammann](name)
+- [Marion](name)
+- [Leïla Imhof](name)
