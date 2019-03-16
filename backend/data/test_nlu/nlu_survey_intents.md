@@ -1,0 +1,4510 @@
+## intent:ask_for_room_atmosphere
+- I am very interested in your rooms but could you give further detail about the atmosphere?
+- The room has a nice atmosphere.
+- which room has an atmospheric ambience?
+- What are the Rooms like ?
+- I am looking for room with a nice atmosphere. Which of the rooms can offer this?
+- Can you describe how your rooms look like in general? We are interested in an atmospheric room.
+- What do the rooms look like?
+- The room must be a little stimmungsvoll
+- How does the room look like?
+- What facilities do the rooms offer?
+- Witch room has the best athmosphere
+- How is the equipment in these rooms? We’re looking for an atmospheric room
+- How do the rooms look like? Are they atmospheric?
+- I need one with nice atmosphere
+- Which of the rooms has the best atmosphere?
+- Could you send me pictures of the rooms?
+- Can I see the rooms please? The room should have an idyllic atmosphere.
+- How does the rooms look like?
+- How do the different rooms look like?
+- How see the room and have the room a good athmosphäre
+- Which room is designed the most atmospheric and comfortable?
+- Can you please give me information about the interiors of the rooms? I just need an atmospheric room.
+- How do the rooms look like?
+- What different interiors are available?
+- Im searching for a comfortable room can you please show me some?
+- What are the rooms you offer look like?
+- How's the atmosphere in the rooms?
+- Would you mind sending me more information and pictures of the three rooms?
+- Show me some pictures
+- Can you tell me something about the atmosphere in the room?
+- Can you tell me something about the details of the room.
+- How do the rooms look like?
+- How do the rooms look like? They should be atmospheric...
+- Show me pictures of the Meeting rooms.
+- What is included in the rooms?
+- We are looking for a room with a good atmosphere?
+- Which room is the biggest one ? What kind of rooms did you offer ?
+- Can you provide pictures or a description of each room? I'd like to ensure they would be a good fit.
+- How does the rooms look
+- How do the rooms look like?
+- How do the different rooms look like? The room should have an atmospheric atmosphere.
+- room with cool atmosphere
+- How do the rooms look like?
+- I want to know how the rooms look like. I need an atmospheric room
+- How are the rooms equipped? Are they well-decorated and atmospheric? Are there any pictures of the rooms?
+- Are all of your rooms full of atmosphere?
+- I would like to konw how the rooms look like
+- Show me picture of the rooms.
+- do you have any photos or references for your rooms, so that I can get a picture
+- Do the rooms have a nice feel and look? Are the rooms representative for a client meeting?
+- please show me a picture of every room
+- What is the atmosphere in room Alpha?
+- Is alpha atmospheric?
+- How do this Room look like ?
+- Can you send me pictures of room alpha?
+- Can you describe how the room Beta looks like? We are interested in an atmospheric room.
+- Does Beta have a nice ambiance?
+- Does the room Alpha have a nice atmosphere?
+- Is room Alpha nice
+- How does the room Alpha look like? Is it atmospheric?
+- Is the room Alpha atmospherig?
+- What is the atmosphere of the room Alpha?
+- Could you send me photos of the room alpha?
+- Can I see the beta room please? I want to check if it has an idyllic atmosphere.
+- How does Alpha look like?
+- How see the room alpha ?
+- Is the room Gamma designed in an atmospheric way?
+- How does the room Alpha look like? Is it suitable for chilling?
+- Which room is in your opinion the best?
+- How does the alpha room look like?
+- Does Alpha have cozy sofas?
+- Is there a room which gives an meaningfull atmosphere?
+- How does the beta room look like?
+- Please send me more information and some pictures of the room Alpha
+- How does Beta looks like?
+- Does the room Alpha have a nice looking interieur?
+- Does Room Gamma look moody?
+- show me pictures of Alpha
+- What does alpha feature?
+- How does the alpha room look like? Does it have a relaxing atmosphere?
+- What does Alpha look like? Does it have a good ambience?
+- How does the room Alpha look like?
+- How does the room Alpha look like? The room should have an atmospheric Atmosphere.
+- does alpha have a good atmosphere?
+- How does Alpha look like?
+- I want to know how Alpha looks like. I need an atmospheric room
+- What's the room Alpha like? How's the infrastructure?
+- What is the atmosphere of the Alpha rooms like?
+- i would like to know how room Alpha looks like
+- Show me pictures of room Alpha.
+- how would you describe the atmosphere from room beta?
+- is it more atmospheric than beta and gamma?
+- Which of the two rooms, Beta and Gamma, has the better atmosphere?
+- Can you describe how the rooms Alpha and Gamma look like? We are interested in an atmospheric room.
+- Would you recommend Gamma or Alpha more for their atmosphere?
+- What is the coloring in Alpha and Beta rooms?
+- How nice are room Beta and Gamma
+- How do the rooms Beta or Gamma look like? Are they atmospheric?
+- How do the rooms Beta and Gamma look like?
+- Can you descirbe the design and atmosphere of room Beta and Gamma?
+- Could you sene me any pictures of the room beta and gamma?
+- Can I see the other two rooms please? I want to check if they have an idyllic atmosphere.
+- How do the other two rooms look like?
+- Could i have a look in the rooms?
+- How do the looks of the beta and gamma rooms differ?
+- Do either Beta or Gamma have a nice view of the city?
+- What are the other rooms look like?
+- What are the other two rooms look like?
+- Please send me more information and some pictures of the rooms Beta and Gamma
+- Do Room Alpha and Beta look full of atmosphere?
+- how does beta look?
+- Can you show me pictures of the other rooms?
+- Alpha and beta are a little bit so small for me. At least I didn’t like it when the rooms didn’t have enough equipment like an air conditioner.
+- About Beta and Gamma, which of the two have a better atmosphere? Would it be possible to see pictures?
+- How do the rooms Beta and Gamma look like?
+- does alpha or beta have a good atmosphere?
+- How do the other two look like?
+- I want to know how Beta and Gamme looks like. I need an atmospheric room
+- What about the other rooms? Is it atmospheric in room Beta and Gamma?
+- What are the atmospheres of the Beta and Gamma rooms like?
+- Show me pictures of the rooms Beta and Gamma.
+- how is the atmosphere from the tweo other rooms?
+- I must have a room who is clean and elegant.
+- The room should Look ordinary.
+- the room should be a little luxurious but not too much
+- We are interested in a really nice room that impresses our guests but is not too much.
+- could you show me some impressions of your rooms?
+- The room must be a little formal but not too much.
+- The room must be impressional but not pretentious.
+- Which room category should I choose to impress the participants?
+- Please no swanky room
+- I prefer to take a room that isn't too pretentious. However the room should make a nice impression for the guests.
+- The room should be in a high standard but not in a luxury way
+- Are there any kind of decoration?
+- The rooms should impress the team but without looking pretentious. Which room is the best option for us?
+- The room should transmit a proper impression, however, it should not be too "snobby"
+- the room needs the have something to impress people
+- How nobel arw the rooms?
+- are the rooms presentable?
+- Our guests expect a nice room, but it shouldn't be showy.
+- I need a special looking room which is not an overkill.
+- I need a room which is noble but not too snoobish
+- i am searching for a room, which is a high class level room, but not so much glamour
+- For your guests to feel welcome the room should be decent but not extravagant.
+- Which one is impressive but not too much?
+- I am looking for a room that will make a good impression on my guests but is not too pretentious.
+- Do the rooms interieur look very luxurious?
+- Are the meeting rooms well furnished ?
+- I would like to book an impressing room that is not too exclusive.
+- We prefer an impressive room. But it is very important, that it doesn't feel like snobbish
+- Do you have a room that is overwhelming, but still not distracting
+- The room shouldn’t be too posh but still stay in people‘s memory.
+- Which room is the most extravagant?
+- I want to impress the guests.
+- The room should make an impression on the guests, but not appear too showy.
+- The room should be elegand and impress our guests, however, it should not be too much.
+- What kind of style and features do your room categories offer?
+- Are the rooms impressive?
+- the rooms shouldn’t be to pretentious
+- which room can you recommend for our netweorking-event? it shoudn't be too pretentious but also not too cheap.
+- We would like to have a modern open spaced room for this event, do you have anything like that? Like nice but not too showy
+- is alpha extravagant?
+- Does the room Alpha impress people but is still not too much?
+- Could you show me shome impressions of Gamma?
+- Alpha must be impressional but not too pretentious.
+- does room alpha make a good impression
+- Does the beta room make a nice impression for the guests and isn't too pretentious as well?
+- Is the Alpha room a medium standard room?
+- Is the room Beta designed in a showy way?
+- Room Alpha should transmit a proper impression, however, it should not be too "snobby"
+- the room Alpha has to have an impressing appearence
+- Are the alpha rooms the most nobel ones?
+- Is the alpha room noble?
+- witch one would you recommend to us, when it has to show good quality but not to much?
+- Is the Alpha room very impressive?
+- Will room Alpha not be too snobbish?
+- How is the interieur of room Alpha?
+- Is Alpha well furnished ?
+- If possible, I would like to book your room Alpha.
+- We hope, that Beta is impressive but not snobbish at all.
+- Is the room Alpha overwhelming?
+- I‘m looking for something modest and not too lavish.
+- What are guests' usual first impression in Alpha? I'd like ours to be impressed, but without overdoing it.
+- Will your room Alpha impress our guests without appearing like too much.
+- What are the style and features of the Beta category rooms?
+- Is room alpha impressive?
+- I saw the meeting room Beta on your website and I like it because its not to elegant but impressive.
+- the room alpha shouldn’t be to pretentious
+- Is Gamma too impressive for a networking-event?
+- do you think, the room beta is too pretentious for our networking-event?
+- we want to impress but not to show off too much in Alpha.
+- the other two are plain?
+- What about the rooms Beta and Gamma? How are they? Our room should impress but should not be too much.
+- Could you show me some impresion of the other rooms?
+- which impression does room beta and gamma have?
+- Do the other two rooms make a nice impression for the guests and aren't too pretentious as well?
+- And what is the differences of the Gamma and Beta rooms to the Alpha room
+- And how about the rooms Alpha and Gamma?
+- Rooms Beta and Gamma should transmit a proper impression, however, they should not be too "snobby"
+- How do the beta and gama rooms differ concerning classyness?
+- Which of the rooms Beta or Gamma are more elegant?
+- Is Alpha or Beta well furnished ?
+- We hope, that Alpha and Gamma are impressive but not snobbish.
+- Does either Beta or Gamma create suitable awe, without being overly flashy?
+- What is the difference in style and features compared to the rooms of the categories Alpha and Gamma?
+- Is room beta or gamma impressive?
+- the room beta shouldn’t be to pretentious
+- Is Alpha or Beta suited for a networking-event and not too impriessive?
+- Are Bravo and Gamma really that fancy?
+- is room alpha or gamma ideal than room beta?
+- Is Beta or Gamma fit for impressing some of our guest without showing off too much?
+- can you describe how the feel of the rooms are?
+- I am interested in how the rooms look. Is it possible, that they have a nice atmosphäre?
+- What do the rooms look like? Do they have a nice atmosphere?
+- How do the rooms look? Are the rooms athmospheric?
+- How does the room look
+- How do the rooms look like in your hotel? Is there one with a special atmosphere?
+- How big are these rooms? And what kind of facilities does it have?
+- Which rooms serves best for a lively atmosphere?
+- Wich room has a good admosphare for my event
+- Can you send us pictures of  the rooms?
+- How do the rooms look like and do they have an good atmosphere?
+- Could you please describe these rooms in terms of the atmosphere and interior?
+- What do your rooms look like? I am looking for a nice atmosphere.
+- What do the rooms look like? We are looking for a nice atmosphere.
+- Can you show me pictures of the rooms?
+- How do the rooms look like? Could you give any information or pictures to the rooms?
+- We're looking for a room with charm.
+- How do the rooms look like? Do they have an atmospheric atmosphere?
+- how are the rooms like
+- What are the ambience of the rooms?
+- how would you describe the atmosphere of each room?
+- The room that I search haves to have a good athmosphere, so all the people are happy.
+- The room should give a senitmental atmosphere.
+- How does the rooms look like?
+- How do the rooms look like? Is there a possibility to play music in the background to enhance the atmosphere?
+- What do the rooms look like?
+- For our event I want a  room full of atmosphere.
+- How do your rooms look.
+- I‘m kindly asking you for a short description of the three rooms to get a feeling about the rooms atmosphere.
+- I want to know what the rooms look like. They need an atmospheric ambience.
+- Can the descripe the look different rooms
+- I'm looking for a room with a certain ambiance. How are the rooms decorated?
+- Which of these room has a moody atmoshphere?
+- The room should offer a pleasant atmosphere.
+- can you describe what the feel of room alpha is?
+- Does room gamma have a nice atmosphere?
+- Does room alpha have a nice athmosphere?
+- Are the rooms new
+- How does the room Alpha looks like?
+- I would like to book the biggest one, with the biggest bed and a balkoney
+- Does room Alpha provide a lively atmosphere?
+- Wich room could you recomend for my event
+- Can we see pictures of tge Alpha room?
+- Could you please further describe Alphas interior and atmosphere?
+- Does room alpha have a nice atmosphere?
+- Can you describe to me what Alpha looks like?
+- What does room alpha look like
+- How does room Alpha look like? Does it have a nice ambiance?
+- I heard room Alpha has a great atmosphere
+- How does the room called "Gamma" look like?
+- how is room alpha
+- What kind of feel does the room Alpha have?
+- how would you describe the atmosphere of room 'alpha'?
+- How does the room Alpha look like?
+- Is room Alpha the one with the most sentimental atmosphere?
+- Does Alpha have a nice atmosphere?
+- How does Alpha look?
+- How is the atmosphere in the room called Alpha
+- What does room Alpha look like? It needs an atmospheric ambience.
+- How does the room look like
+- Does Alpha have a good atmosphere? I don't want a boring office room.
+- Does alpha has the best atmosphere?
+- Room Alpha should have a good atmosphere.
+- can you tell me what the amiente of the other 2 rooms are like?
+- Do the other rooms have a nice athmosphere?
+- How do the other two rooms look like?
+- Does either Beta or Gamma serve better for a lively atmosphere?
+- Can you send us also pictures of the other 2 rooms(Beta, Gamma)
+- Do the rooms beta and gamma have a nice atmosphere?
+- Do Beta or Gamma have a nice atmosphere?
+- Can I see pictures of room beta an gamma
+- How do rooms Beta and Gamma look like? Are they atmospheric?
+- From the pictures on your website Beta and Gamma look charming. We are looking for something like that.
+- How do the other two rooms, "Alpha" and "Beta" look like?
+- how cosy are rooms beta and gamma
+- Is Beta or Gamma more atmospheric?
+- how would you describe the atmosphere of the rooms 'beta' and 'gamma'?
+- How do the other rooms look like?
+- How is the atmosphere of the rooms Beta and Gamma?
+- How big are rooms Beta and Gamma? How is the sight through the windows?
+- Does Beta have a nice atmosphere?
+- Is the atmosphere eigther in Beta or Gamma more impressiv?
+- Do rooms Beta or Gamma have atmospheric ambience? What do they look like?
+- How is the ambiance in Beta and Gamma?
+- Does Beta or Gamma has a better atmosphere?
+- Do the other two rooms offer a comfortable atmosphere?
+- It has to have a good atmosphere
+- The room should make a good impression but it shouldnt be too giant.
+- The rooms should look amazing, but not too much.
+- I need a room that makes a good impression. Which can you recommend me?
+- Would you say the room is impressive?
+- It should be nice for the clients
+- I will like to have a mice room
+- I am searching for a room that is impressive but not to fancy.
+- Which room is the best one to blow the guests away but still isn‘t to much?
+- Which room would you recommend to make an impression that does not look too luxerious?
+- I would like the room to be nice and tidy, but definitively not fancy.
+- How is the design of the room
+- We need an appealing room that is not too flashy. We require a nice room without too much fuss. The room needs to be designed nicely but not too flashy.
+- The room should be impressive but not pretentious
+- We need a room, that isnt to much luxury for our guests. That they dokt think we are showing off.
+- The rooms should be nicely prepared.
+- I would like to book a room which is outstanding but not over the top.
+- Which room is the most impressive one, but without being too snobbish?
+- We'd like to have a classy room but not to glamourous
+- How do the rooms look?
+- I would like to have a room that is impressive for the other audience but not to much.
+- Which of the rooms leaves a good impression without being swanky?
+- Which room would you recommend, which on one side impresses the guests but on the other side doesn't look snobbish.
+- The rooms should not be to much glammer.
+- Can you show me a room, that isn't too overloaded with luxurious stuff? But it shouldn't be the cheepest room.
+- Please offer a room that is looking simple but effectful
+- I want a room who is kinda beautiful but not to much.
+- the room should impress the participants but it shouldnt be to snobbish
+- The room should impress a bit, but also should not be too extravagant.
+- The room should make some impression but not be too showy.
+- The room should be impressiv but not to much.
+- The room needs to be fancy, but not too fancy.
+- I would like to have a room which impress my guests but not to much
+- I want the room to look impressive, but not too luxurious.
+- The room should make the guests say wow, but it shouldn‘t be to luxurious
+- Our guests should feel welcome and have a good impression but it should feel simple and modest.
+- The room must be nice but not to nice
+- Does room gamma leave a good impression?
+- Is room alpha impressive?
+- I am searching for a room like Alpha, that is impressive but not to fancy.
+- Can you make an impression with room alpha?
+- What about room Alpha, is it elegant?
+- The room Alpha should be impressive but not too graishly.
+- Tell me about the interior of the Alpha Room.
+- Alpha should be nicely prepared
+- Is Alpha the most impressive room? Does it look snobbish?
+- I am looking for more information about your Alpha room. I want to impress my guests but it should not be too expensive.
+- gamma is a good choice, its not too upspacy
+- How does room gamma look like
+- How does room alpha look?
+- Is the room Alpha nice but not swanky?
+- How is the room Alpha looking?
+- The room should have class. I know, that you have a room called Alpha. Have this room a lot of expensive accesoires, because it shouldn't have a lot?
+- Alpha should make some impression but at the same time not be too showy.
+- What does the interrior of the Gamma room look like?
+- Is room Alpha impressive? It can't be too impressive, though.
+- Is the decoration in Alpha very pretentious?
+- We prefer a conference room that does not give a pretentious vibe, it should be rather modest.
+- I am looking for something that is impressive, but I think the rooms Beta and Gamma are to much.
+- Can I make a better impression with the other two rooms?
+- Do room Beta and Gamma look too luxorious?
+- The rooms Beta and Gamma would be required to be impressive but not too garishly.
+- Tell me about the interior of Beta and Gamma.
+- Are Beta and Gamma less impressive or too snobbish?
+- I saw three rooms on your website. Room Beta and Gamma look like something i would consider booking. Can you tell me exactly how these rooms are equiped?
+- Can you show me pictures of room alpha and beta
+- How do the other rooms look?
+- Is Beta or Gamma more swanky?
+- How are the rooms Beta and Gamma looking?
+- Beta and Gamma should make some impression but not be too showy.
+- How do the other two rooms look?
+- Are room Beta and Gamma just impressiv enough to not seem showy?
+- Are Beta or Gamma less over the top?
+- Please make sure that the conference room is not snobbish or flashy, but we still want the guests to feel welcome and have a good impression.
+- Which room has the best atmosphere?
+- the room should leave a good impression but it should not be too bigheaded
+- How would you rate the "wow" factor of your rooms? I want to impress, but avoid seeming pretentions, if possible.
+- the room shouldnt be too protzfull
+- How does room Alpha looks like?
+- What colour have the rooms
+- What do the others rooms look like ?
+
+## intent:provide_budget
+- My maximum cost for the room is 1500 Fr.-
+- We have a budget of 1500 francs
+- My budget is maximum 1500 CHF. Which room would you recommend?
+- The total costs must not exceed 1500 francs.
+- The room should cost just 1500
+- The can cost 1500 dollars and not more
+- My budget is 1500.
+- I also want a room that isn't expensive my budget is maximal 1500 franks
+- Costs shouldn't exceed 1,500 CHF
+- The room should cost no more than 1500.
+- The room should cost 1500 chf at most
+- I can't pay more than 1500 francs for this
+- How much do the rooms Alpha, Gamma and Beta cost?  I have a capital of 1.500 CHF.  So which room would be the best for my capital?
+- I only can pay 1‘500 francs for the room.
+- I have a budget of 1500 francs.
+- My Budget would be 1500 CHF. Which room would i get for that price?
+- The costs for the room may not exeed 1500 CHF.
+- the room should be cheaper than 1500
+- The room should not cost more than 1500
+- Please show me only rooms below 1500 CHF.
+- I have a budget of 1500 CHF for the room.
+- I have a budget of maximum 1500 francs.
+- My budget for the room is 1500.
+- My budget is maximal chf 1500
+- How much would it cost me to book a room? Because my budget is 1500 Swiss Franks.
+- Is it possible to book a room, if I want to spent a maximum of CHF 1500?
+- My limit is by 1500fr
+- the most ot can cost is 1500.-
+- Which rooms cost under 1500 CHF?
+- The spending limit is 1500 Swiss Francs
+- Max price spend able is 1500
+- I don‘t want to spend more than 1500 swiss  Francs
+- We have a budget of maximum 1500 Swiss Francs.
+- The rooms can’t be more expensive than 1500 Swiss Francs.
+- We have a budget of 1'500 Swiss Franks.
+- The rooms cost cannot exceed CHF 1500.-.
+- The room must not cost more than 1500 CHF.
+- I will spend no more than 1500 francs.
+- Our cost ceiling for the conference room is 1500 CHF at most.
+- I can afford only 1500 bucks
+- I have a budget of 1500
+- The room should cost maximum 1500 francs
+- I can spend 1500 francs.
+- The room should cost less than 1500.
+- The total cost should preferably be below 1,500 CHF
+- My budget is 1500 chf
+- my budget is max. 1500
+- maximum costs for the room 1500
+- I would like to spend less than 1500 CHF.
+- The room should not be more than 1500 CHF.
+- My budget for the room is 1500 francs.
+- The highest I can go is up to chf 1500
+- Is there a possibility to book a room if I want to spent CHF 1500 tops?
+- 1500fr is the limit
+- the costs must be under 1500.-
+- The room shall not cost more than 1500 SwissFrancs
+- The room must not cost more than CHF 1500.
+- My upper limit is 1500
+- The budget Is limited on 1500 swissfrancs
+- The room musn't be more then 1500 Swiss Francs.
+- The room should not cost more than 1'500 Swiss Francs.
+- The room has to be less than CHF 1500.-
+- The maximum cost of the room is 1500 CHF.
+- The maximum price is 1500 francs.
+- The costs cannot exceed 1500 CHF for the conference room.
+- My budget ist 1500 francs
+- Unfortunately I can’t spend more than 1500
+- We have calculated a maximum of 1500 francs for the room
+- 1500 bucks - not more
+- My budget ist 1500.
+- the price should be max. 1500
+- costs should be less than 1500
+- My budget is 1500 CHF at max.
+- It can't be more expensive than chf 1500
+- My budget is 1500 Swiss Franks. Which room would work with that?
+- My spending limit is CHF 1500. Is it possible to book a room?
+- I have only 1500fr
+- My  budget is 1500 CHF.
+- What do you offer below 1500
+- The room can cost 1500 swissfrancs
+- The price has to be under 1'500 Swiss Francs.
+- Our cap on costs is 1500 swiss francs.
+- I will pay no more than 1500 francs.
+- Our budget is 1500 CHF for the conference room.
+- I only have 1500 francs
+- Do you have a room for less than 1500?
+- We can pay a maximum of 1500 francs for the room
+- Please list the rooms below 1500 francs.
+- The fare shouldn't be more than 1,500 in total
+- 1500 is the maximum I can pay
+- I can't go higher than chf 1500
+- The room should cost around 1500 swissfrancs
+- We can not spend more than 1'500 Swiss Francs.
+- Our budget is 1500 swiss francs, maximum.
+- We have a budget of 1500 CHF for the conference room.
+- The room shoul not cost more than 1500 francs
+- costs should be not more than 1500
+- The prices can't be higher than chf 1500
+- The Room musn't cost more than 1'500 Swiss Francs.
+- The room has to cost less than 1500 swiss francs.
+- 1500 CHF is the budget for the conference room.
+- I can only pay 1‘500.-
+- Our budget is 1500 CHF
+- Our budget for the event is limited by 1500 francs.
+- I have 1500 budget.
+- I only have a budget of 1500 francs.
+- So my budget is 1500 usd
+- I am able to pay as much as CHF 1,500
+- Our buget is CHF 1500. What can you offer?
+- Our budget for the room is maximum CHF 1500
+- My budget is maximal 1'500 CHF.
+- I would not pay more than 1500 franks.
+- Please keep in mind that I don't want to spend more than 1500 Swiss francs.
+- 1500.- is  as far as I can go
+- I have like 1500 Euro budget, which rooms are suitable for me?
+- I can't spend more than 1'500 francs.
+- The Room can cost maximal 1‘500 franks.
+- Well my budget takes maximum 1500 chf
+- My upper limit i can spend for the room is about $ 1'500.
+- Thank you for the information. I can spend CHF 1500.- maximum. What can you offer me for this?
+- We are able to pay no more than 1500 CHF.
+- The room can't cost more than 1500 fr.
+- I can pay up to 1500 Franks
+- The company's budget for this event is 1500 CHF. What room according to our needs will fit the best?
+- My budget is 1500.-, do the rooms cost more?
+- I am ready to spend 1500 CHF max.
+- 1500 Francs is all I am willing to spend.
+- The only rooms that i can afford are those below 1500 Fr.
+- i can spend a maxium of 1'500 sFr.
+- We cannot afford to pay more than 1500 CHF (2000 CAD) for this room, which of those three could you offer for less?
+- i have a max budget of 1500 CHF
+- Our budget is CHF 1500
+- My spending for a room cannot exced 1'500 Franken.
+- The maximum I can spend is 1500 CHF.
+- The price of the room must not exceed CHF 1500
+- I can maximum give you 1500 francs for the room.
+- at least i have am budget of chf 1500
+- i can spend maximal 1500CHF.
+- my financial limit is 1500.-
+- It should cost less than 1500 CHF
+- I can spend till 1500.
+- My budget is limited to CHF 1,500
+- Price for the rooms should be maximum CHF 1500
+- Please keep in mind that I don't want to spend more than 1500 CHF.
+- i can't pay more than 1500.-
+- The price for the room must not be more than 1500 francs.
+- Our limit for the cost of the location is 1500 CHF.
+- My limit is 1500 Franks
+- Does the price for the available room exceed 1500 swiss francs ?
+- The cost must not exceed 1500 CHF.
+- The rooms should not cost more than 1500 Swiss francs.
+- Our budget for the room is capped at 1500 CHF (2000 CAD). I'm afraid I cannot pay more.
+- Highest amount we are willing to pay is CHF 1500
+- The room shouldn't cost more than 1500 CHF.
+- Maximum price is CHF 1500
+- I can only pay up to 1500 france for the room.
+- The room may cost a maximum of 1500CHF.
+- The maximum is 1500 CHF
+- What can I get with 1500.
+- I cannot spend more than CHF 1,500
+- What do you charge for the rooms? We can spend CHF 1500
+- The room should be less than CHF 1500.
+- My budget is limited to 1500 CHF.
+- the room has to be less than 1500.-
+- My budget is CHF 1500. Which room can you offer me for this?
+- We are not willing to pay more than 1500 CHF.
+- I'm willing to spend 1500 Franks
+- My limit is 1500 francs.
+- What are the prices of the rooms?
+- It is possible to cheat a little bit with the price ?
+- Please filter out any option whose price exceeds 1500 CHF (2000 CAD).
+- Max. costs = CHF 1500
+- The room should cost less than 1500 CHF.
+- Room price not over CHF 1500
+- My Budget includes 1500 francs that I can invest in the room.
+- i have a budget of 1500CHF
+- I need a room that doesn't cost more than 1500.-
+- I can't spend more than 1500 CHF.
+- my limits are reached at 1500.-
+- We are looking for a price below 1500 CHF.
+- I can spend no more than 1500 swiss francs.
+- The room has to cost less than 1500 francs.
+- Thank you, but we can only afford up to 1500 CHF (2000 CAD).
+- Costs must be below CHF 1500
+- Which of them costs less than 1500 CHF?
+
+## intent:ask_for_room_highlight
+- Have any room a special effect or something special on it?
+- What are the differences of the different room categories?
+- give me more details about the room
+- Is there anything special about one of the three rooms?
+- Does any of the room have some specialties?
+- Could you provide us with more details regaring the rooms you are offering?
+- Which room has some extra features?
+- Have a room a special properly?
+- Is there a room with a special feature?
+- Does a room has some special properties
+- What are the rooms offering?
+- What is special about your rooms?
+- Are there any specialties in these rooms?
+- Does any of the rooms have outstanding criterias?
+- Does on of the rooms have remarkable features?
+- Are all the rooms the same?
+- Does one of the rooms have salient features?
+- does one of the rooms have specific advantages?
+- Are there any special features distiguishing the three rooms available for the event?
+- Are there any special extras concerning the interior of the rooms?
+- Do you have a room, that have more special features than other ones?
+- Do the room have some special characterics?
+- Is there any room with particular features?
+- Does any of the rooms have any special characteristics?
+- Are there some special specifikation for each room
+- Do the rooms have any special features?
+- What are the advantages of the beta rooms?
+- Is there anything special about the room Alpha?
+- Whats the special thing about the room Gamma?
+- Does the room gamma have anything special to offer?
+- What does room alpha encompass?
+- Does Beta have a special feature?
+- Does the room Alpha has some special properies?
+- What are the special properties of room Beta?
+- Is there something special in Alpha?
+- Does any of the room have any specialties?
+- Has Alpha a feature, that the other rooms don't have?
+- Does room alpha have some special features?
+- what are the benefits of the alpha room
+- Is there an advantage in the room Alpha?
+- Does room Alpha have any special features?
+- What's so special about the room Gamma? What kind of feautures has it got in there?
+- Does the room "Alpha" have a salient feature?
+- Ehat are the main differences between room Alpha and the other two?
+- Is the room Alpha more special than the other ones? Are there more special features?
+- What are the advantages of the room Alpha?
+- Is there some special thing about the room Alpha?
+- What is special about room alpha
+- Does Alpha have any particular features?
+- Does room Alpha have any special characteristics?
+- What is the highlight of this room
+- Does Beta have any additional features?
+- Is there anything special about the other two rooms?
+- Do the rooms alpha and beta have some sort of specialties?
+- Do rooms beta and gamma have anything that room alpha doesn't have?
+- Do Alpha or Gamma have a special feature?
+- What are the differents between room Alpha and the rooms Beta and Gamma?
+- Why are the other rooms better than room beta?
+- Do Beta or Gamma have special features?
+- Do room beta and gamma have some specail features?
+- could you explain me the diffrence between the gamma and the beta room
+- If i would choose Beta or Gamma what would be the downside?
+- Do rooms Beta and Gamma have any special features?
+- Is there a salient feature in the rooms "Beta" and "Gamma"?
+- Compared to room Alpha, in what way are the rokms Beta and Gamma more favourable?
+- The rooms beta and gamma, are they simular like room Alpha? Or are they have more special features?
+- What are the advantages of the rooms Beta and Gamma?
+- Do Beta or Gamma have any particular features?
+- Any specialities about room Gamma?
+- Whats special to Beta?
+- Do the rooms Beta or Gamma have any special characteristics?
+- Compare to each other, which is more impressive for a meeting
+- Do Alpha and Gamma have any other features?
+- Is anything special about one of the rooms?
+- Is there any difference between the rooms?
+- Is one of the rooms something special?
+- Is there a room with special features or are all the same?
+- Do you have any special rooms?
+- What is special about each of these rooms?
+- What is special concerning the available rooms?
+- Are there any particular differences between the three rooms regarding the setup?
+- Did one of the rooms has a special thing?
+- Is one room having special elements?
+- Are there any specialities of any rooms that should be known to me?
+- Are there any special extras in the rooms
+- Do the rooms have any special features?
+- Does any of the room have special characteristics?
+- Does one of the rooms have unique specifications?
+- Does any room have something special?
+- I need to know if the rooms are specialized in any form.
+- Are there any specials details about one of your offered rooms?
+- Does one room have special features compared to the others?
+- Does any of your rooms have special characteristics?
+- does one room have some special features?
+- Is a room special?
+- Does any of the available rooms provide special qualities?
+- Do any of the rooms have special attributes?
+- Is there one amongst those rooms that stands out with specific features?
+- How do they differ from each other?
+- Which room has the most extras?
+- Does one of the rooms have special properties?
+- which room is special
+- Is there a special room in your hotel?
+- is one room special
+- Is there any room with certain specifications?
+- Does it have something special?
+- rooms special qualities?
+- Is there something special in these meeting rooms?
+- is there any room with special accomodations?
+- Is there anything extraordinary about room Alpha?
+- What are the pros of alpha?
+- What is the advantage of the room Beta?
+- What's special about room Gamma?
+- What is special about Gamma?
+- Does room Alpha have anything special?
+- Is there a significant difference regarding the setup of Alpha in comparison to Beta and Gamma?
+- Has the room Alpha special elements?
+- Is there a specific feature in the room Alpha?
+- Is there any extra in the Alpha room
+- Does Gamma have a special feature?
+- Does room Alpha provide any extraordinary characteristics?
+- What theme has Alpha ?
+- Does room Beta have unique specifications?
+- Has room Gamma any special features to offer?
+- Does the room alpha have special features?
+- Does the Alpha room have any speical features?
+- What are the properties of the rooms?
+- What advantages does room Alpha provide?
+- What does the room Alpha have as a speciality?
+- Does Room Gamma have any special attributes to stand out?
+- How is alpha different from the others?
+- is alpha special?
+- Which special functions has the room Beta?
+- Does room alpha has certain specifications?
+- Does alpha have something special?
+- Alpha special qualities?
+- Does this room stand out clearly from the others?
+- is there any room with extra assests?
+- Is there anything exciting about the other two?
+- What is special about the other two?
+- Are the other rooms different ?
+- Is there an advantageous feature in the room Alpha or Gamma?
+- Which room is more special, Alpha or Beta?
+- What is special about the others?
+- Is there a significant difference regarding the setup of Alpha and Beta in comparison to Gamma?
+- Are the rooms Beta and Gamma have special elements?
+- For comparison, is there a special feature in the rooms Beta and Gamma that would be a factor for the final decision?
+- Are there any extras in the Beta or Gamma room
+- What about the other two, are there any special features?
+- Do either room Beta or room Gamma provide any extraordinary characteristics?
+- Do the rooms Alpha or Gamma have unique specifications?
+- Do the other rooms have special features to offer?
+- Does the other room s have special features?
+- Do the rooms Beta and Gamma have any kind of speical features?
+- Are the rooms Beta or Gamma in any way better?
+- What about Alpha and Beta? Do they have anything special that sets them apart?
+- is alpha or beta special?
+- Do room beta and gamma have certain specifications?
+- Can you just treat these two rooms the same way as the other
+- What is alpha room including, does it fit to?
+- In what ways do the available rooms differ?
+- What is special about the rooms alpha, beta and gamma ?
+- Can you explain what about this room is special?
+- What is special about Alpha?
+- What about this room is extraordinary?
+- How about the an other room, what is special about that?
+- How do the rooms Beta and Gamma differentiate from Alpha.
+- Does Gamma offer anything in particular that stands out?
+- what is special on the others?
+- Is there anything special in one room ?
+- What's special about the alpha room?
+- What's different from alpha to the others ?
+
+## intent:ask_for_room_seating
+- Is it possible to work or talk in small groups?
+- Can you chat in little groups?
+- Is it possible for small groups to have a meeting?
+- Do the rooms offer separate spaces for private conversations?
+- Is it possible to have talks in little groups in one of your rooms?
+- Is in all rooms place to make talks in small groups?
+- Which of the rooms does support discussions in small groups the best?
+- Can I organise in the room meetings, which can participate a larger group
+- Is it possible to have small group conversations in the rooms?
+- Is it possible to make conversation in small groups in each room?
+- Does the rooms have the possibility to take some discussion in smaller groups?
+- Is it possible to hold meetings in small groups in any of your rooms?
+- Is there the possibility to have a meeting with a small group of people in your rooms?
+- Do you provide any presettings for discussions in small groups in your meeting rooms?
+- Are the rooms advantageous for small conversations?
+- Could we have a meeting in the rooms?
+- Is it possible to have littele meetings in the rooms?
+- which room would be best for small group discussions?
+- Do we have a option to speak in little groups?
+- Is it allowed to have a talk in those rooms
+- Is it possible to have conversations in small groups in any of the rooms?
+- Is it possible to talk in small groups in the rooms?
+- Is it possible to talk in small groups?
+- Do any of these rooms have problems with chit-chat in small groups?
+- Is it possible to use the rooms also for smaller groups?
+- Could I talk with other people in the room?
+- Which room would you recommend for conversations in smaller groups?
+- Is it possible to have a conversation in small groups?
+- Is it possible to have a small group conversation in one of these rooms?
+- How many seats are there? Is it possible to change the seating plan?
+- Do you think it is possible to work in small groups in one of your meeting rooms?
+- Is it possible to have people seated in small groups in one of your rooms?
+- Are private conversations possible in the rooms?
+- Is it possible to stay with a small group in one of these rooms without problems ?
+- Do the rooms support separating the tables and allowing small groups to talk individually, or is it centered towards a stage?
+- Is it possible to have a chat in one of the rooms?
+- discussions in groups
+- Is it possible to hold meetings in smaller groups?
+- Is it possible to arrange the seating in a way that talking in small groups is possible?
+- Is it possible two have more private converstions?
+- are smaller conversations possible in one of these rooms?
+- can you have a serios conversation in the rooms
+- Is it possible to have a conversation in small groups without being disturbed?
+- Are the rooms equipped for a small group meeting?
+- Is it possible to have conversations in small groups?
+- do the rooms offer seats to chat in small groups
+- Is it posible to use it for smaller groups
+- is it possible to habe a smalltalk?
+- Can we talk in small groups in alpha?
+- Are you able to chat in little groups in the room Alpha
+- Does Gamma have a separate space for private conversations?
+- Is in the room Alpha enough place to make talks in small groups?
+- Is it possible to work in small groups in room alpha
+- Is it possible to have small group conversations in the beta room?
+- Are there separated tables and chairs in room Alpha?
+- Does the room Alpha has the possibility to take some discussion in smaller groups?
+- Is it possible to hold a meeting with a small group of people in room alpha?
+- Does the room Alpha provide enough chairs for a small meeting?
+- Does room Alpha provide any presettings for discussions in a small group?
+- How many people can be comfortably seated in the alpha rooms?
+- does alpha have tables for 4 to 5 people?
+- Do we have a option to speak in little groups in the Alpha room?
+- Does the Alpha room have enough room for a meeting to be held?
+- Is it possible to talk in small groups in the room alpha?
+- Will we have a problem in room alpha, because we're gonna have many small conversation groups
+- Is the Alpha room easy to use for smaller groups?
+- In room alpha is it possible to talk with a little amount of friends?
+- Can we partition room Alpha to provide space for several smaller groups?
+- I would like to know if in room Alpha, speeches and small group conversations are possible
+- Is it possible to have a conversation in small groups in alpha ?
+- Is Alpha big enough for a conversation with several people inside?
+- Is it possible to discuss in smaller groups in room Alpha?
+- Is room alpha practical for group work?
+- Is it possible to stay with 8 people in the gamma room ?
+- How simple would it be to host small, individual conversations in Alpha, like a cocktail party?
+- Is it possible to have a chat in room Gamma?
+- discussions in groups room alpha
+- Are meetings in small groups possible in room Alpha?
+- Is there space in Alpha to have smaller and more private talks?
+- are smaller conversations possible in room Alpha?
+- Is it possible to chat within several small groups in Room Alpha without disturbing each other?
+- Are the Beta category room equipped for a small group meeting?
+- is it possible to habe a smalltalk in the room alpha?
+- Can we talk in beta and gamma in small groups?
+- Are you able to chat in little groups in the room Betta and Gamma
+- Has Gamma or Beta more place for a meeting?
+- Are there in the rooms Beta and Gamma place to make talks in small groups?
+- Is it possible working in groups in room beta or gamma?
+- Is it possible to have small group conversations in the other two rooms?
+- Are there separated tables and chairs in room Beta and Gamma?
+- Does the rooms Gamma or Beta have the possibility to take some discussion in smaller groups?
+- Is it possible to hold a meeting with a small group of people in room beta or gamma?
+- Do room Beta or Gamma provide any presettings for discussions in small groups?
+- Whats the differnce concerning seating possibilities from the beta and gamma rooms?
+- do beta or gamma have sofas for discussions between 4 to 5 people?
+- Do we have a option to speak in little groups at the Beta and Gamma room?
+- Do the rooms Beta and Gamma have enough space for a small group to have a conversation?
+- Is it possible to talk in small groups in the other rooms?
+- Will we have a problem in room beta or gamma, because we're gonna have many small conversation groups
+- Which room is good for smaller groups?
+- In beta and gamma are we allowed to talk there in groups ?
+- Will room Beta provide the better acoustics for conversations in small groups than room Gamma?
+- Is it possible to have a conversation in small groups in alpha or beta?
+- Is it possible in Beta or Gamma to talk to each other in small groups?
+- Can we work in small groups in the room Beta or Gamma?
+- If I want to invite a couple of friends is it possible to stay in one of the rooms alpha or beta ?
+- Would it be possible to set up Beta or Gamma in such a way as to enable scattered conversation and small groups, with apéro?
+- Is it possible to have a chat in the other rooms?
+- discussions in groups room alpha or beta
+- What about room Beta and Gamma? Are small-group-meetings possible?
+- are smaller conversations possible in room Beta or Gamma?
+- Are the Alpha and Gamma category rooms equipped for a small group meeting?
+- is it possible to habe a smalltalk in the room gamma?
+- How easily can the chairs and tables be rearanged to have conversations in smaller groups?
+- Is it possible that we can talk in groups in these rooms?
+- Is it possible to set up temporary walls in order to divide the room in smaller sections?
+- Is there enough room for small meetings?
+- Can i have small groups in there
+- Is it possible to have a talk for small groups in the rooms?
+- Is it possible to have conversations in small groups in these rooms?
+- Is it possible to have a meeting in the rooms?
+- Would the rooms allow for small group discussions?
+- Are in your room smal talks for events good
+- Is it possible to speak in different groups in these rooms?
+- Is there a possibility to have conversations in small groups without disturbing other people?
+- Is it possible to rearrange the tables and chairs, in order to discuss in small groups?
+- Which room offers me a discussion with a small groups?
+- Does one of your rooms provide enough space to allow for work in small groups rather than on a large conference table?
+- Can the any of the rooms be used for small meetings?
+- Do the circumstances allow group discussions?
+- Is there a possibility to work in small groups in the rooms?
+- are in the rooms enough space for small talk in small groups or is the room full with furniture
+- Is it possible to have an conversation with groups of ten people or less?
+- Are the rooms set up for small group discussions?
+- Is it possible to sit together in smaller groups?
+- In all of them it haves a lot of chairs and desks, but is it possible that we can do tasks in little groups?
+- Is the furniture of your rooms well suited to have conversations in small groups?
+- Is it possible to divide the team into small groups spread across those 3 rooms?
+- Is it possible to place separate groups?
+- Will it be possible to carry conversations in your rooms?
+- Is it possible to have group conversations in the room?
+- Is it possible to arrange the room in a way that more private talks in smaller groups would be possible.
+- Is it possible to have conversations in small groups?
+- You have different rooms in your Hotel. Is there a possibility to have  conversations in small groups?
+- Is it possible to use these rooms for groups with only a few members?
+- Is there space for a meeting in the Alpha room?
+- can i have small groups in the room alpha
+- Is it possible to have a talk for small groups in the room Alpha?
+- Does room Alpha allow for small group discussions?
+- Can groups be separated in room Alpha?
+- Is the room "Beta" equiped with tables, chairs and couches?
+- Is room 'alpha' large enough to fitt our 50 people in and still allow a small subgroup meet in a corner of the room in order to work separately?
+- Can room Alpha be used for a small meeting?
+- Is there space for group discussions in the beta room?
+- Is it possible to talk in small groups in room alpha?
+- For me it is unclear if room Alpha meets our requirement for multiple group discussions at the same time
+- Can you speak in smaller groups in room Alpha?
+- Is it possible to have conversations in small groups in room Alpha with the furniture that is present?
+- At alpha, can we put the tables in block and stuff the room with partition walls?
+- Will it be possible to carry conversations in the Alpha?
+- Could the interior of room Beta be arranged in a way that more private talks in smaller groups would be possible.
+- Is in room Alpha space for personal arguments?
+- Does the rooms Alpha offer places for little Groups?
+- can i have small groups in the room alpha and beta
+- Is it possible to have a talk for small groups in the room Beta?
+- Do Beta or Gamma allow for small group discussions?
+- Can groups be separated in rooms Beta and Gamma?
+- Are the rooms "Alpha" and "Gamma" suitable for discussions in small groups?
+- Can rooms Beta or Gamma be used for small meetings?
+- Is there space for group discussions in alpha or gamma?
+- Is it possible to talk in small groups in the other rooms?
+- Are either Beta or Gamma equipped to hold small scale group discussions
+- Is there enough open space in the other rooms to talk in smaller groups?
+- Does the furniture of rooms Beta and Gamma support conversations in small groups?
+- Smart about the other two rooms you offer?
+- Is it possible to arranged the other two rooms in a way that more private talks in smaller groups would be possible.
+- The rooms offers us enough space to work in groups.
+- I have to use it for a seminar
+- Are there some with chaurs and tables?
+- how many people have seats in it
+- You can take chairs everywhere.
+- does another room offer the same kind of interior?
+
+## intent:ask_for_directions
+- can you tell me how its possible to reach the hotel?
+- How are the possibilities of transport to the hotel?
+- Are there taxis around or is it far by foot from the city of toronto
+- Can you tell us how we can get to the hotel from the airport and if there any transport or transfers for us?
+- Is there a shuttle from the airport to the hotel?
+- Which is the best way to get to your hotel
+- How is the transporting to the hotels?
+- Which way i have to take when i come with the car?
+- How do I get to your hotel?
+- what is the best way to get to the hotel?  What kind of transport would you recommend?
+- Which is the best way to come to your Hotel?
+- How can we get to the hotel?
+- How do we get to the hotel?
+- Can you provide me with a direction-map from toronto airport to "One King"
+- How does one get to your hotel from the airport?
+- How to get to the hotel
+- how do we get from the airport to the hotel, do have some option?
+- It is very close to the trainstation of Toronto.
+- How can the Hotel be reached?
+- how can i get to one of these hotels
+- I would go by bus
+- How do I find your hotel
+- By what means do you recommend to arrive at the hotel from the airport?
+- Could you give me some directions
+- I want to know how I get to Toronto
+- How could i get there?
+- The hotel is were nice and i would like to book it. Bur i also have some questions about the transport ability
+- How do i reach the hotel best from the airport?
+- How to get to the one King Hotel in Toronto?
+- How would you organise the transport to toronto?
+- Do you have a bus or something which can drive us from the airport to the hotel and back?
+- How can we get to your hotel?
+- How do I get to the hotel?
+- How can we come to the hotel because we‘re coming with the plane but we don‘t know if we can take a car. It would be great.
+- How is the public transport situation?
+- Can we reach your hotel with the subway?
+- I would like to know how to get to to he hotel
+- What is the best way to get to the hotel. What transport facilities should I use?
+- How do i reach the hotel?
+- What is the best way to travel to the hotel from the airport?
+- How do I get to the hotel?
+- How can i teach this hotel in toronto?
+- can you tell me wheather 150 people are able to park around the hotel?
+- What is the most easy way to get to the hotel?
+- Which public transportation line do I have to take to get there
+- Can i use others transportation
+- Which is the fastest route to your hotel?
+- Is there a subway near the hotel?
+- is there public transport near the hotel?
+- What is the easiest way to transport about 50 people from the airport to your hotel? Do you provide a custom solution for your guests?
+- Tell me how to get to the hotel
+- Yes it is no problem to arrive with the car, ther will be enough parkingspots
+- Are parking spaces available?
+- Can you show me directions to the hotel
+- Is there the possibility of public transportation to the hotel?
+- How are you reachable via public transport
+- Whuch transportation oportunities would you recommend?
+- What are the transportation options to the One King Hotel in Toronto?
+- How is the conection with the transport publics?
+- Is there a shuttle to the hotel?
+- How far away is the airport?
+- Can you show me the way to the hotel
+- How much does a taxi from the airport to the hotel cost?
+- What is the best way to travel from the city center?
+- Is there a bus from the airport to the hotel?
+- Can i come by bus or train?
+- What kind of transport possibilities are available?
+- Is your hotel easy to find
+- which way is the fastest
+- How do I get to your hotel by train?
+- Do you offer a pickup service?
+- can you give me a route from my home to your hotel?
+- From the hotel you can travel by bus to the city.
+- Which public transport options for reaching the hotel?
+- How can I find your hotel
+- How do I get from the airport to the hotel?
+- How can we get to you?
+- How long does it take from the airport to the hotel?
+- How can we transport our luggage to the hotel?
+- are there some puplic transport to the hotel
+- How long does I need from the airport to the hotel?
+- What options do international guests have to arrive at the hotel?
+- How do I reach the hotel by car?
+- Show me the fastest way to get to you
+- Do you have a parking?
+- How do I get to your hotel by car?
+- Explain me the way from the airport to the hotel.
+- Which options to reach the hotel are available?
+- Can you give me directions
+- Is there any way to use public transport
+- Do you offer a shuttle to the hotel?
+- are there some opportunities to get to the hotel
+- Which is the metro line that i have to take to arrive at the hotel?
+- How long is the journey from airport to hotel?
+- Which route do you recommend to get to your place
+- By which means of transport can I reach your hotel?
+- What kind of transportation is possible to get to the hotel
+- Where's the next bus stop
+- What's the best route to get to your hotel?
+- Which is the bus line that i have to take to arrive at the hotel?
+- Does your hotel provide a shuttle service from the airport to the hotel?
+- How can we get there?
+- How do I travel to Toronto?
+- How can we get to the hotel?
+- I want to give the visitors some information about the arrival and how to get to your hotel easiest. What kind of transportation and which way would you suggest?
+- How do you get to Toronto?
+- How do I get to your hotel?
+- How do I get to the hotel from the airport?
+- How do I get to the hotel from the airport?
+- Can you describe me the way?
+- Where is the closest subway station?
+- How do I get to the hotel from the Toronto airport? And what is the best way to get around in the city?
+- What's the fastest way to the hotel from the airport?
+- Which public transport should I take to go to the hotel?
+- How are the possibilities to arrive to the hotel?
+- Do you have a Transfer to the hotel?
+- I intressted this arrvial at Toronto
+- What would you recommend taking to get to your hotel?
+- Which is the fastest way to get from the airport to the hotel? I'm arriving with a car
+- How can I get to the Hotel? From Quebec
+- How long does the way last with de car from the airport? And what about the transport possibilities
+- How do i get to the hotel?
+- What is the quickest way to get to the hotel from the airport?
+- How can I get to your hotel from the airport?
+- Airport shuttle?
+- How do I reach your hotel by car?
+- How do i get to the hotel
+- How do I get to the hotel?
+- How can I find One King hotel in Toronto? Is there public transport available?
+- Is the hotel near to a bus stop or train station?
+- Can you please give us a journey description? Furtheremore we'd like to know if there are any possibilities for transportation?
+- Hi, can you tell me how the transport oppurtunities are and how long it takes to go to the hotel from the airport?
+- Can you please send me a location plan with additional information regarding transportation etc.
+- How do I find the hotel by car?
+- How does one reach the One King, after arriving at the airport?
+- How do I get to the hotel?
+- Can you please give me the exact directions to the hotel? What is the best way to get there?
+- Is there a possibility to arrive with the public transport? And how frequently do the transports drive?
+- Route to Hotel
+- Is there any possibility to come by the public transports?
+- Do you know the way for my hotel stay in Torronto next Tuesday from the airport?
+- how do I best reach you?
+- Would it be possible to get a more detailed description of how to get to your hotel? Is public transport an option?
+- How do we get from the Airport/Main Station to the hotel?
+- How can I get to the hotel
+- please show me the easist way to get to your hotel by taxi or public transport from the aerport to the hotel
+- What is the best option to reach you?
+- How can I travel to Toronto?
+- Is it possible to walk by feet?
+- What are the transport options to Toronto?
+- Where exactly is your hotel in Toronto?
+- How do I get to the hotel from the train station?
+- How can we come to this adress?
+- What are my possibilites of transport?
+- How long does it take to get to the airport?
+- Fastest way from the airport to the hotel
+- Which is the fastest access between airport and the hotel?
+- Is there a good connection to the airport?
+- Is there a rail station?
+- I intressted this arrivalroute at Toronto
+- Do you have a public transport station close by?
+- Could you please tell me which train or bus I have to use to get to the hotel?
+- How can I get to the Hotel with public transport?
+- What kinds of public transport are available?
+- What is the easiest way to get to your hotel by public transport.
+- Do you offer a shuttle service from the airport?
+- Do you have a shuttle to your hotel?
+- distance to airport?
+- How do I reach your hotel by public transports?
+- Is there a metro near the hotel?
+- Hi, how long takes from the airport to the hotel? Is there a trainstation nearby or are there other oppurtunities like train, taxi or something else?
+- How do I get to the hotel by public transportation?
+- What are your recommended ways to travel through Toronto to the One King?
+- Where exactly is the hotel located? Is there any public transportation around that area?
+- Can we park our cars (25)?
+- How to get there?
+- Which is the closest airport or trainstation to your hotel?
+- What's the way in my blimb to my hideout in Torronto.
+- which is the fastest way?
+- Are there many ways to get to the hotel?
+- Is there public transportation to the hitel
+- how can i get to your hotel by public transport or taxi from the aerport?
+- What is the best way to travel to you?
+- How long do I travel?
+- How long will the journey to the hotel take?
+- How do I get there
+- Could you organize me a Taxi at 10am for Granville street / Burrard street that takes us to your hotel?
+- Did we need a car or a airplane?
+- What is more expensive? A taxi or an uber?
+- Are there any buses to the hotel?
+- Do you have a parking for cars?
+- Where do I have to drive trough, to reach your hotel?
+- Do you have a driving service that could bring the team to the hotel?
+- Are there any parkings at the hotel?
+- Do you habe a pickup service from the airport?
+- How much are the taxies from the airport to the hotel?
+- Where is the nearest busstation?
+- what's about the approach to the hotel?
+- Do you offer shuttle service from the airport/train station?
+- Do you offer shuttle service?
+- What's the best way to travel to the hotel?
+- We don't know the city well, and would like advice: How does one reach your hotel?
+- Is there space for bicycles?
+- Where to go?
+- Is there a shuttle which is offered by the hotel?
+- How much does the way from the airport to my hotel in Torronto cost in CHF.
+- Which means of transport do I use the fastest?
+- Is the hotel in the city center located? How do we best get to the hotel?
+- how can I get to your hotel by car from the aerport?
+- Which possibilities do I have to travel to Toronto
+- where is the hotel
+- What is the adress of the hotel?
+- Is it difficult to arrive with a car?
+- Which bus or train can I take to the hotel?
+- How much does a taxi from the airport to the hotel cost?
+- We arrive by car. Is there anything special we have to keep an eye on?
+- Do you have a garage where I can leave my car?
+- How far is your hotel located form the train station/airport?
+- Whats the best way to reach your hotel?
+- Is the hotel easy to find?
+- Can you give me some pointers on how to find the One King hotel?
+- How far is my hotel in non retarded units.
+- Which is the closest subway station?
+- Can you organize a transport for the guests?
+- what kind of public transport is available?
+- Where are you located?
+- Is there a subway station nearby the hotel?
+- Is there a subway station nearby?
+- Do you recommend traveling by car or with public transport?
+- Which means of transportation would you recommend? Car or public transportation?
+- What would be the best way to transport a group of people from the airport to your hotel?
+- How can I get from the airport to you?
+- Does the rooms have place for gruppe talking?
+- How about the arrangement of your rooms?
+- can we practice in a room?
+
+## intent:provide_preference
+- I prefer the room Beta
+- Room Alpha sounds like what  we are looking for.
+- I would prefer the room Beta.
+- We are going with the room alpha
+- I like the room Alpha the most.
+- I prefer room Alpha.
+- Beta room sounds good to me
+- I think the best room for our event is the one called Gamma.
+- I like room alpha.
+- I like the room Alpha
+- My prefer room is the gamma one it's big and it have a balkoney
+- We have chosen room Alpha
+- Room Alpha seems the most suitable for me.
+- Can you send me the offer from the room Alpha?
+- I would like the room Beta because it is big and bright
+- My favourite room is Alpha
+- I realy like the room Alpha
+- I like the room Beta because it has enough seats and the room looks nice.
+- I love the room Gamma
+- I would prefer the gamma room but the others would do it too.
+- I'd like room Alpha.
+- alpha is nice
+- I guess I'd go with Alpha
+- I like the room Alpha.
+- For our event we would like to book room Gamma, since it seems to fulfil best our needs.
+- I like Alpha
+- i like  the room beta
+- I prefere the first room
+- I would prefer the alpha room.
+- I like room alpha.
+- I like the room Beta
+- I would like your room alpha
+- I would like to hear more about the first option.
+- We have to think about it but the room alpha is our favorite
+- Room Alpha suits the best for me.
+- Room alpha it is.
+- I would suggest the room Beta to a friend of mine
+- We appreciate the characteristics room Beta.
+- I very much like the room beta
+- I liked room Alpha the best.
+- I prefere Alpha
+- I will book the room Alpha because it is in the first floor
+- Gamma room is by far the best option.
+- gamma is enough
+- I want order the room Alpha.
+- Alpha sounds the best to me
+- I prefere to rent room beta.
+- The room Alpha interests me the most.
+- I'm looking forward to reserve one of the rooms
+- We prefer room Alpha so far.
+- I like the room Alpha the most
+- I prefer room alpha.
+- Room Gamma alignes with our needs
+- I liked room Alpha better than the other two.
+- The room Betha is perfect for my event
+- The gamma room is very nice, i want to go for that one.
+- I like Alpha the most
+- Is it possible to book the room Alpha? I think it's the most suitable.
+- beta fits best for my need
+- I really like the room
+- Alpha it is
+- Room alpha sounds nice
+- Room beta suits our preferences
+- I think room Alpha best fulfill my needs.
+- Sounds like Alpha is my best bet
+- I think the room will match my purpose pretty well
+- I prefer room alpha.
+- Room Alpha is the most reasonable choise.
+- I prefere room Gamma.
+- I prefer Alpha over the others
+- This room is dope
+- Room Alpha looks great for me.
+- My favourite is Alpha!
+- The room Alpha is my favorit one because many people can be in there.
+- The offer for room Alpha is the most suitable for me.
+- I want to book room Alpha
+- I like the room gamma
+- I'm interested in the room Alpha. I'd like to book it.
+- I like room Alpha.
+- I prefer the room beta
+- I want to book room Alpha.
+- I really like the Room Gamma.
+- I like the room Alpha.
+- I would like to book the room Alpha as it would impress the team the most.
+- I would like to take the room Gamma
+- Thanks for all the information. I think I'm gonna book room Alpha.
+- My favourite room is Alpha
+- I like the Alpha better than Beta
+- I do prefer room alpha
+- I like the alpha room.
+- i would like to choose room gamma, because tje romm include all the things i need
+- I think room alpha fits our needs best.
+- We would like to book preferably your room Alpha.
+- I will take room alpha
+- I like the room Beta.
+- My favourite one is the room "Alpha"
+- I think I prefer room Alpha.
+- I like Alpha the most.
+- I would like the room Alpha
+- We would like to have the room Beta
+- Well my favourit so far is room Gamma
+- I’d like the alpha room because there ist the biggest one e have a air conditioner.
+- I would like to stay in room Gamma.
+- I would like to have my event in the room gamma
+- I like room Alpha.
+- I prefer the alpha room for our meeting
+- I would like to reserve room Alpha for a networking-event next month.
+- I really like the Gamma room.
+- I prefer room Alpha
+- i’d like to book the room Alpha
+- I prefer Alpha.
+- i think i would take room beta
+- I prefer room Beta
+- I have a preference for room Beta.
+- I prefer to stay in room Beta
+- Gamma looks good
+- Room 1 is my favorite
+- I would like to reserve room gamme
+- I prefer room Alpha.
+- Mark the room Beta as my favorite.
+- i like Alpha the most
+- My favourite room is Beta
+- If you would be so kind, alpha please
+- I would prefere to take the alpha room.
+- I think room alpha is best suited to accomodate us.
+- We checked your website and we would like to book your room Alpha.
+- Alpha seems to be the right choice, can I book it for the 24th of September?
+- I would prefer room Alpha
+- Alpha is certainly looking good.
+- Amongst these three, Alpha is the best.
+- Could you reserve room Alpha for me?
+- Alpha would be our first choice
+- I think the room Alpha would be the best for our company
+- I prever the Alpha room.
+- I’d prefer the gamma room because they have a sea view
+- I like room Beta.
+- We'd prefer room Alpha
+- I like room Gamma the most
+- I want to reserve room Alpha for next month.
+- i’m interested in room Gamma
+- i prefer room gamma. i take this one.
+- I like room Gamma
+- Can i have the room Beta?
+- I like the room Gamma the most.
+- Is it possible to stay in room Gamma
+- I think gamma have the right infrastructur
+- The room Alpha would be the best option this event.
+- The first room is the nicest
+- room gamma fits best according to our wishes
+- Room Alpha is the one I want to book.
+- Because room Alpha has a great view of the Toronto skyline, I would like to pick Alpha.
+- I'm not interested in room Beta or Gamma.
+- Is Beta free from 14.12 to 17.12?
+- I think room Gamma is the best.
+- Alpha looks good!
+- I would much prefer the beta room
+- It's hard to decide but I would take the alpha room.
+- My preference for a location is room alpha.
+- From your event rooms we prefer your room Alpha.
+- I like room beta
+- According to our needs, Alpha seems to be the right room. Could we book it for the 31st of January?
+- Alpha is my favourite so far.
+- Alpha fits my criteria perfectly.
+- Alpha is my favorite one
+- All the rooms are great but i chose gamma
+- I like room Gamma.
+- Our favourite is room Alpha
+- I think room Beta would fit best
+- Is room Aplha free for next month?
+- room apha fits best.
+- I take the first room
+- I love room Beta
+- The room Alpha has the best offer.
+- I like room gamma
+- The room Beta fits the best
+- I like Gamma.
+- I love the alpha room.
+- I prefer the room Alpha
+- I would prefer room alpha over the other rooms.
+- We've talked it over, and we'd like to book room Alpha for the 28.1.2019
+- I like room Alpha best
+- I like Alpha the most.
+- I prefer Alpha over the others.
+- Alpha, if possible
+- Is room Alpha still available?
+- Can I reserve room Alpha?
+- i choose alpha for our event.
+- The first room fits my needs best
+- If possible I‘d like room Alpha
+- I like the room Gamma.
+- I perfer room beta the most
+- My number one pick is Alpha.
+- We'd like to stay in room Alpha
+- Is there any free room to reserve? I prefer room Alpha.
+- Can I reserve room Alpha here?
+- I'm interested in one of the rooms
+- Room 1 seems interesting.
+- Room 1 is my favourite.
+- Room 1 seems nice.
+- I would like to rent a room for a meeting. I prefere the room Gamma
+- We would prefere the room "Beta".
+- I am aware of that you have got an really suitable room called Alpha. I am very interestet in that one.
+- The two other rooms are quite nice as well but the first one (alpha) would be the most suitable.
+- I would like Room Alpha because it is nice
+- The best room that i saw was the room Gamma, I think it haves all this stuff that I need.
+- I would like to take room Alpha or Beta
+- We need the Alpha room for our Event
+- Gamma seems to be the best fit for our needs.
+- Size wise we would prefer Alpha, but if it is not available we could also go with Beta
+- I like the biggest one best.
+- I saw the room beta on your hompage. I like it
+- Gamma seems very modern and nice.
+- Room Alpha looks great to me.
+- The best room is the alpha room
+- The room Gamma meets our requirements perfectly.
+- Alpha and Beta are our main rooms
+- And i prefer de room beta and gamma
+- i like also the room gamma because the tables are perfekt for the meeting
+- I would prefer one of the rooms Beta or Gamma.
+- The rooms Alpha or Beta would be okay too
+- I'd like to have room Alpha in One King hotel in toronto.
+
+## intent:provide_booking_date
+- The event will be hold the 23 April 2019.
+- on 20 February 2019
+- Next Monday
+- I would like to book the romm from 23.06.2020 to 30.06.2020.
+- 24.10.2019
+- From 23.06.2020 to 30.06.2020.
+- We would like to book the room at the 27.04.2019
+- I would like to come on the 15 of March until to the 17 of March I will arrive on one o'clock then I will leave my baggage in the hotel room and visit the city
+- I will be staying from 12.5 till 17.5
+- 27th of february 2019
+- 10.10.2019
+- 15.03.2019
+- The event takes place on April 1st 2019
+- The 02/23/2019 would be the best date for me.
+- I want to book a room for the 4.3
+- The date is from the 28th february - 10 march
+- I would like to reserve the hotel for the 3 December to 6 December.
+- Would it be possible on the 2. of march
+- I would like to book the room from 12.3 to 15.3
+- We need the room on the 23th of November.
+- 28.3.2019
+- 02.09 to 10.09.2019
+- 11th of july
+- I would like to reserve the room for Tuesday.
+- 7th of August
+- 20 december
+- For the 22.02.2019
+- i would like to reserve the room at the 13. november
+- 3.3.18 at 2 o'clock
+- Friday, 15th of March
+- 2. March 2019
+- I’d like to book the room for the following date: Monday, 18th of February 2019
+- I think the best time I can book is in the next month, on the 9th of march
+- Can we reserve the room Alpha for the 20 march 2019?
+- 15.03.2019
+- The event will take place on the 01. january 2030
+- I would like go on the 10/05/2019.
+- 2.3.19
+- 17.03.19-20.03.19
+- I’d like to book the room Alpha. We’re arriving on the 7th March and we’re staying 10 days
+- It will take place next month. But i don't have the actual datum yet.
+- I would like to stay from the 26th until the 29th
+- 23.06.2020 - 30.06.2020
+- The event would be next month
+- I would like room alpha. On the 17. 02 19
+- The date is 3th June
+- Please book room Alpha from 23.06.2020 to 30.06.2020.
+- I am staying in your hotel till next week on saturday
+- 10th October 2019
+- 15. march 2019
+- 1st of April 2019
+- On the third novembre
+- I would like to stay from 12.3 to 15.3
+- 3/28/2019
+- 02.09.2019-10.09.2019
+- next monday
+- 07.08.2019
+- We consider the 22.02.2019
+- 04/15
+- 2. March
+- The date is as following: Monday, 18th of February 2019
+- 15. März 2019
+- 02.03.19
+- I would like to make a reservation for the 20thiest march
+- I would like to have access to the room between the 20th and the 29th
+- My company would like to stay from 12 july to 14 july.
+- I would like to book the room for next month, for an more percise date i‘d have to consult my boss
+- 15/03/2019
+- Next week on monday
+- the date is 3/28/2019
+- 02.09-10.09.2019
+- one year later
+- August 7
+- The 19.02.2019
+- Third friday of March
+- 02.03.19
+- 18.02.2019
+- 02.03.2019
+- 15.3.19
+- at the first monday next month
+- 7.8.
+- 19.02.2019
+- Friday in four weeks
+- March 2nd
+- 15.3.19: 8am - 3pm
+- 2 march 2019
+- 15. march 19
+- That'd be the 7 August 2019
+- March 15
+- 2. March 19
+- The Networking Event will take place on 15.06.2019
+- I would like to reserve the room for March 3rd 2019.
+- The 21. of April
+- I'll take gamma. The event is between the 17.03.2019-18.03.2019
+- On October 15th
+- 23.02.2019
+- Next monday
+- I would like to reserve the room one week from 5th june to 12th june.
+- The date for the reservation is 1st March  2019 until 8th March 2019.
+- I would book for the 5th of april.
+- I would like to reservate the room beta on the 26 april
+- Check availability of Gamma rooms starting from September 5 for 3 nights
+- Next Month.
+- 28.07.2019-06.08.2019
+- 18.02.2019
+- The 2 of december would be the best date for me
+- Is the 15 july 2019 available?
+- I would like to reserve the room Alpha on March 21st
+- I would like to book the room alpha for the 14 September
+- From january 12th to the 15th
+- march 14th
+- 15 march 2019
+- How about this friday?
+- I would like to book the room alpha on the 5th of march.
+- Sometime next month
+- I need the room on the eleventh of march, the whole day.
+- I would like to make a reservation of the room Alpha on the 27.08.2019.
+- i would like to reserve the romm at the first of april
+- The date of the convention is May 4, 2019.
+- I wanna book from 12.12.2019 to 21.12.2019
+- At the 25th of february.
+- Can we book the room for monday up to saturday.
+- 30th of february
+- 2.4 till 4.4
+- Is any of the rooms available on the 15th of march?
+- We prefere the following dates: 14.05.2019, 15.05.2019
+- Next Months on a Friday
+- The meeting is planned for August 3rd
+- On the 24.02
+- From 12th October to 18th.
+- My desired date is 23.03.2020
+- I'd like to book for this weekend
+- I will take the room Gamma for Thuesday the 12. of may in 2019. Is this possible?
+- 29.05.2019
+- 17-11-19
+- Tomorrow evening at 6pm
+- The event is in one month
+- on the 30 of october
+- I'd like to reserve it for next month. I don't have a specific date yet, but I would let you know on a later note.
+- The Event is on the 20th Semptmeber.
+- 13.01.19
+- it’s at 1st of july
+- 23.-25. Mai 2019
+- 15 February 2019
+- Over easter
+- the event shoud be in the room beta on 12.03.2019 - 14.03.2019.
+- We would like to to reserve Alpha for the 03. March 2019
+- Tomorrow
+- 17.03.2019-18.03.2019
+- Is the 24 of july still free?
+- I wish to reserve one of the three available rooms from the 1st March 2019 until 8th March 2019
+- I want to reserve next month.
+- from 28.07.2019 to 06.08.2019
+- 18th of February 2019
+- 3 nights starting january 12th.
+- 14.03.2019
+- 15th of march 2019
+- The first weekend next month
+- On the eleventh of march.
+- The convention will be held on May 4, 2019.
+- From monday to wednesday
+- I need the room on march 15th.
+- We would like to book the room alpha from 22.2 to 24.2
+- Next Month, any day
+- Book gamma on the 24.02
+- We'll arrive on Monday the 16th July.
+- Booking date: 16.03.2019
+- 15th of February, 6:00 PM
+- 30.10.2019
+- I'd like to book it for the calendar week 11.
+- The Event is next month.
+- 01.January.19
+- we need the room gamma for 3 days from 16.05.2019.
+- in 2 weeks
+- the saturday after kings day
+- I would like to reserve one of the three available rooms in the period of 1st March 2019 until 8th March 2019
+- Please make a reservation for the room alpha on the 26 april
+- In the next month.
+- at 28.07.2019 for 9 days
+- From monday 12.1. To thursday 15.1.
+- thursday the fourteenth
+- 15.03.2019
+- From the 7th to 21st next month
+- The date for the reservation is May 4, 2019.
+- 3 night from 4.5
+- 03/15/2019
+- From Saturday to Friday.
+- We'd like to book thursday, 4th april 2019
+- on the 30. of october
+- I'd like to book from Monday, 11.03.2019 to Friday, 15.03.2019.
+- 14-16.7.2019
+- the event starts at 23.07.2019 and goes 3 days.
+- 01 March  2019 - 08 March 2019
+- 28.07.2019-06.08
+- 3 nights from january 12
+- on the 14th of this month
+- The date in question is May 4, 2019.
+- We'll arrive next week on Wednesday.
+- Please book the room for the 15/03/2019
+- 30.1
+- 11.03.2019-15.03.2019
+- 07/17/19 - 07/19/19
+- we need beta from 23. april to 25. april 2019.
+- 03/01/2019 until 03/08/2019
+- from next monday for a week
+- 12.1. To 15.1.
+- 03/14
+- We require the room on May 4, 2019.
+- We'll arrive on 12th October and want to stay for 3 nights.
+- 11.03-15.03
+- next Saturday until Tuesday
+
+## intent:reserve_room
+- I'd like to reserve the room Alpha.
+- I would like to make a reservation for room alpha.
+- I would like to book the room called alpha
+- I would like to make a reservation for room Alpha.
+- I want to book the conference room „Alpha“ for a business meeting next week. Would it be possible?
+- I'd like to make a reservation for the room Alpha.
+- I'd like to reserve the room Alpha
+- I would like to book room Alpha
+- Can we book a room
+- I would like to reserv the alpha room.
+- If it is possible I would like to rent the room Beta.
+- I want to make a reservation for the Alpha room for two days, saterday und sunday at the beginning of next month.
+- I'd like to book room 'alpha' for the whole period of our stay in "One King".
+- I‘d like to make a reservation for alpha
+- i would like to rent the room gamma
+- I would like to book room Beta
+- Please book room Alpha for 26.06.2020 between 2 and 8 in my name
+- I would like to reserve the room Alpha.
+- I'd like to make a reservation for room Alpha.
+- i would like to reserve a room
+- I would like to book the Beta room.
+- I want to book the room gamma
+- I would like to reserve room beta
+- Is it possible to rent the room alpha for the meeting of our companie?
+- I want to book the room Alpha
+- I want to rent the room gamma
+- I want to book the Alpha Room for the Conference.
+- Book the room Alpha.
+- I would book the room Alpha for ca. 150 guests on the 15. June 2019
+- reserve alpha
+- we would like to book romm Beta please
+- Would it be possible to book room Alpha for the event next month?
+- I would like to book the Beta room.
+- We would like to book room Alpha because this room has the in need abilities.
+- I would like to make a reservation for the room Alpha.
+- I would lik to book room gamma
+- I would like to book the meeting room Beta or Gamma.
+- I'd like to book a room, preferably Alpha.
+- Book room Gamma
+- Please place a reservation for room Alpha
+- Can you book the room Alpha for me
+- Please book room Gamma for me.
+- I would like to book the room Alpha.
+- i would like to book the room beta
+- I prefer the room Gamma and i would like to book it.
+- I'd like to book Gamma
+- Is the room Alpha still available?
+- I'd like to book alpha
+- I definitely would like to book room Alpha
+- Please reserve Alpha
+- If Beta is available, I'll book this one, if not, then Alpha
+- I'd like to book room Alpha
+- I would like to book room Alpha
+- I would like to book room Alpha
+- I would like to book room Alpha
+- I like the Alpha room and I would like to reserve it.
+- Can I reservate room alpha?
+- Can you hook me up with a room
+- I would like to book room Alpha for my event.
+- I'd like to make a reservation for Alpha.
+- I would like to make a reservation for room Alpha.
+- Please reseve me the alpha room for the last weekend of next moth, will you?
+- Provided with the information you gave me about the three different rooms I'd like to book room 'beta' for the period of our stay.
+- please reserve room alpha
+- I‘d like to have room alpha
+- Could you please reserve the room Alpha for me?
+- Can you please reserve Alpha for me?
+- Reserve room beta
+- I would like to rent the room beta. Is this possible at the time I told you?
+- Is room Alpha still free next month?
+- I think the Gamma room would suit our preferences perfectly.
+- I would like to reserve the room Alpha.
+- I would like to take room alpha.
+- Can I book the room beta
+- Could you please book room Alpha for me?
+- I wanna reserve the room Beta.
+- I would like to reserve room Alpha.
+- I'd like to book room 'gamma' on monday and tuesday and room 'alpha' for the rest of the week.
+- Could you please make a reservation for room alpha?
+- I would like to book the room Beta.
+- I want to reserve room Alpha for our event.
+- Can I reserve room beta?
+- Could I book room Beta next month?
+- We will thake the Alpha room.
+- I'd like to make a reservation for the room Alpha.
+- I'll take room alpha
+- Book me the room gamma please
+- Room Alpha seems a good choice. Can I make a reservation?
+- I wanna make a reservation for the room Gamma.
+- Please book room Alpha for us
+- I think Alpha fits our needs the best.
+- Is room Gamma still available next month?
+- We would like to book the Gamma room.
+- I'd like to reserve the room Alpha.
+- I would like to reserve Gamma.
+- Please make a reservation for room Alpha on date xx.
+- I would like to book room Alpha next month.
+- Could we make a reservation for the Beta room?
+- I would like to reservate a room.
+- I'd like to reserve alpha.
+- I want to book the alpha room
+- I would like to reserve the room alpha from 14.02 - 20.02.
+- I would like to book room Beta
+- I'd like to book Alpha for next Monday
+- I would like to reserve room Alpha
+- I want to reserve the room Alpha.
+- I would like to reserve the room Alpha for the networking-event which will be held next month.
+- I want to book room Alpha.
+- I would like to reserve a room for 24.02.19
+- I would like to reserve your Alpha room.
+- Make a reservation for the room Alpha?
+- I'd like to reserve room Beta.
+- i'd like to book alpha for this day
+- I want the room alpha i think this fits the best to me. Is it possible on friday?
+- I'd like to book a room.
+- I would like to book the room alpha.
+- I would like to rent the alpha room.
+- I would like to reserve a beta room for my colleagues.
+- We would like to book the room Alpha for the last weekend of the coming month, please.
+- I would like to make a reservation for room alpha on the aforementioned date.
+- I want roon alpha
+- I woud like to book the room Alpha.
+- reserve alpha
+- According to the information given, I would like to make a reservation of room Alpha for date 07.03.19 and 1500 cost.
+- I would like to reserve Alpha.
+- reservation room Alpha
+- I would like to book it
+- Hi, I would like to reserve one of this rooms Alpha, Beta or Gamma, wich one is available?
+- I would like to make a reservation for room Gamma
+- I would like to book a room.
+- I would to reservate the Alpha room.
+- I'd like to reserve room Alpha.
+- I would like to order room Alpha
+- I want to resevate the room alpha
+- book room Alpha
+- I would like to reserve the room Alpha for out networking event the next Month
+- I would like to make a reservation for the date ..
+- I'll take room Alpha.
+- I would like to reserve room Alpha.
+- I would like to book the room gamma
+- I would like to book the room beta
+- Can I reservate a room?
+- We have chosen alpha.
+- Is the alpha room free this weekend ?
+- Please reserve the room Alpha for me.
+- I take room Alpha
+- Is it possible to reserve the room Alpha for my networking-event next month?
+- I want to make a reservation for room Alpha.
+- I would like to make a reservation of a room
+- I'd like to reserve room Gamma.
+- can you reserve the room beta for 20 people?
+- I'd like to book the room Gamma.
+- Is the beta room still available?
+- Please book room Beta for 05/05/19, thank you.
+- I would like to book room alpha on this date.
+- I would like to book the room Alpha
+- I would like to book room Alpha.
+- reserve book Alpha
+- Reserve room alpha
+- I choose Alpha for my stay.
+- room Alpha reservation
+- Please book room Alpha for the date 01.02.2019
+- May you reserve room Alpha for me?
+- I would like to book a room
+- Can I book the room beta?
+- Could I get a room?
+- Can i have one of this rooms?
+- Would you mind booking the room Gamma for me?
+- I would like to reserve a room
+- I'd like to reserve room Alpha.
+- can you reserve beta or gamma, whichever one is free?
+- I'd like to book the room Alpha.
+- I want room alpha
+- I would like to reserve Alpha.
+- room Alpha reservation on 28.04.2019
+- Please reserve Alpha for us
+- I would like to book room Beta.
+- pick room Alpha
+- I take room alpha. Please confirm my reservation for the date 30/03/2019
+- Is there still capacity for room gamma?
+- Is there a room available?
+- I would like to book the room Alpha
+- I'd like to book the room Beta.
+- I prefer room Alpha
+- I would like to book room Gamma.
+- Is room Alpha free on the 17/12/2019?
+- Can I get the room beta ?
+- Can I book one of the rooms Alpha, Beta or Gamma?
+- reserve room Beta
+- I would like to book your room Alpha for an event next Monday. Is it available?
+- I would like to book one of your room Alpha or Beta for an event nex Monday. Is one of them available?
+- Can I book the hotel room Alpha for next month?
+- Could you please confirm the room alpha for the 26 april
+- Thank you for your offer. Our board has decided, that we would like to book room Beta on March 5 2019 for the conditions written on our offer. Can you please send me a confirmation?
+- i saw the room beta and i would like to reserve the room for the event.
+- I would like to reserve your Alpha room.
+- I would like to reserve either your Beta or your Gamma room.
+- I would like to book the room Alpha because I need a little space to work during the night.
+- There are three rooms at your place and I would like to reserve Gamma.
+- I would like to book room Alpha.
+- I would like to book room Beta.
+- Is the meetingroom Gamma available?
+- I would like to book room Gamma.
+- We would like to book your meetingroom Gamma the first weekend next month.
+- Is it possible to book your meetingroom Gamma?
+- Can i please reserve the room metting please
+- I reserve please the room in your hotel
+- Can i reserve the room please
+- Can i reserve the room please in your hotel
+- is alpha free on march 14th?
+- alright thanks reserve that room
+- Can i reserve the room in your hotel
+- Is there a free beta room for this date?
+- Resrve room Alpha for me.
+- I will reserve the one room
+- I would like to reserve the room Alpha.
+- I would like to reserve room alpha
+- I would like to book room Alpha.
+- I would like to book Alpha
+- I would like to book the Alpha room
+- I would like too book room Alpha
+- I would like to rent the room alpha.
+- I would like to reserve rooom Alpha.
+- Please reserve room Alpha.
+- book Alpha room
+- I’d like to book room alpha.
+- I would like to make a reservation for room Beta.
+- I choose the room gamma to rentbit for the meeting.
+- I would like to book room alpha.
+- Book alpha!
+- Can I make a booking for room Gamma?
+- I would like to make a reservation for room alpha
+- I want to book a room
+- I want to book the third room
+- Reserve me room Alpha
+- I would like to take the room Alpha.
+- I want to book the room Beta
+- I'm looking to book the room Alpha.
+- I would like to book room Gamma.
+- Well, I saw that your hotel has three rooms alpha, beta and gamma. I would like to make a reservation for alpha.
+- I want to book Room Beta, is it free?
+- I need the Alpha room
+- I would like to make a reservation for the room Alpha.
+- I'd like to reserve Alpha, please.
+- I'd like to book a room for 167 persons. Date: 06/23/2020, time: 11:00
+- Reserve me a room for 150 people
+- I want to reservate one room
+- I want the room alpha
+- I want the room gamma and beta
+- I’d like to book the gamma room. I think there is the biggest one and the Type of room that I prefer.
+
+## intent:ask_for_room_equipment
+- Is it possible to project things in the room?
+- Are there options for a presentation?
+- I'd like a room to hold a presentation in.
+- Does the room have audio and video anschlüsse pour le presentation.
+- Is a presentation possible?
+- The room needs to have a beamer for a presentation to show the other guys things.
+- Have the rooms opportunities for a presentation?
+- Does one of the rooms contain a beamer and an audio setup
+- On the event, we will be presenting some ideas on the event. Do these rooms have the facilities of projecting audio and video?
+- Do you have the resources to hold presentations (Audio and Video)?
+- Do the rooms have equipements for presentations?
+- Do you have the technical opportunities to have presentations?
+- Do you have a room with the possibility to use audio and video?
+- I need a room to hold a presentation.
+- Do any of the rooms contain a presentation device?
+- I would like to reserve a room which is equiped with professional video and audio infrastructure.
+- i need to be able to make a presentation
+- Do the rooms offer possibilities for a presentation?
+- Do they have a projector?
+- Does any room allow for presentations with audio and video?
+- We would like to hold a presentation, do you have rooms with A/V capabilities?
+- I need a room with a beamer and a sound system.
+- Do the rooms provide the possibility to make a presentation (audio, video)?
+- i want to do a presentation, also i need a room which include the macines for a prestentation. which room is including the audio and videoplayer?
+- have the rooms some tvs and a connection to the wifi?
+- Is it possible to get an Projector?
+- We need a room, in which we can do presentation with visual aid and sound
+- I would like to know if a device to make a presentation is included. Otherwise, would it have an additional cost?
+- Can I show a presantion slide in any of these rooms?
+- I need a room that is provided with a video and audio equipment. Which room would suit me?
+- We need a room with presentation equipment. We like to have Audio and Video.
+- I would like to book a conference room with audio and video installation
+- The available room should have facilities for holding presentations.
+- Which room contains presentation material?
+- We need a room with a beamer to show some video with audio.
+- It should be able to have a presentation in the room.
+- For my presentation i want to play a video?
+- Can I run a presentation?
+- The room should be equipped for audio and visual presentation!
+- Are the rooms equipped with  beamers and  audio systems
+- Can one of the rooms be used for a prasentation
+- Do all the rooms include a projector?
+- I would like to book a meeting room with a beamer.
+- We would need presentation tool which allows us to play a video with audio, does any of your rooms offer that possibility?
+- Do all the rooms have scrreen, projectors as well as audio system? Is the room equiped to show a movie?
+- Are there options for a presentation in room Alpha?
+- Can I hold a presentation in room Alpha?
+- Can I do a presentation in the room Alpha?
+- Is there a feature wich can be used for audio and video projection in the room Alpha?
+- Does the room Alpha support presentations with Audio and Video resources?
+- Does room alpha have equipments for a presentation?
+- Is there a beamer in room Alpha?
+- Do the room Beta or Gamma have the possibility to use audio and video?
+- I need to hold a presentation at the room Alpha.
+- Does room Alpha contain a presentation device?
+- Does room Beta offer the possibilities for a presentation?
+- Have the Alpha room a projector?
+- Does room gamma allow for holding a presentation with audio and video?
+- Is the alpha room equipped to hold a presentation.
+- Does room Beta has a beamer and a sound system installation?
+- Does the room Alpha provide the possibility to make a presentation (audio, video)?
+- I'd like to book alpha, because I've read it is audio/video presentation capable
+- Is room Alpha equipped with a device that will allow us to make a presentation. If not, what would be the additional cost?
+- Is it possible to show a visualized presentation in room Alpha?
+- Does Alpha provide video and audio equipment?
+- We need a room with presentation equipment. We like to have Audio and Video. The last time we were in room Beta. Would this room be available again?
+- The room alpha should has facilities for holding presentations.
+- Is the room alpha still available
+- In which room can I have a presentation?
+- Is the alpha room equipped with a beamer and speakers?
+- In room Gamma it should be able to have a presentation.
+- Does one of the rooms have possabilities to play a video
+- Does Alpha have a beamer?
+- Is the room Alpha equipped for audio and visual presentation?
+- Has room alpha a projector and speaker inside?
+- I would lik to book the meeting room Alpha.
+- Are there presentation tools for video with audio in Alpha?
+- Are there options for a presentation in room Beta and Gamma
+- Would Gamma or Beta be better suited for holding a presentation?
+- Can I do a presentation in the rooms Beta and Gamma?
+- Do the rooms Beta and Gamma have the possibility of presentig with visual and aural help?
+- Does room beta or gamme have the resoucres to hold presentations?
+- Do rooms beta and gamma have equipments for a presentation?
+- Is there beamer in room Beta and Gamma?
+- Does the room Alpha have the possibility to use audio and video?
+- I need to hold a presentation at the rooms Alpha and Beta.
+- Does either room Beta or Gamma contain a presentation device?
+- Do the rooms Alpha and Gamma offer the possibilities for a presentation?
+- Do the other two rooms have a projector?
+- Does any of the other rooms allow for holding a presentation with audio and video?
+- Is it possible to hold a presentation in either room beta or gamma?
+- Does the other two rooms have a beamer and a sound system installation?
+- Do the rooms Beta or Gamma provide the possibility to make a presentation (audio, video)?
+- I'd like to book gamma or Beta, because I've read that they have presentation equipment in there
+- Are rooms Beta and Gamma equipped with a device that will allow us to make a presentation. If not, what would be the additional cost?
+- Does any of the other two rooms provide video and audio equipment?
+- We need a room with presentation equipment. We like to have Audio and Video. The last time we were in room Alpha. Would this room be available again? We also know that the room Gamma does not have all the equipment we need.
+- The other two rooms a should have facilities for holding presentations.
+- Are the rooms beta and gamma available
+- How about the other rooms? Does one of them provide a beamer and speakers.
+- The other two rooms should be ready for a presentation.
+- Are the rooms Beta and Gamma equipped for audio and visual presentation?
+- We would need to play a video with audio in Beta or Gamma, is this possible?
+- does the room have means for a presentation
+- In which room is it possible to do a video or audio presentation?
+- I prefer the room called alpha, but I got a quick question if there is the possibility to show the guests some videos
+- Do you have Internet access? Is a beamer available?
+- Is there a way to present stuff?
+- It should have a presentation
+- Does the room have equipment
+- Is it possible to have a small presentation with audio and video in the rooms that you have?
+- I need a room for presentation, it should have video and audio possibilities.
+- Is there a beamer and screen available?
+- Is it possible to book a room for an event, which allows to show a short presentation with audio and video?
+- I would like host a presentation, reserve me a room.
+- I also want to hold an presentation in front of people I now you have the supplies for that I would like to have that
+- Which room is equipped with presentation gear?
+- Wich room is the best for sound system
+- the room must have condotions for an presentation.
+- The room is required to have multimedia equipment to hold a presentation (Audio and Video). Are all of the rooms equiped for that?
+- Does any of your rooms have audio and video presentation availabilities?
+- The room should provide equipment for audio- / video-presentations.
+- Which room has a video recorder or a beamer?
+- Can i have a presentation in the room with audio and video?
+- We need a room that allows us the do a presentation.
+- I need a conference room equipped with at least a beamer and a stereo.
+- do the rooms hava audio and video opportunities for e presentation
+- Is it possible to have a presaentation in one of you rooms?
+- I need a room with Beamer and microphone system for our speaker
+- I need a room with presentation facilities e.g. Audio and Video.
+- Are there technical features for a presentation?
+- Are in the rooms equipment for a presentation? (audio, video)
+- Do you have a room in your hotel which provides audio and video capabilities? I want to show a presentation in there.
+- Is it possible to hold an audio or video presentation in the room?
+- Can we hold a Powerpoint presentation there?
+- Are there any possibilities to show a presentation?
+- Does all the rooms support audio and video presentations?
+- the rooms should have equipment for presentations
+- Is it possible to show a Video presentation in the room.
+- Does any of the rooms have the necessary equipment for audio and video presentation?
+- The room should give the possibility to make a presentation.
+- We need a room where we can have a presentation with audio and video ability.
+- Do any of the rooms allow for a presentation with audio and video?
+- Are the rooms equipped with projectors and sound systems?
+- The room should have the equipment needed for an presentation, more specific audio an video
+- Do the rooms offer presentation possibilities?
+- We will have a presentation (audio and video). Which of these rooms offers the possibility to have a nice presentation?
+- I need to hold a presentation. Is there any equipment available?
+- does room alpha have means for a presentation
+- Is there a support for video material
+- Can I present stuff in room alpha?
+- Does the Alpha room has equipment
+- Is it possible to present something with a beamer and screen?
+- One of this 3 rooms need to have usb for my presentation.
+- Can i hold a presentation in room alpha?
+- Is room Alpha equiped for multimedia presentations?
+- Does Alpha have presentation equipment?
+- Is the room "Beta" equiped with a beamer and an soundsystem?
+- Does the room Beta has a video recorder or a stereo system?
+- Is there presentation infrastructure in room alpha?
+- We'd like to have a conference during our stay in the 'alpha'-room. My question now is: is this room suited for a conference?
+- is there an audio and vido systemm in the room beta
+- Is it possible to have a presaentation in room alpha?
+- Does room Alpha have a beamer and microphone system
+- Does the room Alpha have presentation facilitites?
+- Does the room beta offer technical features for a presentation?
+- does the Room Alpha icluding audio and visual equipment for a presentation
+- I am planning the room Alpha for a presentation. Is this room equiped with audio and video devices?
+- In the room "Beta", is there a possibility to hold an audio or video presentation?
+- Is there a beamer in room Alpha?
+- Is it possible to show a presentation with audio and video in room Alpha?
+- does the room beta have any utilities for presentations like a soundsystem or beamer
+- Does Gamma have the necessary equipment for audio and video presentation?
+- We would like to book the room Beta with audio and video ability.
+- Does room Alpha allow for a presentation with audio and video?
+- Does the room Alpha have a projector?
+- Does room gamma have the equipment for an presentation
+- Does room Alpha provide a projector and speakers?
+- Does alpha has a beamer or something similar to make up a presentation?
+- Is room alpha equipped for holding presentations?
+- do the other rooms have means for a presentation
+- Can I present stuff in rooms beta and gamme?
+- Does the rooms beta and Gamma have eauipment
+- I want order the room Beta or Gamma for a presentation
+- Do the other romms as well have beamer and screen?
+- Which room is better equipped for a presentation? Gamma or Beta?
+- Do room Beta and Gamma have equipment installed for multimedia presentations?
+- Does one of the other rooms have presentation equipment?
+- Are the rooms "Alpha" and "Gamma" suitable for audio- / video-presentations?
+- Does the rooms Alpha and Gamma has a video recorder or a stereo system?
+- Beta nor Gamma have presentation infrastructure.
+- I like the rooms 'alpha', 'beta' and 'gamma'. Is one of those rooms suited for a conference?
+- are the other two room equipt with an autio and video system
+- Is it possible to have a presaentation in the rooms beta or gamma?
+- Do the rooms Beta or Gamma have a beamer and microphone system available
+- Do the rooms Beta and Gamma have a beamer and speakers?
+- Does the room alpha or gamma offer technical features for a presentation?
+- are the gamma and the beta room well equiped for a presentation
+- Your rooms Beta and Gamma look great. Can you tell me which would be more suitable for a presentation which contains audio and video?
+- Is it possible to hold a video or audio presentation in the rooms "Alpha" and "Gamma"?
+- Are there Beamers in the other rooms?
+- Does the rooms Beta and Gamma support audio and video presentations?
+- whats about the other two rooms, are they also equipped with presentaions systems?
+- Do Alpha and Beta have the necessary equipment for audio and video presentation?
+- We would like to have our presentation in the room Alpha or Beta.
+- Does any of the rooms Beta and Gamma allow for a presentation with audio and video?
+- Do Beta and Gamma have AV systems?
+- Or is one of the other roomsbetter equipped?
+- Do the rooms Beta and Gamma provide presentation possibilities?
+- Does Beta or Gamma has a better equipment to do a presentation?
+- Are the other two rooms also equipped with video and sound systems?
+- I would like to host a host a presentation and need a room.
+- does one room delivers special equipment
+- Is there a room with superior equipment?
+- I want to book a room for a meeting, that haves an equiptment for a presentation.
+- Is it possible to do a presentation in room Beta?
+- Do you have large presentation rooms with a projector?
+- I want to know wich rooms do you have in your hotel. And at wich rooms can I do a presentation
+- Did the rooms have canvas?
+- I would like to now more about these rooms what kind of equipments do you have?
+- What is the equipment of room 1?
+- Is there a tv in room beta
+- Is room 3 equipped with a beamer?
+- Which of these rooms has the best soundsystem?
+- Does Beta has Flipcharts?
+- What about the other rooms, do they have the same accesoires?
+- It has a screen on the front.
+- do you offer any rooms for bigger bigger events with presentations infrastructure
+- Which of the rooms have a flatscreen TV?
+- Does the Alpha room have a Flipchart included?
+- Does Alpha has two big screens
+- Do Beta or Gamma have a fridge installed?
+- Do beta or gamma have two big screens?
+- equipment of room Alpha
+- what kind of equipment is in the room
+- Is there an tv?
+- There is a tv
+- I mean the room with projector in your hotel.
+- Do the rooms have all the same infrastructure like beamer etc.?
+- Wich rooms of the three have a white screen
+- what kind of equipment is in the room
+- What equipment does room Alpha provide?
+- How large is Alpha and do I have video and audio equipment there?
+
+## intent:ask_for_room_lighting
+- Is the room well inlumitated?
+- Do the rooms have enough light?
+- How is the light in the rooms?
+- do the rooms have a lot of light
+- Does the rooms have enough light
+- Do all of your rooms have enough light?
+- Is there enough light in the hotel rooms Alpha, Beta and Gamma?
+- Do the rooms have enough light?
+- Is there enough light in the rooms
+- Did the rooms have enought light?
+- How are the lighting conditions?
+- How is the light? they have enough?
+- Wich room has the most sunlight
+- Could you tell me if the rooms are enough bright?
+- How's the light in these rooms?
+- Is ther enought light in the room?
+- Which one of your provided conference rooms is the brightes one? (In terms of lumens).
+- do the room have inove light
+- Do the rooms in your hotel have enough light?
+- do you have rooms with enough light?
+- Do the rooms have enough light?
+- How is the light in the suggested rooms?
+- I am looking for a room which has direct exposure to daylight. Can you offer something like that?
+- do the rooms have enough light in it?
+- Do the rooms have enough light?
+- How is the light in the diverent rooms?
+- I need to know if the rooms have enough light in it
+- Does the room has light?
+- How is the lighting in the rooms?
+- In terms if lighting, what is the most favourable room?
+- How is the light about?
+- Do the rooms have a good lightning interior?
+- How bright are the rooms at night?
+- How is the light situation in the room
+- How Is the lightconcept in the rooms.
+- Is there enough lighting in the rooms?
+- I would like to know if all the rooms have enough light.
+- Do the rooms have enough lighting?
+- Is there enough lighting in the conference rooms?
+- Are the rooms sufficiently illuminated?
+- How well-lit are the rooms?
+- how is which room illuminated?
+- Do your conference rooms provide enough natural light?
+- Do the rooms have sufficient light?
+- Does room gamma have enough light?
+- How is the light in the room Alpha?
+- How hell is room Alpha?
+- Do the rooms offer enough light
+- Does the rolm Alpha has enough light
+- Is there enough light in the room Alpha
+- Is there enough light in room Alpha
+- Does the room gamma have enough light
+- How is the light in the room alpha?
+- The room Alpha, they have enough light in it?
+- Could you tell me if the room Alpha is enough bright?
+- How are the lights in Gamma?
+- Can you provide me with the average lumen value for room 'alpha'?
+- How is the lighting in room alpha?
+- How bright is the Gamma room?
+- Does the room Alpha has enough light?
+- Does the Alpha Room has enough light?
+- Your room Beta looks nice on the pictures but it seems a bit dim. Is there another source of light?
+- Does room Alpha have enough light?
+- I prefere a room with intensive light. Is the room alpha good enouth for this?
+- Dies the room alpha has light?
+- How bright is the room Alpha?
+- Does room Alpha have enough natural light?
+- What is the Light condition in room Alpha?
+- Are there a lot of windows in room Alpha that lighten up the room?
+- Is there enough lighting in Alpha?
+- I would like to know if the room beta have enough light?
+- Does room alpha have enough lighting?
+- Does Alpha have enough natural light?
+- Is the room Alpha sufficiently illuminated?
+- How well is room Beta lit?
+- Is Alpha best illuminated?
+- Does the Alpha conference room provide enough natural light?
+- Does the room Gamma have enought light?
+- Which room is lighter, Beta or Gamma?
+- Is there enough light in the other two rooms Beta and Gamma?
+- Is there enough light in the rooms Beta and Gamma.
+- Do the rooms alpha and beta have enough light
+- The room Beta and Gamma, how many lights they have in it?
+- Could you tell me if the rooms Alpha and gamma are enough bright?
+- How is the lighting in the rooms beta and gamma?
+- Would you recomend the alpha or beta room for a good illumination?
+- Do the rooms Beta and Gamma have enough light?
+- Do the other rooms have sufficent light?
+- Can you please let me know if the rooms Alpha and Gamma are suitable for a classroom training in terms of available light?
+- Do the rooms Beta and Gamma have enough light?
+- I would like to know how the light situation in room beta and gamma is?
+- Does the other two rooms have light?
+- How is the lighting in Beta and Gamma?
+- How do the rooms Beta and Gamma fare aganist room Alpha in terms if lighting?
+- How is the lighting in the rooms Beta and Gamma?
+- Is there enough lighting in Beta or Gamma?
+- Do Gamma and Beta have enough lighting?
+- Is there enough lighting in Beta and Gamma?
+- Are the rooms Beta and Gamma sufficiently illuminated?
+- What lighting is available in rooms Alpha and Gamma?
+- Is Beta better illuminated than Alpha?
+- Do your other conference rooms provide enough natural light?
+- Do the rooms Alpha and Beta have sufficient light?
+- How about the lighting in the rooms? Are there enough windows?
+- Have the rooms enough light in there.
+- Do the rooms have enough light?
+- Pleasw confirm that the lightning provided in the rooms is sufficient.
+- is there enough light in your rooms? Is it bright enough? How bright is it?
+- Have the rooms enough lights?
+- Does the rooms have enough light?
+- Are in the hotel rooms enough light for an event?
+- Are there many windows in these rooms. We need a bright room, so we’d like to have a room with much light.
+- Did the rooms have enough light in it?
+- Are the rooms bright enough?
+- Could you please give me the information about the lightning in the rooms?
+- Is there good light?
+- Does the rooms have enauge light?
+- Is there enough light in the rooms to work during the night?
+- Do the rooms provide enogh light?
+- Is there enough light in the rooms Alpha, Beta and Gamma?
+- Do the rooms have enough illumination?
+- do the rooms have enough light?
+- How much light do the rooms have?
+- Do the rooms have much light?
+- I need a room which is well luminated. Do you have one?
+- Are your rooms well lit?
+- We need good light in the rooms. Would you say the rooms are good for working?
+- Do the rooms have enough windows in order to provide enough daylight? Are there enough lamps in the room?
+- For our purposes it is important that the rooms are well lighted.
+- does the rooms have enough light?
+- Do your event room have day light?
+- Is there enough light in the rooms?
+- how much lumen do they have
+- Do the rooms have enough light?
+- Are the rooms  bright enough ?
+- Is there enough natural light in the rooms?
+- Do the rooms have proper lighting?
+- How is the lighting in the room?
+- Do the rooms have enough light
+- Hows the light in the meeting rooms?
+- Is there enough light in the rooms?
+- How bright are the rooms?
+- Do the rooms have enough natural light?
+- Is there enough light in all of the rooms?
+- Can you tell me, which of the rooms Alpha, Beta und Gamma has enough light?
+- Do all rooms have sufficient natural light?
+- Do the rooms have enough light for a presentation?
+- it the room brightly
+- Are the rooms bright enough for business meetings?
+- Could you please let me know, if the room has daylight?  How bright is is in the meeting rooms?
+- are there windows in every room?
+- Is there enough natural light in the room?
+- What about the lighting in the room Alpha?
+- Has room Alpha enough light?
+- Which of the rooms has enough light?
+- is there enough light in Gamma? Is Gamma bright enough? How bright is Gamma?
+- Has the room beta enough light?
+- Did the room Alpha have enough light?
+- Does the room Alpha have enough light in it?
+- Is the room Alpha bright enough? Is there enough daylight?
+- I need to know whether there is enough light in the room alpha.
+- Does Alpha have enauge light?
+- Does room Alphha provide enough light?
+- Is there enough light in the room Alpha?
+- Does Alpha have enough light?
+- does the room Beta have enough light?
+- Is there enough light in the alpha rooms?
+- Have the Alpha room much light?
+- Is room Beta well illuminated?
+- Is room alpha sufficiently bright for a presentation?
+- How is the lighting in the Alpha room?
+- i like the room gamma and i want to know, if the room has enough light for a good presentation.
+- Does room alpha have sufficient natural or artificial lighting?
+- i would like to order the room gamma, have it enough space and light?
+- Does your room Alpha have day light?
+- Which of the rooms has the most light?
+- how much lumen does alpha has
+- How is the lightning in room Alpha?
+- Is the room Alpha  bright enough ?
+- I am worried about the light in room Alpha.
+- Is the lighting in Alpha decent?
+- How is the lighting in room Alpha?
+- Does the room Alpha have enoght light
+- Hows the light in Alpha?
+- How many windows does alpha has?
+- How bright is Room Gamma?
+- Does the room Gamma have enough natural light?
+- Does room Alpha provide enough light?
+- Does your Alpha room have sufficient naturla light?
+- Is there a windowfront with sunlight at about 2 o'clock?
+- show me the view of the window of each room
+- Are there enough windows in the room?
+- And how about the lighting in the other two?
+- which room has more light, Gamma or Alpha?
+- how are the others? Are they bright enough? How bright are they?
+- Have the other rooms more light than the room Beta?
+- Did the rooms Beta and Gamma have enough light in it?
+- Is the room Beta or Gamma bright enough? Is there enough daylight?
+- How is the lightning in the rooms beta and gamma?
+- Does Beta and Gamma have enauge light?
+- Do rooms Beta and Gamma provide enough light?
+- I know now that room Alpha has enough light. And the other 2 rooms?
+- do the rooms Alpha and Gamma have enough light?
+- Are the beta or gamma rooms have less bright?
+- Have the Gamma room much light?
+- Are the other rooms good illuminated?
+- How does the lighting situation look like in beta and gamma?
+- How are the lightings in the rooms Beta and Gamma?
+- How about the rooms beta and gamma? Will there be any issues in providing sufficient lighting there?
+- Does your rooms Beta and Gamma have day light?
+- Is there enough light in the other rooms?
+- how much lumen does gamma an beta has
+- What about the light in the room Betha?
+- Is the room Alpha or Beta  bright enough ?
+- How is the light in the other ones?
+- Are the rooms Beta and Gamma enough bright?
+- How is the lighting in rooms Beta an Gamma?
+- Which meting room has the most light?
+- How bright are the other rooms?
+- Do the rooms Alpha and Beta have enough natural light?
+- Which one of the rooms does provide the most light? Alpha, Beta or Gamma?
+- is the room beta brightly?
+- show me the illumination of each room
+- I would like to book the Beta room but i have some questions about the light.
+- Is it possible to dim the lights in Gamma rooms?
+- Is there goog light?
+- does it have enough ligjt? with big windows?
+- How lit are the rooms?
+- is the room alpha brightly?
+- There is a good light
+- I neee a big room with enough light, big windows and good air
+- Are there some windows in the room Alpha?
+- Do the rooms have windows
+
+## intent:provide_room
+- I am talking about the room with the big table and the balcony.
+- I am looking for either room alpha, beta or gamma.
+- I am talking about the first room mentioned on your website.
+- Give me more information about room alpha
+- Room Alpha
+- Room Alpha.
+- I mean room alpha.
+- I think about room Alpha.
+- Alpha
+- Room alpha!
+- The room named alpha (the first one)
+- I mean the room Alpha.
+- there are three rooms: Alpha, Gamma and Beta.  I am interested in the room Gamma
+- I mean room Alpha
+- Alpha
+- I mean the Alpha room the biggest of the three rooms.
+- No, I mean room Alpha.
+- The room I'm talking abuut is called 'Alpha'.
+- i talk about the room gamma
+- I was talking about room Alpha.
+- I'm talking about the room "Alpha"
+- Beta
+- I'm speaking about the alpha room.
+- i talk about the alpha room
+- I am mostly interested in the room Alpha.
+- The Room alpha is the biggest room and its the perfect room for the event
+- I am talking about the room called Alpha.
+- I talked about the room Alpha.
+- I mean the room alpha
+- I talked about the room gamma.
+- We are talking now about the room Alpha
+- Alpha
+- I am talking about room alpha
+- I am talking about room beta.
+- I mean the room Alpha
+- I mean the biggest room alpha
+- I mean the first room you mentioned.
+- Room Beta
+- I mean room Alpha.
+- I am talking about room alpha.
+- I mean room Alpha.
+- Beta
+- alpha
+- Room Alpha
+- I mean Alpha
+- Not Room Beta, room Gamma.
+- Room Beta
+- I ment room Alpha.
+- I'm talking about "Alpha"
+- I am taking about beta
+- Please provide me more information about room Beta.
+- Alpha i mean
+- I meant the room alpha.
+- room Alpha
+- Beta
+- I am referring to room alpha.
+- I mean the second room Beta
+- Let’s talk about room alpha.
+- I am talking about the room with the large windows, that ahs space for 20 people.
+- Room Gamma
+- Everything discussed until now, is about room Alpha.
+- Not Beta you dummy, I want room alpha!
+- ALPHA!
+- Gamma
+- Tell me about room alpha
+- Room Alpha
+- Gamma
+- It concerna the room beta
+- The room Gamme is of most interest for me.
+- The rooms name is alpha
+- Alpha
+- It is about the room beta.
+- Gamma
+- I mean the third room Gamma
+- I mean alpha
+- I am talking about Alpha
+- reserve room alpha, not beta
+- Alpha is the name of the room
+- I mean the smallest room for the space for the least amount of persons
+- The right room is alpha
+- I mean the room Alpha
+- I have seen the room Alpha on your website and I would like to reserve this one.
+- I would like to have the room with the biggest size.
+- I mean room Alpha
+- I am talking about the room with the name alpha.
+- I need the biggest room.
+- I am talking about Alpha.
+- My request refers to room Alpha.
+- I'm talking about the room Gamma.
+- We talk about Gamma
+- gamma
+- We will need one of your Meetingrooms - either Alpha, Beta or Gamma.
+- The room I am referring to is alpha.
+- I wanna book the room Alpha
+- Room alpha
+- I am talking about room Alpha
+- I want to know more about the room Alpha.
+- Room Alpha
+- I meant the room with the gorgeos lamps i think it was Alpha
+- I‘m talking about alpha.
+- I know that you have the rooms Alpha, Beta and Gamma. I am talking about the alpha room.
+- Room gamma
+- I meant gamma because theres enough space for alot of people
+- i mean the one with the great sight to the sea
+- You have to go in room alpha
+- I mean the doom with the name Alpha. And it fits y people in it
+- I meant Alpha
+- I'm speaking about room alpha.
+- I mean the room alpha
+- Select Alpha
+- I'm talking about room Alpha.
+- i talk about room alpha
+- I speak about the room Alpha.
+- I'd like to get further informations for the rooms Alpha, Beta and Gamma.
+- Room Alpha
+- You have a room called gamma.
+- I'm talking about the Beta room.
+- Regarding room gamma.
+- I am referring to room alpha.
+- I was refering to room Alpha
+- Can you give me some details on the room Alpha?
+- Alpha
+- I‘m asking about alpha.
+- I talk about room gamma.
+- Alpha
+- I'm talking about room Beta.
+- i reference to room gamma
+- I mean the first one
+- Alpha
+- Is the room "beta" available.
+- I want more information about Alpha.
+- Gamma.
+- Gamma Gamma Gamma Gamma
+- I am talking about room alpha.
+- about Alpha
+- Tell me more about the room named Alpha.
+- Alpha. The one that is promoted on your website.
+- The room in question is alpha.
+- Pick Alpha
+- I'm talking about room Gamma.
+- i talked about room beta
+- I speak about room Alpha
+- The room we were talking about is alpha.
+- I have already told you the name of the room. It is named "Alpha", isn't it?
+- Alpha
+- i mean room gamma
+- Alpha
+
+## intent:greet
+- Dear Sir or Madam
+- Hello
+- Hello there whats poppin
+- Hi
+- Hello chatbot
+- Hello
+- Dear Sir or Madam
+- Hello
+- Good day
+- Hi
+- Hello
+- Dear sir or madam, i have a few questions about your Hotel...
+- Um, hello?
+- Hi friendly non-human. I have a request.
+- Hi
+- Hey whats up
+- Hey
+- Good morning
+- Dear Sir or Madam
+- Hello
+- Hi how are you
+- Hello Chatbot
+- Hi
+- Hello there
+- Hi
+- Good morning chat-bot I need your wisdom.
+- Hello.
+- Hello
+- Greetings
+- Excuse me
+- Good morning.
+- Pardon me
+- Hi there
+- Hello Mr Chatbot
+- Hi Chatbot!
+- Dear
+- Hello Chatbot
+- Hello
+- hi!
+- Good afternoon. Nice to meet you.
+- I'm organizing an event for my company.
+- Dear One King Hotel
+- Dear Sir or Madam
+- hi.
+- Good morning
+- Hi
+- Good morning
+- Hey there
+- Good Morning
+- Hello
+- Hi
+- Hello
+- Hello
+- Hello Chatbot
+- What's up Chatbot?
+- What's up Chatbot
+- Good morning
+- Hi
+- Dear Receptionist at One King Hotel
+- Hello
+- Hello
+- Hi
+- Hello?
+- Hey "One King"-Team
+- Hello
+- Hi Chatbot
+- Excuse me, sir
+- Good evening Chatbot
+- Hi
+- Hello
+- Dear Sir or Madam
+- Good evening
+- Hello
+- Hello
+- Hello
+- Hey
+- Good evening
+- Good evening Chatbot
+- Hello One King Hotel employee
+- Hi
+- Dear "One King"-Team
+- Hi can you help me?
+- Hi Chatbot
+- Do you have rooms for events to rent?
+- Good Morning
+- g'day
+- Dear Sir / Madam
+- Hello Chatbot, how are you?
+- Hello is someone there?
+- Dear Chatbot
+- Good morning, I am interested on your Hotel for a company event.
+- Dear
+
+## intent:ask_for_options
+- Witch rooms does your hotel offer?
+- What kind of rooms do you have in your hotel?
+- Which rooms are available?
+- I would like to rent one of your rooms for a buisness meeting
+- I am looking for a room in your hotel for our networking event. It should be a well equipped high class room. Functionallity is more important then luxury.
+- Which rooms are available in your hotel?
+- Which rooms do you offer for conferences?
+- What kind of rooms do you have in the hotel?
+- Are there any available rooms at these dates during our stay in the hotel
+- What rooms does the hotel have?
+- Which types of rooms do you have?
+- What rooms do you offer?
+- How many rooms do you have?
+- Which room is free to book right know?
+- What rooms can you offer me?
+- What rooms can you offer?
+- How are the rooms?
+- Show me all rooms of the One King Hotel
+- Which rooms the hotel have in the offer
+- Please list all rooms as offered by you
+- Which rooms do you offer?
+- Which event rooms do yo have?
+- How many rooms do you have?
+- What kind of rooms are available at the moment?
+- Are there more then 3 rooms to chose from?
+- Could you tell me which rooms aren't available
+- Which meeting rooms do you have at your hotel?
+- What kind of room can you offer us?
+- what seminar room do you offer?
+- What kind of event rooms are available?
+- I want to know which rooms did you have?
+- Which  kind of rooms does you hotel offer?
+- What rooms are available during monday, week 8 and tuesday week 9?
+- Which rooms do you offer?
+- What do I need to know about your rooms ?
+- which room are available for meetings?
+- What kind of rooms does the hotel provide?
+- Does the hotel offer conference rooms?
+- Which rooms does your hotel offer?
+- What rooms do you offer?
+- i would like to know about your offer of eventrooms
+- What kind of rooms are available?
+- Which rooms are still available?
+- What kind of rooms do you offer?
+- What kind of rooms do you have in your offer?
+- What rooms do you have in offer
+- What rooms do you have availabe for events?
+- How many rooms are available at your hotel for an event?
+- What rooms do you have in your hotel for A big event?
+- Are there any rooms available?
+- What type of rooms you offer?
+- For our Event I want to book a room for at least 150 guests. Which rooms do you have to offer?
+- What rooms do you have to offer?
+- Which rooms you can offer me ?
+- which kind of rooms can you offer me for a marketing event
+- What rooms does the hotel offer?
+- Could you tell me what rooms the hotel offers?
+- What kind of rooms do you offer for events?
+- How many rooms and wich capacity do they have
+- What are the available rooms?
+- Can you offer any conference rooms for this date?
+- I'd like to find out what kind of hotel rooms you're offering.
+- What rooms do you have?
+- Which rooms are in your portfolio?
+- Could you provide us with a list of the rooms offered by your hotel?
+- What meeting rooms are available on that date?
+- Could you give me all available event rooms?
+- Which meeting rooms do you have at One King?
+- Do you have rooms for networking-events?
+- What kind of rooms do you have?
+- Could you please give me an overview of your applicable rooms?
+- What rooms does the hotel provide?
+- What conference rooms does the hotel provide?
+- Which rooms can you offer?
+- Is one of the rooms still available?
+- What rooms do you offer?
+- Do you have some rooms free
+- What are the different rooms for events?
+- For events what is your offering
+- Do you have any meeting or event rooms?
+- Which rooms are available for events
+- Which rooms are available?
+- Do you have event rooms?
+- What kind of conference rooms do you have?
+- What kind of rooms are available?
+- Can you tell me your rooms?
+- Please indicate the rooms offered by your hotel
+- I want to hold a conference. which rooms do you recommend?
+- Which event room is open to rent?
+- What typs of rooms does the hotel have?
+- Which rooms are applicable during that time?
+- What kind of rooms are available in the hotel?
+- Can you tell me more about your rooms
+- Is Alpha, Beta or Gamma still available for booking?
+- Are there rooms to rent?
+- Could i have an offer for a room
+- What kind of rooms do you have for events?
+- With regards to meeting rooms, what is offered?
+- Do you have special rooms for an event
+- Which rooms do you offer?
+- Which rooms are available for events?
+- I need a room for a networking event.
+- How many different rooms do you have?
+- Do you have rooms to rent?
+- Can you tell me which room types are available?
+- Do you offer any event rooms?
+- Please show me all available rooms.
+- What rooms do you offer?
+- What kinds of rooms do you have?
+- Which rooms are free ?
+- I organize a networking event and I am looking for a suitable location. Please let me know your offer.
+- Which room is available?
+- Wich are the rooms that are currently free?
+- Can you send me offer of the rooms?
+- What rooms can you offer?
+- What rooms are they in the hotel?
+- What kind of rooms do you have available?
+- What kind of Rooms do you offer on you‘re hotel?
+- What kind of rooms do you offer in your hotel?
+- Witch rooms does the Hotel have?
+- What kind of rooms do you offer?
+- What kind of rooms do you can offer?
+- What kind of rooms do you have in the hotel?
+- I wanted to know, what kind of rooms you can offer the team.
+- Which rooms do you provide?
+- I would like to know what kind of rooms your hotel offers?
+- What kind of rooms does your hotel offer?
+- Which rooms are available?
+- How many and which kind of meetingrooms are available in your hotel next month?
+- how big are the rooms?
+- What kind of rooms do you have?
+- What rooms are free?
+- Which rooms do you have available?
+- What different types of rooms do you have?
+- Which kind of room you have to offer ?
+- Which rooms can you offer me?
+- I would like to know on which dates the rooms are available.
+- Which rooms are available ?
+- I need a room for a networking event, what kind of rooms do you offer?
+- Are there any meeting rooms available?
+- What rooms do you have in youre hotel?
+- Can I have some details about the available rooms?
+- What rooms are available on those days?
+- Which rooms do you offer?
+- What type of rooms are available?
+- Which rooms are available?
+- What does the hotel offer?
+- Which rooms do you offer?
+- Do you offer rooms for events such as conferences?
+- Which kind of room categories do you offer?
+- What for room are available next month?
+- What rooms does your hotel have?
+- How many dwellings are in this establishment.
+- Which rooms do you have on offer?
+- What types of rooms do you have to offer us for the networking event
+- What kinds of business rooms do you have?
+- Which rooms are free?
+- Which rooms are in the angebot?
+- For how long are these rooms free?
+- How much rooms are there in the hotel?
+- Could you send me pictures of the available rooms?
+- What kind of rooms are available in your hotel?
+- witch room do you offer to me?
+- In which price section do you have rooms?
+- Do you have alot different rooms?
+- What kind of rooms do your hotel offers?
+- Which rooms do you offer?
+- Does your hotel provide meetingrooms? If yes, which kinds?
+- for howbmany are the rooms available?
+- Which rooms are available?
+- Which rooms are for the specified date available ?
+- Do you have any conference rooms I could rent for an event?
+- Which rooms are available?
+- What can you offer me in terms of rooms on those days?
+- What rooms are there?
+- Can you tell me which rooms you offer?
+- I'd like to book a room for a corperate event.
+- Do you offer different categories of rooms?
+- How many suites are there?
+- Offer?
+- Do you have rooms for corporate events?
+- Which rooms can I book/ take?
+- Can I reserve the free rooms for next week?
+- How do the rooms look like?
+- do you have rooms for business meetings in your hotel?
+- Are there different kind of rooms in your hotel?
+- Is it possible for you to provide us with one of your bigger meetingrooms for a social event next month?
+- how many days can i order the rooms?
+- What kind of rooms can your hotel provide?
+- Which rooms are suitable for a meeting ?
+- What kind of rooms for events can I rent at your hotel?
+- Can you list which rooms are available?
+- I want to know which rooms you offer.
+- What type of rooms do you offer for events?
+- What rooms are available?
+- Where can I see your offer?
+- Which rooms are available?
+- Are these rooms suitable for a meeting ?
+- Can you give me some details on the rooms I could rent for an event?
+- I would like to know which rooms are available.
+- Please tell me which room you offer.
+- What categories of rooms are available?
+- How many suites are left.
+- Free rooms?
+- - can you give me some informations from your rooms in your hotel?
+- I am looking for a suitable location for a networking event. What can you offer me?
+- Which rooms do you have which would fulfill our requirements?
+- I would like to know which rooms you offer.
+- Where can I find your offer?
+- What rooms do you have
+- I'd like to book one of the following rooms: alpha, beta or gamma.
+- i would like to get detailed information on room alpha
+- please supply information for room beta
+- We're visiting your hotel later on in september and would like a room for our meetings
+- I am not sure which room to book, please give further information.
+- Would you please describe your available rooms?
+- Can i reserve a room for an Meeting?
+- I'd like either to reserve the room Alpha, Beta or Gamma
+- I'm looking for a conference room in your hotel.
+- I would like to book a room for a Networking-Event.
+- I would like to book a room for an event.
+- I am looking for a conference room on 26.06.2020 for a company event
+- I would like to rent a room.
+- I m looking for a room, fitting to our event
+- I'd like to reserve a meeting room
+- I would like to book a room for an event on 25.3.2019.
+- I want to do a reservation for our networking-event
+- Hi. Can you supply me with some information about the hotel rooms?
+- I need to find a suitable room for a business event in Toronto.
+- I am looking for a conference room.
+- Can you help me finding a room for a networking event?
+- Do you have free rooms in the next month?
+- Booking a room for an event
+- What seminar rooms do you offer?
+- Give me information about rooms
+- I want to book a room for an event.
+- Which room is available on 15.03.2019?
+- I‘m searching a nice location for an event.
+- I am looking for a location for a smaller networking event.
+- What event rooms are available at 25.3.2019?
+- I am trying to find a nice business style room for a meeting in Toronto.
+- Is there a conference room in your hotel?
+- please show me the rooms available
+- Does the hotel have conference rooms available on 26.06.2020
+- What you offer for rooms, suitable for a networking meeting
+- Do you have any rooms available next month for a small networking event?
+- We need a conference room for our networking event.
+- Ask how many rooms they have free
+- I would like to get an offer for conference rooms in your hotel.
+- I want to book a conference room.
+- I need a room for an event
+- What kind of rooms are you offering?
+- what rooms do you have?
+- Your Hotel was recommended by a friend of mine. I‘ m looking for a nice location for an event.
+- What kind of event locations do you offer?
+- Do you have any conference rooms on offer?
+- Do you have any unbooked conference rooms?
+- I want to book a conference room can you help me
+- how many event rooms do you have?
+- Do you have large meeting rooms at your hotel?
+- What kind of rooms did you have?
+- Which room is best suited for a networking event?
+- Is there a free conference room next month?
+- I'd like to know if you have a room which is appropriate for networking-events.
+- I would like to have some informations about the rooms.
+- Do the hotel have other rooms or just this three?
+- We have multiple options to choose from
+- Im searching for a place to do an event. Can you please help me?
+- I want to know more about the rooms.
+- looking for a room in one king hotel
+- Can you describe me the rooms?
+- Is there a room available in One King hotel in toronto?
+- I need a room for my networking-event in toronto.
+- I would like to use a room in your hotel for an upcoming event.
+- i'm interested in booking a room
+- I would like to order a room for some office meetings
+- Are there availible rooms?
+- Can you please give me some information about event locations in your hotel?
+- I would like to rent one of your rooms
+- I need a room for next month
+- I am looking for a room
+- I have to organize a Networking-Event at your hotel.
+- I'd like to book a room in toronto for my networking-event, favourable in One King hotel.
+- Could you reservate a room on the 20.05.2018?
+- I would like to reserve a room for next month.
+- i have a question.
+- Are there still free rooms available in your hotel next month?
+- Which rooms are available?
+- What can you do for me?
+- Can you help me? I am searching for a room
+- How many rooms do you have ?
+- do you have any event-rooms?
+- I would like to reserve a room for a meeting.
+- My company wants to hold an event in one of your rooms next week for one day. Can you please send me an offer?
+- Can we book a room?
+
+## intent:ask_for_room
+- Can I have more details about Gamma?
+- Do you have exact details concerning the room alpha
+- Can you tell me more about this room?
+- Tell me more about room Alpha
+- And what about Beta and Gamma?
+- How about the other two?
+- What about room Alpha?
+- What about the other 2 rooms?
+- Could you you provide us with more details on room Alpha?
+- What about the other 2 rooms?
+- What are the differences between these rooms
+- Could you tell me more about room beta?
+- What's about room Beta?
+- Do you have more details about room Alpha?
+- I want to know more about betha
+- What‘s different in Beta and Gamma compared to Alpha?
+- Please give me more information about room Gamma.
+- can you tell me more about the Gamma Room?
+- Tell me more about Alpha.
+- whats the difference between them?
+- Can you tell me more about the rooms?
+- Can you tell me more about alpha?
+- I would like to have more information about the room Beta
+- I know that you have the rooms alpha, beta and gamma, can you tell me more about these rooms?
+- tell me more about the Alpha room
+- Please tell me more about room 1.
+- Where do I find details about room beta?
+- Please tell me more about Alpha
+- Can you tell me more about room alpha
+- Tell me more about room gamma
+- Could you give me some details about the room gamma?
+- please provide detailed information on room alpha
+- Please send me more informations to the room beta.
+- Tell me more about Alpha.
+- can you tell me more about room Alpha?
+- Could I have more Information about the room Alpha, please?
+- I want to know more about the room gamma, it sounds very interesting and I think it's the best for us.
+- Could you tell me more about room Alpha, please?
+- I‘d like to have more information about the room alpha
+- Please tell me more about the room Alpha.
+- Please tell me more about gamma
+- What is room Alpha like?
+- And what about the rooms Beta and Gamma?
+- Tell me more about Gamma
+- Do you have further information about room alpha?
+- More infos on room gamma please
+- Can you tell me more about room Alpha?
+- I would be interested in the room alpha can you give me more information
+- I need more information on room Alpha.
+- What can you tell me about the room Alpha?
+- Could you provide us with more details on the rooms Beta and Gamma?
+- Give me some information about Alpha.
+- What are the rooms like?
+- what about the Alpha room
+- Please give me more information about room 1.
+- What are the detailed offerings of room beta?
+- Alpha sounds like what i need. Tell me more.
+- I would like to learn more about room alpha
+- Can you tell me more about the room beta?
+- Tell me more about Beta.
+- Tell me more about the room gamma
+- Which are the qualities of room Beta?
+- more details other rooms
+- Could you describe beta to me?
+- Show me the details about Gamma
+- Could you give me some extra informations about this room?
+- what else can you tell me about room alpha?
+- What can you tell me about room alpha
+- Can I have more information about room Alpha?
+- May I ask for more details about room Beta?
+- Alpha information
+- What differences exist between these rooms?
+- Could you give me more information about room 1?
+- What are the features of room alpha?
+- Tell me more about Gamma.
+- what is the best one?
+- Why should I choose room Gamma?
+- I'd like to know more about alpha
+- Can you tell me more about Gamma
+- Could you give me some detailed insight about this room?
+- What more can you tell me about room Alpha?
+- Could you provide some details about room 1?
+- Tell me the detailed specifications about Gamma
+- What more should I know about room Alpha?
+- Are there any other romms.
+- What is with the room alpha?
+- I want to talk about another room of yours now.
+- Let's talk about room Beta
+- What about the other rooms?
+- Whats about the other room called Alpha?
+- Which other rooms are available?
+- Could you give me more information about one of the other rooms?
+- Could you please tell me more about the other rooms
+- What about the other rooms?
+- And what about Gamma?
+- whats about your other rooms?
+- I want to speak about the other rooms who are in the offer?
+- Can we talk about a other room?  I wanna see the other 2
+- Ok, tell me now about the other rooms you can offer for our event.
+- Now I‘d like to switch to the other rooms.
+- Do you have any other rooms than Alpha, beta or Gamma?
+- Enough about Alpha, what can you tell me about Beta?
+- Can we talk about the other rooms?
+- Thank you for telling me about Room Alpha, but what about the other rooms?
+- What about the other rooms?
+- What can you tell me about the other rooms?
+- And what about the other rooms?
+- please provide information on the other available rooms.
+- please inform me about the other room.
+- Can you tell me something about an other room?
+- Now can we talk about the room Beta?
+- may I please have a look at the other room options that you have available?
+- Let's talk about the other rooms.
+- What about the other rooms?
+- What about the other room
+- And what about the room Beta?
+- Let's talk about the other room,
+- Is the Beta next to the room Gamma?
+- Could you give me some information about the Alpha room?
+- Let's talk about the other two available rooms.
+- Can we get the details of Alpha?
+- Can you give me some information about the room beta?
+- Now i want to talk about the room Beta
+- What about room Alpha?
+- What about room Beta?
+- Are there any other comparable rooms?
+- Now, about room Beta. What can you tell me about it?
+- What about room Gamma?
+- What about the other rooms?
+- Could we quickly discuss the other 2 rooms?
+- The room Beta sounds great. I would like to hear more about Gamma
+- Tell me more about the other rooms.
+- I don't like Beta. Are there any alternatives?
+- What is the difference to the room beta?
+- Could you give me some details about the room "Alpha"?
+- Can you tell me now the specialities of the room Beta?
+- What about the other rooms?
+- What about room beta
+- Could you please give me some further informations about the room Beta?
+- Fine. What about Beta?
+- Can you pleas give me some information about your other rooms?
+- Let's talk about the other rooms.
+- Could you tell me more about the other rooms?
+- How is conference room Alpha in comparison?
+- Let's talk about another room
+- Can I also get some information about room Gamma?
+- What is the difference of room Alpha and Gamma?
+- And what about the Beta room?
+- Why don't you tell me something about the other rooms?
+- Could you also inform me about the other 2 rooms?
+- Could you tell me about the other rooms which are available?
+- Enough about Gamma. Tell me some things about the others
+- How does the room beta compares to this one?
+- What is the difference between this room and the others?
+- Is this also true for the other rooms?
+- Could you short descripe also the room Beta?
+- I would like to talk about the other rooms.
+- What about the others?
+- Can we talk about the conference room Beta?
+- Show other rooms
+- I would also like to know more about room Beta.
+- What other rooms can you offer?
+- And what's that in the other rooms?
+- Alpha sounds lovely but could you expand on the other ones?
+- Is this true for all of the three rooms?
+- I‘m interessted in your further roomofferts.
+- What can you tell me abot the Alpha room?
+- And the other rooms?
+- Let's move on to conference room Gamma.
+- That would do it for room Alpha. Now, could you please tell me more about room Gamma?
+- How does that apply to the other rooms too?
+- That's not exactly what we are looking for. Any other suggestions.
+- Let's move on to room Beta.
+- Please tell me something about the atmosphere and your offers for the other rooms.
+- Could you tell me somethinge about the other rooms?
+- I'd like to know more about the other rooms.
+- Can you please tell me more about Alpha?
+- Send me more details regarding all three rooms
+- Can you tell me more about the room Alpha?
+- Tell me more about Alpha
+- Can you tell me more about Alpha?
+- I would ask you to book the room "Gamma" for a networking-event in Toronto. Can you give me some information about this room?
+- Please give me more information about alpha?
+- Can you give me some more specific informations about each room?
+- Could you give me more information about the room Alpha?
+- Can I have more informations about the room Alpha?
+- I would like to learn more about the Alpha room.
+- I want to know more about Beta
+- I will the room beta better kennenlernen
+- Can you tell me more about the room alpha
+- Tell me more about the room Alpha.
+- Which room has a special feature?
+- I'd like to know more about Alpha
+- Can you tell me more about the alpha rooms?
+- Could you please give any more details about the room beta?
+- can you give me some more specialific details ablit each room?
+- Can you tell me more abiut the Room Gamma?
+- Can you tell me something about the room alpha?
+- Can you tell some details about the ropm Alpha.
+- Could you give me more information about room Alpha?
+- Could you tell me more about alpha ?
+- Can you give me information (cost, capacity, availability, additional features) of the three rooms?
+- Can you tell me more about the room Alpha?
+- What about the room Alpha? How many seats are there? What equipment has it?
+- Could you describe room Alpha?
+- Tell me details
+- Can I have more information about reom gamma?
+- Tell me more about gamma
+- Tell me more about Alpha.
+- I want to know more about the room Alpha
+- Can you give me some details about the room Gamma?
+- What can you tell me about room Alpha?
+- Can you provide me some details for the room Alpha?
+- More information room Alpha
+- could you please give me some more information about the room Beta
+- What about Beta?
+- Give me more information on Alpha please.
+- Are presentation tools available for our cause and how many people will fit into Alpha?
+- can you show me a picture of the room beta?
+- What information do you have about Beta?
+- Could you give me more information about the room Beta?
+- What about room Beta
+- What are the differences between the three rooms?
+- Can you tell me more about Beta?
+- I'd like to know more about Gamma?
+- To reserve definitely, I need more details on the room Alpha of yours.
+- Can you tell me more about the Beta room?
+- I must for the room beta more information
+- I want to know more about the room Beta.
+- Beta sounds interesting. CAn you tell me more?
+- What furniture do the beta rooms have?
+- I want to know about alpha?
+- Can you give me some details on room Alpha?
+- Could you provide some more information about room Alpha?
+- Room details
+- More information about room gamma.
+- Do you have any pictures of the alpha room?
+- Tell me more about the room Alpha.
+- Please some information about the room Gamma
+- What infos do you have about room Alpha?
+- Details about room Alpha
+- Information room Alpha
+- What is the difference between these rooms?
+- Could you tell me something about Beta?
+- what accomodations are provided in the room beta
+- Give me the details for Gamma please.
+- Can you tell me more about Gamma?
+- Tell me more about Alpha
+- Can I get more information about the Gamma room?
+- Can i please for the room beta more information please
+- Show me more about Gamme
+- Are there any special offers included in the alpha rooms?
+- Alpha information
+- On wich floor is the room Beta located
+- Can you provide more information about the room Gamma
+- Would you suggest room Alpha over Beta / Gamma?
+- see room alpha
+- What‘s the infrastructur in these rooms?
+- Can I have more information?
+- what differentiates the room beta from the others?
+- I'd like to know more about room Alpha.
+- Tell me more about room 1
+- Can I get the room data of the Alpha room?
+- Give me please more information for the room beta
+- What makes a alpha room a alpha room?
+- Information/details about Alpha
+- I want to know more about Alpha.
+- Are there more information for the room Gamm?
+- Is there any additional information about room Alpha?
+- search room alpha
+- where does it have pictures?
+- show me room Beta.
+- Is it possible to get more information about the Beta room?
+- How is the view from the alpha rooms?
+- What are the differences
+- Please give me more info about Gamma
+- Can you tell me about the first room?
+- - Thank you, but how about the other rooms?
+- But I have seen you have some other rooms.
+- And what about the room Beta?
+- What other rooms do you have?
+- Ok to the other rooms
+- How about the other rooms?
+- Could you please provide me with more detailed information about the room Beta?
+- Can you gave me more informations about a other room?
+- Can you give me some informations about one of the other rooms?
+- Can we talk about the other rooms in your hotel?
+- Can we took aubaut the other rooms.
+- I would like to speak about the room Beta
+- I know everything about Gamma, but what is about the room Alpha. Can you please tell me about this room
+- Are there more kinds of rooms available?
+- What about the other room
+- Thanks for this information. Please give me some information about the other rooms.
+- Can you send me the offers for the rooms?
+- what about the other one?
+- Tell me more about one of the other rooms
+- Are there any other rooms available?
+- Let's talk about another room.
+- What about the other rooms?
+- Thank you for the information. Please send me more information about the room Gamma now.
+- what's about Gamma?
+- Besides this one, are there other rooms available in your hotel?
+- can you also recommend me the other rooms?
+- Thank you for your information about Alpha. Could you also provide more details about your room Beta?
+- I want to talk about the other room.
+- Could you tell me more about beta ?
+- What about the other rooms?
+- What about the other rooms?
+- Now I would like to have more informations about the room Beta.
+- let's switch to Beta
+- So what about the other rooms?
+- As you have several rooms for attending meetings, please provide me some information regarding another then Gamma
+- Can we talk about room alpha now?
+- Alright, thank you for the information. I would like to hear more about Beta, can you describe the room?
+- Tell me more about other rooms.
+- show alpha
+- I'd like to talk about another room
+- As you told me, the room Beta is good, you also told me, that Gamma is also a good try. Can you tell me more about it?
+- Do you have any other rooms available?
+- Now I would like to speak about the other room.
+- How about the other rooms?
+- So let's talk about the other rooms.
+- What about the other room  categories?
+- Are there any other rooms that we could use?
+- And what about room Beta?
+- Okay, i think i prefer an other room. Can you show me some details for the other rooms?
+- Other rooms
+- Let's talk about Beta now.
+- What's the different between room alpha and gamma?
+- can you tell me about another room?
+- lets talk about the room alpha
+- Let‘s talk about the Alpha Room
+- I thought I have seen some other rooms for use.
+- What about the other rooms ?
+- Do you have any other rooms?
+- Whag about the other rooms?
+- Is there any additional information about the room Beta?
+- Can we chat about the other rooms in your hotel?
+- Do you have any other rooms?
+- how does that differ from the other room
+- And what about the other rooms?
+- what do the other rooms offer?
+- How about room Beta?
+- Could you tell me about the other rooms.
+- I'm not interested about this room, what about the others?
+- what's the difference between Beta and Alpha?
+- Are there other options?
+- How about detailed information about your room Beta?
+- I want to know something about room beta
+- How is the equipment in the other rooms?
+- What about the room Gamma?
+- Can you please give me more informations about the other two rooms?
+- How do the other rooms differ?
+- Details about room alpha please.
+- Thank you. What about Beta?
+- What rooms are available?
+- Let's change the room we're talking about
+- How about the other rooms?
+- Are there any other rooms?
+- Thanks for your information about room Alpha. Are the rooms Beta and Gamma similar?
+- Please explain your other room categories?
+- Not mentioned rooms
+- Well, I have some questions about Beta..
+- Are there any other free rooms?
+- I would like to have information about the room alpha
+- What about the Beta Room?
+- This sounds good, are the other rooms the same?
+- Aren't there any other rooms I can use?
+- Are there other rooms you could recommend?
+- Is there a room with a beautiful view of the city?
+- What about the room Beta?
+- Can we now consider the other rooms in your hotel as well?
+- What else do you have?
+- OK. I would like to get some information about the other rooms as well.
+- what would be an advantage of the other rooms in relation to this room?
+- Tell me more about the next room
+- Apart from alpha, beta and gamma, can you offer something else?
+- What does a room alpha offers?
+- Can we talk about an other room?
+- Can you give us more information about the room facilities of your hotel?
+- Tell me more about beta
+- Let's talk about the next room.
+- What about the room Beta?
+- So compared to the others?
+- What about room alpha?
+- That'll be enough about Alpha, can you elaborate on Beta instead?
+- What about room Gamma?
+- I have a question to the other rooms?
+- What about Beta?
+- Thank you very much. What about the other rooms?
+- Please explain the upper room category!
+- more rooms
+- What do you think about Beta?
+- is there a minibar at room alpha?
+- characteristics of the other rooms
+- show me the accomodations from room alpha
+- Can I get more information about the Gamma room?
+- Do you have partner hotels which offer rooms that meet our requirements?
+- Would you mind telling me more about offer of the room beta?
+- Can we now come to the other rooms in your hotel now?
+- Did you inform me about all available rooms?
+- What does room Alpha offers?
+- Now for the next room
+- What about the room Alpha?
+- Interesting. Can we speak about Beta? Does it provide the same services?
+- I'd like to get more information on room Gamma
+- Please explain the lower room category!
+- which room do you prefer?
+- Let's talk about the other rooms
+- I'm afraid that won't work. What about Beta, does it also have that drawback?
+- Let's switch the room - what can you tell me about room Gamma?
+- What else offers this room?
+- Please explain the other room categories!
+- are there any disadvantages on the other rooms?
+- Can give me some information about the room Alpha
+- And how about the rooms Alpha and Beta?
+- And what's about the other rooms?
+- How's about Beta?
+- How is the alpha room ?
+- Is the room Alpha appropriate for networking-events?
+- What about the other two?
+- What's about room Beta?
+- And between gamma and beta?
+- If not, what about room Beta and Gamma? Are they adapted for this requirement?
+- How about the other two rooms?
+- Would this also be possible in the rooms Beta and Gamma?
+- How about alpha?
+- looking for room alpha
+- Can you show me beta and gamma?
+- What about the others?
+- looking for room alpha or beta
+- How about the other two rooms?
+- How is it for room Beta?
+- How about the other two?
+- I am interested at the room alpha.
+- And the other two?
+- What about the other two?
+- What about Beta?
+- And how about the rooms Beta and Gamma?
+- What's about Beta?
+- And the other two?
+- What about beta?
+- i think room beta is something like that
+- Your room named Alpha
+- How about room alpha and beta?
+- What about the rooms "Alpha" and "Gamma"?
+- Are the other seminar rooms available too?
+- The other two rooms Beta and Gamma
+- How about the other two?
+- and in the other two rooms?
+- Tell me about the others.
+- And how are they in the other rooms?
+- what is with the other two?
+- Have you got any other rooms?
+- What about the other rooms, beta and gamma?
+
+## intent:provide_name
+- My Name is Tina Lamb and I am the Marketing Assistent of the Enterprise.
+- My name is Tim
+- My name is Sarah
+- My name is Peter Müller.
+- My name is Nha Trang
+- Max
+- My name is Kris
+- My name is su
+- My name is blabla
+- Tom Brady
+- My full name ist Ruedi Walzer
+- My name is Pfifli Simi
+- My name is Ale Salvis.
+- My name is John
+- My name is Sebastian
+- My name is Petra Müller
+- Frank Underwood
+- My name is Loran
+- Karl von ödenstein
+- Apple, contact person Hans Muster
+- My name is Petra.
+- My name is Sandra
+- My name is Fribby Tibby
+- My name is michael
+- Max Muster
+- My name is Abraham Lincoln
+- Joe
+- My name is Gudrun
+- My name is cheeks
+- max mustermann
+- My name is Mike Miller.
+- My name is...
+- Burak Biranoglu
+- Amba Kaiser
+- I’m Jessica Jones.
+- My name is Besa Nihal from the company Speed Marketing.
+- My name is Diana.
+- Peter Parker
+- My name is Peter
+- My name is Eli Manning
+- John Doe
+- I’m Markus
+- My name is lisa
+- I'm Nha Trang
+- Hans
+- Im called blabla
+- I'm Tom Brady
+- My name is Heidi Oberhof
+- My name is John Doe
+- Petra Müller
+- my name's frank underwood
+- I‘m Loran
+- Petra
+- I'm Sandra
+- I dont want to give you my name
+- My name is Max Muster
+- My name's Joe
+- I am cheeks
+- my name is max mustermann
+- Mike Miller
+- Banner Bruce
+- My name is Hans Muster
+- Eli Manning
+- Mr. John Doe
+- Markus Meier
+- I'm called Nha
+- Michael
+- Yo can call me blabla
+- My name is Tom Brady
+- My sirname is Bättiswil and my name is Hansueli
+- My first name is John, my surname is Doe
+- Underwood. Frank Underwood.
+- Please make the reservation on the name Müller.
+- Sandra
+- first name: Max sure name: Muster
+- It's Joe
+- Cheeks is my name
+- That isn't important.
+- I'm Eli Manning
+- I am John Doe
+- My name is Markus
+- Nha Trang
+- Greogor
+- First name, Tom. Last Name, Brady
+- My real name is James Lames Bond
+- John Doe
+- Mr. Max Muster
+- My name's Joe. Yours?
+- Cheeks
+- My name is Hans Muster from the company Muster
+- I'm John Doe
+- My friends call me Mark
+- Fritz
+- Everybody calls me Jake Paul
+- Muster Max
+- My name is Batman from gotham from the company Wayne Enterprise
+- I am Patrick Fernand
+- My Name is Bro.
+- My name is Hans Muster.
+- ebro
+- My name is Ale.
+- I'm James Bond
+- Severin Meier
+- My name is Jan Schmid.
+- My name is John
+- My Name is Cristiano Ronaldo.
+- Hello my name is indrik frez
+- My name is Max Mustermann.
+- My name is Lara.
+- My name is Hans Meier
+- My name is Flavio
+- My Name is Slim Shady
+- I'm Bob.
+- My name is Thomas.
+- My name is Frank
+- My name is John Doe. What is your name?
+- Joe Smith
+- My name is Siri
+- Anja
+- My name is Pablo Julian Lopes. Nice to meet you.
+- Markus Oettel
+- Sophie
+- My name is Gerald Hüther.
+- My name is Bond, James Bond
+- My name is Lou.
+- Max Muster
+- My name is Ciara
+- My name is Daniel
+- Dominik Greis
+- My name is IDK
+- My name is Max Muster.
+- Housi Meier
+- My name is John Doe
+- Max Mustermann
+- My name is Raphael Lustig
+- My name is Lorenzo von Matterhorn.
+- I’m Poppy
+- Max Muster
+- My name is homer.
+- Hans Muster
+- Matthias Aebischer
+- My name is Julia
+- I am bill.
+- My name is John.
+- name's Mike
+- Hi, my name is Stefan.
+- My name is Judy Heilig
+- Alan Tuning
+- My name is steve
+- My name is John Smith
+- i am michi jackson
+- My name is Cédric Jean Crispy Hochreuter
+- My name is Joël Wirz
+- Marco
+- Hello Chatbot, my name is Hansruedi
+- John Travolta
+- my name is marc
+- My name is Test
+- Stephan Muller.
+- Samuel
+- Patricia
+- My name is Michael
+- My name is Patrick Andolf
+- Hans Muster
+- Alberto
+- My name is James Bond
+- My name is Severin Lustig.
+- i am John
+- My name is insgd fendi
+- I am Lara.
+- Im Hans Meier
+- My name is Bob.
+- I am called Thomas.
+- I'm John Doe, nice to meet you!
+- Bob
+- Siri is my name
+- Im anja
+- I am Markus Otto
+- Sophie-L. Friedmann
+- My friends call be Tom
+- I'am Lou.
+- I'm Max Muster
+- I'm Daniel
+- I am GNU
+- Max Muster
+- Peter Griffin
+- John Doe
+- Raphael Kaiser
+- I am Lorenzo
+- I am neo
+- My name is hans muster
+- I am Julia
+- It's Bill.
+- You can call me John.
+- My name is Bond, James Bond
+- my name is lil jacky
+- Spiess
+- Hi, i'm Hansruedi
+- My name is John Travolta
+- my friends call me marc
+- Here is my name: Michael
+- You can call me Patrick Hernandez
+- H M Muster
+- Alberto and yours?
+- My full name is "Pablo Diego"
+- John
+- I am Hans Meier
+- My name's Bob.
+- I'm Thomas.
+- John Doe. But my friends call me Johnny.
+- I'm Siri
+- My name is anja
+- My name is Markus Ordelmann
+- Ordelman
+- Henry Morgan, with an Y
+- My name is Max
+- Daniel
+- My name is Bond, James Bond
+- Homer Simpson
+- John
+- Lorenzo
+- Freddy
+- I'm hans muster
+- Bill
+- My name is John Smith.
+- John Smith
+- Hansruedi
+- i’m called marc
+- It is Patrick Hernandez
+- Muster
+- Call me Robert
+- i am called John
+- Bob.
+- My names anja
+- They call me Markus Feldmann but friends say Feldi
+- Hans Muster
+- Awesome people call me Daniel
+- John Doe. You can call me "Jonny"
+- I'm hans
+- John
+- Mr. John Smith
+- Hey, my name is Hansruedi. How are you?
+- marc is my name
+- name's Muster, James Muster.
+- John is my name
+- I am Bob.
+- Jimmy John, John's the surnam
+- Fabio Thomson
+- My name is Mark
+
+## intent:provide_nr_of_people
+- A minimum of 150 people are expected
+- the event will have 150 participants
+- I am expecting at least 150 guests
+- there will be 150 people
+- We expect a minimum of 150 attendants for the room
+- 150 people are invited
+- The number of the participants is 150
+- We need a capacity of 150 people
+- We are coming with 150 people
+- We are 150 people
+- event for 20 people
+- There must be place for 30 People
+- 150 attendants should fit in the room.
+- I would need something for 150 people.
+- We are 150 people. Do you have a room for us?
+- The requirement is that the event location is for at least 150 people.
+- There will be at least 150 people
+- Is it for 10 people
+- we have to fit in 150 people
+
+## intent:ask_for_room_size
+- are the rooms big enough
+- How many people fit in each room?
+- Have the rooms enough place for 150 people?
+- How many people will fit in each of these three rooms
+- How big are the rooms?
+- And what about Beta and Gamma?
+- How big are the rooms you offer and how many people do fit in? I expect at least 150 visitors.
+- As we expect 150 persons we need to know how many people fit in each room?
+- How many people can fit into ont of the rooms? We are about 150 people.
+- Which room is the best one for at least 150 people?
+- How big is the room
+- Which room can has a capacity of more than 150?
+- How big are those three rooms?
+- Regarding the size of the room, it needs to be suitable for at least 150 people.
+- How many people can fit into the rooms?
+- How much people habe space in the rooms. The room I am going to book must have at least space for 150 people.
+- I need a room to seat at least 150 people. Do you have a room that seats more than 150 people. I require a room for more than 150 people.
+- How big are your meeting rooms?
+- Which room is the largest one?
+- We will be around 150 people so what equipment can i expect
+- How big is room Alpha? Does it offer the possibility to play music?
+- How many people can fit in this room?
+- which sizes of rooms do you offer?
+- what are the sizes of the rooms
+- how big are the room they are available for us?
+- Ther will be about 150 guests on my event
+- We are looking for a room for a minimum of 150 guests
+- How big is a room because i need a room for about 150 people
+- how many people would fit in the rooms
+- Can at least 150 rooms be fitted into the rooms?
+- How much fits in a room?
+- I have to find a good room for a Networking-Event. In this Event are ca. 150 guests.
+- I would like to know the size of your rooms because we will have around 150 guests at this event.
+- How big are the rooms?
+- For our event we expect to receive at least 150 people.
+- How big are the rooms?
+- For our Event I need a room which have  space for at least 150  guests.
+- The room should be for 150 attendees
+- I would like to know how big the room is because a lot of people are coming. It would be nice if there is enought place for 150 person
+- How many people can fit into the rooms?
+- How large are each of the rooms? I am expecting at least 150 guests.
+- What is the capacity of the rooms?
+- We will have approximately 150 guest. Which room has enough space for our guest?
+- How big are your conference rooms?
+- How big are your rooms?
+- How big are the rooms, i must know because 150 people are coming
+- is alpha big enough
+- How big is the alpha room?
+- We expect at least 150 guests. Do you think that room Alpha is big enough?
+- How large is the room Alpha, is it large enough to hold 150 persons?
+- Does room Alpha have a capcity that exceeds 150?
+- Are there enough seats for 150 people?
+- Is the Alpha room big enough for 150 people?
+- How many people fit into the alpha room?
+- Does room Alpha offer space for more than 150 people?
+- How many guests can Gamma hold?
+- I need place for 150 peoples so are in the room Beta enough seats?
+- Will be the rom alpha enough big for 150 people
+- For how many people is the room Beta built?
+- how big is room Alpha?
+- what is the size of the Alpha room
+- does the room beta  have  enough space for 150 people?
+- does the room gamma have enough space for 150 people?
+- How big is the alpha room
+- How is the room Alpha equipped and what is the maximum amount of people that can be in this room?
+- Is room Alpha big enough to hold 150 people
+- How big is the room alpha
+- how many people can room alpha host?
+- How much space does the Alpha room have?
+- Is Alpha big enough?
+- I would prefer the room Alpha. How much space do we have in this room and are there good equipments in?
+- Can you tell me the size of the room Beta?
+- Is there enough space for 150 person in the room Alpha?
+- Can you please inform me how many people is room Alpha able to host?
+- What dimensions does room alpha have?
+- How much space have the room Alpha? Are there enough seats for 150 guests?
+- since beta is available, is the room build for 150 people
+- How many people can fit in the Alpha room?
+- How many guests does Alpha hold?
+- How is the size of the room?
+- Does room Alpha provide for 150 persons?
+- Has Alpha enough space for 150 people?
+- How big is your conference room Alpha?
+- How many people fit in alpha?
+- can beta and gamma hold 150 people?
+- How big are the Beta and Gamma rooms?
+- 150 guests are expected at the event. Would you mind to tell me how many people can fit in the rooms Beta and Gamma?
+- We'd like to know how large the rooms Beta and Gamma are? We need a room that has space for at least 150 persons.
+- Do Beta and Gamme exceed a capacity of 150?
+- Can 150 people fit in one of these rooms?
+- What about Beta and Gamma rooms? Do they have enough space?
+- How many people fit into the beta and gamma room?
+- Do room Beta and Gamma offer enough seating for approximately 150 people?
+- How many guests can the other two rooms hold?
+- Is in the rooms Alpha and Gamma enough place for 150 peoples?
+- Which room is the best for 150 peoples?
+- For how many persons are the other rooms?
+- how big are the other rooms
+- how is it about the other two rooms?
+- How big are the two other rooms
+- As i am awaiting up to 150 guests i am looking for a room with enogh space. How big are these two rooms?
+- Whats the capacity of Beta and Gamma? 150 people or more?
+- How big are the other rooms?
+- how many people can room beta and gamma host?
+- How much space does the Beta and Gamma have?
+- Are these rooms bigger?
+- How much space have the rooms Gamma and Beta? Are these rooms good for such events?
+- Is there any chance to bring in 150 guests in the room alpha and gamma?
+- Do the rooms have place?
+- is any other room constructed for 150 people
+- How many people can fit in the other two rooms?
+- Can Beta or Gamma hold more than 150 people?
+- How many seats are in the rooms Beta and Gamma?
+- Which room is bigger.Beta or Gamma? We expect arund 150 people
+- How big are your other conference rooms?
+- Are the rooms beta and gamma the same size?
+- I need a room for 150 persons
+- I organize an event and am looking for a suitable location for 150 people. Please let me know your offer.
+- I would like to rend romm for 150 person.
+- I am looking for a room with a capacity of over 150 people.
+- I need a room for 150 people.
+- I need a room for at least 150 people
+- I need a room that fits at least 150 people.
+- I'm looking for a room for at least 150 participants
+- The capacity of the room should be 150 people.
+- Do you have a room for at least 150 people?
+- I need place for at least 150 peoples in my Room
+- Hello do you have a raum for 150 person
+- The room must have place for 150 persones.
+- Is there a room for at least 150 people available?
+- I'm looking for a room which can 150 people.
+- I look for a room for 150 people.
+- I'm looking forward for a room for 150 people
+- There s gonna be a big event with almost 150 people.
+- I'm looking for a room for 150 persons.
+- I'm looking for a room with a capacity of at least 150 persons.
+- We are expecting 150 guests, do you have a room big enough?
+- The room must be able to accomodate at least 150 people.
+- I need a room for 150 people
+- The room needs to have space  for at least 150 people
+- I look for a room for 150 people.
+- Meeting room for 150 persons at date 30.8.19
+- We are looking for a room for minimum 150 people.
+- I‘m looking for a space for around 150 people.
+- We need a room for at least 150 people.
+- I am looking for a room for at least 150 people.
+- I am looking for a room that would fit 150 people.
+- I need a room for at least 150 people
+- I need a room for 150 persons or more
+- i search a room for at least 150 persons
+- I need a room for at least 150 people.
+- I search a room for around 150 peoples. Can you help me?
+- Could you please tell me in which rooms is enough space for 150 people?
+- Hey Twat, where's a room free for at least 15 hundred people.
+- Do you have a room for 150 people?
+- I need a room for at least 150 people.
+- We need a room for 150+ people
+- Show me a room that can accommodate for at least 150 people.
+- I want to book a room for at least 150 participants
+- Is there a room which can hold at least 150 person?
+- Do you have a room for mim. 150 people?
+- Hi, I would like to reserve a room for 150 persons.
+- Is there a room for at least 150 people free?
+- Is there a room which can hold 150 people.
+- Could you tell me if there is a room for 150 people?
+- Do you have a room for 150 persons?
+- I'm looking for a room for at least 150 persons.
+- The room should be suited for 150 guests.
+- Do you have a room big enough for 150 people?
+- I am searching for a room big enough for 150 people.
+- I am searching for a room for hundred and fifty people minimum
+- What are the capacities for the various rooms?
+- Do you have a room for 150 peoples?
+- Is there enough room for 150 people inside one of the free dwelings?
+- Do you have a meeting room with the capacitiy for min. 150 people ?
+- We heard we need bigger room than now, for circa 150 persons.
+- I would like to book a room with a capacity of at least 150 people.
+- Do you have a room for more than 150 people?
+- Do you have a room available for up to 150 participants
+- Which room has the capacitiy for 150 people
+- Room for 150 people?
+- Can you give me a room for 150 people.
+- We are approximately 150 persons. Do you have a room for that?
+- I need a room for at least 150 persons
+- Can you provide us with a room for 150 guests?
+- I‘m looking for something that can comfortably house 150 people.
+- The rooms capacity should be for at least 150 people
+- Do you have any available room that would fit 150 people?
+- I search for a room with space for more than 150 people
+- Do have 150 people enough space so that it isn't too stuffed in the room?
+- Do you have a meeting room with the capacitiy for min 150 people for an apero riche?
+- Did you have a room for so many people?
+- Are there any rooms available for the capacity of at least 150 people?
+- I need a room for 150 people?
+- I will hold a presentation and expect about 150 persons to attend it. Do you have a room for this occasion?
+- There are going to be around 150 people.
+- Which room would you recommend for 150 people or more?
+- I search for a room with space for more than hundred and fifty people
+- We are looking for a meeting room for more than 150 people for march 1st, do you have availbilites?
+- Do you have enough room for 150 people
+- Do you have an available room for 150 people?
+- We are looking for a room in which 150 guests feel welcome.
+- Can you fit 150 people in one room?
+- I am searching for a room for 150 people minimum
+- How big is the capacity of the room?
+- Is it possible to host about 150 people?
+- How big are the rooms ?
+- How much space is in the room alpha? I need to fit 150 people in there.
+- How many people fit in the rooms?
+- how many places do individual rooms have? Could there be room for 150 people in one of the rooms?
+- How big are the rooms?
+- How many people can fit in the rooms? I'm expecting 150 guests.
+- How big are the rooms? I expect at least 150 guests.
+- How match place does the rooms have. There have to be 150 places.
+- How big are the rooms?
+- I am looking for a room. I am expecting about 150 persons. What are the sizes of you rooms?
+- how big are the room capacities?
+- Because I expect at least 150 people, which one of these three rooms has enough space?
+- What is the capacity in the rooms?
+- We are expecting 150 guests. Is one of your rooms big enough?
+- How big are the three rooms, we are expecting at least 150 guests.
+- I would like to know about the capacity of your rooms?
+- I will need a room for 150 guests at least.
+- I need a room for 150 people.
+- Can you tell me the size of the rooms? We expect 150 guests at least.
+- We need a conference room for at least 150 people. Is there any room that matches our needs?
+- Can you please let us know how many people can join us in these available rooms?
+- How many people can you fit in the meeting rooms?
+- We will be more or less 150 people, does any of your rooms have capacity for this
+- I need a room for 150 people.
+- How many people fit in the rooms?
+- How big are the rooms?
+- How large are those rooms? We expect at least 150 guests, which rooms would support that?
+- I plan to have at leat 150 guests. Which room would have enough space for them all?
+- Do you have any room that would fit 150 people?
+- How large is each room?
+- How big are the rooms?
+- Room quantity of people
+- Which room can u offer me that can hold an audience of 150 guets?
+- Which room would you recommend for 150 people?
+- I'd like to know if you have a room suitable for at least 150 guests?
+- Which room's capacity is 150 people?
+- More than 150 guest are expected. Is there enough space to fit all these guests in?
+- our event has about 150 guests. which room fits best?
+- I have 150 guests. which room corresponds to this size?
+- How many people fit into each one of the available rooms?
+- What‘s the capacity of each room?
+- can 200 people be accommodated in alpha?
+- Has the Alpha room enough space for about 150 people?
+- How may places does the room alpha have? Is it suitable for 150 people?
+- How big is room Alpha?
+- How many people can fit in the room Alpha? I'm expecting 150 guests.
+- How big is the beta room? I expect at least 150 guests.
+- How many quadratmeters has Alpha?
+- I am looking for a room. I am expecting about 150 persons. What is the size from room Gamma?
+- i need a capacity of at least 150 guests in the room Gamma
+- Does more than 150 people fit into the alpha room?
+- How much guests can attend in room Alpha?
+- I have heard of your room Gamma. Does it offer enough space for the expected attendants?
+- How big is room alpha, we are expecting at least 150 guests. Will it be big enough?
+- What is the capacity of room Alpha?
+- Does roomAlpha have enough capacity for 150 or more people?
+- Is Alpha big enough for 150 people?
+- What is the size of room Alpha? Is it suitable for 150 guests, maybe even more?
+- persons room Alpha
+- Can you tell me how many seats that room Alpha has?
+- Can you please let us know how many people can join us in Beta?
+- How many people can you ffit in Alpha?
+- Talking about room Gamma, does it provide enough space for 150 people?
+- Is room alpha big enough for 150 people?
+- Does alpha has the capacity for 150 people?
+- How many people sleep in the alpha room?
+- What are the dimensions of Alpha? Would it be possible to comfortably fit 150 guests in it?
+- How big is room alpha? Would at least 150 people fit in it?
+- Does your Alpha room fit 150 people?
+- How large is gama room?
+- How big is the Gamma room?
+- Alpha how many people?
+- Can the room alpha hold an audience of 150 guets?
+- There will be 150 guests, the room alpha would me my first choose.
+- Is there enough space for 150 people in room alpha?
+- Is the room Beta suited for 150 people?
+- is room alpha big enoug for 150 guests?
+- how many guests have space here?
+- How many guest fit into Alpha?
+- How many people fit into each room?
+- Which one of beta or gamma is bigger?
+- What about the Beta or Gamma room?
+- Do the other two rooms have space for 150 people?
+- How big are room Beta and Gamma?
+- How many people can fit in the room Gamma and Alpa? I'm expecting 150 guests.
+- How big are the other two rooms? I expect at least 150 guests.
+- Are the other two rooms bigger?
+- I am looking for a room. I am expecting about 150 persons. What are the sizes of rom Alpha or Beta?
+- The other room need to have space for at least 150 guests
+- Does one of the others has space for 150 people or more?
+- What is the capacity for the other two rooms?
+- For how many people are your rooms Alpha and Beta equipped?
+- How big is room gamma and beta? We are expecting at least 150 guests, will any of these rooms suffice?
+- What about for the other two rooms?
+- And can the other ones fit more than 150 guests?
+- Is it possible in Beta or Gamma to inhabit 150 people?
+- Which of the rooms Beta or Gamma would you recommend for 150 guests?
+- Capacity room Alpha
+- How many seats can be installed in room Beta or Gamma?
+- Can you please let us know how many people can join us in Alpha and Gamma?
+- What about Beta?
+- Does the rooms Beta and Gamma have capacity for a group of 150 people?
+- Is room beta or gamma enough big for 150 people?
+- Do beta and gamma have the capacity for 150 people?
+- What's the size of the other rooms?
+- I need to know how much space Beta and Gamma provide. We're bringing over 150 people, could those rooms carry that number?
+- Or would be betta or gamma be more suitable?
+- How about the rooms Beta and Gamma?
+- How large are the other rooms?
+- How big are the other two rooms?
+- Betha, Ghama how many people?
+- Are the rooms beta and gamma available for our networking event and do the hold an audience of 150 guets?
+- How much space is in the other two rooms?
+- Is Alpha or Gamma suited for 150 people?
+- are the other rooms exept room alpha big enouth for 150 guests?
+- how big are the other rooms?
+- How many people could be hosted in Beta or Gamma?
+- Is there enough space for 150 people?
+- How is the size of the room?
+- What size does the room have?
+- How big are your available rooms?
+- Is the room Alpha big
+- How big are the rooms?
+- We would need a room, which accomodates an event for 150 people.
+- Do you have any available rooms for events which is big enough for 500 people?
+- I need a conference room for 145 on 26.06.2020
+- Can you please offer a room, usable for about 50-75 people for an apero and networking
+- How big are the rooms?
+- What's your biggest room for meetings at your hotel?
+- Do you have a meeting room for a networking-event suiting for 20 people?
+- How many people can fit in the room Alpha?
+- How muchspace does alpha has?
+- How many people can be accommodated in room 2?
+- How much people can sit in Alpha
+- What size they have
+- Is the place big enought?
+- i am looking for a room with at least 150 people
+- I am looking for a room that can hold at least 150 people?
+- The room should fit at least 150 attendants
+- I need a room for at least 150 ppl
+- I need a room, which has enough place for 150 persons.
+- We are looking for a room that has space for at least 150 persons
+- I search a room for at least 150 persones.
+- Do you have a room for more than 150 attendants.
+- I need a meeting room for at least 150 people
+- I would like to know if you have available any room for at least 150 people?
+- The room should have space at least for 150 people.
+- I am looking for a room for 150 people
+- I am looking for a conference room for at least 150 people.
+- The room should provide at least 150 chairs for the participants.
+- I am looking for a room for at least 150 persons
+- I‘m looking for a room with the capacity of 150 people.
+- we need a room for 150 people
+- I am looking for a room for 150 persons.
+- I need a room for more than 150 people.
+- i am searching for a room for ablut 150 people
+- I am looking for a room for at least 150 people
+- The room needs to be big enough for 15 people to fit in
+- The room needs seats for 150 people.
+- The room I'd like to book should have space for at least 150 persons.
+- Are there any rooms available capable if housing 150 people?
+- Conference Room Toronto Hotel One King 150 pesrons
+- How much seats are in room Alpha?
+- I need a room, there have to be 150 persons.
+- We need a room where can fit at least 150 person. Is this possible?
+- I am looking for a room that can host at least 150  people.
+- We would need a room that at least 150 people can fit in.
+- I‘m looking for a room with enough space for 150 people
+- i need a room for 150 people
+- Please find me a room for 150 Person.
+- I am searching a room for at least 150 people.
+- I'm looking for a location that holds at least 150 people
+- The room should be suitable for 150 people.
+- I‘m looking for a room that can fit at least 150 people
+- I am searching for a room for 150 people
+- I search for a room wich has enough space for 150 people
+- i want to book a room, where 150 can stand
+- Needed is a room for at least 150 persons
+- Is there a room for 150 persons?
+- Do you have a room with more than 150 people capacity?
+- My space requirements are at least 150 people
+- I need a room for at least 150 people. Do you have anything suitable?
+- do you have a room for 150 people?
+- Are your rooms suitable for 150 participants?
+- If it's possible the room has to have 150 seats.
+- do you have a room for at least 150 persons?
+- 150 people will participate. Which room would you propose?
+- Do you have a room that fits 150 people?
+- I am looking for a room for >= 150 people
+- 150 people need to have space in the room.
+- Please show me rooms with a capacity to house 150 people or more.
+- I would like to reserve a room at the One King Hotel in Toronto for 150 persons
+- how many persons does fit in Alpha?
+- I need a room for 150 persons.
+- We will be at least 150 people. We need one room for everyone.
+- i would like to have a room for 150 people
+- can you tell me wheather you have a room where 130 people can stand in
+- The room should have a capacity of at least 150 people
+- Room for 150 persons
+- Do 150 people fit into that event room
+- I'm looking for a hall with capacity for at least 150 guests.
+- What is the capacity of the room "Alpha"?
+- My team and I searching for a big rom for an event. We expect around 150 people
+- Do you have rooms for large amounts of people?
+- The room needs to be big enough for 150 people.
+- The capacity needed for the room is 150.
+- How much space is in Alpha?
+- At least 150 people will attend the event. We would like to book one room.
+- Can you hold more than 150 people?
+- The size is very big.
+- Do you have a room that fits for 150 people
+- A hall to host a event for 150 people is what I'm looking for.
+- are there rooms for 150 persons?
+- The room needs capacity for 150 people.
+- Is there enough space for 150 persons?
+- At least 150 people will be present at the event. One room should have enough space for all attendees.
+- Do you have anything larger than 150 people?
+- Is there one room for 150 persons?
+- Can we fit 150 persons in there?
+- The room needs to be large enough for at least 150 people.
+- What is the size of the room beta?
+- Are the rooms gamma and alpha for two persons?
+- In which room can I found place for 30 Peoples?
+- I saw the room Alpha on your website. Is this room suitable for 150 persons?
+- Does the room gamme has enough space for 100 people?
+- Are the other two big enough
+- Is it possible to use the room with a smaller number of people
+- How many people get into Alpha?
+- It is big enough for 150 people.
+- Is it poasible to fit 40 people in the room Aplpha?
+- I mean the room with the biggest space.
+- which room would you suggest for 20 people?
+- How many people could you host ?
+- What size are the rooms?
+- Room for 20 peoples
+- How much people can take place in the room Alpha?
+- how many people fit in
+- How many people can sit in those rooms?
+- How many people fit in the room Alpha
+- Are all the rooms big enough?
+- Great, what size are the other rooms?
+- How large is the room?
+
+## intent:ask_for_room_price
+- can you tell me how much this room would cost?
+- How much does the rooms cost?
+- How much costs each room?
+- Does one of the rooms cost less than 1500 fr?
+- How much does a room cost?
+- Can you offert me a room for less than 1500 francs Swiss
+- We need a room that costs less than 1500 CHF.
+- My budget is 1500 fr. Which room can you recommend me for that price?
+- What room category is below 1500 francs?
+- how much is the charge for the room "beta"? my budget is up to 1500 CHF
+- How much is the price
+- Can you tell me something about the price of these rooms? I can pay 1500 CHF maximal.
+- How much would each room cost?
+- Show me a room for less than 1500 francs.
+- Which rooms are priced under 1500?
+- Do you have an offering below 1500?
+- Which rooms are under 1050?
+- Room costs below 1,500 would raise our interest
+- Are there rooms that cost more than 1500 CHF?
+- Which room would you recommend that doesn't exceed 1500 Swiss Franks?
+- Which rooms are available for at most 1500?
+- How much do the rooms cost?
+- how much does a hotel room cost
+- I am looking for a room which does not cost more than 1500.
+- do you offer any room for 1500 swiss francs?
+- How much do the rooms cost?
+- How expensive are these rooms? My budget is 1500 CHF.
+- How expensive are the rooms?
+- How much does it cost to book one of these rooms?
+- How much does a room cost?
+- How much does one room cost?
+- I would like to now how high the price is for the room
+- How much do the rooms cost? How much is the rent for one room? What would the rent be for one room? How much would we have to pay for one room?
+- What is the price?
+- How much does it cost?
+- How much do the conference rooms cost?
+- how much is the rent?
+- How much costs one room?
+- How much does the rooms costs?
+- How much do they cost
+- How much do the hotel rooms cost?
+- how mutch do the rooms cost
+- how much does the rooms cost
+- How much cost the room?
+- What are the prices per room?
+- can you send me an offert for the three rooms
+- What are the prices for your rooms?
+- How much cost a room?
+- What are the prices of the rooms?
+- What is the average price for a room in the One King Hotel?
+- The rooms should not be to expensive for me.
+- Can you tell me the prize of the rooms?
+- How much are they? It don't have to be cheap but also not too expensive.
+- How is the pricing per hour of the rooms?
+- How much does a room cost for an event next month?
+- How much is the rent?
+- Huch much do the room cost?
+- How is the price?
+- What are the costs for the rooms?
+- How much are the rooms?
+- How much do the rooms cost?
+- How much does a room cost?
+- How much
+- What does the room ALPHA cost?
+- What are the room prices?
+- What would each of the rooms cost?
+- How many does thes tooms costs?
+- can you tell me how much alpha would cost for 1 eveing?
+- How much does room alpha cost?
+- How much is the room Alpha
+- How much does an Alpha room cost?
+- How much is the room Alpha?
+- How much does room Alpha cost?
+- How much cost the room Alpha
+- What is the renting cost for room Alpha? How much would it be to rent room Alpha?
+- How much does Alpha cost?
+- how much is alpha?
+- whats the prise for renting gamma
+- How much das the Alpha room cost
+- What is my cheapest option?
+- how much is the rent for the room alpha
+- What does the room alpha cost?
+- i would like to know about the costs of the room alpha
+- I'd like to know how much the room beta costs
+- How high is the price of the room alpha
+- What does the room Alpha cost?
+- What is the price for the room alpha?
+- How much costs de room Alpha.
+- How much did the room alpha costs?
+- How much does room Alpha costs for half a day?
+- How much would room Alpha cost?
+- Please send me an oder for room alpha
+- I‘m really interested in the room Beta and i would like to know houch much it costs.
+- How much does the Alpha room cost?
+- What price would we have to pay for room Beta?
+- How much would room Alpha cost?
+- How much does the room Alpha cost?
+- How much do I have to pay for the beta room?
+- What does room Beta cost for a day?
+- What is the price for Alpha?
+- can you tell em how much the other 2 would cost?
+- How much do the other two cost?
+- How much are the other two rooms?
+- How much are the rooms Beta and Gamma?
+- How much do Beta and Gamma cost?
+- How much are the other two rooms?
+- How much would Beta and Gamma cost? What is the renting price for Beta and Gamma?
+- How much do Beta and Gamma cost?
+- how much is beta and gamma?
+- whats the pris of the other two rooms
+- What are the costs of the other rooms
+- and what is about the other two?
+- What does the room beta or gamma cost?
+- What are the prices for the other rooms, alpha and gamma
+- How much would be the price of the other two rooms
+- How much are the rooms Beta and Gamma?
+- What is the price for the room Beta and Gamma?
+- How much costs the rooms Beta and Gamma?
+- I would like to know the prize to rent room beta or room gamma.
+- How expensive are the rooms Beta and Gamma for a whole day?
+- How expensive are the rooms Beta and Gamma?
+- Smarts the cost for room bets, gamma?
+- Despite of the room Beta I would know the price for the other two rooms.
+- How are the prices for the Beta and Gamma room?
+- How much are rooms Beta and Gamma?
+- How much do the rooms Beta and Gamma cost?
+- What are the prices for the rooms Alpha and Gamma?
+- What would both Beta and Gamma cost?
+- Please provide me with a quotation for the rooms Alpha, Beta and Gamma
+- How much would it be ?
+- Can you tell me the cost for a room reservation?
+- How much does a room cost?
+- How much are the rooms?
+- How much does it cost?
+- How many cost the rooms?
+- What are the costs for each room?
+- How much did the rooms cost?
+- Can you give me the prices for each room?
+- What is the cost of any of the rooms?
+- How much does one room costs?
+- Could you hand out the information about the prices of your rooms?
+- How much does a room cost per day?
+- How much does each room cost?
+- How much would be a room for a networking kongress
+- Which cost this rooms
+- How much are your rooms?
+- how much does a room cost?
+- How much do the room costs?
+- How much do the rooms cost?
+- How much does the room costs?
+- How is in general the price here for buying a room for a day?
+- How much are each of the rooms?
+- Please send me all the information about the costs of the rooms
+- How much are the daily rates for your event rooms?
+- Do you have a price list available of the different rooms?
+- how much
+- How much do the rooms cost?
+- I would like to know the costs associated to this event.
+- How much do the rooms cost?
+- How much do these conference room cost?
+- What are the rental prices for your rooms?
+- How much is each room?
+- How much are they?
+- Can I have some details about the price of all rooms?
+- How much it costs when I booked the biggest room for one week?
+- How much does it costs to rent a room?
+- How much do the rooms cost?
+- How much does every room on it's own cost?
+- How much is the rent for such a room per day?
+- How much does the reservation cost?
+- what is the price range of the offerd rooms
+- How expensive are the rooms per day?
+- What are the prices for the event rooms at One King Hotel Toronto Canada?
+- What's the price range of this flophouse?
+- How much do the meeting rooms cost per day?
+- What‘s the price of room Gamma?
+- What are the prices for the alpha room ?
+- How much does the room Alpha cost?
+- I heard that the room Alpha has the most suitable capacity for us. What would that room cost?
+- How much does the room alpha cost?
+- What's the price of room Alpha?
+- How much cost Alpha?
+- How many cost the room Beta?
+- How much does the room Beta cost?
+- How much did the room Alpha cost?
+- How much does Gamma cost?
+- How much does Alpha cost per night?
+- How much costs the room Alpha?
+- How much will the usage of the room Alpha cost?
+- How much does the room Alpha cost per day?
+- How much does the room Alpha costs?
+- What would I need to pay for room Alpha?
+- How is the price from the Beta room
+- Which cost the room alpha
+- How much does room Alpha cost?
+- how much does the room Alpha cost?
+- I would prefer the Alpha room. How much did this cost?
+- How much does Alpha cost?
+- How much is the Alpha room?
+- Please send me the information about the price of the room Alpha
+- How much is the daily rate for your room Alpha?
+- What's the price on room gamma?
+- how much alpha
+- What's the price for room Alpha?
+- How much would it cost for room Alpha to have a meeting of 8 hours on date 22nd April 2019?
+- What is the room price for Alpha?
+- How much does the conference room alpha cost ?
+- How much would the room Alpha cost me?
+- How much is room Alpha?
+- What does the room Alpha cost?
+- How much is alpha for one night?
+- Price of the rooms?
+- How much they costs when I booked the gamma room with the sea view?
+- How much does the room gamma costs
+- How much does the room Alpha cost?
+- How much does the room Alpha cost?
+- How much is the rent for room Alpha?
+- How much does room Alpha cost?
+- how much is room alpha
+- How expensive is the room alpha for a day?
+- What is the price of room Alpha in One King Hotel Toronto Canada?
+- What does it cost to stay in Beta for 1 night?
+- How much does meeting room Alpha cost per day?
+- How expensive is room Alpha?
+- Which of the rooms Beta and Gamma is the priciest ?
+- I am interested in the rooms Beta and Gamma, please send me the prices.
+- Is there another price, if we decide to take the room Beta or Gamma?
+- How much does the room Beta and Gamma cost?
+- which of the two is cheaper, Beta or Gamma?
+- How much cost Beta and Gamma?
+- Are the other two rooms cheaper?
+- How much do the rooms Alpha and Gamma cost?
+- How much did the other rooms cost?
+- How much cost Alpha and Beta?
+- How much do you charge for Beta and Gamma, respectively?
+- What are the prices for Beta and Gamma?
+- Could you give me a brief overview of the prices of the rooms Beta and Gamma?
+- How much does the room beta and gamma cost?
+- How much does the other two rooms cost?
+- And how are the prices from the Alpha and Gamma room
+- Which cost the room beta and gamma
+- How much do rooms Beta or Gamma cost?
+- how much do the other rooms cost?
+- Can you tell me how much the other two rooms costs?
+- How much does beta and gamma cost?
+- How much are the rooms Beta and Gamma?
+- Please send me the information about the prices of the rooms Beta and Gamma
+- How much is the daily rate for your rooms Beta or Gamma?
+- How much are room alpha and beta?
+- how much beta and gamma
+- Do rooms Beta and Gamma cost the same?
+- How much would it cost for room Beta and Gamma to have a meeting of 8 hours on date 21st of February?
+- How much does the conference room alpha or Beta cost ?
+- What about the other two, how much are they?
+- How much they  costs when I booked alpha or beta with a all inclusive ?
+- How much does the room Beta and Gamma on it's own cost?
+- How much is the rent for the other two rooms?
+- How much does room Beta and Gamma cost?
+- How expensive are the rooms beta and gamma for a day?
+- What are the prices of rooms that are not Alpha in One King Hotel Toronto Canada?
+- How much does Bravo and Gamma cost compred to Alpha?
+- How much do the meeting rooms Beta and Gamma cost per day?
+- What about the costs of room Beta?
+- What would be the costs for the offered rooms?
+- how much would that be
+- Which room is the cheapest one?
+- What are the conditions?
+- What are the prices for the rooms?
+- how are the costs for the rooms?
+- How much do these rooms cost?
+- How much does the rooms costs?
+- how much does one room cost
+- How much does it cost?
+- How much do the rooms cost for rent?
+- What do these rooms cost?
+- whats the rate
+- How much do the rooms cost for rent for 1 day?
+- can i have the cheapest room?
+- can i have the most expensive room?
+- How much does a booking cost?
+- could send me an offer for the room beta?
+- Costs Alpha, Beta, Gamma
+- How much does the room Beta cost?
+- How much does the room Alpha cost?
+- How much does the room Gamma cost?
+- Which is the cheepest one?
+- Can you make me an offer for Alpha?
+- How much would the room cost ?
+- what is the price?
+- I'd like to know how much it would cost to book Alpha for one day.
+- How expensive is it to book Alpha for 1 day?
+- How much would it be to rent Alpha?
+- How much would it cost to rent Alpha for one day?
+- How much does the room costs?
+- How much will it cost?
+- Wich room has the lowest price?
+- Could you please provide me with the corresponding price for each room?
+- Is any of the rooms available for under 1500 swiss francs?
+- The room should not exceed 1500 swiss francs.
+- How much does a reservation cost?
+- how much is the Alpha Room? Our ceiling is 1'500.00 CHF. Is that all right? Or do you have other options?
+- How much costs the alpha room ?
+- Is there a room that costs less than 1'500 .-?
+- What are the costs for each room for the reservation period?
+- Which of the rooms is within our budget of CHF 1500?
+- Which room doesn't cost more than 1'500 CHF?
+- What are the prices for each of the rooms?
+- How much do the rooms cost per night?
+- How much do they cost, because I can't spend more than 1500.-?
+- what are the costs of alpha
+- What room do you have for 1'500 sFr?
+- How much they costs when I booked one of them for 2 weeks ?
+- the room can't cost more than 1500.-
+- Which room would you recommend for a budget of 1'500 CHF?
+- Can you offer me a room for less than 1500 swiss francs?
+- Are the rooms Alpha,Beta or Gamma less than 1500 francs ?
+- what do the rooms cost
+- What are the applicable costs for the rooms?
+- Which rooms do cost less than CHF 1500?
+- Are there differences in the prices for the rooms?
+- Are these conference rooms less than 1500 francs per event ?
+- which room's cost liese nearest to 1500.-
+- How much is each room?
+- How much do you charge for each of the rooms?
+- Which one of these rooms cost less than 1500 francs?
+- Sadly, we're a bit tight on budget, and can only consider rooms below or at 1500 CHF (2000 CAD). Will this be a problem?
+- How much are the rooms? I just have 1500 CHF to spend
+- can you tell me the costs for each room?
+- Does Alpha, Beta or Gamma cost more than 1'500 CHF?
+- What is the price for Alpha, Beta and Gamma?
+- Do you have any special offers for a good price?
+- How expensive is the alpha room?
+- Which room is cheaper?
+- How much cost the room?
+- is room beta cheaper as room gamma?
+- what's the price of room Gamma?
+
+## intent:ask_for_room_catering
+- does the price includes also a catering service?
+- can you do a special discount for all inclusive with room and catering for 1500?
+- Can we also drink and eat in this rooms?
+- Which of these rooms has the possibility to have a apero?
+- Is there a mini bar in room beta
+- Is there water to drink in the room Alpha?
+- Is there any room services?
+
+## intent:disagree
+- I don‘t want the room which is called gamma.
+- The other rooms are a bit to small for us.
+
+## intent:greet+ask_for_options
+- Hi there, my name is X  and I'm from company Y, I would like to book the room 'Alpha' for a networking event
+- I've informed me about the three rooms alpha, beta and gamma. I'd like to book a room.
+- Hello, I'd like to reserve a room. What do you have to offer?
+- Hello. I am looking for a seminar room, which is nice but not too luxury. What offers do you have?
+- Dear Sir or Madam, I am planning an Networking-Event in Toronto and would like to ask if you have got a suitable room for this kind of event.
+- Hi I'm organising a conference and would like to book room Alpha for the event. Is it free on March 22?
+- Hi. I need some information about the hotel rooms.
+- Hello, I need to rent a networking room in Toronto
+- Hi bot, im looking for a room in the "one King" hotel can you help me?
+- Hello, I would like to make a reservation. What can you offer me?
+- Hi, I was wondering if you have a room suitable for an event available?
+- Hello, I am looking for a room
+- Hi, I'd like to book a room.
+- Hi im a marketing assistent and i want to know which room fits the best for my event
+- Hi, I would like to know more about rooms.
+- Hi, I would like to reservate a room in your Hotel.
+- Good afternoon chatbot, i want to book a room for a meeting with the perfect equiptment for that. Can you help me to find the right one?
+- Hello. Im from the company XY. My collegues organise a Networking-Event next month in Toronto. My mission is it, to find a room for this event. Can you help me?
+- Hello, This is Burak Baranoglu of the ABC AG, I would like to rent a room for a business meeting.
+- Hello. For a nice event I‘m looking for a room.
+- Hi Bot, I have a few questions regarding the event rooms in the One King Hotel
+- Hello. I have a question. I would like to book a hotel in Toronto. Can you help me? We’re 150 person but we don’t have a big budget.
+- Hello, I'm looking to book a conference room. Do you have anything available next month?
+- Hello. I am looking for a room.
+- Good morning, i would like to book a room for an networking event
+- Hello. We are looking for conference room for our networking event.
+- Hello, I would like to book a meeting room?
+- Hey I'm looking for a conference room in your Hotel
+- Hello, I'd like to reserve a room
+- Hello, Do you have some rooms left for out meeting?
+- Hello, my company would like to book a room for an networking-event
+- Hi, we are organizing an networking event and need a conference room.
+- Hi I’d like to know more about your rooms
+- Hello, What meeting rooms do you offer?
+- Good morning. I am looking for a room for a networking-event.
+- Hi. Can you give me more information about your rooms?
+- Hello I need a room for an event
+- Howdy, I like to get a Event room.
+- Hello. I need a nice locations for an event.
+- Hi, do you have any meeting rooms available?
+- Hey, can I book a conference room?
+- Good Morning, I would like ro rent a room in your Hotel
+- Hello. I'm looking for a room.
+- Good morning, can you please tell me which of the following rooms are available: Alpha, Beta, Gamma?
+- Hello, I am planning a Networking-Event and we need a room.
+- Good day, I am looking for a suitable location for my networking event next month. Please send me your offers
+- Hello can I ask you something?
+- Hi i‘m interested in a room
+- Hi, I'd like to book a room in the One King Hotel in Toronto
+- Hello, We’re looking for a place to hold a network event next month in Toronto Is there a room in your hotel, where we could hold this event?
+- Hi, I'm planning an event and I'm looking for a room
+- Do you have a room in One King hotel in toronto?
+- Hello, I would like to book a room in your hotel.
+- Hello Chatbot. I would like to get some information about your hotel.
+- Hello, I am searching for a room in your hotel.
+- hello chatbot, i need your help for chosing the right room
+- Hello, I am looking to book a location for an upcoming convention my company is hosting.
+- Hi i am searching for a room for our event.
+- Hi I'm searching for a room
+- Hello, i would like to book a room.
+- I am looking for a room for an event that I would like to hold at your hotel. How can you help me?
+- Hi there, I would like to book a convention room for a networking event next month.
+- Hello, what kind of rooms your hotel have ?
+- Hi there. I would like to ask you some questions about your event locations in the hotel.
+- Good day ladie or gentleman. I searche a room for firm intern event.
+- Hi. I would like to book a room for a networking event
+- Hello I hava some questions I'd like to ask
+- Hello, what kind of rooms do you have in your Hotel?
+- Dear sir or madam i would like to reserve a room
+- Hello, I am searching for a room for my event in your hotel.
+- Hi chatbot. Let me know if there are any vacancies in the One King Hotel in Toronto on the 15th of march.
+- Hello, do you have any suitable conference rooms for a company convention?
+- Hi, i am searching a room for a meeting.
+- Good morning, I’d like to booked a room for 2 weeks. Which one do you offer me ?
+- Hello. I'd like to book a space for a networking event next month. Do you have any suitable rooms available?
+- Hello, my company is looking for a location to host a convention.
+- Hello, we would like to do a meeting in your hotel. Are there any rooms available ?
+- Hello. Do you have adequate rooms for corporate events?
+- Hello. I'd like to organize a networking event in your hotel. Can you help me?
+- Dear Sir or Madam. I would like to book a room for next month.
+- Hi, we planning a Networking-Event in your Hotel and I want to know, what kind of rooms do you have and how many people fit?
+
+## intent:greet+ask_for_room_size
+- Hello Mr. Chatbot i'm searching for a rom wheres enough place for around 150 people
+- Hi I organize an event for my marketing team and would like to know if you have a room available for 150 people.
+- Hi I’m organizing an event for 150 people. Do you have a conference room?
+- Hi, I'd like to reserve a room for an event that has at least the capacity for 150 people.
+- Hello, I need to find a room for one person at the One King Hotel in Toronto.
+- Hello, I'd like to book an eventroom for about 200 people next month. Do you have anything available like that?
+- Hi, I'm looking for an event-room for 150 people or more for the next month
+- Hi, I'd like to book a room for 150 people.
+- Hi do you have any free room for 150 persons
+- Dear Chatbot, is there a room free for at least 150 people.
+- I would like to book a room for a event next Monday in your hotel. Do you have a room availabel for 200 people?
+- Id like to rent a room in your hotel for a marketing event. Do you have enough space for around 50 peoples?
+- Hi do you have a room for 150 people available?
+
+## intent:greet+provide_name
+- Hello, my name is Jusuf
+- Hi my name is John Smith.
+- Hello Chatbot. My name is Samuel. How are you?
+- Hi, I am Bla from company CGD, we would like to host a networking event in your halls next month. Could you give me any information about your available locations and rooms?
+- Hello, my name is Bruno
+
+## intent:greet+ask_for_room_price
+- Hi, our budget for the room is maximum 1500 swiss francs. is there the possibility of a maximum expense?
+- Hi, we are looking for meeting room for an event which takes place on march 1 19, could you please let me know how much a meeting room would cost?
+- Hi, we are looking for a meeting froom for march 1 2019, could you please let me know how much the room Alpha would be?
+- Hi, we are looking for a meeting froom for march 1 2019, could you please let me know how much the room Alpha and Beta would be?
