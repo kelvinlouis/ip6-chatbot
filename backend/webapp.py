@@ -92,6 +92,7 @@ class WebappInput(InputChannel):
                    credentials.get("nlu_port", 5000),
                    credentials.get("nlu_project", "default"),
                    credentials.get("nlu_model", "test"),
+                   credentials.get("languagetool_enabled", False),
                    credentials.get("languagetool_url", "localhost"),
                    credentials.get("languagetool_port", 8080),
                    credentials.get("mongodb_url", "localhost"),
@@ -108,6 +109,7 @@ class WebappInput(InputChannel):
                  nlu_port: int = 5000,
                  nlu_project: Text = "default",
                  nlu_model: Text = "test",
+                 languagetool_enabled: bool = False,
                  languagetool_url: Text = "localhost",
                  languagetool_port: int = 8080,
                  mongodb_url: Text = "localhost",
@@ -123,7 +125,9 @@ class WebappInput(InputChannel):
         self.conversation_logger_manager = ConversationLoggerManager(
             mongodb_url, mongodb_username, mongodb_password, 
             mongodb_database, logger_enabled)
-        self.languagetool_api = LanguageToolApi(languagetool_url, languagetool_port)
+        self.languagetool_enabled = languagetool_enabled
+        if languagetool_enabled:
+            self.languagetool_api = LanguageToolApi(languagetool_url, languagetool_port)
         self.nlu_api = NluApi(nlu_url, nlu_port, nlu_project, nlu_model)
 
     def blueprint(self, on_new_message):
@@ -167,20 +171,21 @@ class WebappInput(InputChannel):
             language_errors = []
             lt_response = None
 
-            try:
-                # Extract entities from the message
-                nlu_response = self.nlu_api.parse(user_text)
-                nlu_entities = nlu_response["entities"]
+            if self.languagetool_enabled:
+                try:
+                    # Extract entities from the message
+                    nlu_response = self.nlu_api.parse(user_text)
+                    nlu_entities = nlu_response["entities"]
 
-                # Check if text contains error
-                lt_response = self.languagetool_api.check(user_text)
+                    # Check if text contains error
+                    lt_response = self.languagetool_api.check(user_text)
 
-                # Ignore hesitation errors and errors that are entities
-                lt_response.ignore_hesitation_errors()
-                lt_response.ignore_entity_errors(nlu_entities, ["name"])
-                language_errors = lt_response.errors_to_dict()
-            except (TypeError, ValueError):
-                logger.debug("Error occurred using LanguageTool")
+                    # Ignore hesitation errors and errors that are entities
+                    lt_response.ignore_hesitation_errors()
+                    lt_response.ignore_entity_errors(nlu_entities, ["name"])
+                    language_errors = lt_response.errors_to_dict()
+                except (TypeError, ValueError):
+                    logger.debug("Error occurred using LanguageTool")
 
             output_channel = WebappOutput(
                 sio, self.bot_message_evt, conversation_logger, language_errors)

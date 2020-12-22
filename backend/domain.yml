@@ -300,9 +300,9 @@ templates:
   - text: Please could you give me an idea of the budget you have available?
   utter_goodbye:
   - text: Thank you for your reservation and have a nice day.
-  - text: Thank you very much. Goodbye, {name}.
+  - text: Thank you very much. Goodbye.
   - text: We are looking forward to welcoming you at One King Hotel. Goodbye.
-  - text: We look forward to welcoming you at One King Hotel. Goodbye, {name}.
+  - text: We look forward to welcoming you at One King Hotel. Goodbye.
   - text: Thank you for choosing One King Hotel. I wish you a very nice day. Goodbye.
   - text: I wish you a very nice day. Goodbye and thank you for choosing One King Hotel.
   - text: Thank you very much for your reservation. Have a nice day. 
@@ -442,7 +442,7 @@ templates:
   - text: Thank you very much for choosing One King Hotel.
   - text: Thank you so much.
   utter_thanks_with_name:
-  - text: Thank you, {name}!
+  - text: Thank you!
   utter_directions_with_start_location:
   - text: I would recommend you travel by subway from the {start_location} to our hotel.
   - text: I suggest that you travel by train from the {start_location}. It is only a 5 minute walk from the station to our hotel.
